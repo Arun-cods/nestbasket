@@ -2,7 +2,7 @@
 // Manages User Accounts, Persistent Cloud Baskets, Price Drop Watchlists,
 // and DPDP 2023 Data Portability with Seamless Local & Cloud Sync.
 
-import { CartItem, Product, PlatformId, UserProfile } from '../types/index';
+import { CartItem, Product, PlatformId, UserProfile } from '../types';
 
 export interface WatchlistItem {
   id: string;

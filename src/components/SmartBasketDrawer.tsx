@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
-import { X, Trash2, Plus, Minus, ArrowRight, Sparkles, CheckCircle2, ShoppingBag, ShieldCheck, Zap, ExternalLink, Cloud, RefreshCw } from 'lucide-react';
+import { X, Trash2, Plus, Minus, ArrowRight, Sparkles, CheckCircle2, ShoppingBag, ShieldCheck, Zap, ExternalLink, Cloud, RefreshCw, Share2, Copy, Check } from 'lucide-react';
 import { CartItem, PlatformId } from '../types';
 import { PLATFORMS } from '../data/mockGroceryData';
 import { getDirectStoreBuyUrl } from '../utils/storeLinks';
+import { openPlatformCartCheckout, buildAffiliateUrl, generateWhatsAppOrderSummary } from '../services/affiliateService';
 
 interface SmartBasketDrawerProps {
   isOpen: boolean;
@@ -115,6 +116,18 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
   const highestSingleGrandTotal = Math.max(...platforms.map((p) => singleStoreTotals[p].grandTotal));
 
   const totalArbitrageSavings = highestSingleGrandTotal - splitGrandTotal;
+
+  const [copyFeedback, setCopyFeedback] = useState<string | null>(null);
+
+  const handleCopyWhatsAppList = () => {
+    const grandTotal = strategy === 'split-arbitrage' ? splitGrandTotal : singleStoreGrandTotal;
+    const totalSaved = totalArbitrageSavings;
+    const cheapestName = strategy === 'split-arbitrage' ? 'Split Across 2 Stores' : PLATFORMS[bestSingleStore].name;
+    const summaryText = generateWhatsAppOrderSummary(items, cheapestName, totalSaved, grandTotal);
+    navigator.clipboard.writeText(summaryText);
+    setCopyFeedback('✓ Copied grocery list with store links to clipboard!');
+    setTimeout(() => setCopyFeedback(null), 3000);
+  };
 
   return (
     <div className="fixed inset-0 z-50 overflow-hidden">
@@ -312,15 +325,14 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
                             {bucket.items.map((it) => it.product.name.split(' ')[0]).join(', ')} ({bucket.items.length} items)
                           </div>
 
-                          <a
-                            href={bucket.items[0]?.product.offers[pId as PlatformId]?.affiliateUrl || getDirectStoreBuyUrl(pId as PlatformId, bucket.items[0]?.product.name || '')}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="w-full py-1.5 px-3 rounded-lg bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs flex items-center justify-center gap-1 transition-colors shadow-xs"
+                          <button
+                            type="button"
+                            onClick={() => openPlatformCartCheckout(pId as PlatformId, bucket.items)}
+                            className="w-full py-1.5 px-3 rounded-lg bg-slate-900 hover:bg-slate-800 active:scale-95 text-white font-bold text-xs flex items-center justify-center gap-1.5 transition-all shadow-xs cursor-pointer"
                           >
-                            <span>Open {platform.name} Order</span>
+                            <span>1-Tap Order ({bucket.items.length} items on {platform.name})</span>
                             <ExternalLink className="w-3 h-3 text-slate-400" />
-                          </a>
+                          </button>
                         </div>
                       );
                     })}
@@ -361,23 +373,44 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
                 </div>
               </div>
 
-              {/* Direct Buy Checkout CTA */}
-              <a
-                href={
-                  strategy === 'split-arbitrage'
-                    ? (items[0]?.product.offers[(Object.keys(splitStoreBuckets)[0] || 'zepto') as PlatformId]?.affiliateUrl || getDirectStoreBuyUrl((Object.keys(splitStoreBuckets)[0] || 'zepto') as PlatformId, items[0]?.product.name || ''))
-                    : (items[0]?.product.offers[bestSingleStore]?.affiliateUrl || getDirectStoreBuyUrl(bestSingleStore, items[0]?.product.name || ''))
-                }
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full py-3 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-extrabold text-xs sm:text-sm flex items-center justify-center gap-2 transition-all shadow-md shadow-emerald-600/20"
-              >
-                <span>Proceed to Buy on {strategy === 'split-arbitrage' ? 'Best Stores' : PLATFORMS[bestSingleStore].name}</span>
-                <ExternalLink className="w-4 h-4" />
-              </a>
+              {/* Action Buttons: WhatsApp List & 1-Tap Checkout */}
+              <div className="space-y-2">
+                <button
+                  type="button"
+                  onClick={() => {
+                    const targetPlatform = strategy === 'split-arbitrage'
+                      ? ((Object.keys(splitStoreBuckets)[0] || 'zepto') as PlatformId)
+                      : bestSingleStore;
+                    openPlatformCartCheckout(targetPlatform, items);
+                  }}
+                  className="w-full py-3 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 active:scale-95 text-white font-extrabold text-xs sm:text-sm flex items-center justify-center gap-2 transition-all shadow-md shadow-emerald-600/25 cursor-pointer"
+                >
+                  <span>🚀 1-Tap Checkout on {strategy === 'split-arbitrage' ? 'Cheapest Stores' : PLATFORMS[bestSingleStore].name}</span>
+                  <ExternalLink className="w-4 h-4" />
+                </button>
 
-              <div className="text-[11px] text-center text-slate-400 font-medium">
-                Affiliate tracking verified • Zero markup charged
+                <button
+                  type="button"
+                  onClick={handleCopyWhatsAppList}
+                  className="w-full py-2 px-3 rounded-xl bg-white hover:bg-slate-100 border border-slate-300 text-slate-700 font-bold text-xs flex items-center justify-center gap-1.5 transition-all cursor-pointer shadow-2xs"
+                >
+                  {copyFeedback ? (
+                    <>
+                      <Check className="w-3.5 h-3.5 text-emerald-600" />
+                      <span className="text-emerald-700 font-extrabold">{copyFeedback}</span>
+                    </>
+                  ) : (
+                    <>
+                      <Share2 className="w-3.5 h-3.5 text-slate-500" />
+                      <span>Copy WhatsApp Grocery List with Links</span>
+                    </>
+                  )}
+                </button>
+              </div>
+
+              <div className="text-[10px] text-center text-slate-400 font-medium flex items-center justify-center gap-1">
+                <ShieldCheck className="w-3 h-3 text-emerald-600" />
+                <span>Verified Direct Affiliate Links • Zero Price Markup Guaranteed</span>
               </div>
             </div>
           )}

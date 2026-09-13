@@ -21,6 +21,7 @@ import { LocationAvailabilityModal } from './components/LocationAvailabilityModa
 import { MobileInstallBanner } from './components/MobileInstallBanner';
 import { LiveDarkstoreInspectorModal } from './components/LiveDarkstoreInspectorModal';
 import { PriceDropWatchlistModal } from './components/PriceDropWatchlistModal';
+import { trackAffiliateClick } from './services/affiliateService';
 import { 
   getWatchlist, 
   addToWatchlist, 
@@ -372,11 +373,19 @@ export const App: React.FC = () => {
     }
   };
 
-  const handleTrackAffiliateClick = (_platform: PlatformId, _product: Product) => {
+  const handleTrackAffiliateClick = (platform: PlatformId, product: Product) => {
+    const clickEvent = trackAffiliateClick(
+      platform,
+      product.name,
+      product.price || 60,
+      'grid_card',
+      currentUser?.id
+    );
+
     setFounderStats((prev) => ({
       ...prev,
       affiliateClicksToday: prev.affiliateClicksToday + 1,
-      estimatedAffiliateRevenue: prev.estimatedAffiliateRevenue + 28,
+      estimatedAffiliateRevenue: Math.round(prev.estimatedAffiliateRevenue + clickEvent.estimatedCommissionRupees),
     }));
   };
 
