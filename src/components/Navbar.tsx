@@ -26,16 +26,16 @@ interface NavbarProps {
 }
 
 const ROTATING_SEARCH_ITEMS = [
-  'rice',
-  'egg',
-  'bread',
-  'sugar',
+  'butter',
   'paneer',
   'chocolate',
-  'butter',
-  'milk',
-  'chips',
   'curd',
+  'rice',
+  'egg',
+  'chips',
+  'milk',
+  'sugar',
+  'bread',
 ];
 
 export const Navbar: React.FC<NavbarProps> = ({
@@ -110,8 +110,8 @@ export const Navbar: React.FC<NavbarProps> = ({
             title="7-1-211/18, near sixsigma, beside Image Hospitals Lane, ShivBagh, Balkampet, Hyderabad, Telangana 500016, India"
           >
             <div className="font-extrabold text-[11px] sm:text-[14px] text-slate-900 leading-tight flex items-center gap-1">
-              <span className="sm:hidden text-emerald-600">⚡ 19m</span>
-              <span className="hidden sm:inline">Delivery in 19 minutes</span>
+              <span className="sm:hidden text-emerald-600">⚡ 26m</span>
+              <span className="hidden sm:inline">Delivery in 26 minutes</span>
             </div>
             <div className="text-[10px] sm:text-xs text-slate-600 font-medium truncate flex items-center gap-0.5 mt-0.5">
               <span className="truncate">{selectedArea ? selectedArea.split(',')[0] : '7-1-211/18, ShivBagh'}</span>

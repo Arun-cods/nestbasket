@@ -7,12 +7,15 @@ import { LIVE_BEVERAGES_DATA } from './liveBeveragesCatalog';
 import { LIVE_SNACKS_DATA } from './liveSnacksCatalog';
 import { LIVE_INSTANT_DATA } from './liveInstantCatalog';
 import { LIVE_BAKERY_DATA } from './liveBakeryCatalog';
+import { LIVE_STAPLES_DATA } from './liveStaplesCatalog';
+import { LIVE_SAUCES_DATA } from './liveSaucesCatalog';
 
 export const MASTER_CATALOG_CATEGORIES = [
   { id: 'all', label: 'All Items', icon: '🛒', totalSkus: '24,580' },
   { id: 'dairy', label: 'Dairy, Bread & Eggs', icon: '🥛', totalSkus: '2,410' },
   { id: 'veggies', label: 'Fresh Vegetables & Fruits', icon: '🍅', totalSkus: '3,890' },
   { id: 'staples', label: 'Atta, Rice, Dal & Ghee', icon: '🌾', totalSkus: '4,150' },
+  { id: 'sauces', label: 'Sauces, Spreads & Dips', icon: '🥫', totalSkus: '1,420' },
   { id: 'snacks', label: 'Snacks, Biscuits & Munchies', icon: '🍪', totalSkus: '4,820' },
   { id: 'beverages', label: 'Tea, Coffee & Cold Drinks', icon: '☕', totalSkus: '2,940' },
   { id: 'instant', label: 'Instant Food, Noodles & Sauces', icon: '🍜', totalSkus: '2,110' },
@@ -27,6 +30,8 @@ export const COMPREHENSIVE_GROCERY_DATA: Product[] = [
   ...LIVE_SNACKS_DATA,
   ...LIVE_INSTANT_DATA,
   ...LIVE_BAKERY_DATA,
+  ...LIVE_STAPLES_DATA,
+  ...LIVE_SAUCES_DATA,
   {
     "id": "candy-chupa-chups-sour-belt",
     "name": "Chupa Chups Sour Belt Mixed Fruit Sour Candy",

@@ -9,7 +9,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "1.05 kg",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(455, 510, "Kellogg's Multigrain Chocos More Chocolatey, No-Maida", "1.05 kg"),
   },
   {
@@ -18,7 +18,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "7 pcs",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(64, 70, "Kellogg's Multigrain Chocos Variety Pack", "7 pcs"),
   },
   {
@@ -27,7 +27,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(95, 95, "Kellogg's Chocos Fills Double Chocolaty Cereal", "150 g"),
   },
   {
@@ -36,7 +36,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "168 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(95, 99, "Kellogg's Almonds & Honey Corn Flakes", "168 g"),
   },
   {
@@ -45,7 +45,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "1.15 kg",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(360, 699, "Kellogg's Multigrain Chocos Moons & Stars", "1.15 kg"),
   },
   {
@@ -54,7 +54,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(121, 180, "Parle Hide & Seek Fills", "200 g"),
   },
   {
@@ -63,7 +63,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "385 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(203, 210, "Kellogg's Multigrain Chocos More Chocolatey, No-Maida", "385 g"),
   },
   {
@@ -72,7 +72,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "375 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(210, 210, "Kellogg's Multigrain Chocos Crunchy Bites Kids Cereal", "375 g"),
   },
   {
@@ -81,7 +81,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(220, 220, "Kellogg's Multigrain Chocos Moons & Stars Kids Cereal", "360 g"),
   },
   {
@@ -90,7 +90,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "168 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(74, 140, "Kellogg's Chocos Multigrain Moons & Stars Chocos", "168 g"),
   },
   {
@@ -99,7 +99,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(60, 75, "Nestle Munch Choco Fills Cereal", "100 g"),
   },
   {
@@ -108,7 +108,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(372, 540, "Kellogg's Almonds & Honey Corn Flakes", "1 kg"),
   },
   {
@@ -117,7 +117,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(178, 195, "Kellogg's Double Chocolaty Fills Chocos (Crunchy Outside, Creamy Inside)", "250 g"),
   },
   {
@@ -126,7 +126,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(140, 200, "Nestle Munch Crunchilicious Cereal", "300 g"),
   },
   {
@@ -135,7 +135,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "900 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(375, 375, "Kellogg's Original Corn Flakes", "900 g"),
   },
   {
@@ -144,7 +144,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "1.2 kg",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(228, 550, "Kwality Corn Flakes Original", "1.2 kg"),
   },
   {
@@ -153,7 +153,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "455 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(270, 270, "Kellogg's Special K Original Cereal with Whole Wheat", "455 g"),
   },
   {
@@ -162,7 +162,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(149, 190, "Tata Soulfull Choco Fills Ragi Bites Cereal", "250 g"),
   },
   {
@@ -171,7 +171,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(172, 280, "Kellogg's Multigrain Plus Corn Flakes", "450 g"),
   },
   {
@@ -180,7 +180,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(115, 115, "Kellogg's Original Corn Flakes", "250 g"),
   },
   {
@@ -189,7 +189,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(236, 599, "Kwality Multigrain Choco Flakes - No Maida", "1 kg"),
   },
   {
@@ -198,7 +198,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "375 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 210, "Tata Soulfull Ragi Bites Choco 7 Grains Kids Breakfast Cereal (No Maida)", "375 g"),
   },
   {
@@ -207,7 +207,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(89, 144, "Bagrry's Corn Flakes Plus Original & Healthier (with Fibre Power)", "300 g"),
   },
   {
@@ -216,7 +216,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "800 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(219, 398, "Bagrry's Corn Flakes Plus Original & Healthier (with Fibre Power)", "800 g"),
   },
   {
@@ -225,7 +225,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(210, 280, "Kellogg's Protein Chocos", "360 g"),
   },
   {
@@ -234,7 +234,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(185, 185, "Kellogg's Real Honey Corn Flakes", "300 g"),
   },
   {
@@ -243,7 +243,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(299, 299, "Little Joys Millet Chocos Crunch", "250 g"),
   },
   {
@@ -252,7 +252,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(299, 299, "Slurrp Farm Choco Crunch Breakfast Cereal for Kids", "300 g"),
   },
   {
@@ -261,7 +261,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 125, "Sundrop Choco Fills Multigrain Kids Cereal", "300 g"),
   },
   {
@@ -270,7 +270,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(162, 190, "Tata Soulfull Ragi Bites Vanilla Fills, No Maida, Breakfast Cereal", "250 g"),
   },
   {
@@ -279,7 +279,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "285 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(187, 199, "Kellogg's Froot Loops - Crunchy Multigrain Cereal", "285 g"),
   },
   {
@@ -288,7 +288,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(151, 215, "Nestle Munch Choco Fills Breakfast Cereal", "250 g"),
   },
   {
@@ -297,7 +297,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "440 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(280, 280, "Kellogg's All Bran Wheat Flakes", "440 g"),
   },
   {
@@ -306,7 +306,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "6 x 18 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(49, 49, "Sundrop Multigrain Popz Centre Filled Kids Cereal", "6 x 18 g"),
   },
   {
@@ -315,7 +315,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "475 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(158, 195, "Tata Soulfull Corn Flakes Original (Crunchy Corn and Millets)", "475 g"),
   },
   {
@@ -324,7 +324,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(210, 220, "Organic Tattva Organic Quinoa", "500 g"),
   },
   {
@@ -333,7 +333,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "375 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(146, 275, "Kwality Fruitrings Cereal", "375 g"),
   },
   {
@@ -342,7 +342,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(156, 190, "Tata Soulfull Strawberry Fills Ragi Bites Cereal", "250 g"),
   },
   {
@@ -351,7 +351,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(132, 250, "Kwality Choco Fills Cereal", "250 g"),
   },
   {
@@ -360,7 +360,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(311, 699, "Kwality Almond & Honey Corn Flakes", "1 kg"),
   },
   {
@@ -369,7 +369,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 155, "Yummy Valley Ragi Choco Munch Kids Cereal", "200 g"),
   },
   {
@@ -378,7 +378,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "750 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(324, 480, "Bagrry's Corn Flakes Plus With Almonds & Honey (2x Fibre Power)", "750 g"),
   },
   {
@@ -387,7 +387,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "190 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(130, 149, "Tata Soulfull Ragi Bites Mango Fills Kids Cereal", "190 g"),
   },
   {
@@ -396,7 +396,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "2 x 250 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(759, 798, "Little Joys Millet Chocos Fills - Pack of 2", "2 x 250 g"),
   },
   {
@@ -405,7 +405,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "275 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(95, 95, "Kellogg's Original Corn Flakes", "275 g"),
   },
   {
@@ -414,7 +414,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "114 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(50, 60, "Tata Soulfull Chocos Variety Pack Cereal Combo", "114 g"),
   },
   {
@@ -423,7 +423,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(169, 180, "Kellogg's Strawberry Puree Corn Flakes", "300 g"),
   },
   {
@@ -432,7 +432,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "102 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(48, 60, "Kwality Multigrain Chocos & Cereal Combo Pack", "102 g"),
   },
   {
@@ -441,7 +441,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(73, 95, "Kellogg's Choco Fills Kids Cereal (Caramel Flavour)", "150 g"),
   },
   {
@@ -450,7 +450,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(94, 240, "Kwality Corn Flakes", "500 g"),
   },
   {
@@ -459,7 +459,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(165, 165, "Keventer Aloo Paratha (Frozen)", "5 pcs"),
   },
   {
@@ -468,7 +468,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(80, 80, "iD Whole Wheat Chapati (10 pieces)", "10 pcs"),
   },
   {
@@ -477,7 +477,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "420 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(116, 129, "McCain French Fries", "420 g"),
   },
   {
@@ -486,7 +486,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(209, 307, "McCain French Fries", "1 kg"),
   },
   {
@@ -495,7 +495,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(141, 165, "Keventer Lachha Paratha (Frozen)", "5 pcs"),
   },
   {
@@ -504,7 +504,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "420 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(155, 163, "McCain Chilli Garlic Potato Bite Nuggets", "420 g"),
   },
   {
@@ -513,7 +513,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "415 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(156, 156, "McCain Smiles", "415 g"),
   },
   {
@@ -522,7 +522,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "425 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(90, 90, "Amul Happy Treats French Fries (Frozen)", "425 g"),
   },
   {
@@ -531,7 +531,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 180, "Godrej Yummiez Cheesy Pizza Cheese Sticks", "250 g"),
   },
   {
@@ -540,7 +540,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "1.25 kg",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(198, 220, "Amul Happy Treats French Fries", "1.25 kg"),
   },
   {
@@ -549,7 +549,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(129, 135, "McCain Aloo Tikki", "400 g"),
   },
   {
@@ -558,7 +558,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "4 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(117, 140, "Aashirvaad Aloo Paratha (Heat & Eat)", "4 pcs"),
   },
   {
@@ -567,7 +567,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(171, 180, "Amul Happy Treats Masala Paneer Nuggets", "300 g"),
   },
   {
@@ -576,7 +576,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "240 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 157, "McCain Cheese Pizza Style Mini Samosa", "240 g"),
   },
   {
@@ -585,7 +585,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(123, 143, "iD Aloo Paratha", "400 g"),
   },
   {
@@ -594,7 +594,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "420 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(129, 150, "ITC Master Chef Chilli Garlic Potato Shots Nuggets", "420 g"),
   },
   {
@@ -603,7 +603,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(219, 240, "Godrej Yummiez Corn Cheese Nuggets (Frozen)", "400 g"),
   },
   {
@@ -612,7 +612,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(138, 166, "Aashirvaad Garlic & Coriander Naan (Heat & Eat)", "5 pcs"),
   },
   {
@@ -621,7 +621,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "420 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(180, 180, "McCain Masala French Fries Hot & Spicy", "420 g"),
   },
   {
@@ -630,7 +630,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(85, 135, "SPT Frozen Soya Chaap", "500 g"),
   },
   {
@@ -639,7 +639,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "296 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 195, "Hello Tempayy Protein Bhara Veg Kebab", "296 g"),
   },
   {
@@ -648,7 +648,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "240 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(165, 220, "HyFun Veg Paradise Pizza (Regular Base)", "240 g"),
   },
   {
@@ -657,7 +657,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "320 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 150, "ITC Master Chef Sabudana Tikki", "320 g"),
   },
   {
@@ -666,7 +666,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "325 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(109, 129, "McCain Italian Style Zig Zag French Fries", "325 g"),
   },
   {
@@ -675,7 +675,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 195, "Hello Tempayy Mighty Masala Protein Veg Momos", "10 pcs"),
   },
   {
@@ -684,7 +684,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(162, 170, "McCain Potato Cheese Nuggets Shotz", "250 g"),
   },
   {
@@ -693,7 +693,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(110, 110, "Amul Herb Chilli Veg Burger Patty", "360 g"),
   },
   {
@@ -702,7 +702,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 199, "HyFun Potato Jalapeno Cheese Nuggets (Frozen)", "250 g"),
   },
   {
@@ -711,7 +711,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 195, "Hello Tempayy Peri Peri Protein Veg Momos", "10 pcs"),
   },
   {
@@ -720,7 +720,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "416 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(119, 150, "ITC Master Chef French Fries (Piri-Piri)", "416 g"),
   },
   {
@@ -729,7 +729,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "320 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(149, 185, "ITC Master Chef Triangle Corn & Cheese Nuggets with Cheddar Cheese", "320 g"),
   },
   {
@@ -738,7 +738,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "430 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(131, 145, "ITC Master Chef Veg Burger Patty", "430 g"),
   },
   {
@@ -747,7 +747,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "240 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(157, 157, "McCain Cheese Corn Mini Samosa", "240 g"),
   },
   {
@@ -756,7 +756,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "325 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(109, 129, "McCain Korean Zig Zag French Fries", "325 g"),
   },
   {
@@ -765,7 +765,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "280 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(163, 189, "Mr. Munchies Tandoori Soya Chaap", "280 g"),
   },
   {
@@ -774,7 +774,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(149, 170, "Prasuma Veg and Paneer Momos", "10 pcs"),
   },
   {
@@ -783,7 +783,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "30 sheets",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(89, 89, "Spring Home Samosa Dough Sheets", "30 sheets"),
   },
   {
@@ -792,7 +792,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "4 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(188, 226, "Aashirvaad Paneer Paratha (Heat & Eat)", "4 pcs"),
   },
   {
@@ -801,7 +801,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 99, "Amul Happy Treats Aloo Tikki", "400 g"),
   },
   {
@@ -810,7 +810,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "425 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(119, 125, "Amul Happy Treats Veggie Fingers", "425 g"),
   },
   {
@@ -819,7 +819,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "4 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(203, 225, "Amul Paneer Paratha", "4 pcs"),
   },
   {
@@ -828,7 +828,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "230 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(135, 150, "ITC Master Chef Hara Bhara Veg Kebab", "230 g"),
   },
   {
@@ -837,7 +837,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(161, 175, "Wow! Momo Veg Darjeeling Momos (Frozen)", "10 pcs"),
   },
   {
@@ -846,7 +846,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(175, 175, "McCain Mexican Style Zig Zag French Fries", "400 g"),
   },
   {
@@ -855,7 +855,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "4 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(203, 225, "Amul Happy Treats Cheese Onion Paratha", "4 pcs"),
   },
   {
@@ -864,7 +864,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(166, 180, "Amul Happy Treats Poppon Cheese Nuggets", "300 g"),
   },
   {
@@ -873,7 +873,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "210 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(135, 135, "Amul Margherita Pizza", "210 g"),
   },
   {
@@ -882,7 +882,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "416 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(111, 150, "HyFun Peri Peri French Fries", "416 g"),
   },
   {
@@ -891,7 +891,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(129, 175, "HyFun Veggie Fingers", "400 g"),
   },
   {
@@ -900,7 +900,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(144, 160, "ITC Master Chef Crispy Onion Rings", "250 g"),
   },
   {
@@ -909,7 +909,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 150, "ITC Master Chef Jalapeño & Cheese Nuggets", "250 g"),
   },
   {
@@ -918,7 +918,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "230 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(135, 150, "ITC Master Chef Lebanese Falafel Veg Kebab", "230 g"),
   },
   {
@@ -927,7 +927,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(144, 160, "McCain Air Fryer French Fries", "360 g"),
   },
   {
@@ -936,7 +936,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(245, 272, "McCain Chilli Cheese Nuggets", "400 g"),
   },
   {
@@ -945,7 +945,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(144, 151, "McCain Veg Burger Patty", "360 g"),
   },
   {
@@ -954,7 +954,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "325 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(128, 160, "McCain Air Fryer Masala Crispers", "325 g"),
   },
   {
@@ -963,7 +963,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "700 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(258, 271, "McCain Chilli Garlic Potato Bites Nuggets", "700 g"),
   },
   {
@@ -972,7 +972,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "6 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(179, 195, "Prasuma Signature Veg Spring Roll", "6 pcs"),
   },
   {
@@ -981,7 +981,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(179, 179, "McCain Super Potato Wedges", "400 g"),
   },
   {
@@ -990,7 +990,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "340 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(169, 185, "ITC Master Chef Veggie Pizza Pocket with Real Cheese", "340 g"),
   },
   {
@@ -999,7 +999,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "275 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(110, 110, "Spring Home TYJ Spring Roll Dough Sheets", "275 g"),
   },
   {
@@ -1008,7 +1008,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 195, "Hello Tempayy Classic Protein Veg Momos", "10 pcs"),
   },
   {
@@ -1017,7 +1017,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "24 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(275, 305, "Prasuma Cheesy Spicy Veg Momos", "24 pcs"),
   },
   {
@@ -1026,7 +1026,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "240 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(170, 199, "HyFun Tandoori Paneer Pizza", "240 g"),
   },
   {
@@ -1035,7 +1035,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "425 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 125, "HyFun French Fries", "425 g"),
   },
   {
@@ -1044,7 +1044,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(169, 199, "HyFun Upvas Friendly Sabudana Patty (10 pieces)", "400 g"),
   },
   {
@@ -1053,7 +1053,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "750 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(281, 281, "McCain Crispy Potato Smiles", "750 g"),
   },
   {
@@ -1062,7 +1062,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "550 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(193, 193, "McCain Variety Pack Frozen Snack", "550 g"),
   },
   {
@@ -1071,7 +1071,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(175, 175, "McCain Crispy Onion Rings", "250 g"),
   },
   {
@@ -1080,7 +1080,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(143, 143, "iD Onion Paratha", "400 g"),
   },
   {
@@ -1089,7 +1089,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(119, 150, "HyFun Chilli Garlic Poppers Nuggets", "400 g"),
   },
   {
@@ -1098,7 +1098,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "280 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(132, 149, "Mr. Munchies Veg Spring Roll (Frozen)", "280 g"),
   },
   {
@@ -1107,7 +1107,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(232, 232, "iD Paneer Paratha", "400 g"),
   },
   {
@@ -1116,7 +1116,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(170, 195, "Wow! Momo Corn & Cheese Momos (Frozen)", "10 pcs"),
   },
   {
@@ -1125,7 +1125,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(111, 150, "HyFun Crinkle French Fries", "400 g"),
   },
   {
@@ -1134,7 +1134,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(128, 160, "McCain Air Fryer Cheese Nachos Angles", "200 g"),
   },
   {
@@ -1143,7 +1143,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(138, 150, "Amul Happy Treats Masti Dahi Tikki/ Veg Kebab", "300 g"),
   },
   {
@@ -1152,7 +1152,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "310 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(105, 130, "ITC Master Chef Desi Style Potato Bites", "310 g"),
   },
   {
@@ -1161,7 +1161,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "190 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 199, "HyFun Garden Fresh Pizza (Thin Crust Base)", "190 g"),
   },
   {
@@ -1170,7 +1170,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "2 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(172, 195, "Prasuma Paneer Tikka Pizza Minis", "2 pcs"),
   },
   {
@@ -1179,7 +1179,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(171, 180, "Amul Corn & Cheese Nuggets", "300 g"),
   },
   {
@@ -1188,7 +1188,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "215 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 199, "HyFun Margherita Pizza", "215 g"),
   },
   {
@@ -1197,7 +1197,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(90, 90, "Amul Mini Margherita Pizza", "100 g"),
   },
   {
@@ -1206,7 +1206,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(119, 150, "HyFun Veg Burger Patty", "360 g"),
   },
   {
@@ -1215,7 +1215,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(110, 110, "Amul Happy Treats Veg Burger Patty (Frozen)", "360 g"),
   },
   {
@@ -1224,7 +1224,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(121, 170, "HyFun Hash Brown Mini Triangle Potato Bites", "400 g"),
   },
   {
@@ -1233,7 +1233,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "760 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(256, 256, "McCain Aloo Tikki", "760 g"),
   },
   {
@@ -1242,7 +1242,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(112, 130, "HyFun Aloo Tikki", "10 pcs"),
   },
   {
@@ -1251,7 +1251,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(126, 170, "HyFun Flavory French Fries (Chilli & Herbs)", "400 g"),
   },
   {
@@ -1260,7 +1260,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(141, 210, "HyFun Frozen Snack Mumbai Aloo Vada", "400 g"),
   },
   {
@@ -1269,7 +1269,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "750 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(318, 318, "McCain Masala French Fries Hot & Spicy", "750 g"),
   },
   {
@@ -1278,7 +1278,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "325 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(110, 110, "Spring Home Plain Paratha", "325 g"),
   },
   {
@@ -1287,7 +1287,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "9 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(160, 199, "HyFun Puffets Italiano Pizza Pocket", "9 pcs"),
   },
   {
@@ -1296,7 +1296,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(166, 180, "Amul Happy Treats Cheese Onion Pizza Pocket", "360 g"),
   },
   {
@@ -1305,7 +1305,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(154, 179, "Mr. Munchies Cheese Chilli Samosa (Frozen)", "270 g"),
   },
   {
@@ -1314,7 +1314,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "600 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(171, 225, "HyFun My Family Pack (3 In 1) Frozen Snack", "600 g"),
   },
   {
@@ -1323,7 +1323,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(117, 124, "JusVeg Soya Chaap (Frozen)", "500 g"),
   },
   {
@@ -1332,7 +1332,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "750 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(212, 240, "HyFun Tater Tots No Onion, No Garlic", "750 g"),
   },
   {
@@ -1341,7 +1341,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "6 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(109, 131, "Aashirvaad Malabar Paratha (Heat & Eat)", "6 pcs"),
   },
   {
@@ -1350,7 +1350,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(162, 170, "McCain Chilli Cheese Nuggets", "250 g"),
   },
   {
@@ -1359,7 +1359,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "420 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(117, 125, "ITC Master Chef Crispy French Fries", "420 g"),
   },
   {
@@ -1368,7 +1368,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(80, 80, "Amul Happy Treats Hash Brown Potato Bites", "360 g"),
   },
   {
@@ -1377,7 +1377,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "280 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(139, 165, "ITC Master Chef Crispy Cheese Fills Nuggets", "280 g"),
   },
   {
@@ -1386,7 +1386,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(215, 215, "McCain Cheesy Pizza Fingers", "250 g"),
   },
   {
@@ -1395,7 +1395,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(180, 180, "McCain Veggie Fingers", "400 g"),
   },
   {
@@ -1404,7 +1404,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "280 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(163, 189, "Mr. Munchies Afghani Soya Chaap", "280 g"),
   },
   {
@@ -1413,7 +1413,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "2 x 10 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(221, 245, "Wow! Momo Peri Peri Momos - Buy 1 Get 1 Free", "2 x 10 pcs"),
   },
   {
@@ -1422,7 +1422,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(117, 140, "Aashirvaad Tandoori Naan (Heat & Eat)", "5 pcs"),
   },
   {
@@ -1431,7 +1431,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(114, 120, "Amul Chilli Garlic Nuggets", "400 g"),
   },
   {
@@ -1440,7 +1440,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "280 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(163, 189, "Mr. Munchies Lasooni Soya Chaap", "280 g"),
   },
   {
@@ -1449,7 +1449,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "24 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(289, 310, "Prasuma Veg & Paneer Momos", "24 pcs"),
   },
   {
@@ -1458,7 +1458,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(169, 186, "Wow! Momo Chatpata Paneer Momos", "10 pcs"),
   },
   {
@@ -1467,7 +1467,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(338, 375, "ITC Master Chef Chilli Garlic Potato Shots Nuggets", "1 kg"),
   },
   {
@@ -1476,7 +1476,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(105, 125, "ITC Master Chef Classic Aloo Tikki", "400 g"),
   },
   {
@@ -1485,7 +1485,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 110, "Amul Happy Treats Punjabi Samosa", "300 g"),
   },
   {
@@ -1494,7 +1494,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "24 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(290, 290, "Prasuma Classic Veg Momos", "24 pcs"),
   },
   {
@@ -1503,7 +1503,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "20 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(111, 120, "Switz Spring Roll Dough Sheets", "20 pcs"),
   },
   {
@@ -1512,7 +1512,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "50 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(108, 120, "Switz Samosa Patti Dough Sheets (Frozen)", "50 pcs"),
   },
   {
@@ -1521,7 +1521,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "2 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(137, 145, "Prasuma Veg Supreme Pizza Minis", "2 pcs"),
   },
   {
@@ -1530,7 +1530,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(95, 95, "Goeld Aloo Paratha (Frozen)", "400 g"),
   },
   {
@@ -1539,7 +1539,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "9 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 199, "HyFun Puffets Zingy Schezwan Pizza Pocket", "9 pcs"),
   },
   {
@@ -1548,7 +1548,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "4 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 99, "Goeld Garlic Naan (Frozen)", "4 pcs"),
   },
   {
@@ -1557,7 +1557,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(85, 85, "Goeld Lachha Paratha (Frozen)", "5 pcs"),
   },
   {
@@ -1566,7 +1566,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(95, 95, "Goeld Malabar Paratha (Frozen)", "5 pcs"),
   },
   {
@@ -1575,7 +1575,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "1.25 kg",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(347, 370, "McCain French Fries (Frozen)", "1.25 kg"),
   },
   {
@@ -1584,7 +1584,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 110, "Switz Puff Dough Paratha (Frozen)", "5 pcs"),
   },
   {
@@ -1593,7 +1593,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(20, 20, "Switz Puff Pastry Dough Sheets", "400 g"),
   },
   {
@@ -1602,7 +1602,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(330, 330, "Keventer Chicken Nuggets (Frozen)", "400 g"),
   },
   {
@@ -1611,7 +1611,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(275, 315, "ITC Master Chef Crunchy Chicken Nuggets", "450 g"),
   },
   {
@@ -1620,7 +1620,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "24 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(295, 320, "Prasuma Original Chicken Momos", "24 pcs"),
   },
   {
@@ -1629,7 +1629,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(280, 320, "Godrej Yummiez Chicken Nuggets", "450 g"),
   },
   {
@@ -1638,7 +1638,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(230, 230, "Keventer Chicken Keema Paratha (4 pieces)", "360 g"),
   },
   {
@@ -1647,7 +1647,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(315, 350, "ITC Master Chef Chicken Seekh Kebab", "500 g"),
   },
   {
@@ -1656,7 +1656,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(287, 315, "ITC Master Chef Malai Chicken Seekh Kebab", "400 g"),
   },
   {
@@ -1665,7 +1665,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(309, 325, "Meatzza Marinated Boneless Tandoori Chicken Tikka", "500 g"),
   },
   {
@@ -1674,7 +1674,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "15 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(169, 234, "Godrej Yummiez Chicken Momos", "15 pcs"),
   },
   {
@@ -1683,7 +1683,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(179, 200, "Prasuma Original Chicken Momos", "10 pcs"),
   },
   {
@@ -1692,7 +1692,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "20 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(280, 335, "Wow! Momo Darjeeling Chicken Momos - 20 pieces (Frozen)", "20 pcs"),
   },
   {
@@ -1701,7 +1701,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "6 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(169, 199, "Licious Cheezy Chicken Momos", "6 pcs"),
   },
   {
@@ -1710,7 +1710,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(203, 225, "IFB Fresh Catch Breaded Fish Fillet", "200 g"),
   },
   {
@@ -1719,7 +1719,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(211, 234, "IFB Fresh Catch Fish Fingers (Frozen)", "200 g"),
   },
   {
@@ -1728,7 +1728,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(304, 320, "ITC Master Chef Chicken Popcorn", "500 g"),
   },
   {
@@ -1737,7 +1737,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(342, 380, "ITC Master Chef Chicken Strips Breast", "500 g"),
   },
   {
@@ -1746,7 +1746,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(360, 395, "Venky's Chicken Nuggets (Frozen)", "500 g"),
   },
   {
@@ -1755,7 +1755,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(158, 185, "Meatzza Chapli Chicken Kebab", "250 g"),
   },
   {
@@ -1764,7 +1764,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(173, 185, "Meatzza Chicken Nuggets", "250 g"),
   },
   {
@@ -1773,7 +1773,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(293, 325, "Meatzza Marinated Boneless Malai Chicken Tikka", "500 g"),
   },
   {
@@ -1782,7 +1782,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(350, 385, "Venky's Chicken Burger Patty (Frozen)", "500 g"),
   },
   {
@@ -1791,7 +1791,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(383, 425, "Meatzza Zing Boneless Breast Chicken Strips (Frozen)", "500 g"),
   },
   {
@@ -1800,7 +1800,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(270, 295, "Prasuma Smoked Pork Ham", "200 g"),
   },
   {
@@ -1809,7 +1809,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "24 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(300, 330, "Prasuma Spicy Chicken Momos", "24 pcs"),
   },
   {
@@ -1818,7 +1818,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(425, 460, "Venky's Chicken Seekh Kebab", "500 g"),
   },
   {
@@ -1827,7 +1827,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(180, 210, "Wow! Momo Cheese Chicken Momos (Frozen)", "10 pcs"),
   },
   {
@@ -1836,7 +1836,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 205, "Prasuma Spicy Chicken Momos", "10 pcs"),
   },
   {
@@ -1845,7 +1845,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(171, 199, "Wow! Momo Darjeeling Chicken Momos (Frozen)", "10 pcs"),
   },
   {
@@ -1854,7 +1854,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(309, 360, "Meatzza Chicken Nuggets (Frozen)", "500 g"),
   },
   {
@@ -1863,7 +1863,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "6 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(149, 189, "Licious Loaded Chicken Momos", "6 pcs"),
   },
   {
@@ -1872,7 +1872,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "520 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(324, 360, "ITC Master Chef Spicy Grill Chicken Burger Patty", "520 g"),
   },
   {
@@ -1881,7 +1881,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(119, 125, "Gadre Surimi Crab Sticks", "125 g"),
   },
   {
@@ -1890,7 +1890,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(302, 335, "Meatzza Chicken Burger Patty", "500 g"),
   },
   {
@@ -1899,7 +1899,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "16 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(329, 379, "Licious Loaded Chicken Momos", "16 pcs"),
   },
   {
@@ -1908,7 +1908,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(250, 280, "Prasuma Shammi Chicken Kebab", "200 g"),
   },
   {
@@ -1917,7 +1917,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(250, 295, "Godrej Yummiez Lucknowi Chicken Seekh Kebab (Frozen)", "400 g"),
   },
   {
@@ -1926,7 +1926,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(410, 450, "Meatzza Krispy Fried Chicken (Frozen)", "500 g"),
   },
   {
@@ -1935,7 +1935,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(318, 345, "Meatzza Hot & Spicy Chicken Seekh Kebab (Frozen)", "500 g"),
   },
   {
@@ -1944,7 +1944,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(260, 275, "Venky’s Chicken & Cheese Nuggets (Frozen)", "300 g"),
   },
   {
@@ -1953,7 +1953,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(165, 170, "Meatzza Snackers Chicken Fingers", "250 g"),
   },
   {
@@ -1962,7 +1962,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "6 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(217, 230, "Prasuma Chicken Spring Roll", "6 pcs"),
   },
   {
@@ -1971,7 +1971,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "15 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(220, 220, "Prasuma Peri Peri Chicken Momos", "15 pcs"),
   },
   {
@@ -1980,7 +1980,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "2 pcs",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(178, 210, "Prasuma Chicken Tikka Pizza Minis", "2 pcs"),
   },
   {
@@ -1989,7 +1989,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(199, 225, "Delichic Keema Chicken Samosa", "200 g"),
   },
   {
@@ -1998,7 +1998,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(315, 350, "Meatzza Malai Chicken Seekh Kebab", "500 g"),
   },
   {
@@ -2007,7 +2007,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(216, 240, "Gadre Surimi Crab Claw Amritsari", "250 g"),
   },
   {
@@ -2016,7 +2016,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(207, 230, "Gadre Tilapia Fish Fingers", "200 g"),
   },
   {
@@ -2025,7 +2025,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(270, 300, "Gadre Ready-to-Fry Fish Fry Snack Combo", "400 g"),
   },
   {
@@ -2034,7 +2034,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(216, 240, "Gadre Surimi Lobster Bite", "300 g"),
   },
   {
@@ -2043,7 +2043,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(135, 150, "Gadre Surimi Fish Fry", "200 g"),
   },
   {
@@ -2052,7 +2052,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(342, 380, "Gadre Breaded Boomerang Prawns", "250 g"),
   },
   {
@@ -2061,7 +2061,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(297, 330, "Gadre Breaded Butterfly Prawns", "200 g"),
   },
   {
@@ -2070,7 +2070,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(257, 281, "Delichic Lehsuni Chicken Seekh Kebab", "500 g"),
   },
   {
@@ -2079,7 +2079,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "370 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(297, 307, "Delichic Turkish Adana Chicken Seekh Kebab", "370 g"),
   },
   {
@@ -2088,7 +2088,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(350, 385, "Venky's Chicken Fingers (Frozen)", "500 g"),
   },
   {
@@ -2097,7 +2097,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(299, 304, "Delichic Turkish Adana Mutton Seekh Kebab", "250 g"),
   },
   {
@@ -2106,7 +2106,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(563, 625, "Meatzza Mutton Seekh Kebab (Frozen)", "500 g"),
   },
   {
@@ -2115,7 +2115,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(249, 269, "Delichic Cheese Chicken Nuggets", "300 g"),
   },
   {
@@ -2124,7 +2124,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "225 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(219, 229, "Delichic Chicken Popcorn", "225 g"),
   },
   {
@@ -2133,7 +2133,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(194, 215, "Gadre Fish Seekh Kebab", "250 g"),
   },
   {
@@ -2142,7 +2142,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(285, 299, "Meatzza Mutton Seekh Kebab", "250 g"),
   },
   {
@@ -2151,7 +2151,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(253, 263, "Delichic Crunchy Chicken Breast Strips", "300 g"),
   },
   {
@@ -2160,7 +2160,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(295, 319, "Delichic Galawat Chicken Seekh Kebab", "500 g"),
   },
   {
@@ -2169,7 +2169,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Non-Veg Snacks",
     unit: "220 g",
-    image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(199, 219, "Delichic Chicken Nuggets", "220 g"),
   },
   {
@@ -2178,7 +2178,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(35, 35, "Maggi Pazzta Cheese Macaroni Instant Pasta", "75 g"),
   },
   {
@@ -2187,7 +2187,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "69.5 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(35, 35, "Maggi Pazzta Masala Penne Instant Pasta", "69.5 g"),
   },
   {
@@ -2196,7 +2196,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "68.5 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(35, 35, "Maggi Pazzta Mushroom Penne Instant Pasta", "68.5 g"),
   },
   {
@@ -2205,7 +2205,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "68.5 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(35, 35, "Maggi Pazzta Cheesy Tomato Twist Instant Pasta", "68.5 g"),
   },
   {
@@ -2214,7 +2214,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(83, 180, "Chef's Basket Durum Wheat Semolina Penne Pasta", "500 g"),
   },
   {
@@ -2223,7 +2223,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "74.7 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(25, 35, "Sunfeast Yipee Masala Instant Pasta", "74.7 g"),
   },
   {
@@ -2232,7 +2232,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "425 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(52, 57, "Bambino Pep Elbows Macaroni", "425 g"),
   },
   {
@@ -2241,7 +2241,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(50, 140, "Oleev Kitchen No Maida Penne Durum Wheat Pasta", "400 g"),
   },
   {
@@ -2250,7 +2250,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(50, 140, "Oleev Kitchen No Maida Durum Wheat Macaroni", "400 g"),
   },
   {
@@ -2259,7 +2259,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "850 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 120, "Chef's Basket Macaroni Pasta", "850 g"),
   },
   {
@@ -2268,7 +2268,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(30, 55, "Yu Cheese Sauce Instant Wheat Pasta (Penne)", "65 g"),
   },
   {
@@ -2277,7 +2277,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(191, 325, "Borges Spaghetti Pasta", "500 g"),
   },
   {
@@ -2286,7 +2286,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(79, 175, "Disano Penne Pasta (100 % Durum Wheat)", "500 g"),
   },
   {
@@ -2295,7 +2295,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(76, 80, "MOM 3 Cheese Pasta", "65 g"),
   },
   {
@@ -2304,7 +2304,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(59, 178, "Del Monte Food Craft Penne Rigati Domestic Pasta", "400 g"),
   },
   {
@@ -2313,7 +2313,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(79, 175, "Disano Elbow Pasta (100 % Durum Wheat)", "500 g"),
   },
   {
@@ -2322,7 +2322,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(100, 195, "Disano Spaghetti Pasta (100% Durum Wheat)", "500 g"),
   },
   {
@@ -2331,7 +2331,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(75, 150, "Keya 100% Durum Wheat Elbow Domestic Pasta", "400 g"),
   },
   {
@@ -2340,7 +2340,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(70, 150, "Oleev Kitchen No Maida Spaghetti Durum Wheat Pasta", "400 g"),
   },
   {
@@ -2349,7 +2349,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(75, 150, "Yu 100% Whole Wheat Elbow Macaroni Pasta", "400 g"),
   },
   {
@@ -2358,7 +2358,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(29, 55, "Yu Pink Sauce Instant Wheat Pasta (Penne)", "65 g"),
   },
   {
@@ -2367,7 +2367,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(85, 95, "Yu Three Cheese Instant Pasta Cup", "70 g"),
   },
   {
@@ -2376,7 +2376,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(52, 140, "Yu Durum Wheat Fusilli Pasta (Zero Maida)", "400 g"),
   },
   {
@@ -2385,7 +2385,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(75, 150, "Keya 100% Durum Wheat Fusilli Domestic Pasta", "400 g"),
   },
   {
@@ -2394,7 +2394,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(91, 200, "Yu 100% Whole Wheat Fusilli Pasta", "500 g"),
   },
   {
@@ -2403,7 +2403,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(75, 95, "Yu Peri Peri Instant Pasta Cup", "65 g"),
   },
   {
@@ -2412,7 +2412,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "850 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(100, 109, "Bambino Pep Macaroni", "850 g"),
   },
   {
@@ -2421,7 +2421,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "2 x 400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 130, "Disano Fusilli Pasta", "2 x 400 g"),
   },
   {
@@ -2430,7 +2430,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "65 g + 65 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(50, 110, "Yu Cheese Sauce Instant Wheat Pasta (Penne) + Pink Sauce Instant Wheat Pasta (Penne) Combo", "65 g + 65 g"),
   },
   {
@@ -2439,7 +2439,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "65 g + 70 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(152, 190, "Yu Peri Peri Instant Pasta Cup + Yu Three Cheese Instant Pasta Cup Combo", "65 g + 70 g"),
   },
   {
@@ -2448,7 +2448,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(381, 450, "pastaZara Lasagne Gialle", "500 g"),
   },
   {
@@ -2457,7 +2457,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g + 400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 130, "Disano Durum Wheat Elbow Pasta", "400 g + 400 g"),
   },
   {
@@ -2466,7 +2466,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(157, 360, "Del Monte Spaghetti", "500 g"),
   },
   {
@@ -2475,7 +2475,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(95, 200, "Yu 100% Whole Wheat Penne Pasta", "500 g"),
   },
   {
@@ -2484,7 +2484,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 200, "Yu 100% Durum Wheat Spaghetti Pasta", "500 g"),
   },
   {
@@ -2493,7 +2493,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(51, 140, "Yu Durum Wheat Macaroni Pasta (Zero Maida)", "400 g"),
   },
   {
@@ -2502,7 +2502,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(79, 175, "Disano Fusilli Pasta (100 % Durum Wheat)", "500 g"),
   },
   {
@@ -2511,7 +2511,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(75, 150, "Keya 100% Durum Wheat Penne Domestic Pasta", "400 g"),
   },
   {
@@ -2520,7 +2520,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(59, 178, "Del Monte Foodcraft Spirali Pasta", "400 g"),
   },
   {
@@ -2529,7 +2529,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(51, 140, "Yu Durum Wheat Penne Pasta (Zero Maida)", "400 g"),
   },
   {
@@ -2538,7 +2538,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(194, 325, "pastaZara Durum Wheat Semolina Farfalle Pasta", "500 g"),
   },
   {
@@ -2547,7 +2547,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(184, 360, "Del Monte Gourmet Penne Rigate Pasta", "500 g"),
   },
   {
@@ -2556,7 +2556,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(157, 250, "WickedGud 2X Fiber Protein Spaghetti Pasta (No Maida, Durum Wheat)", "400 g"),
   },
   {
@@ -2565,7 +2565,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(229, 329, "Barilla Farfalle Durum Wheat Pasta", "500 g"),
   },
   {
@@ -2574,7 +2574,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "2 x 74.7 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(49, 70, "Yippee Cheese Instant Pasta", "2 x 74.7 g"),
   },
   {
@@ -2583,7 +2583,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g + 400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(86, 280, "Yu Durum Wheat Macaroni Pasta + Durum Wheat Penne Pasta Combo", "400 g + 400 g"),
   },
   {
@@ -2592,7 +2592,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(125, 220, "WickedGud Penne Pasta", "400 g"),
   },
   {
@@ -2601,7 +2601,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(229, 329, "Barilla Spaghetti Durum Wheat Semolina Pasta", "500 g"),
   },
   {
@@ -2610,7 +2610,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(229, 329, "Barilla Penne Rigate Durum Wheat Pasta", "500 g"),
   },
   {
@@ -2619,7 +2619,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(174, 325, "pastaZara Spaghetti Pasta", "500 g"),
   },
   {
@@ -2628,7 +2628,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "70 g + 80 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(136, 160, "Yu Zingy Cheese Instant Cup Noodles + Three Cheese Instant Pasta Cup Combo", "70 g + 80 g"),
   },
   {
@@ -2637,7 +2637,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g + 500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(152, 350, "Yu 100% Whole Wheat Penne Pasta + 100% Whole Wheat Elbow Macaroni Pasta Combo", "400 g + 500 g"),
   },
   {
@@ -2646,7 +2646,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(178, 178, "Weikfield Durum Wheat Semolina Spagheti Pasta", "400 g"),
   },
   {
@@ -2655,7 +2655,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(72, 150, "Bambino Premium Penne Pasta (No Maida)", "500 g"),
   },
   {
@@ -2664,7 +2664,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(290, 360, "Pastallio Gluten-Free Farali Pasta", "400 g"),
   },
   {
@@ -2673,7 +2673,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(290, 360, "Pastallio Multi-Millet Pasta", "400 g"),
   },
   {
@@ -2682,7 +2682,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(200, 329, "Agnesi Durum Wheat Semolina Spaghetti Pasta", "500 g"),
   },
   {
@@ -2691,7 +2691,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(108, 199, "Oleev Kitchen Multigrain Penne Pasta", "400 g"),
   },
   {
@@ -2700,7 +2700,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 170, "Finosta Macaroni Pasta", "500 g"),
   },
   {
@@ -2709,7 +2709,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 170, "Finosta Fusilli Pasta", "500 g"),
   },
   {
@@ -2718,7 +2718,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(249, 280, "Organic Wisdom Beetroot Ragi Macaroni Pasta", "180 g"),
   },
   {
@@ -2727,7 +2727,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g + 500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(164, 400, "Yu 100% Whole Wheat Penne Pasta + 100% Whole Wheat Fusilli Pasta Combo", "500 g + 500 g"),
   },
   {
@@ -2736,7 +2736,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "150 g + 500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(130, 255, "Yu 100% Whole Wheat Noodles + 100% Whole Wheat Penne Pasta Combo", "150 g + 500 g"),
   },
   {
@@ -2745,7 +2745,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(210, 350, "Agnesi Farfalle Wheat Semolina Pasta", "500 g"),
   },
   {
@@ -2754,7 +2754,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(233, 249, "Smart Grain Brown Rice & Corn Macaroni Pasta", "200 g"),
   },
   {
@@ -2763,7 +2763,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "1500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(199, 315, "Pastiano Pasta Combo Pack", "1500 g"),
   },
   {
@@ -2772,7 +2772,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(198, 329, "Agnesi Penne Rigate Pasta N 19", "500 g"),
   },
   {
@@ -2781,7 +2781,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(175, 325, "pastaZara Authentic Italian Chifferi Rigati Pasta", "500 g"),
   },
   {
@@ -2790,7 +2790,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(248, 350, "pastaZara Whole Wheat Spaghetti", "500 g"),
   },
   {
@@ -2799,7 +2799,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(227, 350, "pastaZara Whole Wheat Fusilli Pasta", "500 g"),
   },
   {
@@ -2808,7 +2808,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(354, 450, "Bragagnolo Fusilli Pasta", "500 g"),
   },
   {
@@ -2817,7 +2817,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(156, 300, "pastaZara Durum Wheat Semolina Penne Rigate Pasta", "500 g"),
   },
   {
@@ -2826,7 +2826,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Pasta & More",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 170, "Finosta - Penne Rigate Pasta, 500 gm Pasta", "500 g"),
   },
   {
@@ -2835,7 +2835,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(60, 66, "Gits Kheer Vermicelli Mix", "100 g"),
   },
   {
@@ -2844,7 +2844,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "1000 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(143, 158, "Eat Millet Jowar Idli Rava", "1000 g"),
   },
   {
@@ -2853,7 +2853,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "2 x 500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(168, 178, "Eat Millet Ragi Idli Rava", "2 x 500 g"),
   },
   {
@@ -2862,7 +2862,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(115, 115, "iD Wheat Lachha Paratha", "5 pcs"),
   },
   {
@@ -2871,7 +2871,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1610970881699-44a5587cabec?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(112, 130, "Gits Gulab Jamun Mix", "200 g"),
   },
   {
@@ -2880,7 +2880,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(27, 27, "MTR 3 Minute Khatta Meetha Poha Breakfast Mix", "60 g"),
   },
   {
@@ -2889,7 +2889,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "2 x 160 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(89, 89, "MTR Khaman Dhokla- Instant Mix", "2 x 160 g"),
   },
   {
@@ -2898,7 +2898,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(123, 133, "MTR Rava Idli Breakfast Mix", "500 g"),
   },
   {
@@ -2907,7 +2907,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "5 x 20 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(48, 50, "Ching's Secret Schezwan Fried Rice Masala Instant Mix - 5 Single Use Pouches", "5 x 20 g"),
   },
   {
@@ -2916,7 +2916,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(82, 89, "Double Horse Vermicelli Kheer Dessert Mix", "300 g"),
   },
   {
@@ -2925,7 +2925,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(126, 138, "MTR Dosa Breakfast Mix", "500 g"),
   },
   {
@@ -2934,7 +2934,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(166, 195, "Betty Crocker Classic Pancake Mix (Original)", "250 g"),
   },
   {
@@ -2943,7 +2943,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(134, 149, "Gladful Blueberry Pancake Mix", "150 g"),
   },
   {
@@ -2952,7 +2952,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(27, 27, "MTR 3 Minute Poha Breakfast Mix", "60 g"),
   },
   {
@@ -2961,7 +2961,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(58, 60, "Weikfield Strawberry Jelly Crystal Dessert Mix", "90 g"),
   },
   {
@@ -2970,7 +2970,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(89, 99, "Gladful Strawberry Pancake Mix with Jowar and Oats", "150 g"),
   },
   {
@@ -2979,7 +2979,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(90, 90, "MTR Vermicelli Payasam Dessert Mix", "180 g"),
   },
   {
@@ -2988,7 +2988,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(172, 385, "True Elements Wholegrain Premium Quinoa", "500 g"),
   },
   {
@@ -2997,7 +2997,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(56, 62, "MTR Vermicelli- Upma", "160 g"),
   },
   {
@@ -3006,7 +3006,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "2 x 175 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(104, 129, "Aachi Semiya Payasam Dessert Mix", "2 x 175 g"),
   },
   {
@@ -3015,7 +3015,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(95, 135, "Pillsbury Chocolate Flavour Pancake Mix", "180 g"),
   },
   {
@@ -3024,7 +3024,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(38, 38, "Brown & Polson Vanilla Custard Powder", "100 g"),
   },
   {
@@ -3033,7 +3033,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(55, 55, "Knorr Chinese Manchurian Instant Mix", "55 g"),
   },
   {
@@ -3042,7 +3042,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(62, 65, "MOM Poha with Bhujia", "80 g"),
   },
   {
@@ -3051,7 +3051,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(130, 138, "MTR Rice Idli Breakfast Mix", "500 g"),
   },
   {
@@ -3060,7 +3060,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "3 x 80 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(89, 177, "Pillsbury Pancake Mix Variety Pack", "3 x 80 g"),
   },
   {
@@ -3069,7 +3069,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(225, 225, "Slurrp Farm Blueberry Pancake Mix", "150 g"),
   },
   {
@@ -3078,7 +3078,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(320, 320, "Slurrp Farm Millet Pancake Mix Banana Choco Chip", "300 g"),
   },
   {
@@ -3087,7 +3087,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "5 x 20 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(49, 55, "Snapin Chowmein Hakka Noodles Masala", "5 x 20 g"),
   },
   {
@@ -3096,7 +3096,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(351, 399, "Bagrry's Belgian Dark Chocolate & Almonds Granola", "400 g"),
   },
   {
@@ -3105,7 +3105,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "425 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(395, 490, "Betty Crocker Triple Chocolate Brownie, Cake Mix", "425 g"),
   },
   {
@@ -3114,7 +3114,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(109, 119, "Double Horse Instant Parippu Pradhaman Dessert Mix", "200 g"),
   },
   {
@@ -3123,7 +3123,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(142, 142, "MTR Rava Dosa Breakfast Mix", "500 g"),
   },
   {
@@ -3132,7 +3132,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(98, 98, "MTR Sambhar Instant Mix", "180 g"),
   },
   {
@@ -3141,7 +3141,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(95, 135, "Pillsbury Butterscotch Pancake Mix", "180 g"),
   },
   {
@@ -3150,7 +3150,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(420, 495, "The Divine Foods ABC Milk Drink Mix for Skin Glow & Detox", "250 g"),
   },
   {
@@ -3159,7 +3159,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(58, 60, "Weikfield Mango Jelly Mix", "90 g"),
   },
   {
@@ -3168,7 +3168,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(118, 129, "Double Horse Tender Coconut Sago Payasam Instant Mix", "180 g"),
   },
   {
@@ -3177,7 +3177,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "5 x 20 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(48, 50, "Ching's Secret Paneer Chilli Masala Instant Mix - 5 Single Use Pouches", "5 x 20 g"),
   },
   {
@@ -3186,7 +3186,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "2 x 175 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1610970881699-44a5587cabec?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(104, 129, "Aachi Gulab Jamun Mix", "2 x 175 g"),
   },
   {
@@ -3195,7 +3195,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "5 x 20 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(49, 55, "Snapin Schezwan Fried Rice Masala Mix", "5 x 20 g"),
   },
   {
@@ -3204,7 +3204,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(90, 99, "Gladful Ragi Dosa Mix", "200 g"),
   },
   {
@@ -3213,7 +3213,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(125, 133, "MTR Masala Rava Idli Breakfast Mix", "500 g"),
   },
   {
@@ -3222,7 +3222,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "175 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1610970881699-44a5587cabec?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(67, 135, "Kwality Instant Gulab Jamun Mix", "175 g"),
   },
   {
@@ -3231,7 +3231,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(298, 350, "Betty Crocker Classic Pancake Mix", "500 g"),
   },
   {
@@ -3240,7 +3240,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(134, 149, "Gladful Multi Lentil Spinach Chilla Mix", "200 g"),
   },
   {
@@ -3249,7 +3249,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(46, 90, "Weikfield Falooda Mix Rose Flavour", "200 g"),
   },
   {
@@ -3258,7 +3258,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(119, 119, "Slurrp Farm Beetroot Dosa Mix", "150 g"),
   },
   {
@@ -3267,7 +3267,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(134, 149, "Gladful Moong Beetroot Chilla Mix", "200 g"),
   },
   {
@@ -3276,7 +3276,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(451, 620, "Betty Crocker Pancake Mix", "1 kg"),
   },
   {
@@ -3285,7 +3285,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "475 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(371, 460, "Betty Crocker Choco Fudge Cake Mix", "475 g"),
   },
   {
@@ -3294,7 +3294,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(48, 49, "The Select Aisle Mug Cake Mix - Double Chocolate", "60 g"),
   },
   {
@@ -3303,7 +3303,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(185, 249, "Tata Soulfull Desi Veggie Masala Oats With 25% Millets, Non Sticky", "500 g"),
   },
   {
@@ -3312,7 +3312,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(31, 35, "Gladful Ghee Millet Instant Upma", "60 g"),
   },
   {
@@ -3321,7 +3321,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(231, 285, "Pillsbury Rich Choco Oven Cake Mix (Egg less)", "270 g"),
   },
   {
@@ -3330,7 +3330,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(217, 310, "Pillsbury Chocolate Pancake Mix", "500 g"),
   },
   {
@@ -3339,7 +3339,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(82, 109, "Eastern 5 Mins Breakfast Instant Idiyappam Mix", "200 g"),
   },
   {
@@ -3348,7 +3348,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(299, 299, "Mille Classic Millet Pancake Mix", "250 g"),
   },
   {
@@ -3357,7 +3357,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "159 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(138, 169, "Pillsbury Vanilla Cooker Cake Mix", "159 g"),
   },
   {
@@ -3366,7 +3366,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(113, 128, "Gits Rava Dosa Breakfast Mix", "500 g"),
   },
   {
@@ -3375,7 +3375,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(65, 76, "Gits Jalebi Dessert Mix", "100 g"),
   },
   {
@@ -3384,7 +3384,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "365 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(221, 249, "The Select Aisle Eggless Vanilla Cake Mix with Frosting mix and Sprinkles", "365 g"),
   },
   {
@@ -3393,7 +3393,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "3 x 60 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(77, 81, "MOM Poha", "3 x 60 g"),
   },
   {
@@ -3402,7 +3402,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(65, 75, "Weikfield Ready To Eat Custard (Vanilla)", "200 ml"),
   },
   {
@@ -3411,7 +3411,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "365 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(221, 249, "The Select Aisle Eggless Chocolate Cake Mix - Frosting & Sprinkles Included", "365 g"),
   },
   {
@@ -3420,7 +3420,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(52, 61, "Eastern 5 Mins Instant Breakfast Ghee Upma Ready Mix", "200 g"),
   },
   {
@@ -3429,7 +3429,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(79, 95, "Eastern Semiya Payasam Kheer Dessert Mix", "300 g"),
   },
   {
@@ -3438,7 +3438,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(52, 61, "Eastern 5 Mins Instant Breakfast Dosa Mix", "200 g"),
   },
   {
@@ -3447,7 +3447,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(129, 140, "VS Mani & Co. Idli Molaga Podi", "150 g"),
   },
   {
@@ -3456,7 +3456,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(149, 179, "The Naturik Co Double Chocolate Pancake & Waffle Mix", "150 g"),
   },
   {
@@ -3465,7 +3465,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(160, 160, "Banter Classic Oats & Jowar Pancake Mix", "150 g"),
   },
   {
@@ -3474,7 +3474,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 199, "Wonderland Foods Breakfast Mix - Nuts & Seed Mix", "100 g"),
   },
   {
@@ -3483,7 +3483,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(139, 199, "Kaidoo Cozmix Millet Pancake Mix - Chocolate", "150 g"),
   },
   {
@@ -3492,7 +3492,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(450, 450, "Millex Millet Instant Mix with Arogyamrutha Churna", "1 kg"),
   },
   {
@@ -3501,7 +3501,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(175, 200, "Kisaansay Moong Millet Cheela Breakfast Mix", "200 g"),
   },
   {
@@ -3510,7 +3510,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1626074353765-517a681e40be?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(353, 415, "Betty Crocker Buttermilk Pancake Mix", "500 g"),
   },
   {
@@ -3519,7 +3519,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(168, 168, "Millex Instant Rava Idli Mix", "400 g"),
   },
   {
@@ -3528,7 +3528,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "3 x 200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(336, 360, "Tvarish Dosa Mix Combo", "3 x 200 g"),
   },
   {
@@ -3537,7 +3537,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(115, 175, "Kaidoo Cozmix Millet Pancake Mix Original", "150 g"),
   },
   {
@@ -3546,7 +3546,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(399, 399, "Millex Healthy Millet Drink Mix", "1 kg"),
   },
   {
@@ -3555,7 +3555,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(125, 140, "Masala Mandi Amritsari Chaat Masala", "100 g"),
   },
   {
@@ -3564,7 +3564,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 199, "Dietfest Rice Kheer Dessert Mix", "200 g"),
   },
   {
@@ -3573,7 +3573,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Instant Mixes",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(177, 199, "Smart Grain Millet Masala Instant Dosa Mix", "150 g"),
   },
   {
@@ -3582,7 +3582,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(78, 99, "Avvatar Coffee Protein Wafer Bar", "40 g"),
   },
   {
@@ -3591,7 +3591,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(92, 99, "Peanut Chikki by Sweet Karam Coffee", "150 g"),
   },
   {
@@ -3600,7 +3600,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(48, 50, "Yoga Bar Chocolate Chunk Nut Multigrain Energy Bar", "35 g"),
   },
   {
@@ -3609,7 +3609,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(80, 80, "RiteBite Max Protein Daily Choco Almond 10 g Protein Bar", "50 g"),
   },
   {
@@ -3618,7 +3618,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "4 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(627, 734, "Green Protein Crave Protein Bar", "4 x 50 g"),
   },
   {
@@ -3627,7 +3627,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 130, "The Whole Truth Double Cocoa Protein Bar", "52 g"),
   },
   {
@@ -3636,7 +3636,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(58, 60, "SuperYou Strawberry Creme Wafer Protein Bar", "40 g"),
   },
   {
@@ -3645,7 +3645,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(83, 85, "The Whole Truth Almond Choco Fudge Energy Bar", "40 g"),
   },
   {
@@ -3654,7 +3654,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(292, 310, "The Whole Truth Rich 71% Cocoa Bar", "80 g"),
   },
   {
@@ -3663,7 +3663,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(114, 120, "SuperYou 20g Nutty Chocolate Multigrain Wafer Bar", "60 g"),
   },
   {
@@ -3672,7 +3672,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(56, 60, "Yoga Bar Dark Chocolate 10g Protein Wafer Bar", "40 g"),
   },
   {
@@ -3681,7 +3681,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(80, 80, "RiteBite Max Protein Daily Choco Classic 10 g Protein Bar", "50 g"),
   },
   {
@@ -3690,7 +3690,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "7 x 20 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(138, 175, "Yoga Bar Choco Peanut Butter Mini Protein Bar Pack", "7 x 20 g"),
   },
   {
@@ -3699,7 +3699,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(56, 60, "Yoga Bar Cookies & Cream 10g Protein Wafer Bar", "40 g"),
   },
   {
@@ -3708,7 +3708,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(39, 50, "Avolt Slims Chocolate Peanut Butter 10g Protein Wafer Bar", "35 g"),
   },
   {
@@ -3717,7 +3717,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 125, "Phab 21g Protein Chocolate Brownie Protein Bar", "65 g"),
   },
   {
@@ -3726,7 +3726,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(45, 45, "RiteBite Choco Delite 4g Protein Bar", "40 g"),
   },
   {
@@ -3735,7 +3735,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(65, 65, "Yoga Bar 10 g Dark Chocolate & Cranberry Protein Bar", "50 g"),
   },
   {
@@ -3744,7 +3744,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(56, 60, "Yoga Bar Strawberry Pop 10g Protein Wafer Bar", "40 g"),
   },
   {
@@ -3753,7 +3753,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(39, 50, "Avolt Slims Birthday Cake 10g Protein Wafer Bar", "35 g"),
   },
   {
@@ -3762,7 +3762,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(177, 180, "RiteBite Max Protein Choco Almond 30 g Protein Bar", "100 g"),
   },
   {
@@ -3771,7 +3771,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "67 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(178, 199, "The Whole Truth 20 g Protein Bar - Double Cocoa", "67 g"),
   },
   {
@@ -3780,7 +3780,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(55, 60, "SuperYou Choco Peanut Butter Wafer Protein Bar", "40 g"),
   },
   {
@@ -3789,7 +3789,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(109, 125, "Yoga Bar 20 g Protein Bar, Coffee Rush, No Added Sugar", "70 g"),
   },
   {
@@ -3798,7 +3798,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "5 x 1 pcs",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(149, 200, "Eatopia Protein Choco Bites with Dates & Nuts", "5 x 1 pcs"),
   },
   {
@@ -3807,7 +3807,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(54, 60, "Supply6 Matcha Milk Protein Wafer Bar", "40 g"),
   },
   {
@@ -3816,7 +3816,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "4 x 45 g + 2 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(248, 299, "Yoga Bar Assorted Breakfast Protein Bar Pack", "4 x 45 g + 2 x 50 g"),
   },
   {
@@ -3825,7 +3825,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(57, 70, "Phab 10g Protein Cookies & Cream Millet Wafer Bar", "40 g"),
   },
   {
@@ -3834,7 +3834,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 130, "The Whole Truth Coffee Cocoa Protein Bar", "52 g"),
   },
   {
@@ -3843,7 +3843,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(45, 45, "RiteBite Yogurt Berry Nutrition Bar", "35 g"),
   },
   {
@@ -3852,7 +3852,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(55, 60, "SuperYou Cheese Wafer Protein Bar", "40 g"),
   },
   {
@@ -3861,7 +3861,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(54, 60, "Supply6 Rich Chocolate Protein Wafer Bar", "40 g"),
   },
   {
@@ -3870,7 +3870,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "67 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(217, 249, "The Whole Truth Protein Bar Hazelnut Cocoa", "67 g"),
   },
   {
@@ -3879,7 +3879,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(109, 125, "Yoga Bar 20 g Protein Bar, Choco Peanut Butter, No Added Sugar", "70 g"),
   },
   {
@@ -3888,7 +3888,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(80, 80, "RiteBite Fruit and Nut Max Protein 10 g Protein Bar", "50 g"),
   },
   {
@@ -3897,7 +3897,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(139, 140, "RiteBite Max Protein Peanut Butter 20 g Protein Bar", "70 g"),
   },
   {
@@ -3906,7 +3906,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(153, 175, "The Whole Truth Almond Millet Cocoa Protein Bar", "55 g"),
   },
   {
@@ -3915,7 +3915,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(67, 70, "Phab 10g Protein Chocolate Truffle Millet Protein Wafer Bar", "40 g"),
   },
   {
@@ -3924,7 +3924,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g + 55 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(123, 130, "RiteBite Max Protein Daily Choco Almond Protein Bar + RiteBite Max Protein Choco Chips Cookies Combo", "50 g + 55 g"),
   },
   {
@@ -3933,7 +3933,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(64, 80, "Stroom Exotic Mango Coconut 10g Protein Bar", "45 g"),
   },
   {
@@ -3942,7 +3942,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "10 x 20 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(269, 300, "SuperYou Cookies & Cream Mini Protein Wafer Bar", "10 x 20 g"),
   },
   {
@@ -3951,7 +3951,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(54, 60, "Supply6 Cookie & Cream Wafer Protein Bar", "40 g"),
   },
   {
@@ -3960,7 +3960,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(132, 175, "The Whole Truth Cranberry Raisin Protein Bar", "52 g"),
   },
   {
@@ -3969,7 +3969,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(56, 60, "Yoga Bar Blueberry Pie Breakfast Protein Bar", "45 g"),
   },
   {
@@ -3978,7 +3978,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(57, 70, "Phab 10g Protein Strawberry Cake Millet Protein Wafer Bar", "40 g"),
   },
   {
@@ -3987,7 +3987,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(177, 180, "RiteBite Max Protein Choco Berry 30 g Protein Bar", "100 g"),
   },
   {
@@ -3996,7 +3996,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(442, 480, "RiteBite Max Protein Daily 10 g Protein Bar Pack Box (Assorted)", "6 x 50 g"),
   },
   {
@@ -4005,7 +4005,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "63 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(118, 135, "Stroom Cookie Crunch Delight 20g Protein Bar", "63 g"),
   },
   {
@@ -4014,7 +4014,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "36 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(40, 50, "Stroom Dark Chocolate Peanut Butter Energy Bar", "36 g"),
   },
   {
@@ -4023,7 +4023,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(58, 60, "SuperYou Coffee Protein Wafer Bar", "40 g"),
   },
   {
@@ -4032,7 +4032,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(60, 100, "Avolt Birthday Cake 15g Protein Wafer Bar", "50 g"),
   },
   {
@@ -4041,7 +4041,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(225, 350, "EAT Anytime Hazelnuts Protein Balls", "100 g"),
   },
   {
@@ -4050,7 +4050,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "5 x 40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(249, 300, "SuperYou Assorted Wafer Protein Bar Pack", "5 x 40 g"),
   },
   {
@@ -4059,7 +4059,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(48, 50, "Yoga Bar Nuts & Seeds Multigrain Energy Protein Bar", "35 g"),
   },
   {
@@ -4068,7 +4068,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(60, 100, "Avolt Chocolate Fondant 15g Protein Wafer Bar", "50 g"),
   },
   {
@@ -4077,7 +4077,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(60, 100, "Avolt Mint Chocolate Chip 15g Protein Wafer Bar", "50 g"),
   },
   {
@@ -4086,7 +4086,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(240, 320, "Chase Protein Cookies & Cream Protein Bar", "2 x 50 g"),
   },
   {
@@ -4095,7 +4095,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(57, 70, "Phab 10g Protein Mocha Latte Millet Wafer Bar", "40 g"),
   },
   {
@@ -4104,7 +4104,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(80, 80, "RiteBite Max Protein Date & Almond 10 g Protein Bar", "45 g"),
   },
   {
@@ -4113,7 +4113,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(71, 71, "RiteBite Max Protein Strawberry Truffle Millet Wafer Protein Bar", "40 g"),
   },
   {
@@ -4122,7 +4122,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "3 x 45 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(175, 240, "Stroom Centre Filled 10g Protein Bar", "3 x 45 g"),
   },
   {
@@ -4131,7 +4131,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "63 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(118, 135, "Stroom Choco Almond Bliss 20g Protein Bar", "63 g"),
   },
   {
@@ -4140,7 +4140,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 75 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(675, 780, "MuscleBlaze 20 g Protein Bar Pack (Choco Almond)", "6 x 75 g"),
   },
   {
@@ -4149,7 +4149,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(64, 80, "Stroom Cookie Crunch Delight 10g Protein Bar", "45 g"),
   },
   {
@@ -4158,7 +4158,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "5 x 67 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(876, 995, "The Whole Truth Protein Bar Pack", "5 x 67 g"),
   },
   {
@@ -4167,7 +4167,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 130, "The Whole Truth Coconut Cocoa Protein Bar", "52 g"),
   },
   {
@@ -4176,7 +4176,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 35 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(194, 270, "Yoga Bar Multigrain Protein Bar Pack (Assorted)", "6 x 35 g"),
   },
   {
@@ -4185,7 +4185,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "7 x 18 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(109, 175, "Yoga Bar Coffee Crush Mini Protein Bar Pack", "7 x 18 g"),
   },
   {
@@ -4194,7 +4194,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 130, "The Whole Truth Peanut Cocoa Protein Bar", "52 g"),
   },
   {
@@ -4203,7 +4203,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 125, "Phab 21g Protein Strawberry and Greek Yogurt Protein Bar", "65 g"),
   },
   {
@@ -4212,7 +4212,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(54, 60, "Supply6 Strawberry Crème Protein Wafer Bar", "40 g"),
   },
   {
@@ -4221,7 +4221,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(240, 320, "Chase Protein Strawberry Cheesecake Protein Bar", "2 x 50 g"),
   },
   {
@@ -4230,7 +4230,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 x 7 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(200, 200, "Naturo Assorted Berry Fusion Fruit Bar Pack", "40 x 7 g"),
   },
   {
@@ -4239,7 +4239,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(298, 349, "Yoga Bar Daily 10g Protein Bar Pack (Assorted)", "6 x 50 g"),
   },
   {
@@ -4248,7 +4248,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(384, 426, "RiteBite Max Protein Assorted Millet Wafer Protein Bar Pack", "6 x 40 g"),
   },
   {
@@ -4257,7 +4257,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "10 x 20 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(249, 300, "SuperYou Mini Choco Hazelnut Protein Wafer Bar", "10 x 20 g"),
   },
   {
@@ -4266,7 +4266,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(699, 960, "Chase Protein Assorted Protein Bar", "6 x 50 g"),
   },
   {
@@ -4275,7 +4275,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(240, 320, "Chase Protein Sour Funk Protein Bar", "2 x 50 g"),
   },
   {
@@ -4284,7 +4284,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "67 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(139, 140, "RiteBite Max Protein Active Choco Slim 20 g Protein Bar", "67 g"),
   },
   {
@@ -4293,7 +4293,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "10 x 20 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(269, 300, "SuperYou Mini Mango Protein Wafer Bar", "10 x 20 g"),
   },
   {
@@ -4302,7 +4302,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "244 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(383, 450, "RiteBite Max Protein Assorted 5 g Mini Protein Bar Pack Bytes", "244 g"),
   },
   {
@@ -4311,7 +4311,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 45 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(447, 480, "RiteBite Max Protein Date & Almond Protein Bar Pack", "6 x 45 g"),
   },
   {
@@ -4320,7 +4320,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(139, 140, "RiteBite Max Protein Date & Almond 20 g Protein Bar", "75 g"),
   },
   {
@@ -4329,7 +4329,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(129, 200, "Eatopia Dates & Nuts Protein Fruit Bites", "100 g"),
   },
   {
@@ -4338,7 +4338,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "10 x 20 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(249, 300, "SuperYou Orange Mini Wafer Protein Bar Pack", "10 x 20 g"),
   },
   {
@@ -4347,7 +4347,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(288, 320, "Anand Fig Date Bites", "150 g"),
   },
   {
@@ -4356,7 +4356,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(60, 80, "Ritebite Max Protein Roots Protein Bar (Cocoa Brownie)", "45 g"),
   },
   {
@@ -4365,7 +4365,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(67, 75, "Happilo Choco-Almonds Healthy Dry Fruit Sweet Bar", "35 g"),
   },
   {
@@ -4374,7 +4374,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(442, 480, "RiteBite Max Protein Choco Berry 10g Protein Bar Pack", "6 x 50 g"),
   },
   {
@@ -4383,7 +4383,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(92, 110, "Upnourish by Pluckk Cafe Mocha 15g Plant Protein Bar", "50 g"),
   },
   {
@@ -4392,7 +4392,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(70, 70, "Phab 10g Protein Choco Almond Crunch Protein Bar", "50 g"),
   },
   {
@@ -4401,7 +4401,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(60, 80, "Ritebite Max Protein Roots Protein Bar (Orange Burst)", "45 g"),
   },
   {
@@ -4410,7 +4410,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g + 55 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(123, 130, "RiteBite Max Protein Daily Choco Classic Nutrition Bar + Max Protein Choco Chips Cookies Combo", "50 g + 55 g"),
   },
   {
@@ -4419,7 +4419,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "4 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(300, 300, "Prolicious High Protein Choco Seeds & Nuts Protein Bar Combo", "4 x 50 g"),
   },
   {
@@ -4428,7 +4428,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(456, 570, "Acme Poshan Protein Bar - White Chocolate and Dry Fruits", "6 x 50 g"),
   },
   {
@@ -4437,7 +4437,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g + 60 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(119, 125, "RiteBite Max Protein Korean 10 g Protein Healthy Chips (Gochujang) + Max Protein Daily Choco Almond 10 g Protein Bar Combo", "50 g + 60 g"),
   },
   {
@@ -4446,7 +4446,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "5 x 45 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(360, 420, "Stroom Centre-Filled 10g Protein Bar (Assorted)", "5 x 45 g"),
   },
   {
@@ -4455,7 +4455,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "3 x 40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 210, "Stroom Strawberry 10g Protein Wafer Bar", "3 x 40 g"),
   },
   {
@@ -4464,7 +4464,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 65 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(210, 250, "Calibar 20 g Almond Choco Crispy Protein Bar", "2 x 65 g"),
   },
   {
@@ -4473,7 +4473,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 63 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(240, 270, "Stroom Centre Filled 20g Protein Bar", "2 x 63 g"),
   },
   {
@@ -4482,7 +4482,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g + 40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(144, 151, "RiteBite Strawberry Truffle Millet Wafer Protein Bar + Max Protein Daily Choco Almond 10 g Protein Bar Combo", "50 g + 40 g"),
   },
   {
@@ -4491,7 +4491,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "3 x 40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 210, "Stroom Chocolate 10g Protein Wafer Bar", "3 x 40 g"),
   },
   {
@@ -4500,7 +4500,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g + 60 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(119, 125, "RiteBite Healthy Chips (Korean Barbeque) + Max Protein Daily Choco Almond 10 g Protein Bar Combo", "50 g + 60 g"),
   },
   {
@@ -4509,7 +4509,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(261, 290, "Anand Date Bites", "150 g"),
   },
   {
@@ -4518,7 +4518,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(70, 100, "Avolt Chocolate Ganache 15g Protein Wafer Bar", "50 g"),
   },
   {
@@ -4527,7 +4527,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 65 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(270, 270, "Nourish Hive Choco Almond Protein Bar", "2 x 65 g"),
   },
   {
@@ -4536,7 +4536,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g + 60 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(111, 116, "RiteBite Healthy Chips (Korean Barbeque) + Strawberry Truffle Millet Wafer Protein Bar Combo", "40 g + 60 g"),
   },
   {
@@ -4545,7 +4545,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g + 60 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(111, 116, "RiteBite Max Protein Korean 10 g Protein Healthy Chips (Gochujang) + Strawberry Truffle Millet Wafer Protein Bar Combo", "40 g + 60 g"),
   },
   {
@@ -4554,7 +4554,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "60 g + 40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(110, 116, "RiteBite Strawberry Truffle Millet Wafer Protein Bar + Max Protein Cream & Onion 10 g Protein Multigrain Chips Combo", "60 g + 40 g"),
   },
   {
@@ -4563,7 +4563,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 40 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(354, 443, "Wild Date Cranberry, Cashew & Almond Snack Bar", "6 x 40 g"),
   },
   {
@@ -4572,7 +4572,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(45, 60, "Ching's Secret Mix Veg Soup", "55 g"),
   },
   {
@@ -4581,7 +4581,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "42 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(61, 64, "Knorr Classic Sweet Corn Vegetable Soup with No Added Preservatives", "42 g"),
   },
   {
@@ -4590,7 +4590,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "51 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(61, 64, "Knorr Thick Tomato Soup", "51 g"),
   },
   {
@@ -4599,7 +4599,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "41 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(61, 64, "Knorr Hot & Sour Vegetable Soup with No Added Preservatives", "41 g"),
   },
   {
@@ -4608,7 +4608,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(45, 60, "Ching's Secret Tomato Soup", "55 g"),
   },
   {
@@ -4617,7 +4617,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "46 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(66, 69, "Knorr International Italian Mushroom Soup with No Added Preservatives", "46 g"),
   },
   {
@@ -4626,7 +4626,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "44 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(68, 71, "Knorr International Hong Kong Manchow Noodle Soup with No Added Preservatives", "44 g"),
   },
   {
@@ -4635,7 +4635,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "42 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(66, 69, "Knorr Classic Chicken Delite Soup with No Added Preservatives", "42 g"),
   },
   {
@@ -4644,7 +4644,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(42, 55, "Ching's Secret Hot & Sour Veg Soup", "55 g"),
   },
   {
@@ -4653,7 +4653,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(61, 64, "Knorr Classic Mixed Vegetable Soup with No Added Preservatives", "40 g"),
   },
   {
@@ -4662,7 +4662,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(62, 65, "Knorr International Cream Of Broccoli Soup", "50 g"),
   },
   {
@@ -4671,7 +4671,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "57 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(45, 60, "Ching's Secret Manchow Soup", "57 g"),
   },
   {
@@ -4680,7 +4680,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(158, 160, "Grenera Moringa Soup Mix", "100 g"),
   },
   {
@@ -4689,7 +4689,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(42, 55, "Ching's Secret Sweet Corn Veg Soup", "55 g"),
   },
   {
@@ -4698,7 +4698,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "49 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(62, 65, "Knorr Spicy Korean Kimchi Soup with No Added Preservatives", "49 g"),
   },
   {
@@ -4707,7 +4707,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 139, "Nongshim Kimchi Ramyun Noodles", "120 g"),
   },
   {
@@ -4716,7 +4716,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(62, 65, "Knorr International Mexican Tomato Corn Soup with No Added Preservatives", "50 g"),
   },
   {
@@ -4725,7 +4725,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 139, "Nongshim Kimchi Shin Noodles", "75 g"),
   },
   {
@@ -4734,7 +4734,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(54, 69, "Yu Creamy Tomato Soup with Macaroni", "50 g"),
   },
   {
@@ -4743,7 +4743,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "112 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(149, 180, "Nongshim Big Bowl Shin Kimchi Noodles", "112 g"),
   },
   {
@@ -4752,7 +4752,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(54, 69, "Yu Veg Manchow Soup with Crispy Noodles (Whole Wheat)", "50 g"),
   },
   {
@@ -4761,7 +4761,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(49, 75, "Yu Creamy Kimchi Korean Ramen Instant Noodles", "100 g"),
   },
   {
@@ -4770,7 +4770,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(161, 180, "Nongshim Hot & Spicy Bowl Noodle Soup", "100 g"),
   },
   {
@@ -4779,7 +4779,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(69, 75, "Moi Soi Instant Manchow Soup", "20 g"),
   },
   {
@@ -4788,7 +4788,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(69, 75, "Moi Soi Mushroom Instant Soup", "20 g"),
   },
   {
@@ -4797,7 +4797,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(55, 69, "Yu Sweet Corn Soup with Crispy Noodles (Whole Wheat)", "55 g"),
   },
   {
@@ -4806,7 +4806,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Soup & Noodles",
     unit: "50 g + 55 g",
-    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(102, 138, "Yu Veg Manchow Soup with Crispy Noodles (Whole Wheat) + Sweet Corn Soup with Crispy Noodles (Whole Wheat) Combo", "50 g + 55 g"),
   },
   {
@@ -4815,7 +4815,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(65, 169, "SPT Frozen Green Peas", "500 g"),
   },
   {
@@ -4824,7 +4824,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(117, 135, "Safal Frozen Green Peas", "500 g"),
   },
   {
@@ -4833,7 +4833,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(86, 100, "Safal Sweet Corn (Frozen)", "500 g"),
   },
   {
@@ -4842,7 +4842,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(77, 85, "Safal Frozen Mixed Vegetables", "500 g"),
   },
   {
@@ -4851,7 +4851,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(167, 200, "Very Berry Fruits Fresh Frozen Strawberry", "150 g"),
   },
   {
@@ -4860,7 +4860,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(109, 299, "SPT Frozen Green Peas", "1 kg"),
   },
   {
@@ -4869,7 +4869,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(228, 270, "Very Berry Fruits Fresh Frozen Blueberry", "200 g"),
   },
   {
@@ -4878,7 +4878,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(89, 125, "Wow! Coco Fresh Grated Coconut", "200 g"),
   },
   {
@@ -4887,7 +4887,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(247, 290, "Frugivore Frozen Blueberry", "200 g"),
   },
   {
@@ -4896,7 +4896,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(63, 120, "SPT Frozen Mixed Vegetables", "500 g"),
   },
   {
@@ -4905,7 +4905,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(192, 200, "Frugivore Strawberry", "200 g"),
   },
   {
@@ -4914,7 +4914,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(98, 115, "Malgudi Premium Grated Coconut", "200 g"),
   },
   {
@@ -4923,7 +4923,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(145, 260, "Keventer Frozen Green Peas", "1 kg"),
   },
   {
@@ -4932,7 +4932,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(207, 240, "Safal Frozen Green Peas", "1 kg"),
   },
   {
@@ -4941,7 +4941,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(155, 180, "Safal Frozen Sweet Corn", "1 kg"),
   },
   {
@@ -4950,7 +4950,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(308, 320, "Frugivore Frozen Mix Berries", "200 g"),
   },
   {
@@ -4959,7 +4959,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(300, 350, "Very Berry Fruits Fresh Frozen Raspberry", "150 g"),
   },
   {
@@ -4968,7 +4968,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(141, 240, "SPT American Frozen Sweet Corn", "1 kg"),
   },
   {
@@ -4977,7 +4977,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(82, 135, "SPT American Frozen Sweet Corn", "500 g"),
   },
   {
@@ -4986,7 +4986,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 110, "SPT Frozen Grated Coconut", "200 g"),
   },
   {
@@ -4995,7 +4995,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(340, 550, "Gadre Edamame Frozen", "500 g"),
   },
   {
@@ -5004,7 +5004,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(375, 375, "Abbie's Shiitake Raw Mushroom", "100 g"),
   },
   {
@@ -5013,7 +5013,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 260, "Goeld Frozen Green Peas", "1 kg"),
   },
   {
@@ -5022,7 +5022,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(127, 180, "Goeld Frozen Sweet Corn", "1 kg"),
   },
   {
@@ -5031,7 +5031,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "130 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(139, 159, "On1y Popcorn Cheese Seasoning Mix", "130 g"),
   },
   {
@@ -5040,7 +5040,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(169, 299, "Organic Box Rosemary", "100 g"),
   },
   {
@@ -5049,7 +5049,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(55, 58, "Snapin Oregano Pizza Seasoning", "50 g"),
   },
   {
@@ -5058,7 +5058,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(55, 58, "Snapin Chilli Flakes", "30 g"),
   },
   {
@@ -5067,7 +5067,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(110, 119, "On1y Pizza Oregano Mix", "80 g"),
   },
   {
@@ -5076,7 +5076,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(53, 60, "Keya Pizza Oregano Spice Mix", "40 g"),
   },
   {
@@ -5085,7 +5085,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(169, 299, "Nutrilin Dried Rosemary Leaves", "100 g"),
   },
   {
@@ -5094,7 +5094,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "30 g + 50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(96, 116, "Snapin Oregano Seasoning + Chilli Flakes Combo", "30 g + 50 g"),
   },
   {
@@ -5103,7 +5103,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(414, 499, "Desire Birista Fried Onion Flakes", "1 kg"),
   },
   {
@@ -5112,7 +5112,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(53, 60, "Keya Pizza Chilli Flakes Multipack", "20 g"),
   },
   {
@@ -5121,7 +5121,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(90, 99, "Keya Red Chilli Flakes", "40 g"),
   },
   {
@@ -5130,7 +5130,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(108, 119, "Keya Piri Piri Seasoning Sprinkler", "90 g"),
   },
   {
@@ -5139,7 +5139,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(110, 119, "Keya Pizza Oregano", "70 g"),
   },
   {
@@ -5148,7 +5148,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "27 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(114, 119, "Snapin Italian Mixed Herbs Seasoning", "27 g"),
   },
   {
@@ -5157,7 +5157,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(70, 115, "Orika Red Chilli Flakes Sprinkler", "45 g"),
   },
   {
@@ -5166,7 +5166,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(85, 99, "Keya Garlic Powder", "55 g"),
   },
   {
@@ -5175,7 +5175,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(189, 229, "Mystiq Living Dried Rosemary Leaves for Hair Growth & Tea Infusion", "70 g"),
   },
   {
@@ -5184,7 +5184,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "38 g + 20 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(184, 204, "Snapin Oregano + Red Chilli Flakes Seasoning Combo", "38 g + 20 g"),
   },
   {
@@ -5193,7 +5193,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(104, 109, "Snapin Oregano Seasoning", "20 g"),
   },
   {
@@ -5202,7 +5202,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(127, 139, "Keya Oregano Seasoning", "50 g"),
   },
   {
@@ -5211,7 +5211,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(104, 109, "Snapin Pizza Oregano Mix Seasoning", "50 g"),
   },
   {
@@ -5220,7 +5220,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "40 g + 50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(200, 238, "Keya Oregano Seasoning + Red Chilli Flakes Combo", "40 g + 50 g"),
   },
   {
@@ -5229,7 +5229,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "20 g + 40 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 120, "Keya Pizza Oregano Spice Mix + Pizza Chilli Flakes Multipack Combo", "20 g + 40 g"),
   },
   {
@@ -5238,7 +5238,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(55, 59, "Snapin Piri-Piri / Peri-Peri Mix Seasoning", "50 g"),
   },
   {
@@ -5247,7 +5247,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(82, 99, "Keya Onion Powder", "50 g"),
   },
   {
@@ -5256,7 +5256,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "170 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(293, 400, "MasterChow Crunchy Garlic Chilli Crisp", "170 g"),
   },
   {
@@ -5265,7 +5265,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "48 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(115, 119, "Snapin Pasta Mix Seasoning", "48 g"),
   },
   {
@@ -5274,7 +5274,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "10 x 4 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(54, 58, "Snapin Peri-Peri / Piri Piri Mix", "10 x 4 g"),
   },
   {
@@ -5283,7 +5283,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "38 g + 50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(184, 204, "Snapin Pizza Oregano Mix Seasoning + Red Chilli Flakes Seasoning Combo", "38 g + 50 g"),
   },
   {
@@ -5292,7 +5292,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(93, 109, "Keya Ginger Powder", "40 g"),
   },
   {
@@ -5301,7 +5301,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "23 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(123, 139, "Keya Mixed Herbs Seasoning", "23 g"),
   },
   {
@@ -5310,7 +5310,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "48 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(89, 99, "On1y Garlic Herb Bread Seasoning", "48 g"),
   },
   {
@@ -5319,7 +5319,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(75, 93, "Orika Peri Peri Masala /Seasoning", "40 g"),
   },
   {
@@ -5328,7 +5328,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "38 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(90, 95, "Snapin Red Chilli Flakes Seasoning", "38 g"),
   },
   {
@@ -5337,7 +5337,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(133, 140, "Urban Platter Vegan Cheddar Cheese Seasoning", "100 g"),
   },
   {
@@ -5346,7 +5346,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(123, 139, "Keya Italian Seasoning", "35 g"),
   },
   {
@@ -5355,7 +5355,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "17 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(102, 109, "Keya Oregano", "17 g"),
   },
   {
@@ -5364,7 +5364,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "14 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(81, 109, "On1y Mixed Herbs", "14 g"),
   },
   {
@@ -5373,7 +5373,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(102, 125, "Orika Oregano Pizza Italian Seasoning", "60 g"),
   },
   {
@@ -5382,7 +5382,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(219, 235, "Urban Platter Vegan Parmesan Cheese Seasoning", "100 g"),
   },
   {
@@ -5391,7 +5391,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(64, 85, "Catch Red Chilli Flakes Sprinkler", "35 g"),
   },
   {
@@ -5400,7 +5400,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(83, 110, "Catch Pasta & Pizza Sprinkler Seasoning", "75 g"),
   },
   {
@@ -5409,7 +5409,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(92, 99, "Keya Garlic Granules", "55 g"),
   },
   {
@@ -5418,7 +5418,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(55, 79, "Orika Red Chilli Flakes", "50 g"),
   },
   {
@@ -5427,7 +5427,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(299, 330, "Crispees Fried Onions", "500 g"),
   },
   {
@@ -5436,7 +5436,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(85, 99, "Keya Ginger Garlic Powder", "50 g"),
   },
   {
@@ -5445,7 +5445,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "370 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(180, 180, "Abbie's Pickle Red Paprika", "370 g"),
   },
   {
@@ -5454,7 +5454,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(112, 119, "On1y Piri Piri Mix", "80 g"),
   },
   {
@@ -5463,7 +5463,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "55 g + 40 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(167, 208, "Keya Garlic Powder + Ginger Powder Combo", "55 g + 40 g"),
   },
   {
@@ -5472,7 +5472,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(82, 93, "Orika Oregano Pizza Italian Seasoning", "50 g"),
   },
   {
@@ -5481,7 +5481,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "2 x 100 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(300, 320, "Time Out Popcorn Cheddar Cheese + Sour Cream & Onion Seasoning", "2 x 100 g"),
   },
   {
@@ -5490,7 +5490,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(90, 99, "Keya Onion Flakes Seasoning", "35 g"),
   },
   {
@@ -5499,7 +5499,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "600 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(450, 499, "Nutty Chopped Dry Garlic", "600 g"),
   },
   {
@@ -5508,7 +5508,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(59, 72, "Orika Continental Style Herby Omelette Seasoning", "60 g"),
   },
   {
@@ -5517,7 +5517,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(105, 119, "Keya Pizza Chilli Italian Seasoning", "60 g"),
   },
   {
@@ -5526,7 +5526,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "2 x 100 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(300, 320, "Time Out Popcorn Sweet Chilli BBQ + Mexican Cheese Seasoning", "2 x 100 g"),
   },
   {
@@ -5535,7 +5535,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(115, 125, "Khetika Sprouted Moong Chilla Batter", "1 kg"),
   },
   {
@@ -5544,7 +5544,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(69, 69, "iD Rice Rava Idli Batter", "1 kg"),
   },
   {
@@ -5553,7 +5553,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(65, 74, "iD Ragi Millet Idly & Dosa Batter", "500 g"),
   },
   {
@@ -5562,7 +5562,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(79, 99, "Khetika Fresh Idli Dosa Batter", "1 kg"),
   },
   {
@@ -5571,7 +5571,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(90, 99, "Ammamma's Dosa-Idly Batter", "1 kg"),
   },
   {
@@ -5580,7 +5580,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(95, 95, "iD Protein-Rich Idli Dosa Batter", "500 g"),
   },
   {
@@ -5589,7 +5589,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(86, 100, "iD Multigrain Idly & Dosa Batter", "500 g"),
   },
   {
@@ -5598,7 +5598,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(69, 79, "Curryit Amma Style Tomato Rasam Masala Paste (No Preservative)", "60 g"),
   },
   {
@@ -5607,7 +5607,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 199, "The Naturik Co Spinach Moringa Chilla Mix", "250 g"),
   },
   {
@@ -5616,7 +5616,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(159, 199, "The Naturik Co Multigrain Chilla Mix", "250 g"),
   },
   {
@@ -5625,7 +5625,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(155, 199, "The Naturik Co High Protein Ragi Chilla Mix", "250 g"),
   },
   {
@@ -5634,7 +5634,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "130 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 150, "Samyang Ramen Instant Noodles - Carbo Hot Chicken Flavour", "130 g"),
   },
   {
@@ -5643,7 +5643,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(130, 130, "Indomie Mi goreng Instant Noodles", "400 g"),
   },
   {
@@ -5652,7 +5652,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 139, "Nongshim Shin Ramyun Spicy Flavoured Instant Noodles", "120 g"),
   },
   {
@@ -5661,7 +5661,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 150, "Samyang 2x Spicy Ramen Instant Noodles - Hot Chicken Flavour", "140 g"),
   },
   {
@@ -5670,7 +5670,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "68 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 139, "Nongshim Shin Red Super Spicy Noodles", "68 g"),
   },
   {
@@ -5679,7 +5679,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(99, 200, "Ching's Secret Shirataki Noodles", "270 g"),
   },
   {
@@ -5688,7 +5688,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 139, "Nongshim Shin Red Super Spicy Noodles", "120 g"),
   },
   {
@@ -5697,7 +5697,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(180, 200, "Urban Platter Shirataki Noodles", "270 g"),
   },
   {
@@ -5706,7 +5706,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "68 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 139, "Nongshim Shin Cup Noodles", "68 g"),
   },
   {
@@ -5715,7 +5715,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "5 x 70 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(100, 100, "Indomie Chicken Flavour Instant Noodles", "5 x 70 g"),
   },
   {
@@ -5724,7 +5724,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(228, 250, "Moi Soi Shirataki Udon Noodles - Keto Low Calorie", "270 g"),
   },
   {
@@ -5733,7 +5733,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 150, "Samyang Ramen Instant Noodles - Hot Chicken Flavour", "140 g"),
   },
   {
@@ -5742,7 +5742,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(133, 149, "Nongshim Shin Ramyun Spicy Chicken Noodles Soup", "120 g"),
   },
   {
@@ -5751,7 +5751,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "650 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(750, 750, "Samyang Buldak Carbonara Hot Chicken Flavoured Instant Noodles / Ramen", "650 g"),
   },
   {
@@ -5760,7 +5760,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(170, 290, "Moi Soi Thai Rice Stick Noodles - Made with Thai Rice", "400 g"),
   },
   {
@@ -5769,7 +5769,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "136 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(130, 169, "Nongshim Stir Fry Shin Ramyun Noodles With Cheese", "136 g"),
   },
   {
@@ -5778,7 +5778,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(220, 250, "Moi Soi Thai Glass Noodles - Made with Mung Beans", "160 g"),
   },
   {
@@ -5787,7 +5787,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "375 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(243, 275, "Real Thai Rice Stick Pad Thai Noodles", "375 g"),
   },
   {
@@ -5796,7 +5796,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "375 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(270, 270, "Real Thai Rice Stick Noodles", "375 g"),
   },
   {
@@ -5805,7 +5805,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(129, 200, "pastaZara Durum Wheat Semolina Spaghetti", "400 g"),
   },
   {
@@ -5814,7 +5814,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(320, 399, "Barilla Love Heart-Shaped Pasta", "400 g"),
   },
   {
@@ -5823,7 +5823,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(320, 399, "Barilla Al Bronzo Spaghetti Pasta", "500 g"),
   },
   {
@@ -5832,7 +5832,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(129, 200, "pastaZara Fusilli Pasta", "400 g"),
   },
   {
@@ -5841,7 +5841,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "3 x 180 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(259, 569, "Mealeats Foxtail Millet Noodles (No Maida)", "3 x 180 g"),
   },
   {
@@ -5850,7 +5850,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(320, 399, "Barilla Al Bronzo Penne Rigate Pasta", "500 g"),
   },
   {
@@ -5859,7 +5859,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(129, 200, "pastaZara Penne Pasta", "400 g"),
   },
   {
@@ -5868,7 +5868,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(39, 50, "2PM Devil's Hot Chicken Ramen Instant Noodles", "100 g"),
   },
   {
@@ -5877,7 +5877,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(399, 399, "Barilla Al Bronzo Fusilli Pasta", "500 g"),
   },
   {
@@ -5886,7 +5886,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "5 x 75 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(130, 130, "Indomie Instant Noodles (Special Chicken)", "5 x 75 g"),
   },
   {
@@ -5895,7 +5895,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 150, "Samyang Ramen Instant Noodles - Cheese Hot Chicken Flavour", "140 g"),
   },
   {
@@ -5904,7 +5904,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(150, 150, "Samyang Ramen Instant Noodles - Jjajang Hot Chicken Flavour", "140 g"),
   },
   {
@@ -5913,7 +5913,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(333, 350, "Urban Platter Sushi Nori Sheet (Seaweed)", "25 g"),
   },
   {
@@ -5922,7 +5922,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(72, 139, "Otoki Jin Ramen Mild Noodles", "120 g"),
   },
   {
@@ -5931,7 +5931,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(72, 139, "Otoki Jin Ramen Spicy Noodles", "120 g"),
   },
   {
@@ -5940,7 +5940,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Imported Noodles & Pasta",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&auto=format&fit=crop&q=60",
+    image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=350&auto=format&fit=crop&q=70",
     offers: generateStoreOffers(120, 120, "Samyang Ramen Instant Noodles - Kimchi", "120 g"),
   },
 ];
