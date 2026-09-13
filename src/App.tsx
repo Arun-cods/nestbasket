@@ -19,6 +19,7 @@ import { DpdpConsentBanner } from './components/DpdpConsentBanner';
 import { HelpSupportModal } from './components/HelpSupportModal';
 import { LocationAvailabilityModal } from './components/LocationAvailabilityModal';
 import { MobileInstallBanner } from './components/MobileInstallBanner';
+import { LiveDarkstoreInspectorModal } from './components/LiveDarkstoreInspectorModal';
 import { CITIES, INITIAL_FOUNDER_STATS } from './data/mockGroceryData';
 import { COMPREHENSIVE_GROCERY_DATA } from './data/comprehensiveCatalog';
 import { CityOption, CartItem, Product, PlatformId, FounderStats, UserProfile } from './types';
@@ -55,6 +56,7 @@ export const App: React.FC = () => {
   const [isHelpModalOpen, setIsHelpModalOpen] = useState<boolean>(false);
   const [isPrivacyModalOpen, setIsPrivacyModalOpen] = useState<boolean>(false);
   const [privacyModalTab, setPrivacyModalTab] = useState<'dpdp' | 'affiliate' | 'terms'>('dpdp');
+  const [isDarkstoreModalOpen, setIsDarkstoreModalOpen] = useState<boolean>(false);
 
   // Check URL query param or hash for executive-portal trigger
   useEffect(() => {
@@ -406,6 +408,7 @@ export const App: React.FC = () => {
         onOpenAuth={handleOpenAuth}
         onLogout={handleLogout}
         onOpenHelp={() => setIsHelpModalOpen(true)}
+        onOpenDarkstoreTelemetry={() => setIsDarkstoreModalOpen(true)}
         searchQuery={homeSearchQuery}
         onSearchChange={(q) => setHomeSearchQuery(q)}
       />
@@ -441,7 +444,10 @@ export const App: React.FC = () => {
         />
 
         {/* Live Surge & Platform Fee Radar (Compact) */}
-        <SurgeFeeRadar city={selectedCity} />
+        <SurgeFeeRadar
+          city={selectedCity}
+          onOpenDarkstoreTelemetry={() => setIsDarkstoreModalOpen(true)}
+        />
 
         {/* Real-time Multi-Store Price Grid across 24,580 SKUs */}
         <PriceComparisonGrid
@@ -630,6 +636,13 @@ export const App: React.FC = () => {
         selectedCity={selectedCity}
         onSelectCity={handleSelectCity}
         onOpenHelp={() => setIsHelpModalOpen(true)}
+      />
+
+      {/* Real-Time Darkstore Telemetry & Multi-Store Inspector Modal */}
+      <LiveDarkstoreInspectorModal
+        isOpen={isDarkstoreModalOpen}
+        onClose={() => setIsDarkstoreModalOpen(false)}
+        selectedCity={selectedCity}
       />
 
       {/* Mobile Bottom Navigation Bar (Flipkart Minutes / Zepto Style) */}

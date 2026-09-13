@@ -17,6 +17,7 @@ interface NavbarProps {
   onOpenAuth: () => void;
   onLogout: () => void;
   onOpenHelp?: () => void;
+  onOpenDarkstoreTelemetry?: () => void;
   searchQuery?: string;
   onSearchChange?: (query: string) => void;
 }
@@ -52,6 +53,7 @@ export const Navbar: React.FC<NavbarProps> = ({
   onOpenAuth,
   onLogout,
   onOpenHelp,
+  onOpenDarkstoreTelemetry,
   searchQuery,
   onSearchChange,
 }) => {
@@ -150,6 +152,19 @@ export const Navbar: React.FC<NavbarProps> = ({
 
           {/* Right Action Items: Login & My Cart */}
           <div className="flex items-center gap-2 sm:gap-3 shrink-0">
+            {/* Live Darkstore Telemetry Radar Button */}
+            {onOpenDarkstoreTelemetry && (
+              <button
+                onClick={onOpenDarkstoreTelemetry}
+                className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl text-xs font-bold bg-emerald-50 hover:bg-emerald-100 text-emerald-800 transition-all border border-emerald-300 shadow-2xs cursor-pointer"
+                title="Live Quick-Commerce Darkstore Telemetry Radar"
+              >
+                <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping shrink-0" />
+                <Zap className="w-3.5 h-3.5 text-emerald-600" />
+                <span className="hidden sm:inline">Radar</span>
+              </button>
+            )}
+
             {/* Help Button */}
             <button
               onClick={onOpenHelp}

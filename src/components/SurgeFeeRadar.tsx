@@ -5,9 +5,10 @@ import { PLATFORMS } from '../data/mockGroceryData';
 
 interface SurgeFeeRadarProps {
   city: CityOption;
+  onOpenDarkstoreTelemetry?: () => void;
 }
 
-export const SurgeFeeRadar: React.FC<SurgeFeeRadarProps> = ({ city }) => {
+export const SurgeFeeRadar: React.FC<SurgeFeeRadarProps> = ({ city, onOpenDarkstoreTelemetry }) => {
   // Live simulated fee metrics for selected city
   const feeStatus = [
     {
@@ -63,9 +64,20 @@ export const SurgeFeeRadar: React.FC<SurgeFeeRadarProps> = ({ city }) => {
             {(city.popularAreas[0] || '').replace(/\s*\(\d+\)/g, '')} ({city.pincode})
           </span>
         </div>
-        <div className="text-[11px] font-bold text-emerald-400 flex items-center gap-1 bg-emerald-950/60 px-2 py-0.5 rounded-md border border-emerald-500/30 shrink-0">
-          <TrendingDown className="w-3 h-3 text-emerald-400" />
-          <span>Lowest Fee: BB Now &amp; Zepto (₹3–₹4)</span>
+        <div className="flex items-center gap-1.5 shrink-0">
+          <div className="text-[11px] font-bold text-emerald-400 hidden sm:flex items-center gap-1 bg-emerald-950/60 px-2 py-0.5 rounded-md border border-emerald-500/30">
+            <TrendingDown className="w-3 h-3 text-emerald-400" />
+            <span>Lowest Fee: BB Now &amp; Zepto (₹3–₹4)</span>
+          </div>
+          {onOpenDarkstoreTelemetry && (
+            <button
+              onClick={onOpenDarkstoreTelemetry}
+              className="text-[10.5px] font-extrabold text-emerald-300 hover:text-white flex items-center gap-1 bg-emerald-900/60 hover:bg-emerald-800 px-2 py-0.5 rounded-md border border-emerald-500/50 transition-all cursor-pointer shadow-2xs"
+            >
+              <Zap className="w-3 h-3 text-amber-400 fill-amber-400 animate-pulse" />
+              <span>Inspect Darkstores ⚡</span>
+            </button>
+          )}
         </div>
       </div>
 
