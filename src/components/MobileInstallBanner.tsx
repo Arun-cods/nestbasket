@@ -53,8 +53,10 @@ export const MobileInstallBanner: React.FC = () => {
   }, []);
 
   const triggerDirectApkDownload = () => {
+    const isNestBasketSubdir = window.location.pathname.startsWith('/nestbasket');
+    const apkUrl = isNestBasketSubdir ? '/nestbasket/NestBasket.apk' : './NestBasket.apk';
     const link = document.createElement('a');
-    link.href = '/NestBasket.apk';
+    link.href = apkUrl;
     link.download = 'NestBasket.apk';
     document.body.appendChild(link);
     link.click();
