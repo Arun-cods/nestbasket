@@ -60,7 +60,7 @@ export const SurgeFeeRadar: React.FC<SurgeFeeRadarProps> = ({ city }) => {
             Fee Radar
           </span>
           <span className="text-[11px] text-slate-300 font-medium truncate">
-            {city.popularAreas[0]} ({city.pincode})
+            {(city.popularAreas[0] || '').replace(/\s*\(\d+\)/g, '')} ({city.pincode})
           </span>
         </div>
         <div className="text-[11px] font-bold text-emerald-400 flex items-center gap-1 bg-emerald-950/60 px-2 py-0.5 rounded-md border border-emerald-500/30 shrink-0">

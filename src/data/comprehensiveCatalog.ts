@@ -90,7 +90,7 @@ export const MASTER_CATALOG_CATEGORIES = [
   { id: 'instant', label: 'Instant Food, Noodles & Sauces', icon: '🍜', totalSkus: '2,110' },
   { id: 'household', label: 'Cleaning & Home Essentials', icon: '🧼', totalSkus: '2,620' },
   { id: 'personal', label: 'Personal Care & Grooming', icon: '🧴', totalSkus: '1,640' },
-  { id: 'paan', label: 'Paan Corner & Refreshments', icon: '🍃', totalSkus: '1,280' },
+  { id: 'paan', label: 'Fresh Essentials & Refreshments', icon: '🍃', totalSkus: '1,280' },
 ];
 
 export const COMPREHENSIVE_GROCERY_DATA: Product[] = [

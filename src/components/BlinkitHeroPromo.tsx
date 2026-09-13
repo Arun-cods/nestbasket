@@ -14,9 +14,9 @@ interface CategoryTile {
 
 const CATEGORY_TILES: CategoryTile[] = [
   // Row 1
-  { id: 1, label: 'Paan Corner', sliceId: 1, categoryKey: 'paan', searchQuery: '' },
+  { id: 1, label: 'Fresh Groceries', sliceId: 3, categoryKey: 'veggies', searchQuery: '' },
   { id: 2, label: 'Dairy, Bread & Eggs', sliceId: 2, categoryKey: 'dairy', searchQuery: '' },
-  { id: 3, label: 'Fruits & Vegetables', sliceId: 3, categoryKey: 'veggies', searchQuery: '' },
+  { id: 3, label: 'Fruits & Vegetables', sliceId: 14, categoryKey: 'veggies', searchQuery: '' },
   { id: 4, label: 'Cold Drinks & Juices', sliceId: 4, categoryKey: 'beverages', searchQuery: '' },
   { id: 5, label: 'Snacks & Munchies', sliceId: 5, categoryKey: 'snacks', searchQuery: '' },
   { id: 6, label: 'Breakfast & Instant Food', sliceId: 6, categoryKey: 'instant', searchQuery: '' },

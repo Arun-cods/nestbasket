@@ -302,7 +302,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.18,
       brands: ['Tata Sampann', 'Fortune', 'Organic Tattva', 'BB Royal'],
       variants: [{ unit: '500 g Pouch', mult: 0.53 }, { unit: '1 kg Pouch', mult: 1 }, { unit: '2 kg Saver Pack', mult: 1.94 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1585994192701-f1a505c8574a?w=500&auto=format&fit=crop&q=80'],
       isEssential: true,
     },
     {
@@ -335,7 +335,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.25,
       brands: ['Everest Spices', 'MDH Deggi Mirch', 'Catch Pure Spices', 'Tata Sampann Spices', 'Badshah Masala'],
       variants: [{ unit: '100 g Box', mult: 0.55 }, { unit: '200 g Box', mult: 1 }, { unit: '500 g Saver Pouch', mult: 2.3 }, { unit: 'Garam Masala 100g', mult: 1.4 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=500&auto=format&fit=crop&q=80'],
     },
     {
       item: 'Pure & Hygienic Crystal White Sugar',
@@ -379,7 +379,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.15,
       brands: ['Haldiram\'s Nagpur', 'Bikaji Bhujia No. 1', 'Balaji Wafers & Namkeen', 'Chhedas Banana Chips'],
       variants: [{ unit: '200 g Pouch', mult: 1 }, { unit: '400 g Saver Pouch', mult: 1.9 }, { unit: '1 kg Jumbo Family Bag', mult: 4.4 }, { unit: 'Moong Dal Salted 200g', mult: 1.1 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=500&auto=format&fit=crop&q=80'],
     },
     {
       item: 'Cadbury Dairy Milk & Silk Chocolates',
@@ -389,7 +389,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.08,
       brands: ['Cadbury Dairy Milk', 'Cadbury Dairy Milk Silk', 'Nestle KitKat 4-Finger', 'Cadbury 5 Star 3D', 'Ferrero Rocher Gold'],
       variants: [{ unit: '55 g Classic Bar', mult: 1 }, { unit: '150 g Silk Large Bar', mult: 2.4 }, { unit: 'Ferrero Box of 16 pcs', mult: 6.8 }, { unit: 'Snickers Peanut Bar 45g', mult: 0.65 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1548907040-4baa42d10919?w=500&auto=format&fit=crop&q=80'],
     },
     {
       item: 'Premium California Almonds & Cashews',
@@ -399,7 +399,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.35,
       brands: ['Farmley Prasadam Makhana', 'Nutraj California Almonds', 'Happilo Premium Cashews', 'BB Royal Walnuts Akhrot'],
       variants: [{ unit: '250 g Pouch', mult: 1 }, { unit: '500 g Value Zip Pouch', mult: 1.92 }, { unit: '1 kg Mega Pack', mult: 3.75 }, { unit: 'Roasted Makhana 100g', mult: 0.65 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=500&auto=format&fit=crop&q=80'],
     },
   ],
   beverages: [
@@ -442,7 +442,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.25,
       brands: ['Real Fruit Power Mixed', 'Tropicana 100% Orange', 'Paper Boat Aamras', 'Frooti Mango Drink', 'B Natural Mixed Fruit'],
       variants: [{ unit: '1 Litre Tetra Pack', mult: 1 }, { unit: '1 Litre Pack of 2 Combo', mult: 1.88 }, { unit: '200 ml Tetra Pack with Straw', mult: 0.25 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1613478223719-2ab802602423?w=500&auto=format&fit=crop&q=80'],
     },
     {
       item: 'Health Malt Nutrition Drinks (Bournvita, Horlicks, Boost)',
@@ -452,7 +452,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.15,
       brands: ['Cadbury Bournvita Pro-Health', 'Horlicks Classic Malt', 'Boost Energy Drink', 'Complan Royale Chocolate'],
       variants: [{ unit: '500 g Refill', mult: 0.55 }, { unit: '1 kg Pet Jar', mult: 1 }, { unit: '2 kg Mega Saver Pack', mult: 1.9 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1541658016709-82535e94bc69?w=500&auto=format&fit=crop&q=80'],
     },
     {
       item: 'Red Bull & Monster Energy Drinks',
@@ -462,19 +462,19 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.1,
       brands: ['Red Bull Energy Drink', 'Monster Energy Original', 'Sting Energy Drink 250ml', 'Hell Energy Classic'],
       variants: [{ unit: '250 ml Can', mult: 1 }, { unit: '350 ml Tall Can', mult: 1.35 }, { unit: 'Pack of 4 Cans (250 ml)', mult: 3.8 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500&auto=format&fit=crop&q=80'],
     },
   ],
   instant: [
     {
-      item: 'Maggi 2-Minute Masala Instant Noodles',
-      hindi: 'मैगी 2-मिनट मसाला नूडल्स',
+      item: 'Instant Noodles',
+      hindi: 'इंस्टेंट नूडल्स',
       category: 'instant',
       basePrice: 55,
       mrpRatio: 1.05,
-      brands: ['Maggi 2-Minute Masala', 'Maggi Atta Noodles', 'Sunfeast Yippee Magic Masala', 'Top Ramen Curry', 'Ching Secret Schezwan'],
+      brands: ['Maggi 2-Minute Masala', 'Maggi Special Masala', 'Sunfeast Yippee Magic', 'Top Ramen Curry', 'Ching\'s Secret Schezwan'],
       variants: [{ unit: 'Single Pack (70 g)', mult: 0.28 }, { unit: 'Pack of 4 Saver (280 g)', mult: 1 }, { unit: 'Pack of 8 Mega (560 g)', mult: 1.95 }, { unit: 'Pack of 12 Super Saver (840 g)', mult: 2.85 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/266112_30-maggi-2-minute-instant-noodles-masala.jpg'],
+      images: ['https://www.bbassets.com/media/uploads/p/l/266112_30-maggi-2-minute-instant-noodles-masala.jpg', 'https://images.unsplash.com/photo-1612927601601-6638404737ce?w=500&auto=format&fit=crop&q=80'],
       isEssential: true,
     },
     {
@@ -485,7 +485,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.25,
       brands: ['Maggi Rich Tomato Ketchup', 'Kissan Fresh Tomato Ketchup', 'Heinz Tomato Ketchup', 'Ching\'s Secret Schezwan Chutney'],
       variants: [{ unit: '500 g Squeezy Bottle', mult: 0.6 }, { unit: '1 kg Squeezy Bottle Saver', mult: 1 }, { unit: 'Ching\'s Schezwan 250g Jar', mult: 0.75 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=500&auto=format&fit=crop&q=80'],
     },
     {
       item: 'Durum Wheat Penne & Fusilli Pasta',
@@ -495,7 +495,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.3,
       brands: ['Disano 100% Durum Wheat Penne', 'Barilla Italian Pasta', 'Borges Fusilli Pasta', 'Bambino Roasted Vermicelli'],
       variants: [{ unit: '500 g Pouch', mult: 1 }, { unit: '1 kg Family Saver Bag', mult: 1.9 }, { unit: 'Vermicelli Sevai 500g', mult: 0.6 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1621996346565-e3d5d6281264?w=500&auto=format&fit=crop&q=80'],
     },
     {
       item: 'MTR Ready-to-Eat Dal Makhani & Paneer Tikka',
@@ -505,7 +505,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.2,
       brands: ['MTR Ready to Eat', 'Tata Sampann Yumside', 'Gits Instant Mix Gulab Jamun', 'MTR Rava Idli Mix'],
       variants: [{ unit: '300 g Retort Pouch', mult: 1 }, { unit: 'Pack of 2 Combo', mult: 1.9 }, { unit: 'Instant Idli Mix 500g', mult: 0.85 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500&auto=format&fit=crop&q=80'],
     },
   ],
   household: [
@@ -550,7 +550,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.18,
       brands: ['All Out Ultra Power+ Twin Refill', 'Good Knight Gold Flash Machine + Refill', 'Black HIT Mosquito Spray', 'Red HIT Cockroach Spray'],
       variants: [{ unit: 'Machine + Refill Combo', mult: 1 }, { unit: 'Twin Refill Pack (90 Nights)', mult: 1.1 }, { unit: 'HIT Spray 625 ml Tall Can', mult: 1.5 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1585421514738-01798e348b17?w=500&auto=format&fit=crop&q=80'],
     },
     {
       item: 'Kitchen Foil, Cling Wrap & Garbage Bags',
@@ -560,7 +560,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.25,
       brands: ['Freshee Aluminium Foil 18m', 'Origami Kitchen Paper Towels', 'Glad Cling Wrap 30m', 'Shalimar Oxo-Biodegradable Garbage Bags'],
       variants: [{ unit: '18 Meter Heavy Duty Foil', mult: 1 }, { unit: '72 Meter Commercial Roll', mult: 2.8 }, { unit: 'Garbage Bags Roll (30 Bags)', mult: 0.85 }, { unit: 'Kitchen Towel 2 Rolls Pack', mult: 0.95 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&auto=format&fit=crop&q=80'],
     },
   ],
   personal: [
@@ -583,7 +583,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.22,
       brands: ['Head & Shoulders Cool Menthol', 'Dove Intense Repair Shampoo', 'Pantene Pro-V Hair Fall Control', 'Tresemme Keratin Smooth', 'Parachute Pure Coconut Hair Oil'],
       variants: [{ unit: '340 ml Bottle', mult: 0.65 }, { unit: '650 ml Family Pump Bottle', mult: 1 }, { unit: '1 Litre Salon Size Bottle', mult: 1.5 }, { unit: 'Parachute Oil 500ml Bottle', mult: 0.75 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=500&auto=format&fit=crop&q=80'],
     },
     {
       item: 'Toothpaste & Whole Mouth Care Brushes',
@@ -604,7 +604,7 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       mrpRatio: 1.15,
       brands: ['Gillette Mach3 Razor with Cartridges', 'Gillette Classic Shaving Foam', 'Fogg Scent Xpressio Perfume', 'Nivea Men Deep Black Carbon Deodorant', 'Wild Stone Edge Body Spray'],
       variants: [{ unit: '150 ml Body Spray Can', mult: 1 }, { unit: 'Mach3 Razor + 2 Cartridges', mult: 1.8 }, { unit: 'Gillette Shave Foam 418g Can', mult: 1.1 }, { unit: 'Fogg 120ml No Gas Perfume', mult: 1.25 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg'],
+      images: ['https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=500&auto=format&fit=crop&q=80'],
     },
     {
       item: 'Feminine Hygiene Wings Pads & Baby Diaper Pants',
@@ -702,31 +702,78 @@ export function queryMasterCatalog(options: {
   // If there is an active search query: scan seed + generated items to find matching SKUs
   if (q.length > 0) {
     const matchedProducts: Product[] = [];
-    // Check static comprehensive first
+    const seenIds = new Set<string>();
+
+    const getRelevanceScore = (p: Product): number => {
+      const name = p.name.toLowerCase();
+      const brand = (p.brand || '').toLowerCase();
+      const hindi = (p.nameHindi || '').toLowerCase();
+      const sub = (p.subCategory || '').toLowerCase();
+
+      // Highest relevance: name or brand starts with query or equals query
+      if (name.startsWith(q) || brand.startsWith(q)) return 100;
+      // Exact word match
+      const wordRegex = new RegExp(`\\b${q.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')}`, 'i');
+      if (wordRegex.test(name) || wordRegex.test(brand)) return 80;
+      // Substring in name
+      if (name.includes(q)) return 60;
+      // Substring in brand
+      if (brand.includes(q)) return 45;
+      // Hindi match
+      if (hindi.includes(q)) return 30;
+      // Subcategory match
+      if (sub.includes(q)) return 20;
+      return 10;
+    };
+
+    // 1. Check static comprehensive first across ALL categories so items like Maggi are never excluded
     for (const p of COMPREHENSIVE_GROCERY_DATA) {
-      if (category !== 'all' && p.category !== category) continue;
       if (onlyEssentials && !p.isDailyEssential) continue;
-      if (p.name.toLowerCase().includes(q) || (p.brand || '').toLowerCase().includes(q) || (p.nameHindi && p.nameHindi.includes(q))) {
-        matchedProducts.push(p);
+      const name = p.name.toLowerCase();
+      const brand = (p.brand || '').toLowerCase();
+      const hindi = (p.nameHindi || '').toLowerCase();
+      const sub = (p.subCategory || '').toLowerCase();
+
+      if (name.includes(q) || brand.includes(q) || hindi.includes(q) || sub.includes(q)) {
+        if (!seenIds.has(p.id)) {
+          seenIds.add(p.id);
+          matchedProducts.push(p);
+        }
       }
     }
 
-    // Search across generated deterministic items (scan first 1,500 items in relevant category)
-    const scanLimit = Math.min(maxCategorySkus, 2000);
-    for (let i = 0; i < scanLimit && matchedProducts.length < 200; i++) {
-      const p = generateDeterministicSku(i, category, cityMultiplier);
-      if (onlyEssentials && !p.isDailyEssential) continue;
-      if (
-        p.name.toLowerCase().includes(q) ||
-        (p.brand || '').toLowerCase().includes(q) ||
-        (p.nameHindi && p.nameHindi.includes(q))
-      ) {
-        matchedProducts.push(p);
+    // 2. Search across generated deterministic items across all categories
+    const categoriesToScan = category === 'all'
+      ? ['dairy', 'veggies', 'staples', 'snacks', 'beverages', 'instant', 'household', 'personal']
+      : [category, 'instant', 'dairy', 'veggies', 'staples', 'snacks', 'beverages', 'household', 'personal'];
+
+    for (const cat of categoriesToScan) {
+      const limit = 200;
+      for (let i = 0; i < limit && matchedProducts.length < 250; i++) {
+        const p = generateDeterministicSku(i, cat, cityMultiplier);
+        if (onlyEssentials && !p.isDailyEssential) continue;
+        const name = p.name.toLowerCase();
+        const brand = (p.brand || '').toLowerCase();
+        const hindi = (p.nameHindi || '').toLowerCase();
+
+        if (name.includes(q) || brand.includes(q) || hindi.includes(q)) {
+          if (!seenIds.has(p.id)) {
+            seenIds.add(p.id);
+            matchedProducts.push(p);
+          }
+        }
       }
     }
 
-    // Sort matched
+    // 3. Sort primarily by Relevance Score, then by chosen sortBy
     matchedProducts.sort((a, b) => {
+      const scoreA = getRelevanceScore(a);
+      const scoreB = getRelevanceScore(b);
+
+      if (scoreA !== scoreB) {
+        return scoreB - scoreA; // higher relevance first!
+      }
+
       const getSavings = (prod: Product) => {
         const prices = Object.values(prod.offers).filter((o) => o.inStock).map((o) => o.price);
         return prices.length >= 2 ? Math.max(...prices) - Math.min(...prices) : 0;

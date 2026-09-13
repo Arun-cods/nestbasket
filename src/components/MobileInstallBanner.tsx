@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { Download, X, Smartphone, Sparkles, CheckCircle2, Share, ArrowRight, ExternalLink } from 'lucide-react';
+import { Download, X, Smartphone, Sparkles, CheckCircle2, Share, ArrowRight, ExternalLink, ShieldCheck } from 'lucide-react';
 
 export const MobileInstallBanner: React.FC = () => {
   const [deferredPrompt, setDeferredPrompt] = useState<any>(null);
   const [isInstallable, setIsInstallable] = useState(false);
   const [isIos, setIsIos] = useState(false);
+  const [isInAppBrowser, setIsInAppBrowser] = useState(false);
   const [isDismissed, setIsDismissed] = useState(() => {
     return localStorage.getItem('nestbasket_install_dismissed') === 'true';
   });
@@ -25,6 +26,10 @@ export const MobileInstallBanner: React.FC = () => {
     const userAgent = window.navigator.userAgent.toLowerCase();
     const isIosDevice = /iphone|ipad|ipod/.test(userAgent);
     setIsIos(isIosDevice);
+
+    // Detect In-App Browsers (Instagram, Facebook, Messenger, WhatsApp, Twitter, TikTok)
+    const inApp = /instagram|fbav|fban|messenger|whatsapp|twitter|tiktok|snapchat/i.test(userAgent);
+    setIsInAppBrowser(inApp);
 
     // Capture Android/Chrome PWA install prompt
     const handleBeforeInstallPrompt = (e: Event) => {
@@ -47,7 +52,22 @@ export const MobileInstallBanner: React.FC = () => {
     };
   }, []);
 
+  const triggerDirectApkDownload = () => {
+    const link = document.createElement('a');
+    link.href = '/NestBasket.apk';
+    link.download = 'NestBasket.apk';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
+  const openInChromeIntent = () => {
+    const currentUrl = window.location.href.replace(/^https?:\/\//, '');
+    window.location.href = `intent://${currentUrl}#Intent;scheme=https;package=com.android.chrome;end`;
+  };
+
   const handleInstallClick = async () => {
+    // 1. If native Chrome PWA install prompt is ready, trigger it immediately (1-tap native prompt)
     if (deferredPrompt) {
       deferredPrompt.prompt();
       const { outcome } = await deferredPrompt.userChoice;
@@ -58,7 +78,8 @@ export const MobileInstallBanner: React.FC = () => {
         return;
       }
     }
-    // If deferredPrompt not yet ready or user wants instructions, open interactive guide
+
+    // 2. If in Instagram/In-App browser, show instant options: Open in Chrome or Download APK
     setShowInstallGuide(true);
   };
 
@@ -80,7 +101,7 @@ export const MobileInstallBanner: React.FC = () => {
               <div className="font-extrabold text-white flex items-center gap-1.5 truncate">
                 <span className="truncate">Install NestBasket App</span>
                 <span className="text-[9px] px-1.5 py-0.2 rounded-full bg-emerald-500/30 text-emerald-300 font-bold border border-emerald-400/40 shrink-0">
-                  PHYSICAL APP
+                  {isInAppBrowser ? 'INSTANT APK' : 'PHYSICAL APP'}
                 </span>
               </div>
               <div className="text-[10px] text-slate-300 hidden sm:block truncate">
@@ -96,7 +117,7 @@ export const MobileInstallBanner: React.FC = () => {
               className="px-2.5 sm:px-3 py-1.5 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-black text-xs flex items-center gap-1 sm:gap-1.5 transition-all shadow-md active:scale-95 cursor-pointer shrink-0"
             >
               {isIos ? <Share className="w-3.5 h-3.5" /> : <Download className="w-3.5 h-3.5" />}
-              <span>{isIos ? 'Add to Phone' : 'Install App'}</span>
+              <span>{isInAppBrowser ? 'Download / Install' : isIos ? 'Add to Phone' : 'Install App'}</span>
             </button>
             <button
               type="button"
@@ -136,65 +157,46 @@ export const MobileInstallBanner: React.FC = () => {
               </p>
             </div>
 
-            {/* Why Physical App is Better */}
-            <div className="grid grid-cols-3 gap-2 mb-5 text-center">
-              <div className="p-2.5 rounded-2xl bg-emerald-50 border border-emerald-200">
-                <div className="text-base font-black text-emerald-700">Full Screen</div>
-                <div className="text-[10px] text-emerald-800 font-semibold mt-0.5">No Browser Bar</div>
+            {/* In-App Browser Notice */}
+            {isInAppBrowser && (
+              <div className="mb-4 p-3 bg-amber-50 border border-amber-200 rounded-2xl text-xs text-amber-900">
+                <div className="font-extrabold flex items-center gap-1 text-amber-950 mb-1">
+                  <span>⚠️ Instagram / Social In-App Browser Detected</span>
+                </div>
+                <p className="text-[11px] text-amber-800 leading-relaxed">
+                  Instagram's in-app webview prevents automatic 1-tap app installs. Choose an option below:
+                </p>
               </div>
-              <div className="p-2.5 rounded-2xl bg-amber-50 border border-amber-200">
-                <div className="text-base font-black text-amber-700">1 Tap</div>
-                <div className="text-[10px] text-amber-800 font-semibold mt-0.5">Home Screen Icon</div>
-              </div>
-              <div className="p-2.5 rounded-2xl bg-teal-50 border border-teal-200">
-                <div className="text-base font-black text-teal-700">&lt; 1 MB</div>
-                <div className="text-[10px] text-teal-800 font-semibold mt-0.5">Zero Phone Memory</div>
-              </div>
-            </div>
+            )}
 
-            {/* Installation Steps based on OS */}
-            <div className="bg-slate-50 rounded-2xl p-4 border border-slate-200 mb-5 text-xs text-slate-700 space-y-3">
-              <div className="font-extrabold text-slate-900 flex items-center gap-1.5 text-xs">
-                <Smartphone className="w-4 h-4 text-emerald-600" />
-                <span>{isIos ? 'Instructions for iPhone / iPad (Safari)' : 'Instructions for Android Phone (Chrome)'}</span>
-              </div>
+            {/* Action Buttons: Instant APK Download + Open in Chrome */}
+            <div className="space-y-2.5 mb-5">
+              {/* Option 1: Direct APK Download */}
+              <button
+                type="button"
+                onClick={triggerDirectApkDownload}
+                className="w-full py-3.5 px-4 rounded-2xl bg-[#0c831f] hover:bg-[#0b721b] text-white font-black text-sm flex items-center justify-center gap-2 transition-all shadow-lg shadow-emerald-600/25 active:scale-95 cursor-pointer"
+              >
+                <Download className="w-4 h-4" />
+                <span>Download NestBasket.apk Directly</span>
+              </button>
 
-              {isIos ? (
-                <ol className="space-y-2 list-decimal list-inside font-medium text-slate-600">
-                  <li>
-                    Tap the <strong>Share button</strong> (<Share className="w-3 h-3 inline text-blue-600" /> square with arrow) at bottom of Safari.
-                  </li>
-                  <li>
-                    Scroll down and select <strong>'Add to Home Screen'</strong> (+).
-                  </li>
-                  <li>
-                    Tap <strong>'Add'</strong> in the top-right corner.
-                  </li>
-                </ol>
-              ) : (
-                <ol className="space-y-2.5 list-decimal list-inside font-medium text-slate-600">
-                  <li>
-                    Tap the <strong>three dots menu (⋮)</strong> in the top-right corner of Google Chrome.
-                  </li>
-                  <li>
-                    Tap <strong>'Install app'</strong> or <strong>'Add to Home screen'</strong>.
-                  </li>
-                  <li>
-                    Tap <strong>'Install'</strong> on the Android confirmation pop-up.
-                  </li>
-                </ol>
+              {/* Option 2: Open in Google Chrome */}
+              {!isIos && (
+                <button
+                  type="button"
+                  onClick={openInChromeIntent}
+                  className="w-full py-3 px-4 rounded-2xl bg-slate-900 hover:bg-slate-800 text-white font-extrabold text-xs sm:text-sm flex items-center justify-center gap-2 transition-all shadow-md active:scale-95 cursor-pointer"
+                >
+                  <ExternalLink className="w-4 h-4 text-emerald-400" />
+                  <span>Open in Google Chrome (1-Tap WebAPK)</span>
+                </button>
               )}
 
-              <div className="pt-2 border-t border-slate-200 text-[11px] text-emerald-700 font-bold flex items-center gap-1.5">
-                <CheckCircle2 className="w-3.5 h-3.5 shrink-0" />
-                <span>NestBasket will appear on your phone home screen as a physical standalone app!</span>
-              </div>
-            </div>
-
-            {/* Action Buttons */}
-            <div className="space-y-2">
+              {/* Native Prompt button if deferredPrompt ready */}
               {deferredPrompt && (
                 <button
+                  type="button"
                   onClick={async () => {
                     deferredPrompt.prompt();
                     const { outcome } = await deferredPrompt.userChoice;
@@ -203,24 +205,55 @@ export const MobileInstallBanner: React.FC = () => {
                       setShowInstallGuide(false);
                     }
                   }}
-                  className="w-full py-3 rounded-2xl bg-emerald-600 hover:bg-emerald-700 text-white font-black text-sm flex items-center justify-center gap-2 transition-all shadow-lg shadow-emerald-600/25 active:scale-95 cursor-pointer"
+                  className="w-full py-3 px-4 rounded-2xl bg-emerald-600 hover:bg-emerald-700 text-white font-black text-xs flex items-center justify-center gap-2 transition-all shadow-md active:scale-95 cursor-pointer"
                 >
-                  <Download className="w-4 h-4" />
-                  <span>Tap to Install WebAPK Now</span>
+                  <Sparkles className="w-4 h-4 text-amber-300" />
+                  <span>Tap to Auto-Install to Home Screen</span>
                 </button>
               )}
-
-              <button
-                onClick={() => setShowInstallGuide(false)}
-                className="w-full py-2.5 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold text-xs transition-colors cursor-pointer"
-              >
-                Got it, Close
-              </button>
             </div>
+
+            {/* Feature Badges */}
+            <div className="grid grid-cols-3 gap-2 mb-4 text-center">
+              <div className="p-2.5 rounded-2xl bg-emerald-50 border border-emerald-200">
+                <div className="text-sm font-black text-emerald-700">Full Screen</div>
+                <div className="text-[9.5px] text-emerald-800 font-semibold mt-0.5">No Browser Bar</div>
+              </div>
+              <div className="p-2.5 rounded-2xl bg-amber-50 border border-amber-200">
+                <div className="text-sm font-black text-amber-700">1 Tap</div>
+                <div className="text-[9.5px] text-amber-800 font-semibold mt-0.5">Home Screen Icon</div>
+              </div>
+              <div className="p-2.5 rounded-2xl bg-teal-50 border border-teal-200">
+                <div className="text-sm font-black text-teal-700">&lt; 2 MB</div>
+                <div className="text-[9.5px] text-teal-800 font-semibold mt-0.5">Fast &amp; Light</div>
+              </div>
+            </div>
+
+            {/* iOS Safari Instructions */}
+            {isIos && (
+              <div className="bg-slate-50 rounded-2xl p-3 border border-slate-200 mb-4 text-xs text-slate-700 space-y-2">
+                <div className="font-extrabold text-slate-900 flex items-center gap-1.5 text-xs">
+                  <Smartphone className="w-4 h-4 text-emerald-600" />
+                  <span>Instructions for iPhone / iPad (Safari)</span>
+                </div>
+                <ol className="space-y-1.5 list-decimal list-inside font-medium text-slate-600 text-[11px]">
+                  <li>Tap the <strong>Share button</strong> (<Share className="w-3 h-3 inline text-blue-600" /> square with arrow) at bottom of Safari.</li>
+                  <li>Scroll down and select <strong>'Add to Home Screen'</strong> (+).</li>
+                  <li>Tap <strong>'Add'</strong> in the top-right corner.</li>
+                </ol>
+              </div>
+            )}
+
+            <button
+              onClick={() => setShowInstallGuide(false)}
+              className="w-full py-2.5 rounded-2xl bg-slate-100 hover:bg-slate-200 text-slate-800 font-bold text-xs transition-colors cursor-pointer"
+            >
+              Close
+            </button>
 
           </div>
         </div>
       )}
     </>
   );
-};
+};

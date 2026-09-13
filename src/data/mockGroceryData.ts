@@ -90,7 +90,7 @@ export const CITIES: CityOption[] = [
     pincode: '500016',
     lat: 17.3850,
     lon: 78.4867,
-    popularAreas: ['ShivBagh, Balkampet (500016)', 'Balkampet / Ameerpet', 'Hitec City', 'Madhapur', 'Gachibowli', 'Banjara Hills', 'Kukatpally', 'Begumpet', 'Secunderabad'],
+    popularAreas: ['ShivBagh, Balkampet', 'Balkampet / Ameerpet', 'Hitec City', 'Madhapur', 'Gachibowli', 'Banjara Hills', 'Kukatpally', 'Begumpet', 'Secunderabad'],
   },
   {
     id: 'blr',
