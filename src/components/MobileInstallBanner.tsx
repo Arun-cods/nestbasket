@@ -2,23 +2,37 @@ import React, { useState, useEffect } from 'react';
 import { Download, X, Smartphone, Sparkles, CheckCircle2, Share, ArrowRight, ExternalLink, ShieldCheck } from 'lucide-react';
 
 export const MobileInstallBanner: React.FC = () => {
+  const isAppDownloaded = typeof window !== 'undefined' && (
+    localStorage.getItem('nestbasket_app_downloaded') === 'true' ||
+    localStorage.getItem('nestbasket_install_dismissed') === 'true' ||
+    window.matchMedia('(display-mode: standalone)').matches ||
+    (window.navigator as any).standalone === true ||
+    window.location.search.includes('source=pwa')
+  );
+
   const [deferredPrompt, setDeferredPrompt] = useState<any>(null);
   const [isInstallable, setIsInstallable] = useState(false);
   const [isIos, setIsIos] = useState(false);
   const [isInAppBrowser, setIsInAppBrowser] = useState(false);
-  const [isDismissed, setIsDismissed] = useState(() => {
-    return localStorage.getItem('nestbasket_install_dismissed') === 'true';
-  });
-  const [isInstalled, setIsInstalled] = useState(false);
+  const [isDismissed, setIsDismissed] = useState<boolean>(() => isAppDownloaded);
+  const [isInstalled, setIsInstalled] = useState<boolean>(() => isAppDownloaded);
   const [showInstallGuide, setShowInstallGuide] = useState(false);
 
   useEffect(() => {
+    if (isAppDownloaded) {
+      setIsInstalled(true);
+      setIsDismissed(true);
+      return;
+    }
+
     // Check if running in standalone mode (already installed as physical app)
     const isStandalone =
       window.matchMedia('(display-mode: standalone)').matches ||
       (window.navigator as any).standalone === true;
     if (isStandalone) {
+      localStorage.setItem('nestbasket_app_downloaded', 'true');
       setIsInstalled(true);
+      setIsDismissed(true);
       return;
     }
 
@@ -41,7 +55,10 @@ export const MobileInstallBanner: React.FC = () => {
     window.addEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
 
     window.addEventListener('appinstalled', () => {
+      localStorage.setItem('nestbasket_app_downloaded', 'true');
+      localStorage.setItem('nestbasket_install_dismissed', 'true');
       setIsInstalled(true);
+      setIsDismissed(true);
       setIsInstallable(false);
       setDeferredPrompt(null);
       setShowInstallGuide(false);
@@ -50,9 +67,14 @@ export const MobileInstallBanner: React.FC = () => {
     return () => {
       window.removeEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
     };
-  }, []);
+  }, [isAppDownloaded]);
 
   const triggerDirectApkDownload = () => {
+    localStorage.setItem('nestbasket_app_downloaded', 'true');
+    localStorage.setItem('nestbasket_install_dismissed', 'true');
+    setIsInstalled(true);
+    setIsDismissed(true);
+    setShowInstallGuide(false);
     const isNestBasketSubdir = window.location.pathname.startsWith('/nestbasket');
     const apkUrl = isNestBasketSubdir ? '/nestbasket/NestBasket.apk' : './NestBasket.apk';
     const link = document.createElement('a');
@@ -74,9 +96,13 @@ export const MobileInstallBanner: React.FC = () => {
       deferredPrompt.prompt();
       const { outcome } = await deferredPrompt.userChoice;
       if (outcome === 'accepted') {
+        localStorage.setItem('nestbasket_app_downloaded', 'true');
+        localStorage.setItem('nestbasket_install_dismissed', 'true');
         setIsInstalled(true);
+        setIsDismissed(true);
         setDeferredPrompt(null);
         setIsInstallable(false);
+        setShowInstallGuide(false);
         return;
       }
     }
@@ -89,6 +115,10 @@ export const MobileInstallBanner: React.FC = () => {
     setIsDismissed(true);
     localStorage.setItem('nestbasket_install_dismissed', 'true');
   };
+
+  if ((isDismissed || isInstalled) && !showInstallGuide) {
+    return null;
+  }
 
   return (
     <>

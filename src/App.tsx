@@ -22,6 +22,8 @@ import { MobileInstallBanner } from './components/MobileInstallBanner';
 import { LiveDarkstoreInspectorModal } from './components/LiveDarkstoreInspectorModal';
 import { PriceDropWatchlistModal } from './components/PriceDropWatchlistModal';
 import { DarkstoreGeoMapModal } from './components/DarkstoreGeoMapModal';
+import { OrderAgainModal } from './components/OrderAgainModal';
+import { UserProfileModal } from './components/UserProfileModal';
 import { trackAffiliateClick } from './services/affiliateService';
 import { 
   getWatchlist, 
@@ -73,6 +75,8 @@ export const App: React.FC = () => {
   const [watchlist, setWatchlist] = useState<WatchlistItem[]>(() => getWatchlist());
   const [isSyncingBasket, setIsSyncingBasket] = useState<boolean>(false);
   const [lastCloudSync, setLastCloudSync] = useState<string | null>(null);
+  const [isOrderAgainOpen, setIsOrderAgainOpen] = useState<boolean>(false);
+  const [isProfileModalOpen, setIsProfileModalOpen] = useState<boolean>(false);
 
   // Check URL query param or hash for executive-portal trigger
   useEffect(() => {
@@ -434,7 +438,7 @@ export const App: React.FC = () => {
   const totalCartItemCount = cartItems.reduce((sum, it) => sum + it.quantity, 0);
 
   return (
-    <div className="min-h-screen bg-slate-50 flex flex-col selection:bg-emerald-500 selection:text-white pb-8 w-full max-w-full overflow-x-hidden">
+    <div className="min-h-screen bg-slate-50 flex flex-col selection:bg-emerald-500 selection:text-white pb-20 md:pb-8 w-full max-w-full overflow-x-hidden">
       {/* App Splash Screen */}
       <AppSplash
         currentUser={currentUser}
@@ -464,6 +468,7 @@ export const App: React.FC = () => {
         onOpenWatchlist={() => setIsWatchlistModalOpen(true)}
         searchQuery={homeSearchQuery}
         onSearchChange={(q) => setHomeSearchQuery(q)}
+        onOpenProfile={() => setIsProfileModalOpen(true)}
       />
 
       {/* Real-Time Rate Update Toast Notification */}
@@ -723,6 +728,84 @@ export const App: React.FC = () => {
         currentUser={currentUser}
         products={products}
       />
+
+      {/* 1-Tap Repeat Order Again Modal */}
+      <OrderAgainModal
+        isOpen={isOrderAgainOpen}
+        onClose={() => setIsOrderAgainOpen(false)}
+        onAddToCart={handleAddToCart}
+        onOpenBasket={() => setIsCartOpen(true)}
+        products={products}
+        cartProductIds={new Set(cartItems.map((it) => it.product.id))}
+      />
+
+      {/* Zepto-Style User Profile & Account Drawer */}
+      <UserProfileModal
+        isOpen={isProfileModalOpen}
+        onClose={() => setIsProfileModalOpen(false)}
+        currentUser={currentUser}
+        onLogout={handleLogout}
+        onOpenOrders={() => setIsOrderAgainOpen(true)}
+        onOpenHelp={() => setIsHelpModalOpen(true)}
+        onOpenWishlist={() => setIsWatchlistModalOpen(true)}
+        onOpenLocation={() => setIsLocationModalOpen(true)}
+        onOpenPrivacy={() => handleOpenPrivacyPolicy('dpdp')}
+        onOpenFounderPortal={() => setIsPinModalOpen(true)}
+        selectedCity={selectedCity}
+        selectedArea={selectedArea}
+      />
+
+      {/* Clean Mobile Bottom Navigation Bar (Home • Categories • Order Again • Profile) */}
+      <nav
+        aria-label="Mobile Navigation Bar"
+        className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200/90 py-1.5 px-3 shadow-[0_-4px_20px_rgba(0,0,0,0.08)] flex items-center justify-around select-none safe-area-pb"
+      >
+        <button
+          type="button"
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          className="flex flex-col items-center justify-center py-1 px-2.5 text-slate-600 hover:text-emerald-600 active:scale-95 transition-all cursor-pointer group"
+        >
+          <Home className="w-5 h-5 text-slate-600 group-hover:text-emerald-600 transition-colors" />
+          <span className="text-[11px] font-bold mt-0.5 tracking-tight">Home</span>
+        </button>
+
+        <button
+          type="button"
+          onClick={() => {
+            const el = document.getElementById('catalog-section');
+            if (el) {
+              el.scrollIntoView({ behavior: 'smooth' });
+            }
+          }}
+          className="flex flex-col items-center justify-center py-1 px-2.5 text-slate-600 hover:text-emerald-600 active:scale-95 transition-all cursor-pointer group"
+        >
+          <LayoutGrid className="w-5 h-5 text-slate-600 group-hover:text-emerald-600 transition-colors" />
+          <span className="text-[11px] font-bold mt-0.5 tracking-tight">Categories</span>
+        </button>
+
+        <button
+          type="button"
+          onClick={() => setIsOrderAgainOpen(true)}
+          className="flex flex-col items-center justify-center py-1 px-2.5 text-slate-600 hover:text-emerald-600 active:scale-95 transition-all cursor-pointer group relative"
+        >
+          <span className="absolute -top-1 -right-0.5 px-1 py-0.2 bg-emerald-500 text-white rounded-full text-[8px] font-black uppercase tracking-wider">
+            1-Tap
+          </span>
+          <RotateCcw className="w-5 h-5 text-slate-600 group-hover:text-emerald-600 transition-colors" />
+          <span className="text-[11px] font-bold mt-0.5 tracking-tight">Order Again</span>
+        </button>
+
+        <button
+          type="button"
+          onClick={() => setIsProfileModalOpen(true)}
+          className="flex flex-col items-center justify-center py-1 px-2.5 text-slate-600 hover:text-emerald-600 active:scale-95 transition-all cursor-pointer group"
+        >
+          <div className="w-5 h-5 rounded-full bg-[#7c3aed] text-white flex items-center justify-center text-[10px] font-black group-hover:ring-2 group-hover:ring-purple-400 transition-all shadow-2xs">
+            {currentUser?.name ? currentUser.name[0].toUpperCase() : 'A'}
+          </div>
+          <span className="text-[11px] font-bold mt-0.5 tracking-tight">Profile</span>
+        </button>
+      </nav>
 
     </div>
   );

@@ -29,6 +29,14 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
   lastCloudSync,
 }) => {
   const [strategy, setStrategy] = useState<'split-arbitrage' | 'single-cheapest'>('split-arbitrage');
+  const [copyFeedback, setCopyFeedback] = useState<string | null>(null);
+  const [mountedTime, setMountedTime] = useState<number>(0);
+
+  React.useEffect(() => {
+    if (isOpen) {
+      setMountedTime(Date.now());
+    }
+  }, [isOpen]);
 
   if (!isOpen) return null;
 
@@ -129,9 +137,6 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
 
   const totalArbitrageSavings = highestSingleGrandTotal - splitGrandTotal;
 
-  const [copyFeedback, setCopyFeedback] = useState<string | null>(null);
-  // Guard against synthetic click-through on mobile touch screens
-  const [mountedTime] = useState<number>(() => Date.now());
 
   const handleBackdropClick = (e: React.MouseEvent) => {
     e.preventDefault();

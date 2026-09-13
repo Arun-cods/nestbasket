@@ -35,7 +35,7 @@ export const DpdpConsentBanner: React.FC<DpdpConsentBannerProps> = ({ onOpenPriv
   return (
     <aside
       aria-label="Privacy and Compliance Notice"
-      className="fixed bottom-4 left-4 right-4 sm:left-auto sm:right-6 sm:max-w-md z-40 animate-in slide-in-from-bottom-5 duration-300"
+      className="fixed bottom-18 left-4 right-4 sm:left-auto sm:right-6 sm:bottom-4 sm:max-w-md z-40 animate-in slide-in-from-bottom-5 duration-300"
     >
       <div className="bg-slate-900/95 backdrop-blur-md text-white p-4 sm:p-5 rounded-2xl shadow-2xl border border-slate-700/80 space-y-3">
         <div className="flex items-start justify-between gap-2">

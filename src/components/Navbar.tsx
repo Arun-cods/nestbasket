@@ -22,6 +22,7 @@ interface NavbarProps {
   onOpenWatchlist?: () => void;
   searchQuery?: string;
   onSearchChange?: (query: string) => void;
+  onOpenProfile?: () => void;
 }
 
 const ROTATING_SEARCH_ITEMS = [
@@ -60,6 +61,7 @@ export const Navbar: React.FC<NavbarProps> = ({
   onOpenWatchlist,
   searchQuery,
   onSearchChange,
+  onOpenProfile,
 }) => {
   const [showUserMenu, setShowUserMenu] = useState(false);
   const [placeholderIndex, setPlaceholderIndex] = useState(0);
@@ -211,7 +213,13 @@ export const Navbar: React.FC<NavbarProps> = ({
             {currentUser ? (
               <div className="relative">
                 <button
-                  onClick={() => setShowUserMenu(!showUserMenu)}
+                  onClick={() => {
+                    if (window.innerWidth < 768 && onOpenProfile) {
+                      onOpenProfile();
+                    } else {
+                      setShowUserMenu(!showUserMenu);
+                    }
+                  }}
                   className="flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3 py-1.5 rounded-xl bg-emerald-50 border border-emerald-300 text-emerald-900 text-xs font-bold hover:bg-emerald-100 transition-colors shadow-xs cursor-pointer"
                 >
                   <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse shrink-0" />
@@ -265,6 +273,22 @@ export const Navbar: React.FC<NavbarProps> = ({
                     )}
 
                     <div className="space-y-1">
+                      {onOpenProfile && (
+                        <button
+                          onClick={() => {
+                            setShowUserMenu(false);
+                            onOpenProfile();
+                          }}
+                          className="w-full py-1.5 text-left text-slate-900 hover:bg-slate-100 px-2 rounded-lg font-extrabold flex items-center justify-between cursor-pointer"
+                        >
+                          <div className="flex items-center gap-2">
+                            <User className="w-3.5 h-3.5 text-purple-600" />
+                            <span>My Profile & Settings</span>
+                          </div>
+                          <span className="text-[10px] text-slate-400">→</span>
+                        </button>
+                      )}
+
                       <button
                         onClick={() => {
                           setShowUserMenu(false);
