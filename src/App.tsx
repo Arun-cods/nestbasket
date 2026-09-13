@@ -745,12 +745,13 @@ export const App: React.FC = () => {
         onClose={() => setIsProfileModalOpen(false)}
         currentUser={currentUser}
         onLogout={handleLogout}
+        onOpenAuth={handleOpenAuth}
         onOpenOrders={() => setIsOrderAgainOpen(true)}
         onOpenHelp={() => setIsHelpModalOpen(true)}
         onOpenWishlist={() => setIsWatchlistModalOpen(true)}
         onOpenLocation={() => setIsLocationModalOpen(true)}
         onOpenPrivacy={() => handleOpenPrivacyPolicy('dpdp')}
-        onOpenFounderPortal={() => setIsPinModalOpen(true)}
+        onOpenBasket={() => setIsCartOpen(true)}
         selectedCity={selectedCity}
         selectedArea={selectedArea}
       />
