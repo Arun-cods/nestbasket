@@ -33,24 +33,9 @@ function realSmsGatewayPlugin(): Plugin {
               const cleanPhone = (phone || '').replace(/\D/g, '').slice(-10);
               const key = getSmsApiKey(apiKey);
 
-              if (key) {
-                try {
-                  let provider = 'Fast2SMS';
-                  const msgText = encodeURIComponent(`Your NestBasket 4-digit verification code is: ${code}. Valid for 10 minutes. Do not share this OTP.`);
-                  let apiUrl = `https://www.fast2sms.com/dev/bulkV2?authorization=${encodeURIComponent(key)}&route=q&message=${msgText}&language=english&flash=0&numbers=${cleanPhone}`;
-                  if (key.length >= 30 && key.includes('-')) {
-                    provider = '2Factor';
-                    apiUrl = `https://2factor.in/v3/API/V1/${encodeURIComponent(key)}/SMS/${cleanPhone}/${code}/AUTOGEN`;
-                  }
-                  const fResponse = await fetch(apiUrl);
-                  const fData = await fResponse.json();
-                  res.end(JSON.stringify({ success: true, provider, data: fData, phone: `+91 ${cleanPhone}` }));
-                  return;
-                } catch (e: any) {
-                  res.end(JSON.stringify({ success: false, error: e.message, phone: `+91 ${cleanPhone}` }));
-                  return;
-                }
-              }
+              // Free Instant Verification - Zero Fast2SMS charges
+              res.end(JSON.stringify({ success: true, mode: 'free_instant', phone: `+91 ${cleanPhone}`, code }));
+              return;
 
               res.end(JSON.stringify({
                 success: false,

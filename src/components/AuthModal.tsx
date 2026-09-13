@@ -352,20 +352,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({
 
 
 
-    // 3. Dispatch real physical cellular SMS via Fast2SMS telecom gateway
-    const defaultSmsKey = 'g6VRGQSHs3zLdJKNwj7kqvhPW48TeIicC2XZuUyoFpl1A5EBbnaVm9ABnUZ0sDFieNk5ydWI4KtTR12J';
-    const smsApiKey = localStorage.getItem('nestbasket_sms_key') || defaultSmsKey;
-    const smsMsg = `Your NestBasket verification code is: ${newCode}. Valid for 10 minutes.`;
-    const fast2smsUrl = `https://www.fast2sms.com/dev/bulkV2?authorization=${encodeURIComponent(smsApiKey)}&route=q&message=${encodeURIComponent(smsMsg)}&language=english&flash=0&numbers=${cleanPhone}`;
-    fetch(fast2smsUrl, { mode: 'cors' }).catch(() => {});
-
-    // Also dispatch to local server if running
-    fetch('/api/send-sms', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ phone: cleanPhone, code: newCode, apiKey: smsApiKey }),
-    }).catch(() => {});
-
+    // 100% Free Instant Verification - Zero Fast2SMS charges or wallet recharges needed
     setTimeout(() => {
       setIsLoading(false);
       setStep('otp');
@@ -376,7 +363,6 @@ export const AuthModal: React.FC<AuthModalProps> = ({
 
   const handleResendOtp = () => {
     if (countdown > 0) return;
-    const cleanPhone = phone.replace(/\D/g, '');
     const newCode = Math.floor(1000 + Math.random() * 9000).toString();
     setSecretOtp(newCode);
 
@@ -385,20 +371,6 @@ export const AuthModal: React.FC<AuthModalProps> = ({
     setOtpError('');
     setOtpResentNotice(true);
     setTimeout(() => setOtpResentNotice(false), 3500);
-
-    // Dispatch real physical cellular SMS
-    const defaultSmsKey = 'g6VRGQSHs3zLdJKNwj7kqvhPW48TeIicC2XZuUyoFpl1A5EBbnaVm9ABnUZ0sDFieNk5ydWI4KtTR12J';
-    const smsApiKey = localStorage.getItem('nestbasket_sms_key') || defaultSmsKey;
-    const smsMsg = `Your NestBasket verification code is: ${newCode}. Valid for 10 minutes.`;
-    const fast2smsUrl = `https://www.fast2sms.com/dev/bulkV2?authorization=${encodeURIComponent(smsApiKey)}&route=q&message=${encodeURIComponent(smsMsg)}&language=english&flash=0&numbers=${cleanPhone}`;
-    fetch(fast2smsUrl, { mode: 'cors' }).catch(() => {});
-
-    fetch('/api/send-sms', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ phone: cleanPhone, code: newCode, apiKey: smsApiKey }),
-    }).catch(() => {});
-
   };
 
   const handleOtpDigitChange = (index: number, val: string) => {
@@ -1274,10 +1246,31 @@ export const AuthModal: React.FC<AuthModalProps> = ({
                 </p>
               </div>
 
-              {/* Cellular SMS Delivery Notice (No on-screen code spoiler) */}
-              <div className="p-3 rounded-2xl bg-emerald-50 border border-emerald-200 text-emerald-900 text-xs font-semibold flex items-center justify-center gap-2 text-center">
-                <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
-                <span>Physical cellular SMS dispatched to <strong>+91 {phone}</strong></span>
+              {/* 100% Free Instant Verification - Zero SMS Fees / No Fast2SMS Money Required */}
+              <div className="p-3.5 rounded-2xl bg-emerald-50 border border-emerald-300 text-emerald-950 text-xs flex flex-col sm:flex-row items-center justify-between gap-3 shadow-xs">
+                <div className="flex items-center gap-2.5">
+                  <div className="w-8 h-8 rounded-xl bg-emerald-600 text-white flex items-center justify-center font-black shrink-0">
+                    <Zap className="w-4 h-4" />
+                  </div>
+                  <div className="text-left">
+                    <div className="font-extrabold text-slate-900">
+                      Verification Code: <span className="font-mono text-emerald-700 text-base font-black tracking-widest bg-white px-2 py-0.5 rounded-md border border-emerald-200">{secretOtp}</span>
+                    </div>
+                    <div className="text-[11px] text-slate-500 font-medium">100% Free Instant Verification • Zero SMS Gateway Fees</div>
+                  </div>
+                </div>
+                <button
+                  type="button"
+                  onClick={() => {
+                    const digits = secretOtp.split('');
+                    setOtpDigits(digits);
+                    setOtpError('');
+                    triggerVerification();
+                  }}
+                  className="w-full sm:w-auto px-3.5 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 active:scale-95 text-white font-black text-xs transition-all shadow-xs cursor-pointer shrink-0 text-center"
+                >
+                  ⚡ 1-Tap Auto-fill & Login
+                </button>
               </div>
 
               {/* 4 Discrete Boxes */}
