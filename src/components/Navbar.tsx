@@ -330,8 +330,13 @@ export const Navbar: React.FC<NavbarProps> = ({
 
             {/* My Cart / Basket Button (100% visible & clickable on mobile) */}
             <button
-              onClick={onOpenCart}
-              className={`relative flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 sm:py-2.5 rounded-xl text-xs sm:text-sm font-extrabold transition-all cursor-pointer shrink-0 shadow-sm active:scale-95 z-10 ${
+              type="button"
+              onClick={(e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                onOpenCart();
+              }}
+              className={`relative flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 sm:py-2.5 rounded-xl text-xs sm:text-sm font-extrabold transition-all cursor-pointer shrink-0 shadow-sm active:scale-95 z-20 select-none ${
                 cartCount > 0 
                   ? 'bg-[#0c831f] hover:bg-[#0b721b] text-white'
                   : 'bg-emerald-600 hover:bg-emerald-700 text-white sm:bg-slate-100 sm:hover:bg-slate-200 sm:text-slate-700'

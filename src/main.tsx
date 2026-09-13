@@ -13,14 +13,18 @@ try {
   localStorage.removeItem('nestbasket_google_accounts');
 } catch (e) {}
 
-// Force update Service Worker to ensure fresh build is loaded
+// Ensure immediate cache-busting so mobile phones always get newest build
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js').then((registration) => {
-      registration.update();
-      console.log('NestBasket Service Worker updated:', registration.scope);
-    }).catch((err) => {
-      console.warn('SW registration warning:', err);
+    navigator.serviceWorker.getRegistrations().then((registrations) => {
+      for (const registration of registrations) {
+        registration.unregister();
+      }
     });
+    if ('caches' in window) {
+      caches.keys().then((keys) => {
+        keys.forEach((key) => caches.delete(key));
+      });
+    }
   });
 }

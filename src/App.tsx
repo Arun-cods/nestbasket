@@ -434,16 +434,11 @@ export const App: React.FC = () => {
   const totalCartItemCount = cartItems.reduce((sum, it) => sum + it.quantity, 0);
 
   return (
-    <div className="min-h-screen bg-slate-50 flex flex-col selection:bg-emerald-500 selection:text-white pb-16 sm:pb-0 w-full max-w-full overflow-x-hidden">
-      {/* App Splash Screen (auto loads if logged in, opens AuthModal after splash if not logged in) */}
+    <div className="min-h-screen bg-slate-50 flex flex-col selection:bg-emerald-500 selection:text-white pb-8 w-full max-w-full overflow-x-hidden">
+      {/* App Splash Screen */}
       <AppSplash
         currentUser={currentUser}
-        onComplete={() => {
-          const savedUser = localStorage.getItem('nestbasket_user');
-          if (!savedUser && !currentUser) {
-            handleOpenAuth();
-          }
-        }}
+        onComplete={() => {}}
       />
 
       {/* Mobile PWA Install Banner */}
@@ -728,75 +723,6 @@ export const App: React.FC = () => {
         currentUser={currentUser}
         products={products}
       />
-
-      {/* Mobile Bottom Navigation Bar (Flipkart Minutes / Zepto Style) */}
-      <div className="sm:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200 px-3 py-2 flex items-center justify-around text-[10px] font-bold shadow-2xl">
-        <button
-          type="button"
-          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-          className="flex flex-col items-center gap-1 text-[#0c831f] font-black active:scale-95 transition-all cursor-pointer"
-        >
-          <Home className="w-4 h-4 text-[#0c831f]" />
-          <span>Home</span>
-        </button>
-
-        <button
-          type="button"
-          onClick={() => {
-            const el = document.getElementById('catalog-section');
-            if (el) el.scrollIntoView({ behavior: 'smooth' });
-          }}
-          className="flex flex-col items-center gap-1 text-slate-600 hover:text-emerald-700 active:scale-95 transition-all cursor-pointer"
-        >
-          <LayoutGrid className="w-4 h-4 text-slate-600" />
-          <span>Categories</span>
-        </button>
-
-        <button
-          type="button"
-          onClick={() => setIsGeoMapModalOpen(true)}
-          className="flex flex-col items-center gap-1 text-slate-600 hover:text-emerald-700 active:scale-95 transition-all cursor-pointer"
-        >
-          <Zap className="w-4 h-4 text-amber-500" />
-          <span>Radar</span>
-        </button>
-
-        <button
-          type="button"
-          onClick={() => {
-            if (currentUser) {
-              if (currentUser.isFounder) {
-                // If founder, open Founder Hub if desired or profile
-                setIsAuthModalOpen(true);
-              } else {
-                setIsAuthModalOpen(true);
-              }
-            } else {
-              setIsAuthModalOpen(true);
-            }
-          }}
-          className="flex flex-col items-center gap-1 text-slate-600 hover:text-emerald-700 active:scale-95 transition-all cursor-pointer"
-        >
-          <User className="w-4 h-4 text-slate-600" />
-          <span>{currentUser ? (currentUser.isFounder ? 'Account 👑' : 'Account') : 'Login'}</span>
-        </button>
-
-        <button
-          type="button"
-          onClick={() => setIsCartOpen(true)}
-          className="relative flex flex-col items-center gap-1 text-emerald-700 active:scale-95 transition-all cursor-pointer font-black"
-        >
-          <div className="relative">
-            <ShoppingBag className="w-4 h-4 text-[#0c831f]" />
-            {totalCartItemCount > 0 && (
-              <span className="absolute -top-1.5 -right-2.5 bg-[#0c831f] text-white text-[9px] font-black w-4 h-4 rounded-full flex items-center justify-center shadow-xs">
-                {totalCartItemCount}
-              </span>
-            )}
-          </div>
-          <span className="text-[#0c831f]">Basket</span>
-        </button>
-      </div>
 
     </div>
   );

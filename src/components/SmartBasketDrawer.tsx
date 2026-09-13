@@ -130,6 +130,16 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
   const totalArbitrageSavings = highestSingleGrandTotal - splitGrandTotal;
 
   const [copyFeedback, setCopyFeedback] = useState<string | null>(null);
+  // Guard against synthetic click-through on mobile touch screens
+  const [mountedTime] = useState<number>(() => Date.now());
+
+  const handleBackdropClick = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    // Ignore synthetic clicks that arrive within 350ms of mounting
+    if (Date.now() - mountedTime < 350) return;
+    onClose();
+  };
 
   const handleCopyWhatsAppList = () => {
     const grandTotal = strategy === 'split-arbitrage' ? splitGrandTotal : singleStoreGrandTotal;
@@ -145,8 +155,8 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
     <div className="fixed inset-0 z-50 overflow-hidden" role="dialog" aria-modal="true">
       {/* Backdrop */}
       <div
-        onClick={onClose}
-        className="absolute inset-0 bg-slate-900/60 backdrop-blur-sm transition-opacity cursor-pointer"
+        onClick={handleBackdropClick}
+        className="absolute inset-0 bg-slate-900/60 backdrop-blur-sm transition-opacity cursor-pointer z-0"
       />
 
       <div className="fixed inset-y-0 right-0 max-w-full flex pl-0 sm:pl-10 z-10 pointer-events-none">
@@ -167,8 +177,13 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
               </div>
             </div>
             <button
-              onClick={onClose}
-              className="p-1.5 rounded-lg text-slate-400 hover:text-white hover:bg-slate-800 transition-colors"
+              type="button"
+              onClick={(e) => {
+                e.stopPropagation();
+                onClose();
+              }}
+              className="p-2 rounded-xl text-slate-400 hover:text-white hover:bg-slate-800 transition-colors cursor-pointer"
+              title="Close Basket"
             >
               <X className="w-5 h-5" />
             </button>
