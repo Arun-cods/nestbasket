@@ -7,7 +7,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Fast2SMS Gateway](https://img.shields.io/badge/SMS_Gateway-Fast2SMS_DLT-22C55E)](https://www.fast2sms.com/)
+[![Auth](https://img.shields.io/badge/Auth-100%25_Free_Instant_OTP-22C55E)](https://arungopagani.is-a.dev/nestbasket/)
 [![Founder](https://img.shields.io/badge/Founder_%26_CEO-Gopagani_Arun-F59E0B)](mailto:gopaganiarungoud@gmail.com)
 
 ---
@@ -90,7 +90,7 @@ Drag and drop the dist/ folder to [Netlify Drop](https://app.netlify.com/drop) o
 
 - **Frontend**: React 18 SPA with Vite and Lucide Icons.
 - **Styling**: Tailwind CSS with dark executive styling and emerald shopper UI.
-- **SMS Gateway**: Real-time DLT-compliant Indian telecom route (oute=q) via Fast2SMS.
+- **Verification Engine**: 100% Free Instant Verification with 1-tap auto-fill (Zero SMS gateway dependencies).
 - **Biometric Isolation**: Client-side HTML5 canvas mesh restricted 100% to Founder Gopagani Arun. Zero member photos captured.
 - **SEO & Search Indexing**: Google structured JSON-LD data schema, XML sitemaps, and robots.txt.
 
