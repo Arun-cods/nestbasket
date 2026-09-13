@@ -766,7 +766,8 @@ export const App: React.FC = () => {
           onClick={() => {
             if (currentUser) {
               if (currentUser.isFounder) {
-                setIsFounderMode(true);
+                // If founder, open Founder Hub if desired or profile
+                setIsAuthModalOpen(true);
               } else {
                 setIsAuthModalOpen(true);
               }
@@ -777,7 +778,7 @@ export const App: React.FC = () => {
           className="flex flex-col items-center gap-1 text-slate-600 hover:text-emerald-700 active:scale-95 transition-all cursor-pointer"
         >
           <User className="w-4 h-4 text-slate-600" />
-          <span>{currentUser ? (currentUser.isFounder ? 'Founder' : 'Account') : 'Login'}</span>
+          <span>{currentUser ? (currentUser.isFounder ? 'Account 👑' : 'Account') : 'Login'}</span>
         </button>
 
         <button

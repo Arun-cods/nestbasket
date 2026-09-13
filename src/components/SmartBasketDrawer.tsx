@@ -40,21 +40,24 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
   platforms.forEach((pId) => {
     let itemsTotal = 0;
     let unavailable = 0;
-    const platform = PLATFORMS[pId];
+    const platform = PLATFORMS[pId] || PLATFORMS.zepto;
 
     items.forEach((item) => {
-      const offer = item.product.offers[pId];
-      if (offer && offer.inStock) {
+      if (!item || !item.product) return;
+      const offers = item.product.offers || {};
+      const offer = offers[pId];
+      if (offer && offer.inStock && typeof offer.price === 'number') {
         itemsTotal += offer.price * item.quantity;
       } else {
         unavailable += 1;
         // Fallback price if missing
-        itemsTotal += item.product.offers.blinkit?.price * item.quantity || 50;
+        const fallback = offers.blinkit?.price || offers.zepto?.price || item.product.price || 50;
+        itemsTotal += fallback * item.quantity;
       }
     });
 
-    const deliveryFee = itemsTotal >= platform.freeDeliveryAbove ? 0 : platform.baseDeliveryFee;
-    const platformFee = platform.handlingFee;
+    const deliveryFee = itemsTotal >= (platform.freeDeliveryAbove || 199) ? 0 : (platform.baseDeliveryFee || 15);
+    const platformFee = platform.handlingFee || 4;
     const grandTotal = itemsTotal + deliveryFee + platformFee;
 
     singleStoreTotals[pId] = {
@@ -68,8 +71,10 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
 
   // Find cheapest single store
   const bestSingleStore = platforms.reduce((best, pId) => {
-    return singleStoreTotals[pId].grandTotal < singleStoreTotals[best].grandTotal ? pId : best;
-  }, platforms[0]);
+    const current = singleStoreTotals[pId]?.grandTotal ?? 999999;
+    const bestTotal = singleStoreTotals[best]?.grandTotal ?? 999999;
+    return current < bestTotal ? pId : best;
+  }, platforms[0] || 'zepto');
 
   // Calculate Smart Split Arbitrage:
   // For each item, select the platform that has the absolute lowest price
@@ -77,17 +82,23 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
   let rawSplitItemsTotal = 0;
 
   items.forEach((item) => {
-    // Find cheapest platform for this individual item
+    if (!item || !item.product) return;
+    const offers = item.product.offers || {};
     let lowestPId: PlatformId = 'zepto';
     let lowestPrice = 999999;
 
     platforms.forEach((pId) => {
-      const offer = item.product.offers[pId];
-      if (offer && offer.inStock && offer.price < lowestPrice) {
+      const offer = offers[pId];
+      if (offer && offer.inStock && typeof offer.price === 'number' && offer.price < lowestPrice) {
         lowestPrice = offer.price;
         lowestPId = pId;
       }
     });
+
+    if (lowestPrice === 999999) {
+      lowestPrice = offers.blinkit?.price || offers.zepto?.price || item.product.price || 50;
+      lowestPId = 'zepto';
+    }
 
     rawSplitItemsTotal += lowestPrice * item.quantity;
 
@@ -103,17 +114,18 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
   let splitTotalHandling = 0;
   Object.keys(splitStoreBuckets).forEach((pKey) => {
     const pId = pKey as PlatformId;
-    const bucket = splitStoreBuckets[pId]!;
-    const platform = PLATFORMS[pId];
-    splitTotalHandling += platform.handlingFee;
-    if (bucket.subtotal < platform.freeDeliveryAbove) {
-      splitTotalDelivery += platform.baseDeliveryFee;
+    const bucket = splitStoreBuckets[pId];
+    if (!bucket) return;
+    const platform = PLATFORMS[pId] || PLATFORMS.zepto;
+    splitTotalHandling += platform.handlingFee || 0;
+    if (bucket.subtotal < (platform.freeDeliveryAbove || 199)) {
+      splitTotalDelivery += platform.baseDeliveryFee || 15;
     }
   });
 
   const splitGrandTotal = rawSplitItemsTotal + splitTotalDelivery + splitTotalHandling;
-  const singleStoreGrandTotal = singleStoreTotals[bestSingleStore].grandTotal;
-  const highestSingleGrandTotal = Math.max(...platforms.map((p) => singleStoreTotals[p].grandTotal));
+  const singleStoreGrandTotal = singleStoreTotals[bestSingleStore]?.grandTotal ?? rawSplitItemsTotal;
+  const highestSingleGrandTotal = Math.max(...platforms.map((p) => singleStoreTotals[p]?.grandTotal ?? 0));
 
   const totalArbitrageSavings = highestSingleGrandTotal - splitGrandTotal;
 
@@ -122,7 +134,7 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
   const handleCopyWhatsAppList = () => {
     const grandTotal = strategy === 'split-arbitrage' ? splitGrandTotal : singleStoreGrandTotal;
     const totalSaved = totalArbitrageSavings;
-    const cheapestName = strategy === 'split-arbitrage' ? 'Split Across 2 Stores' : PLATFORMS[bestSingleStore].name;
+    const cheapestName = strategy === 'split-arbitrage' ? 'Split Across 2 Stores' : (PLATFORMS[bestSingleStore]?.name || 'Best Store');
     const summaryText = generateWhatsAppOrderSummary(items, cheapestName, totalSaved, grandTotal);
     navigator.clipboard.writeText(summaryText);
     setCopyFeedback('✓ Copied grocery list with store links to clipboard!');
@@ -130,15 +142,18 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
   };
 
   return (
-    <div className="fixed inset-0 z-50 overflow-hidden">
+    <div className="fixed inset-0 z-50 overflow-hidden" role="dialog" aria-modal="true">
       {/* Backdrop */}
       <div
         onClick={onClose}
-        className="absolute inset-0 bg-slate-900/60 backdrop-blur-sm transition-opacity"
+        className="absolute inset-0 bg-slate-900/60 backdrop-blur-sm transition-opacity cursor-pointer"
       />
 
-      <div className="fixed inset-y-0 right-0 max-w-full flex pl-10">
-        <div className="w-screen max-w-md bg-white shadow-2xl flex flex-col justify-between">
+      <div className="fixed inset-y-0 right-0 max-w-full flex pl-0 sm:pl-10 z-10 pointer-events-none">
+        <div
+          onClick={(e) => e.stopPropagation()}
+          className="w-full sm:w-screen sm:max-w-md bg-white shadow-2xl flex flex-col justify-between h-full pointer-events-auto animate-in slide-in-from-right duration-200"
+        >
           
           {/* Header */}
           <div className="p-4 sm:p-6 bg-slate-900 text-white flex items-center justify-between">
@@ -247,23 +262,29 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
                     </button>
                   </div>
 
-                  {items.map((item) => (
+                  {items.map((item) => {
+                    const prodName = item.product?.name || 'Item';
+                    const prodImg = item.product?.imageUrl || item.product?.image || 'https://images.unsplash.com/photo-1542838132-92c53300491e?w=100&auto=format&fit=crop&q=60';
+                    return (
                     <div
-                      key={item.product.id}
+                      key={item.product?.id || Math.random()}
                       className="flex items-center justify-between p-3 rounded-xl border border-slate-200 bg-slate-50/50"
                     >
                       <div className="flex items-center gap-3">
                         <img
-                          src={item.product.imageUrl}
-                          alt={item.product.name}
+                          src={prodImg}
+                          alt={prodName}
                           className="w-12 h-12 rounded-lg object-cover border border-slate-200 shrink-0"
+                          onError={(e) => {
+                            (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1542838132-92c53300491e?w=100&auto=format&fit=crop&q=60';
+                          }}
                         />
                         <div>
                           <div className="font-bold text-xs text-slate-900 line-clamp-1">
-                            {item.product.name}
+                            {prodName}
                           </div>
                           <div className="text-[11px] text-slate-500 font-medium">
-                            {item.product.unit}
+                            {item.product?.unit || '1 unit'}
                           </div>
                         </div>
                       </div>
@@ -294,7 +315,8 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
                         </button>
                       </div>
                     </div>
-                  ))}
+                  );
+                  })}
                 </div>
 
                 {/* Split Breakdown */}
@@ -305,7 +327,8 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
                     </div>
 
                     {Object.entries(splitStoreBuckets).map(([pId, bucket]) => {
-                      const platform = PLATFORMS[pId as PlatformId];
+                      if (!bucket) return null;
+                      const platform = PLATFORMS[pId as PlatformId] || PLATFORMS.zepto;
                       return (
                         <div
                           key={pId}
@@ -322,7 +345,7 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
                           </div>
 
                           <div className="text-[11px] text-slate-500">
-                            {bucket.items.map((it) => it.product.name.split(' ')[0]).join(', ')} ({bucket.items.length} items)
+                            {bucket.items.map((it) => (it.product?.name || 'Item').split(' ')[0]).join(', ')} ({bucket.items.length} items)
                           </div>
 
                           <button
