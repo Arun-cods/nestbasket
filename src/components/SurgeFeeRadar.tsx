@@ -1,14 +1,15 @@
 import React from 'react';
-import { Zap, Clock, ShieldAlert, Check, TrendingDown } from 'lucide-react';
+import { Zap, Clock, ShieldAlert, Check, TrendingDown, Compass } from 'lucide-react';
 import { CityOption } from '../types';
 import { PLATFORMS } from '../data/mockGroceryData';
 
 interface SurgeFeeRadarProps {
   city: CityOption;
   onOpenDarkstoreTelemetry?: () => void;
+  onOpenGeoMap?: () => void;
 }
 
-export const SurgeFeeRadar: React.FC<SurgeFeeRadarProps> = ({ city, onOpenDarkstoreTelemetry }) => {
+export const SurgeFeeRadar: React.FC<SurgeFeeRadarProps> = ({ city, onOpenDarkstoreTelemetry, onOpenGeoMap }) => {
   // Live simulated fee metrics for selected city
   const feeStatus = [
     {
@@ -76,6 +77,16 @@ export const SurgeFeeRadar: React.FC<SurgeFeeRadarProps> = ({ city, onOpenDarkst
             >
               <Zap className="w-3 h-3 text-amber-400 fill-amber-400 animate-pulse" />
               <span>Inspect Darkstores ⚡</span>
+            </button>
+          )}
+          {onOpenGeoMap && (
+            <button
+              onClick={onOpenGeoMap}
+              className="text-[10.5px] font-extrabold text-blue-300 hover:text-white flex items-center gap-1 bg-blue-950/80 hover:bg-blue-900 px-2 py-0.5 rounded-md border border-blue-500/50 transition-all cursor-pointer shadow-2xs"
+              title="View Geospatial Darkstore Coverage Map"
+            >
+              <Compass className="w-3 h-3 text-blue-400" />
+              <span>Radar Map 🗺️</span>
             </button>
           )}
         </div>

@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import {
   X,
   MapPin,
@@ -11,7 +11,8 @@ import {
   Building2,
   AlertCircle,
   HelpCircle,
-  Check
+  Check,
+  Compass
 } from 'lucide-react';
 import { CityOption, PlatformId } from '../types';
 import { CITIES } from '../data/mockGroceryData';
@@ -22,6 +23,7 @@ interface LocationAvailabilityModalProps {
   selectedCity: CityOption;
   onSelectCity: (city: CityOption, area?: string) => void;
   onOpenHelp?: () => void;
+  onOpenGeoMap?: () => void;
 }
 
 export const LocationAvailabilityModal: React.FC<LocationAvailabilityModalProps> = ({
@@ -30,6 +32,7 @@ export const LocationAvailabilityModal: React.FC<LocationAvailabilityModalProps>
   selectedCity,
   onSelectCity,
   onOpenHelp,
+  onOpenGeoMap,
 }) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [isDetectingGps, setIsDetectingGps] = useState(false);
@@ -223,6 +226,21 @@ export const LocationAvailabilityModal: React.FC<LocationAvailabilityModalProps>
               <CheckCircle2 className="w-4 h-4 shrink-0" />
               <span>{gpsMessage}</span>
             </div>
+          )}
+
+          {/* Quick Trigger: Hyperlocal Geospatial Darkstore Map */}
+          {onOpenGeoMap && (
+            <button
+              type="button"
+              onClick={() => {
+                onClose();
+                onOpenGeoMap();
+              }}
+              className="w-full p-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-blue-300 hover:text-white border border-blue-500/40 font-extrabold text-xs flex items-center justify-center gap-2 transition-all cursor-pointer shadow-sm"
+            >
+              <Compass className="w-4 h-4 text-blue-400" />
+              <span>🗺️ View Hyperlocal Darkstore Radar Map ({selectedCity.name})</span>
+            </button>
           )}
 
           {/* Search Box */}

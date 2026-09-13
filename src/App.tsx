@@ -21,6 +21,7 @@ import { LocationAvailabilityModal } from './components/LocationAvailabilityModa
 import { MobileInstallBanner } from './components/MobileInstallBanner';
 import { LiveDarkstoreInspectorModal } from './components/LiveDarkstoreInspectorModal';
 import { PriceDropWatchlistModal } from './components/PriceDropWatchlistModal';
+import { DarkstoreGeoMapModal } from './components/DarkstoreGeoMapModal';
 import { trackAffiliateClick } from './services/affiliateService';
 import { 
   getWatchlist, 
@@ -67,6 +68,7 @@ export const App: React.FC = () => {
   const [isPrivacyModalOpen, setIsPrivacyModalOpen] = useState<boolean>(false);
   const [privacyModalTab, setPrivacyModalTab] = useState<'dpdp' | 'affiliate' | 'terms'>('dpdp');
   const [isDarkstoreModalOpen, setIsDarkstoreModalOpen] = useState<boolean>(false);
+  const [isGeoMapModalOpen, setIsGeoMapModalOpen] = useState<boolean>(false);
   const [isWatchlistModalOpen, setIsWatchlistModalOpen] = useState<boolean>(false);
   const [watchlist, setWatchlist] = useState<WatchlistItem[]>(() => getWatchlist());
   const [isSyncingBasket, setIsSyncingBasket] = useState<boolean>(false);
@@ -503,6 +505,7 @@ export const App: React.FC = () => {
         <SurgeFeeRadar
           city={selectedCity}
           onOpenDarkstoreTelemetry={() => setIsDarkstoreModalOpen(true)}
+          onOpenGeoMap={() => setIsGeoMapModalOpen(true)}
         />
 
         {/* Real-time Multi-Store Price Grid across 24,580 SKUs */}
@@ -697,6 +700,7 @@ export const App: React.FC = () => {
         selectedCity={selectedCity}
         onSelectCity={handleSelectCity}
         onOpenHelp={() => setIsHelpModalOpen(true)}
+        onOpenGeoMap={() => setIsGeoMapModalOpen(true)}
       />
 
       {/* Real-Time Darkstore Telemetry & Multi-Store Inspector Modal */}
@@ -704,6 +708,14 @@ export const App: React.FC = () => {
         isOpen={isDarkstoreModalOpen}
         onClose={() => setIsDarkstoreModalOpen(false)}
         selectedCity={selectedCity}
+      />
+
+      {/* Hyperlocal Darkstore Geospatial Radar Map & Multi-City Expansion Modal */}
+      <DarkstoreGeoMapModal
+        isOpen={isGeoMapModalOpen}
+        onClose={() => setIsGeoMapModalOpen(false)}
+        selectedCity={selectedCity}
+        onSelectCity={handleSelectCity}
       />
 
       {/* Price Drop Watchlist & Real-Time Alerts Modal */}
