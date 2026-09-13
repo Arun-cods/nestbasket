@@ -20,6 +20,15 @@ import { HelpSupportModal } from './components/HelpSupportModal';
 import { LocationAvailabilityModal } from './components/LocationAvailabilityModal';
 import { MobileInstallBanner } from './components/MobileInstallBanner';
 import { LiveDarkstoreInspectorModal } from './components/LiveDarkstoreInspectorModal';
+import { PriceDropWatchlistModal } from './components/PriceDropWatchlistModal';
+import { 
+  getWatchlist, 
+  addToWatchlist, 
+  removeFromWatchlist, 
+  checkPriceDropAlerts, 
+  saveBasketToCloud, 
+  WatchlistItem 
+} from './services/cloudStorageService';
 import { CITIES, INITIAL_FOUNDER_STATS } from './data/mockGroceryData';
 import { COMPREHENSIVE_GROCERY_DATA } from './data/comprehensiveCatalog';
 import { CityOption, CartItem, Product, PlatformId, FounderStats, UserProfile } from './types';
@@ -57,6 +66,10 @@ export const App: React.FC = () => {
   const [isPrivacyModalOpen, setIsPrivacyModalOpen] = useState<boolean>(false);
   const [privacyModalTab, setPrivacyModalTab] = useState<'dpdp' | 'affiliate' | 'terms'>('dpdp');
   const [isDarkstoreModalOpen, setIsDarkstoreModalOpen] = useState<boolean>(false);
+  const [isWatchlistModalOpen, setIsWatchlistModalOpen] = useState<boolean>(false);
+  const [watchlist, setWatchlist] = useState<WatchlistItem[]>(() => getWatchlist());
+  const [isSyncingBasket, setIsSyncingBasket] = useState<boolean>(false);
+  const [lastCloudSync, setLastCloudSync] = useState<string | null>(null);
 
   // Check URL query param or hash for executive-portal trigger
   useEffect(() => {
@@ -367,6 +380,38 @@ export const App: React.FC = () => {
     }));
   };
 
+  const watchlistProductIds = React.useMemo(() => {
+    return new Set(watchlist.map((w) => w.productId));
+  }, [watchlist]);
+
+  const refreshWatchlist = () => {
+    const updated = getWatchlist(currentUser?.id);
+    setWatchlist(updated);
+  };
+
+  const handleToggleWatchlist = (product: Product) => {
+    if (watchlistProductIds.has(product.id)) {
+      removeFromWatchlist(product.id, currentUser?.id);
+      refreshWatchlist();
+      setRealtimeUpdateToast(`Removed "${product.name}" from Watchlist`);
+    } else {
+      addToWatchlist({ product, userId: currentUser?.id });
+      refreshWatchlist();
+      setRealtimeUpdateToast(`🔔 Price Drop Alert set for "${product.name}"!`);
+    }
+  };
+
+  const handleSyncBasketToCloud = async () => {
+    setIsSyncingBasket(true);
+    try {
+      const res = await saveBasketToCloud(currentUser?.id || 'guest', cartItems);
+      setLastCloudSync(new Date().toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' }));
+      setRealtimeUpdateToast(res.message);
+    } finally {
+      setIsSyncingBasket(false);
+    }
+  };
+
   const cartProductIds = new Set(cartItems.map((it) => it.product.id));
   const cartQuantities = React.useMemo(() => {
     const map: Record<string, number> = {};
@@ -409,6 +454,8 @@ export const App: React.FC = () => {
         onLogout={handleLogout}
         onOpenHelp={() => setIsHelpModalOpen(true)}
         onOpenDarkstoreTelemetry={() => setIsDarkstoreModalOpen(true)}
+        watchlistCount={watchlist.length}
+        onOpenWatchlist={() => setIsWatchlistModalOpen(true)}
         searchQuery={homeSearchQuery}
         onSearchChange={(q) => setHomeSearchQuery(q)}
       />
@@ -462,6 +509,8 @@ export const App: React.FC = () => {
           externalSearchQuery={homeSearchQuery}
           onCategoryChange={(cat) => setHomeCategory(cat)}
           onSearchChange={(q) => setHomeSearchQuery(q)}
+          onToggleWatchlist={handleToggleWatchlist}
+          watchlistProductIds={watchlistProductIds}
         />
 
         {/* How It Works Formula */}
@@ -577,6 +626,9 @@ export const App: React.FC = () => {
         onUpdateQuantity={handleUpdateQuantity}
         onRemoveItem={handleRemoveItem}
         onClearCart={handleClearCart}
+        onSyncToCloud={handleSyncBasketToCloud}
+        isSyncingToCloud={isSyncingBasket}
+        lastCloudSync={lastCloudSync}
       />
 
       {/* Social Telecast & Multi-Platform Share Hub */}
@@ -643,6 +695,17 @@ export const App: React.FC = () => {
         isOpen={isDarkstoreModalOpen}
         onClose={() => setIsDarkstoreModalOpen(false)}
         selectedCity={selectedCity}
+      />
+
+      {/* Price Drop Watchlist & Real-Time Alerts Modal */}
+      <PriceDropWatchlistModal
+        isOpen={isWatchlistModalOpen}
+        onClose={() => setIsWatchlistModalOpen(false)}
+        watchlist={watchlist}
+        onRefreshWatchlist={refreshWatchlist}
+        onAddToCart={handleAddToCart}
+        currentUser={currentUser}
+        products={products}
       />
 
       {/* Mobile Bottom Navigation Bar (Flipkart Minutes / Zepto Style) */}

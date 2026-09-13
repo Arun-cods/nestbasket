@@ -2,7 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { 
   Search, Sparkles, ShoppingBag, ExternalLink, ArrowUpDown, Check, Tag, 
   ChevronDown, Database, Zap, ArrowLeft, ArrowRight, Layers, SlidersHorizontal, RefreshCw,
-  Plus, Minus, LayoutGrid, List, MoveHorizontal
+  Plus, Minus, LayoutGrid, List, MoveHorizontal, Bell
 } from 'lucide-react';
 import { Product, PlatformId } from '../types';
 import { PLATFORMS } from '../data/mockGroceryData';
@@ -22,6 +22,8 @@ interface PriceComparisonGridProps {
   externalSearchQuery?: string;
   onCategoryChange?: (category: string) => void;
   onSearchChange?: (query: string) => void;
+  onToggleWatchlist?: (product: Product) => void;
+  watchlistProductIds?: Set<string>;
 }
 
 const CATEGORY_FALLBACKS: Record<string, string> = {
@@ -49,6 +51,8 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
   externalSearchQuery,
   onCategoryChange: _onCategoryChange,
   onSearchChange: _onSearchChange,
+  onToggleWatchlist,
+  watchlistProductIds,
 }) => {
   const [searchQuery, setSearchQuery] = useState(externalSearchQuery || '');
   const [selectedCategory, setSelectedCategory] = useState<string>(externalCategory || 'all');
@@ -475,18 +479,39 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
           const isAddedToCart = cartProductIds.has(product.id);
           const itemQuantity = cartQuantities ? (cartQuantities[product.id] || 0) : (isAddedToCart ? 1 : 0);
           const isCompact = layoutMode === '2' || layoutMode === '4';
+          const isWatched = watchlistProductIds?.has(product.id);
 
           return (
             <div
               key={product.id}
               className={
                 layoutMode === 'scroll'
-                  ? 'w-[84vw] max-w-[340px] shrink-0 snap-start bg-white rounded-3xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition-all flex flex-col justify-between hover:border-slate-300'
+                  ? 'w-[84vw] max-w-[340px] shrink-0 snap-start bg-white rounded-3xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition-all flex flex-col justify-between hover:border-slate-300 relative'
                   : layoutMode === '1'
-                  ? 'bg-white rounded-3xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition-all flex flex-col justify-between hover:border-slate-300 w-full max-w-full'
-                  : 'bg-white rounded-2xl sm:rounded-3xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition-all flex flex-col justify-between hover:border-slate-300 w-full max-w-full'
+                  ? 'bg-white rounded-3xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition-all flex flex-col justify-between hover:border-slate-300 w-full max-w-full relative'
+                  : 'bg-white rounded-2xl sm:rounded-3xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition-all flex flex-col justify-between hover:border-slate-300 w-full max-w-full relative'
               }
             >
+              {/* Price Drop Alert Bell Trigger */}
+              {onToggleWatchlist && (
+                <button
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    onToggleWatchlist(product);
+                  }}
+                  title={isWatched ? 'Remove from Price Drop Watchlist' : 'Set Price Drop Alert'}
+                  className={`absolute top-2.5 right-2.5 z-20 p-1.5 rounded-xl border transition-all cursor-pointer ${
+                    isWatched
+                      ? 'bg-amber-100 text-amber-900 border-amber-300 shadow-xs'
+                      : 'bg-white/85 backdrop-blur-xs text-slate-400 hover:text-amber-600 hover:bg-white border-slate-200/80 shadow-2xs'
+                  }`}
+                >
+                  <Bell className={`w-3.5 h-3.5 ${isWatched ? 'fill-amber-500 text-amber-600' : ''}`} />
+                </button>
+              )}
+
               {/* Product Header & Image */}
               <div>
                 {/* Sponsored Brand Banner if present */}

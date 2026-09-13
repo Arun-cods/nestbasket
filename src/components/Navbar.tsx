@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { NestBasketLogo } from './NestBasketLogo';
-import { MapPin, ShoppingBag, Share2, User, LogOut, Building2, HelpCircle, Search, Zap } from 'lucide-react';
+import { MapPin, ShoppingBag, Share2, User, LogOut, Building2, HelpCircle, Search, Zap, Bell } from 'lucide-react';
 import { CityOption, UserProfile } from '../types';
 
 interface NavbarProps {
@@ -18,6 +18,8 @@ interface NavbarProps {
   onLogout: () => void;
   onOpenHelp?: () => void;
   onOpenDarkstoreTelemetry?: () => void;
+  watchlistCount?: number;
+  onOpenWatchlist?: () => void;
   searchQuery?: string;
   onSearchChange?: (query: string) => void;
 }
@@ -54,6 +56,8 @@ export const Navbar: React.FC<NavbarProps> = ({
   onLogout,
   onOpenHelp,
   onOpenDarkstoreTelemetry,
+  watchlistCount,
+  onOpenWatchlist,
   searchQuery,
   onSearchChange,
 }) => {
@@ -162,6 +166,23 @@ export const Navbar: React.FC<NavbarProps> = ({
                 <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping shrink-0" />
                 <Zap className="w-3.5 h-3.5 text-emerald-600" />
                 <span className="hidden sm:inline">Radar</span>
+              </button>
+            )}
+
+            {/* Price Drop Watchlist & Alerts Button */}
+            {onOpenWatchlist && (
+              <button
+                onClick={onOpenWatchlist}
+                className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl text-xs font-bold bg-amber-50 hover:bg-amber-100 text-amber-900 transition-all border border-amber-300 shadow-2xs cursor-pointer relative"
+                title="Price Drop Watchlist & Real-Time Alerts"
+              >
+                <Bell className="w-3.5 h-3.5 text-amber-600" />
+                <span className="hidden sm:inline">Alerts</span>
+                {(watchlistCount ?? 0) > 0 && (
+                  <span className="px-1.5 py-0.2 rounded-full text-[9px] font-black bg-amber-500 text-white">
+                    {watchlistCount}
+                  </span>
+                )}
               </button>
             )}
 
