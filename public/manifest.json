@@ -1,7 +1,26 @@
 {
+  "id": "https://arungopagani.is-a.dev/nestbasket/",
   "short_name": "NestBasket",
-  "name": "NestBasket — All-In-One Quick-Commerce Price Comparison",
-  "description": "Compare live grocery prices across Blinkit, Zepto, Swiggy Instamart and BigBasket in NestBasket. Founded by Gopagani Arun.",
+  "name": "NestBasket — Quick-Commerce Grocery Price Comparison",
+  "description": "Compare live grocery prices and darkstore fees across Blinkit, Zepto, Swiggy Instamart and BigBasket. Save ₹1,500+ monthly with smart basket comparison. Founded by Gopagani Arun.",
+  "lang": "en-IN",
+  "categories": [
+    "shopping",
+    "food",
+    "lifestyle"
+  ],
+  "start_url": "./",
+  "scope": "./",
+  "background_color": "#090d16",
+  "theme_color": "#059669",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "orientation": "portrait",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "./icon-192.png",
@@ -16,10 +35,58 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "./",
-  "scope": "./",
-  "background_color": "#090d16",
-  "theme_color": "#059669",
-  "display": "standalone",
-  "orientation": "portrait"
+  "shortcuts": [
+    {
+      "name": "Live Surge Radar",
+      "short_name": "Surge Radar",
+      "description": "Check live delivery fees and surge rates in your area",
+      "url": "./#radar-section",
+      "icons": [
+        {
+          "src": "./icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Compare Grocery Prices",
+      "short_name": "Compare Prices",
+      "description": "Find the cheapest darkstore for everyday essentials",
+      "url": "./#catalog-section",
+      "icons": [
+        {
+          "src": "./icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Founder Profile",
+      "short_name": "Founder",
+      "description": "Visit Gopagani Arun's Founder & CEO Profile",
+      "url": "./founder/gopagani-arun/",
+      "icons": [
+        {
+          "src": "./icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./nestbasket-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "NestBasket Mobile Price Comparison"
+    },
+    {
+      "src": "./nestbasket-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "NestBasket Multi-Store Dashboard"
+    }
+  ]
 }

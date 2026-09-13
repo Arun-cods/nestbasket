@@ -1,0 +1,59 @@
+{
+  "packageId": "dev.is_a.arungopagani.nestbasket",
+  "host": "arungopagani.is-a.dev",
+  "name": "NestBasket — Quick-Commerce Grocery Price Comparison",
+  "launcherName": "NestBasket",
+  "themeColor": "#059669",
+  "themeColorDark": "#090d16",
+  "navigationColor": "#090d16",
+  "navigationColorDark": "#090d16",
+  "navigationDividerColor": "#059669",
+  "navigationDividerColorDark": "#059669",
+  "backgroundColor": "#090d16",
+  "enableNotifications": true,
+  "startUrl": "/nestbasket/",
+  "iconUrl": "https://arungopagani.is-a.dev/nestbasket/icon-512.png",
+  "maskableIconUrl": "https://arungopagani.is-a.dev/nestbasket/icon-512.png",
+  "monochromeIconUrl": "https://arungopagani.is-a.dev/nestbasket/icon-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "enableSiteSettingsShortcut": true,
+  "shortcuts": [
+    {
+      "name": "Surge Radar",
+      "shortName": "Surge Radar",
+      "url": "/nestbasket/#radar-section",
+      "chosenIconUrl": "https://arungopagani.is-a.dev/nestbasket/icon-192.png"
+    },
+    {
+      "name": "Compare Prices",
+      "shortName": "Compare Prices",
+      "url": "/nestbasket/#catalog-section",
+      "chosenIconUrl": "https://arungopagani.is-a.dev/nestbasket/icon-192.png"
+    },
+    {
+      "name": "Founder Profile",
+      "shortName": "Founder",
+      "url": "/nestbasket/founder/gopagani-arun/",
+      "chosenIconUrl": "https://arungopagani.is-a.dev/nestbasket/icon-192.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://arungopagani.is-a.dev/nestbasket/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": true
+    },
+    "playBilling": {
+      "enabled": false
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "signing": {
+    "scheme": "v2+v3"
+  }
+}
