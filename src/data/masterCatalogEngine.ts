@@ -679,6 +679,7 @@ export interface PaginatedResult {
 // Get paginated items with search, filter, and sort across all 24,580 SKUs
 export function queryMasterCatalog(options: {
   category: string;
+  subCategory?: string;
   searchQuery?: string;
   page: number;
   pageSize: number;
@@ -688,6 +689,7 @@ export function queryMasterCatalog(options: {
 }): PaginatedResult {
   const {
     category = 'all',
+    subCategory = 'all',
     searchQuery = '',
     page = 1,
     pageSize = 24,
@@ -804,35 +806,44 @@ export function queryMasterCatalog(options: {
     };
   }
 
-  // No search query: full catalog navigation across all 24,580 SKUs
-  const totalCount = maxCategorySkus;
-  const totalPages = Math.max(1, Math.ceil(totalCount / pageSize));
+  // Filter static matches by category and subCategory
+  const staticMatches = COMPREHENSIVE_GROCERY_DATA.filter((p) => {
+    if (category !== 'all' && p.category !== category) return false;
+    if (subCategory && subCategory !== 'all') {
+      const pSub = (p.subCategory || '').toLowerCase();
+      const targetSub = subCategory.toLowerCase();
+      if (!pSub.includes(targetSub) && !targetSub.includes(pSub)) return false;
+    }
+    if (onlyEssentials && !p.isDailyEssential) return false;
+    return true;
+  });
+
+  const staticCount = staticMatches.length;
+  const effectiveTotalCount = (subCategory && subCategory !== 'all') 
+    ? staticCount 
+    : Math.max(maxCategorySkus, staticCount);
+  const totalPages = Math.max(1, Math.ceil(effectiveTotalCount / pageSize));
   const safePage = Math.min(Math.max(1, page), totalPages);
   const startIndex = (safePage - 1) * pageSize;
 
   const items: Product[] = [];
 
-  // For the very first page of category 'all' or specific category, include our hand-crafted static items first
-  if (safePage === 1) {
-    const staticMatches = COMPREHENSIVE_GROCERY_DATA.filter((p) => {
-      if (category !== 'all' && p.category !== category) return false;
-      if (onlyEssentials && !p.isDailyEssential) return false;
-      return true;
-    });
-
-    for (let i = 0; i < Math.min(staticMatches.length, pageSize); i++) {
-      items.push(staticMatches[i]);
-    }
+  // Stream static matches seamlessly across pages
+  if (startIndex < staticCount) {
+    const pageStatic = staticMatches.slice(startIndex, startIndex + pageSize);
+    items.push(...pageStatic);
   }
 
-  // Fill remainder from deterministic generator
-  let genIndex = startIndex;
-  while (items.length < pageSize && genIndex < totalCount) {
-    const p = generateDeterministicSku(genIndex, category, cityMultiplier);
-    if (!onlyEssentials || p.isDailyEssential) {
-      items.push(p);
+  // Fill remainder from deterministic generator if not filtered by specific subcategory
+  if (!subCategory || subCategory === 'all') {
+    let genIndex = Math.max(0, startIndex - staticCount);
+    while (items.length < pageSize && genIndex < effectiveTotalCount) {
+      const p = generateDeterministicSku(genIndex, category, cityMultiplier);
+      if (!onlyEssentials || p.isDailyEssential) {
+        items.push(p);
+      }
+      genIndex++;
     }
-    genIndex++;
   }
 
   // Sort items according to preference
@@ -854,7 +865,7 @@ export function queryMasterCatalog(options: {
 
   return {
     items,
-    totalCount,
+    totalCount: effectiveTotalCount,
     page: safePage,
     pageSize,
     totalPages,

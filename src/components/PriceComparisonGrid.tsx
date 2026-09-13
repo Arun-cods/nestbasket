@@ -39,6 +39,75 @@ const CATEGORY_FALLBACKS: Record<string, string> = {
   all: 'https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&auto=format&fit=crop&q=70',
 };
 
+const SUBCATEGORIES_BY_CATEGORY: Record<string, string[]> = {
+  snacks: [
+    'All',
+    'Chips & Crisps',
+    'Cookies & Biscuits',
+    'Cream Biscuits',
+    'Glucose & Marie',
+    'Healthy & Digestive',
+    'Rusks & Wafers',
+    'Sweet & Salty',
+    'Chocolates & Candies',
+    'Nachos',
+    'Bhujia & Mixtures',
+    'Popcorn',
+    'Namkeen Snacks',
+    'Makhana & More',
+    'Papad & Fryums',
+    'Imported Snacks',
+    'Granola',
+  ],
+  instant: [
+    'All',
+    'Breakfast Cereals',
+    'Frozen Veg Snacks',
+    'Frozen Non-Veg Snacks',
+    'Pasta & More',
+    'Instant Mixes',
+    'Energy Bars',
+    'Soup & Noodles',
+    'Frozen Veg',
+    'Herbs & Seasoning',
+    'Batter',
+    'Imported Noodles & Pasta',
+  ],
+  dairy: [
+    'All',
+    'Bread & Pav',
+    'Gourmet Bakery',
+    'Cakes & Rolls',
+    'Baking Ingredients',
+    'Fresh Milk',
+    'Butter & Ghee',
+    'Paneer & Curd',
+    'Cheese & Cream',
+  ],
+  veggies: [
+    'All',
+    'Fresh Vegetables',
+    'Fresh Fruits',
+    'Leafies & Herbs',
+    'Exotics',
+    'Sprouts & Cut',
+    'Trusted Organic',
+    'Flowers & Leaves',
+  ],
+  beverages: [
+    'All',
+    'Soft Drinks',
+    'Fruit Juices',
+    'Mango Drinks',
+    'Energy Drinks',
+    'Coconut Water',
+    'Water & Ice Cubes',
+    'Cold Coffee & Ice Tea',
+    'Soda & Mixers',
+    'Lassi & Shakes',
+  ],
+};
+
 export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
   products: _legacyProducts,
   onAddToCart,
@@ -56,6 +125,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
 }) => {
   const [searchQuery, setSearchQuery] = useState(externalSearchQuery || '');
   const [selectedCategory, setSelectedCategory] = useState<string>(externalCategory || 'all');
+  const [selectedSubCategory, setSelectedSubCategory] = useState<string>('all');
   const [selectedWeightFilter, setSelectedWeightFilter] = useState<'all' | 'grams' | 'half-kg' | '1kg-plus' | 'packs'>('all');
   const [onlyEssentials, setOnlyEssentials] = useState<boolean>(false);
   const [sortBy, setSortBy] = useState<'savings' | 'price-asc' | 'price-desc'>('savings');
@@ -119,6 +189,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
 
     return queryMasterCatalog({
       category: selectedCategory,
+      subCategory: selectedSubCategory,
       searchQuery,
       page: effectivePage,
       pageSize: effectivePageSize,
@@ -126,7 +197,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
       onlyEssentials,
       cityMultiplier,
     });
-  }, [selectedCategory, searchQuery, displayMode, cumulativePageSize, itemsPerPage, currentPage, sortBy, onlyEssentials, cityMultiplier]);
+  }, [selectedCategory, selectedSubCategory, searchQuery, displayMode, cumulativePageSize, itemsPerPage, currentPage, sortBy, onlyEssentials, cityMultiplier]);
 
   const displayedProducts = useMemo(() => {
     if (selectedWeightFilter === 'all') return catalogResponse.items;
@@ -166,6 +237,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
 
   const handleCategoryChange = (catId: string) => {
     setSelectedCategory(catId);
+    setSelectedSubCategory('all');
     setCurrentPage(1);
   };
 
@@ -289,6 +361,35 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
             </button>
           ))}
         </div>
+
+        {/* Blinkit Department Subcategory Filter Pills */}
+        {SUBCATEGORIES_BY_CATEGORY[selectedCategory] && (
+          <div className="flex items-center gap-1.5 overflow-x-auto pt-2 border-t border-slate-100 pb-1 scrollbar-none text-xs w-full max-w-full min-w-0">
+            <span className="text-[11px] font-bold text-slate-400 shrink-0 uppercase tracking-wider">
+              Section:
+            </span>
+            {SUBCATEGORIES_BY_CATEGORY[selectedCategory].map((sub) => {
+              const subId = sub.toLowerCase();
+              const isSelected = selectedSubCategory.toLowerCase() === subId || (selectedSubCategory === 'all' && sub === 'All');
+              return (
+                <button
+                  key={sub}
+                  onClick={() => {
+                    setSelectedSubCategory(sub === 'All' ? 'all' : sub);
+                    setCurrentPage(1);
+                  }}
+                  className={`px-3 py-1.5 rounded-xl text-xs font-bold shrink-0 transition-all border cursor-pointer ${
+                    isSelected
+                      ? 'bg-emerald-700 text-white border-emerald-700 shadow-sm font-black'
+                      : 'bg-emerald-50/50 text-slate-700 border-slate-200 hover:bg-emerald-50 hover:border-emerald-300'
+                  }`}
+                >
+                  {sub}
+                </button>
+              );
+            })}
+          </div>
+        )}
 
         {/* Quick-Commerce Weight & Unit Variation Filter Bar (Grams, Half Kg, 1Kg+, Packs) */}
         <div className="flex items-center gap-2 overflow-x-auto pt-2 border-t border-slate-100 pb-1 scrollbar-none text-xs w-full max-w-full min-w-0">

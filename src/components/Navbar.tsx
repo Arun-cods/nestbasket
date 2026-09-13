@@ -26,20 +26,16 @@ interface NavbarProps {
 }
 
 const ROTATING_SEARCH_ITEMS = [
+  'rice',
+  'egg',
+  'bread',
+  'sugar',
+  'paneer',
+  'chocolate',
   'butter',
   'milk',
-  'atta',
-  'paneer',
-  'eggs',
-  'maggi',
-  'tomatoes',
-  'curd',
-  'bread',
-  'surf excel',
-  'toor dal',
-  'ghee',
   'chips',
-  'cold drinks',
+  'curd',
 ];
 
 export const Navbar: React.FC<NavbarProps> = ({
@@ -106,19 +102,19 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
           </div>
 
-          {/* Blinkit-Style "Delivery in 8 minutes" & Address Text Block */}
+          {/* Blinkit-Style "Delivery in 19 minutes" & Address Text Block */}
           <button
             type="button"
             onClick={onOpenLocationModal}
-            className="flex flex-col text-left justify-center cursor-pointer min-w-0 max-w-[110px] sm:max-w-[240px] lg:max-w-[280px] shrink-0 py-1 px-1 rounded-xl hover:bg-slate-50 transition-colors"
-            title="Click to detect live GPS location, change area, or check darkstore availability"
+            className="flex flex-col text-left justify-center cursor-pointer min-w-0 max-w-[125px] sm:max-w-[240px] lg:max-w-[280px] shrink-0 py-1 px-1 rounded-xl hover:bg-slate-50 transition-colors"
+            title="7-1-211/18, near sixsigma, beside Image Hospitals Lane, ShivBagh, Balkampet, Hyderabad, Telangana 500016, India"
           >
             <div className="font-extrabold text-[11px] sm:text-[14px] text-slate-900 leading-tight flex items-center gap-1">
-              <span className="sm:hidden">⚡ 8m</span>
-              <span className="hidden sm:inline">Delivery in 8 minutes</span>
+              <span className="sm:hidden text-emerald-600">⚡ 19m</span>
+              <span className="hidden sm:inline">Delivery in 19 minutes</span>
             </div>
             <div className="text-[10px] sm:text-xs text-slate-600 font-medium truncate flex items-center gap-0.5 mt-0.5">
-              <span className="truncate">{selectedArea ? selectedArea.split(',')[0] : 'ShivBagh'}</span>
+              <span className="truncate">{selectedArea ? selectedArea.split(',')[0] : '7-1-211/18, ShivBagh'}</span>
               <span className="text-[10px] text-slate-700 font-bold ml-0.5 shrink-0">▾</span>
             </div>
           </button>
@@ -211,115 +207,106 @@ export const Navbar: React.FC<NavbarProps> = ({
 
             {/* User Login / Profile Pill (Desktop only - mobile uses single Profile tab in bottom bar) */}
             <div className="hidden md:flex items-center">
-              {currentUser ? (
-                <div className="relative">
-                  <button
-                    onClick={() => setShowUserMenu(!showUserMenu)}
-                    className="flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3 py-1.5 rounded-xl bg-emerald-50 border border-emerald-300 text-emerald-900 text-xs font-bold hover:bg-emerald-100 transition-colors shadow-xs cursor-pointer"
-                  >
-                    <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse shrink-0" />
-                    <div className="text-left">
-                      <div className="leading-tight font-extrabold flex items-center gap-1 text-[11px] sm:text-xs">
-                        <span className="truncate max-w-[90px] sm:max-w-[130px]">{currentUser.name}</span>
-                      </div>
-                      <div className="text-[9px] text-emerald-700 font-medium truncate max-w-[120px] hidden lg:block">{currentUser.society}</div>
-                    </div>
-                    <span className="bg-emerald-600 text-white px-1.5 py-0.5 rounded-md text-[10px] font-black shrink-0 hidden sm:inline-block">
-                      ₹{currentUser.lifetimeSavingsRupees} Saved
-                    </span>
-                  </button>
-
-                  {showUserMenu && (
-                    <div className="absolute right-0 mt-2 w-64 bg-white rounded-2xl shadow-2xl border border-slate-200 p-3.5 z-50 text-xs space-y-3">
-                      <div className="pb-2.5 border-b border-slate-100">
-                        <div className="font-extrabold text-sm text-slate-900 flex items-center justify-between">
-                          <span>{currentUser.name}</span>
-                        </div>
-                        <div className="text-[11px] text-slate-500 flex items-center gap-1 mt-0.5">
-                          <Building2 className="w-3 h-3 text-emerald-600" />
-                          <span>{currentUser.society}</span>
-                        </div>
-                        <div className="text-[11px] text-slate-500 mt-0.5">{currentUser.phone}</div>
-                      </div>
-
-                      <div className="space-y-1">
-                        {onOpenProfile && (
-                          <button
-                            onClick={() => {
-                              setShowUserMenu(false);
-                              onOpenProfile();
-                            }}
-                            className="w-full py-1.5 text-left text-slate-900 hover:bg-slate-100 px-2 rounded-lg font-extrabold flex items-center justify-between cursor-pointer"
-                          >
-                            <div className="flex items-center gap-2">
-                              <User className="w-3.5 h-3.5 text-purple-600" />
-                              <span>My Profile & Settings</span>
-                            </div>
-                            <span className="text-[10px] text-slate-400">→</span>
-                          </button>
-                        )}
-
-                        <button
-                          onClick={() => {
-                            setShowUserMenu(false);
-                            onOpenHelp?.();
-                          }}
-                          className="w-full py-1.5 text-left text-slate-700 hover:bg-slate-100 px-2 rounded-lg font-bold flex items-center justify-between cursor-pointer"
-                        >
-                          <div className="flex items-center gap-2">
-                            <HelpCircle className="w-3.5 h-3.5 text-amber-500" />
-                            <span>Help & Report Issue</span>
-                          </div>
-                          <span className="text-[10px] text-slate-400">→</span>
-                        </button>
-
-                        <button
-                          onClick={() => {
-                            setShowUserMenu(false);
-                            onOpenShare();
-                          }}
-                          className="w-full py-1.5 text-left text-slate-700 hover:bg-slate-100 px-2 rounded-lg font-bold flex items-center justify-between text-emerald-700 cursor-pointer"
-                        >
-                          <div className="flex items-center gap-2">
-                            <Share2 className="w-3.5 h-3.5 text-emerald-600" />
-                            <span>Share NestBasket</span>
-                          </div>
-                          <span className="text-[10px] text-slate-400">→</span>
-                        </button>
-
-                        <button
-                          onClick={() => {
-                            setShowUserMenu(false);
-                            onOpenAuth();
-                          }}
-                          className="w-full py-1.5 text-left text-slate-700 hover:bg-slate-100 px-2 rounded-lg font-bold flex items-center justify-between cursor-pointer"
-                        >
-                          <span>Switch Account</span>
-                          <span className="text-[10px] text-slate-400">→</span>
-                        </button>
-
-                        <button
-                          onClick={() => {
-                            setShowUserMenu(false);
-                            onLogout();
-                          }}
-                          className="w-full py-1.5 text-left text-red-600 hover:bg-red-50 px-2 rounded-lg font-bold flex items-center gap-1.5 cursor-pointer"
-                        >
-                          <LogOut className="w-3.5 h-3.5" />
-                          <span>Log Out</span>
-                        </button>
-                      </div>
-                    </div>
-                  )}
-                </div>
-              ) : (
+              <div className="relative">
                 <button
-                  onClick={onOpenAuth}
-                  className="flex items-center gap-1 text-slate-800 hover:text-emerald-700 font-extrabold text-xs sm:text-sm px-2.5 sm:px-3 py-1.5 sm:py-2 hover:bg-slate-100 rounded-xl cursor-pointer transition-all active:scale-95 shrink-0"
+                  onClick={currentUser ? () => setShowUserMenu(!showUserMenu) : onOpenAuth}
+                  className="flex items-center gap-2 px-2.5 py-1.5 rounded-xl hover:bg-slate-100 transition-all cursor-pointer border border-transparent hover:border-slate-200"
+                  title={currentUser ? `Account: ${currentUser.name}` : 'Login / Account (Free 1-Tap OTP)'}
                 >
-                  <span>Login</span>
+                  <div className="w-8 h-8 rounded-full bg-purple-600 text-white font-black flex items-center justify-center text-sm shadow-xs shrink-0">
+                    {currentUser ? currentUser.name.charAt(0).toUpperCase() : 'R'}
+                  </div>
+                  <div className="text-left leading-none">
+                    <div className="text-[10px] text-slate-400 font-bold leading-none">Account</div>
+                    <div className="text-xs sm:text-sm font-extrabold text-slate-800 leading-tight mt-0.5">
+                      {currentUser ? currentUser.name : 'r'}
+                    </div>
+                  </div>
                 </button>
-              )}
+
+                {currentUser && showUserMenu && (
+                  <div className="absolute right-0 mt-2 w-64 bg-white rounded-2xl shadow-2xl border border-slate-200 p-3.5 z-50 text-xs space-y-3">
+                    <div className="pb-2.5 border-b border-slate-100">
+                      <div className="font-extrabold text-sm text-slate-900 flex items-center justify-between">
+                        <span>{currentUser.name}</span>
+                      </div>
+                      <div className="text-[11px] text-slate-500 flex items-center gap-1 mt-0.5">
+                        <Building2 className="w-3 h-3 text-emerald-600" />
+                        <span>{currentUser.society}</span>
+                      </div>
+                      <div className="text-[11px] text-slate-500 mt-0.5">{currentUser.phone}</div>
+                    </div>
+
+                    <div className="space-y-1">
+                      {onOpenProfile && (
+                        <button
+                          onClick={() => {
+                            setShowUserMenu(false);
+                            onOpenProfile();
+                          }}
+                          className="w-full py-1.5 text-left text-slate-900 hover:bg-slate-100 px-2 rounded-lg font-extrabold flex items-center justify-between cursor-pointer"
+                        >
+                          <div className="flex items-center gap-2">
+                            <User className="w-3.5 h-3.5 text-purple-600" />
+                            <span>My Profile & Settings</span>
+                          </div>
+                          <span className="text-[10px] text-slate-400">→</span>
+                        </button>
+                      )}
+
+                      <button
+                        onClick={() => {
+                          setShowUserMenu(false);
+                          onOpenHelp?.();
+                        }}
+                        className="w-full py-1.5 text-left text-slate-700 hover:bg-slate-100 px-2 rounded-lg font-bold flex items-center justify-between cursor-pointer"
+                      >
+                        <div className="flex items-center gap-2">
+                          <HelpCircle className="w-3.5 h-3.5 text-amber-500" />
+                          <span>Help & Report Issue</span>
+                        </div>
+                        <span className="text-[10px] text-slate-400">→</span>
+                      </button>
+
+                      <button
+                        onClick={() => {
+                          setShowUserMenu(false);
+                          onOpenShare();
+                        }}
+                        className="w-full py-1.5 text-left text-slate-700 hover:bg-slate-100 px-2 rounded-lg font-bold flex items-center justify-between text-emerald-700 cursor-pointer"
+                      >
+                        <div className="flex items-center gap-2">
+                          <Share2 className="w-3.5 h-3.5 text-emerald-600" />
+                          <span>Share NestBasket</span>
+                        </div>
+                        <span className="text-[10px] text-slate-400">→</span>
+                      </button>
+
+                      <button
+                        onClick={() => {
+                          setShowUserMenu(false);
+                          onOpenAuth();
+                        }}
+                        className="w-full py-1.5 text-left text-slate-700 hover:bg-slate-100 px-2 rounded-lg font-bold flex items-center justify-between cursor-pointer"
+                      >
+                        <span>Switch Account</span>
+                        <span className="text-[10px] text-slate-400">→</span>
+                      </button>
+
+                      <button
+                        onClick={() => {
+                          setShowUserMenu(false);
+                          onLogout();
+                        }}
+                        className="w-full py-1.5 text-left text-red-600 hover:bg-red-50 px-2 rounded-lg font-bold flex items-center gap-1.5 cursor-pointer"
+                      >
+                        <LogOut className="w-3.5 h-3.5" />
+                        <span>Log Out</span>
+                      </button>
+                    </div>
+                  </div>
+                )}
+              </div>
             </div>
 
             {/* My Cart / Basket Button (100% visible & clickable on mobile) */}
