@@ -108,14 +108,15 @@ export const Navbar: React.FC<NavbarProps> = ({
           <button
             type="button"
             onClick={onOpenLocationModal}
-            className="flex flex-col text-left justify-center cursor-pointer min-w-0 max-w-[160px] sm:max-w-[240px] lg:max-w-[280px] shrink-0 py-1 px-1.5 rounded-xl hover:bg-slate-50 transition-colors"
+            className="flex flex-col text-left justify-center cursor-pointer min-w-0 max-w-[110px] sm:max-w-[240px] lg:max-w-[280px] shrink-0 py-1 px-1 rounded-xl hover:bg-slate-50 transition-colors"
             title="Click to detect live GPS location, change area, or check darkstore availability"
           >
-            <div className="font-extrabold text-xs sm:text-[14px] text-slate-900 leading-tight">
-              Delivery in 8 minutes
+            <div className="font-extrabold text-[11px] sm:text-[14px] text-slate-900 leading-tight flex items-center gap-1">
+              <span className="sm:hidden">⚡ 8m</span>
+              <span className="hidden sm:inline">Delivery in 8 minutes</span>
             </div>
-            <div className="text-[10.5px] sm:text-xs text-slate-600 font-medium truncate flex items-center gap-0.5 mt-0.5">
-              <span className="truncate">{selectedArea || '7-1-211/18, near sixsigma, beside Image Hospitals Lane, ShivBagh, Balkampet'}</span>
+            <div className="text-[10px] sm:text-xs text-slate-600 font-medium truncate flex items-center gap-0.5 mt-0.5">
+              <span className="truncate">{selectedArea ? selectedArea.split(',')[0] : 'ShivBagh'}</span>
               <span className="text-[10px] text-slate-700 font-bold ml-0.5 shrink-0">▾</span>
             </div>
           </button>
@@ -155,12 +156,12 @@ export const Navbar: React.FC<NavbarProps> = ({
           </form>
 
           {/* Right Action Items: Login & My Cart */}
-          <div className="flex items-center gap-2 sm:gap-3 shrink-0">
-            {/* Live Darkstore Telemetry Radar Button */}
+          <div className="flex items-center gap-1.5 sm:gap-3 shrink-0">
+            {/* Live Darkstore Telemetry Radar Button (Visible on tablet & desktop) */}
             {onOpenDarkstoreTelemetry && (
               <button
                 onClick={onOpenDarkstoreTelemetry}
-                className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl text-xs font-bold bg-emerald-50 hover:bg-emerald-100 text-emerald-800 transition-all border border-emerald-300 shadow-2xs cursor-pointer"
+                className="hidden md:flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl text-xs font-bold bg-emerald-50 hover:bg-emerald-100 text-emerald-800 transition-all border border-emerald-300 shadow-2xs cursor-pointer"
                 title="Live Quick-Commerce Darkstore Telemetry Radar"
               >
                 <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping shrink-0" />
@@ -169,11 +170,11 @@ export const Navbar: React.FC<NavbarProps> = ({
               </button>
             )}
 
-            {/* Price Drop Watchlist & Alerts Button */}
+            {/* Price Drop Watchlist & Alerts Button (Visible on tablet & desktop) */}
             {onOpenWatchlist && (
               <button
                 onClick={onOpenWatchlist}
-                className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl text-xs font-bold bg-amber-50 hover:bg-amber-100 text-amber-900 transition-all border border-amber-300 shadow-2xs cursor-pointer relative"
+                className="hidden md:flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl text-xs font-bold bg-amber-50 hover:bg-amber-100 text-amber-900 transition-all border border-amber-300 shadow-2xs cursor-pointer relative"
                 title="Price Drop Watchlist & Real-Time Alerts"
               >
                 <Bell className="w-3.5 h-3.5 text-amber-600" />
@@ -320,25 +321,27 @@ export const Navbar: React.FC<NavbarProps> = ({
             ) : (
               <button
                 onClick={onOpenAuth}
-                className="text-slate-800 hover:text-slate-950 font-extrabold text-xs sm:text-sm px-2 sm:px-3 py-2 cursor-pointer transition-colors"
+                className="flex items-center gap-1 text-slate-800 hover:text-emerald-700 font-extrabold text-xs sm:text-sm px-2.5 sm:px-3 py-1.5 sm:py-2 bg-slate-100 sm:bg-transparent hover:bg-slate-200 rounded-xl cursor-pointer transition-all active:scale-95 shrink-0"
               >
-                Login
+                <User className="w-3.5 h-3.5 text-slate-600 sm:hidden" />
+                <span>Login</span>
               </button>
             )}
 
-            {/* My Cart Button */}
+            {/* My Cart / Basket Button (100% visible & clickable on mobile) */}
             <button
               onClick={onOpenCart}
-              className={`relative flex items-center gap-2 px-3 sm:px-4 py-2.5 rounded-xl text-xs sm:text-sm font-extrabold transition-all cursor-pointer shrink-0 ${
+              className={`relative flex items-center gap-1.5 sm:gap-2 px-3 sm:px-4 py-2 sm:py-2.5 rounded-xl text-xs sm:text-sm font-extrabold transition-all cursor-pointer shrink-0 shadow-sm active:scale-95 z-10 ${
                 cartCount > 0 
-                  ? 'bg-[#0c831f] hover:bg-[#0b721b] text-white shadow-sm'
-                  : 'bg-slate-100 hover:bg-slate-200 text-slate-700'
+                  ? 'bg-[#0c831f] hover:bg-[#0b721b] text-white'
+                  : 'bg-emerald-600 hover:bg-emerald-700 text-white sm:bg-slate-100 sm:hover:bg-slate-200 sm:text-slate-700'
               }`}
+              title="Open Smart Basket"
             >
-              <ShoppingBag className="w-4 h-4" />
-              <span className="hidden sm:inline">My Cart</span>
+              <ShoppingBag className="w-4 h-4 text-white sm:text-inherit shrink-0" />
+              <span className="font-extrabold">Basket</span>
               {cartCount > 0 && (
-                <span className="bg-white text-[#0c831f] font-black text-xs px-1.5 py-0.5 rounded-full">
+                <span className="bg-white text-[#0c831f] font-black text-[11px] sm:text-xs px-1.5 py-0.2 rounded-full shadow-xs shrink-0">
                   {cartCount}
                 </span>
               )}

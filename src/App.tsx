@@ -34,7 +34,7 @@ import {
 import { CITIES, INITIAL_FOUNDER_STATS } from './data/mockGroceryData';
 import { COMPREHENSIVE_GROCERY_DATA } from './data/comprehensiveCatalog';
 import { CityOption, CartItem, Product, PlatformId, FounderStats, UserProfile } from './types';
-import { Sparkles, ArrowRight, MapPin, Search, ShoppingBag, Share2, HelpCircle, RefreshCw, Home, LayoutGrid, RotateCcw } from 'lucide-react';
+import { Sparkles, ArrowRight, MapPin, Search, ShoppingBag, Share2, HelpCircle, RefreshCw, Home, LayoutGrid, RotateCcw, User, Zap } from 'lucide-react';
 
 export const App: React.FC = () => {
   const [selectedCity, setSelectedCity] = useState<CityOption>(() => {
@@ -730,13 +730,13 @@ export const App: React.FC = () => {
       />
 
       {/* Mobile Bottom Navigation Bar (Flipkart Minutes / Zepto Style) */}
-      <div className="sm:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200 px-4 py-2 flex items-center justify-around text-[10px] font-bold shadow-2xl">
+      <div className="sm:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200 px-3 py-2 flex items-center justify-around text-[10px] font-bold shadow-2xl">
         <button
           type="button"
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-          className="flex flex-col items-center gap-1 text-[#e01962] font-black active:scale-95 transition-all cursor-pointer"
+          className="flex flex-col items-center gap-1 text-[#0c831f] font-black active:scale-95 transition-all cursor-pointer"
         >
-          <Home className="w-4 h-4 text-[#e01962]" />
+          <Home className="w-4 h-4 text-[#0c831f]" />
           <span>Home</span>
         </button>
 
@@ -746,7 +746,7 @@ export const App: React.FC = () => {
             const el = document.getElementById('catalog-section');
             if (el) el.scrollIntoView({ behavior: 'smooth' });
           }}
-          className="flex flex-col items-center gap-1 text-slate-600 hover:text-[#e01962] active:scale-95 transition-all cursor-pointer"
+          className="flex flex-col items-center gap-1 text-slate-600 hover:text-emerald-700 active:scale-95 transition-all cursor-pointer"
         >
           <LayoutGrid className="w-4 h-4 text-slate-600" />
           <span>Categories</span>
@@ -754,25 +754,46 @@ export const App: React.FC = () => {
 
         <button
           type="button"
-          onClick={handleTriggerLivePriceRefresh}
-          className="flex flex-col items-center gap-1 text-slate-600 hover:text-[#e01962] active:scale-95 transition-all cursor-pointer"
+          onClick={() => setIsGeoMapModalOpen(true)}
+          className="flex flex-col items-center gap-1 text-slate-600 hover:text-emerald-700 active:scale-95 transition-all cursor-pointer"
         >
-          <RotateCcw className="w-4 h-4 text-slate-600" />
-          <span>Buy Again</span>
+          <Zap className="w-4 h-4 text-amber-500" />
+          <span>Radar</span>
+        </button>
+
+        <button
+          type="button"
+          onClick={() => {
+            if (currentUser) {
+              if (currentUser.isFounder) {
+                setIsFounderMode(true);
+              } else {
+                setIsAuthModalOpen(true);
+              }
+            } else {
+              setIsAuthModalOpen(true);
+            }
+          }}
+          className="flex flex-col items-center gap-1 text-slate-600 hover:text-emerald-700 active:scale-95 transition-all cursor-pointer"
+        >
+          <User className="w-4 h-4 text-slate-600" />
+          <span>{currentUser ? (currentUser.isFounder ? 'Founder' : 'Account') : 'Login'}</span>
         </button>
 
         <button
           type="button"
           onClick={() => setIsCartOpen(true)}
-          className="relative flex flex-col items-center gap-1 text-slate-600 hover:text-[#e01962] active:scale-95 transition-all cursor-pointer"
+          className="relative flex flex-col items-center gap-1 text-emerald-700 active:scale-95 transition-all cursor-pointer font-black"
         >
-          <ShoppingBag className="w-4 h-4 text-slate-600" />
-          {totalCartItemCount > 0 && (
-            <span className="absolute -top-1 -right-2 bg-[#e01962] text-white text-[9px] font-black w-4 h-4 rounded-full flex items-center justify-center shadow-xs">
-              {totalCartItemCount}
-            </span>
-          )}
-          <span>Basket</span>
+          <div className="relative">
+            <ShoppingBag className="w-4 h-4 text-[#0c831f]" />
+            {totalCartItemCount > 0 && (
+              <span className="absolute -top-1.5 -right-2.5 bg-[#0c831f] text-white text-[9px] font-black w-4 h-4 rounded-full flex items-center justify-center shadow-xs">
+                {totalCartItemCount}
+              </span>
+            )}
+          </div>
+          <span className="text-[#0c831f]">Basket</span>
         </button>
       </div>
 

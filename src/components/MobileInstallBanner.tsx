@@ -171,16 +171,29 @@ export const MobileInstallBanner: React.FC = () => {
               </div>
             )}
 
-            {/* Action Buttons: Instant APK Download + Open in Chrome */}
+            {/* Action Buttons: Instant App Install */}
             <div className="space-y-2.5 mb-5">
-              {/* Option 1: Direct APK Download */}
+              {/* Option 1: Native 1-Tap Install (WebAPK) */}
               <button
                 type="button"
-                onClick={triggerDirectApkDownload}
+                onClick={async () => {
+                  if (deferredPrompt) {
+                    deferredPrompt.prompt();
+                    const { outcome } = await deferredPrompt.userChoice;
+                    if (outcome === 'accepted') {
+                      setIsInstalled(true);
+                      setShowInstallGuide(false);
+                    }
+                  } else if (isIos) {
+                    // iOS instructions displayed below
+                  } else {
+                    openInChromeIntent();
+                  }
+                }}
                 className="w-full py-3.5 px-4 rounded-2xl bg-[#0c831f] hover:bg-[#0b721b] text-white font-black text-sm flex items-center justify-center gap-2 transition-all shadow-lg shadow-emerald-600/25 active:scale-95 cursor-pointer"
               >
-                <Download className="w-4 h-4" />
-                <span>Download NestBasket.apk Directly</span>
+                <Sparkles className="w-4 h-4 text-amber-300" />
+                <span>⚡ 1-Tap Install Official App</span>
               </button>
 
               {/* Option 2: Open in Google Chrome */}
@@ -191,28 +204,18 @@ export const MobileInstallBanner: React.FC = () => {
                   className="w-full py-3 px-4 rounded-2xl bg-slate-900 hover:bg-slate-800 text-white font-extrabold text-xs sm:text-sm flex items-center justify-center gap-2 transition-all shadow-md active:scale-95 cursor-pointer"
                 >
                   <ExternalLink className="w-4 h-4 text-emerald-400" />
-                  <span>Open in Google Chrome (1-Tap WebAPK)</span>
+                  <span>Open in Google Chrome (Full Features &amp; Fast)</span>
                 </button>
               )}
 
-              {/* Native Prompt button if deferredPrompt ready */}
-              {deferredPrompt && (
-                <button
-                  type="button"
-                  onClick={async () => {
-                    deferredPrompt.prompt();
-                    const { outcome } = await deferredPrompt.userChoice;
-                    if (outcome === 'accepted') {
-                      setIsInstalled(true);
-                      setShowInstallGuide(false);
-                    }
-                  }}
-                  className="w-full py-3 px-4 rounded-2xl bg-emerald-600 hover:bg-emerald-700 text-white font-black text-xs flex items-center justify-center gap-2 transition-all shadow-md active:scale-95 cursor-pointer"
-                >
-                  <Sparkles className="w-4 h-4 text-amber-300" />
-                  <span>Tap to Auto-Install to Home Screen</span>
-                </button>
-              )}
+              {/* Android Chrome 3-dot step guide */}
+              <div className="p-3 bg-emerald-50 border border-emerald-200 rounded-2xl text-[11px] text-emerald-950 font-medium leading-relaxed">
+                <p className="font-bold flex items-center gap-1 text-emerald-900 mb-1">
+                  <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
+                  <span>How to Install on Phone in 3 Seconds:</span>
+                </p>
+                <span>Tap the <strong>3 dots (⋮)</strong> at top-right of your browser $\rightarrow$ Tap <strong>'Install app'</strong> (or <strong>'Add to Home screen'</strong>). It creates the real app icon with 100% features and zero storage lag!</span>
+              </div>
             </div>
 
             {/* Feature Badges */}
