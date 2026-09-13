@@ -1,0 +1,28 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.is_a.arungopagani.nestbasket",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:E0:EC:9D:69:B6:6E:CC:72:0E:17:F1:C7:E4:B6:5E:2B:9C:3E:45:C2:59:71:03:DC:6D",
+        "2D:85:2E:8D:15:3A:42:2F:51:71:56:49:09:A6:49:05:46:75:A8:10:A8:04:E8:26:95:90:3A:D4:58:65:28:B6"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nestbasket.app",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:E0:EC:9D:69:B6:6E:CC:72:0E:17:F1:C7:E4:B6:5E:2B:9C:3E:45:C2:59:71:03:DC:6D",
+        "2D:85:2E:8D:15:3A:42:2F:51:71:56:49:09:A6:49:05:46:75:A8:10:A8:04:E8:26:95:90:3A:D4:58:65:28:B6"
+      ]
+    }
+  }
+]
