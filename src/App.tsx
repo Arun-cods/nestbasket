@@ -216,6 +216,7 @@ export const App: React.FC = () => {
   const [authModalKey, setAuthModalKey] = useState<number>(0);
   const [homeCategory, setHomeCategory] = useState<string>('all');
   const [homeSearchQuery, setHomeSearchQuery] = useState<string>('');
+  const [categoryNonce, setCategoryNonce] = useState<number>(0);
   const [founderStats, setFounderStats] = useState<FounderStats>(INITIAL_FOUNDER_STATS);
 
   // Fully working reactive city & area switching: recomputes darkstore prices and surge for selected city
@@ -498,6 +499,7 @@ export const App: React.FC = () => {
           onSelectCategory={(cat, q) => {
             setHomeCategory(cat);
             setHomeSearchQuery(q || '');
+            setCategoryNonce((n) => n + 1);
           }}
         />
 
@@ -510,6 +512,7 @@ export const App: React.FC = () => {
 
         {/* Real-time Multi-Store Price Grid across 24,580 SKUs */}
         <PriceComparisonGrid
+          key={`${homeCategory}-${categoryNonce}`}
           products={products}
           onAddToCart={handleAddToCart}
           onUpdateQuantity={handleUpdateQuantity}

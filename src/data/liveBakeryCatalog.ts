@@ -9,7 +9,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530684a.jpg",
     offers: generateStoreOffers(99, 99, "Protein Chef Multigrain Double Protein Bread (64g Protein per Loaf)", "270 g"),
   },
   {
@@ -18,7 +18,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "Britannia Milk Bread", "400 g"),
   },
   {
@@ -27,7 +27,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "Modern 100% Whole Wheat Bread (Zero Maida)", "400 g"),
   },
   {
@@ -36,7 +36,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(55, 55, "The Health Factory Zero Maida Whole Wheat Bread", "250 g"),
   },
   {
@@ -45,7 +45,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/555448a.jpg",
     offers: generateStoreOffers(69, 75, "Protein Chef 42g Protein Multigrain Bread - 5 Superfoods", "270 g"),
   },
   {
@@ -54,7 +54,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "Modern Milk Bread", "450 g"),
   },
   {
@@ -63,7 +63,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "Britannia Brown Bread", "400 g"),
   },
   {
@@ -72,7 +72,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(55, 60, "English Oven Milk Bread", "400 g"),
   },
   {
@@ -81,7 +81,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(57, 60, "Naturbaked Whole Wheat Bread (Zero Maida)", "300 g"),
   },
   {
@@ -90,7 +90,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(80, 80, "iD Whole Wheat Chapati (10 pieces)", "10 pcs"),
   },
   {
@@ -99,7 +99,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(10, 10, "Modern Choco Sweet Fill Bread Roll", "50 g"),
   },
   {
@@ -108,7 +108,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "800 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(100, 100, "Modern Sandwich White Bread", "800 g"),
   },
   {
@@ -117,7 +117,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/633595a.jpg",
     offers: generateStoreOffers(57, 60, "Theobroma Zero Maida Whole Wheat Bread (250 g)", "250 g"),
   },
   {
@@ -126,7 +126,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 65, "The Health Factory Zero Maida Milk Bread", "250 g"),
   },
   {
@@ -135,7 +135,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "280 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(55, 55, "Modern Burger Bun", "280 g"),
   },
   {
@@ -144,7 +144,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(35, 35, "Modern Wow Pav - 6 pieces", "200 g"),
   },
   {
@@ -153,7 +153,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/633615a.jpg",
     offers: generateStoreOffers(67, 70, "Theobroma Zero Maida Multigrain Bread", "250 g"),
   },
   {
@@ -162,7 +162,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "230 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/665832a.jpg",
     offers: generateStoreOffers(55, 60, "The Baker's Dozen Zero Maida Milk Bread Whole Wheat", "230 g"),
   },
   {
@@ -171,7 +171,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(70, 70, "Modern Multigrain Bread", "400 g"),
   },
   {
@@ -207,7 +207,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(55, 55, "Britannia Vitarich Sandwich White Bread", "350 g"),
   },
   {
@@ -216,7 +216,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "Modern Hi-Fiber Brown Bread", "400 g"),
   },
   {
@@ -225,7 +225,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
     offers: generateStoreOffers(10, 10, "Modern Pineapple Sweet Fill Bread Roll", "50 g"),
   },
   {
@@ -234,7 +234,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/614410a.jpg",
     offers: generateStoreOffers(193, 199, "The Cinnamon Kitchen Almond Flour & Cacao Protein Cookies", "70 g"),
   },
   {
@@ -243,7 +243,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "156 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(40, 40, "The Health Factory Zero Maida Bombay Pav", "156 g"),
   },
   {
@@ -252,7 +252,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(110, 110, "iD Malabar Paratha", "5 pcs"),
   },
   {
@@ -261,7 +261,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(70, 70, "The Health Factory Zero Maida Multigrain Bread", "250 g"),
   },
   {
@@ -279,7 +279,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "English Oven Sandwich White Bread", "400 g"),
   },
   {
@@ -288,7 +288,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(50, 50, "Modern Family Special White Bread", "400 g"),
   },
   {
@@ -297,7 +297,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(35, 35, "Modern Fruit Bread", "200 g"),
   },
   {
@@ -306,7 +306,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(35, 35, "Britannia Fruit Bread", "200 g"),
   },
   {
@@ -315,7 +315,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(69, 69, "Protein Chef 35g Protein Brown Bread, No Maida", "270 g"),
   },
   {
@@ -324,7 +324,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "8 pcs",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(100, 100, "iD Protein Rich Chapati", "8 pcs"),
   },
   {
@@ -342,7 +342,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "28 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(85, 90, "The Cinnamon Kitchen Cacao, Hazelnut & Date Fudge Brownie", "28 g"),
   },
   {
@@ -351,7 +351,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "330 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(110, 120, "The Health Factory Zero Maida Sourdough Classic Wheat Bread", "330 g"),
   },
   {
@@ -360,7 +360,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(70, 70, "English Oven Zero Maida Multigrain Bread", "400 g"),
   },
   {
@@ -369,7 +369,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(81, 85, "Protein Chef 50g High Protein Bread (Multigrain)", "270 g"),
   },
   {
@@ -378,7 +378,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(98, 105, "Theobroma Chocolate Chip Cookie", "60 g"),
   },
   {
@@ -387,7 +387,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(115, 115, "iD Wheat Lachha Paratha", "5 pcs"),
   },
   {
@@ -396,7 +396,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(35, 35, "Everyday Fruit Bread", "200 g"),
   },
   {
@@ -414,7 +414,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(79, 79, "CakeZone Double Chocolate Brownie", "85 g"),
   },
   {
@@ -423,7 +423,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/703045a.jpg",
     offers: generateStoreOffers(92, 95, "Theobroma Cookie Brownie", "60 g"),
   },
   {
@@ -432,7 +432,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/467360a.jpg",
     offers: generateStoreOffers(109, 109, "The Baker's Dozen Zero Maida Lavash Baked Flatbread Crisp for Dip", "75 g"),
   },
   {
@@ -441,7 +441,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(65, 70, "The Health Factory Super Fiber Wheat Bread", "250 g"),
   },
   {
@@ -450,7 +450,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(40, 40, "Bakers County Fresh Pav", "200 g"),
   },
   {
@@ -459,7 +459,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(55, 55, "Bakers County Fresh Brown Bread", "300 g"),
   },
   {
@@ -468,7 +468,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "700 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(100, 100, "Bakers County Fresh Jumbo White Bread", "700 g"),
   },
   {
@@ -477,7 +477,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(70, 70, "Britannia Multigrain Bread", "400 g"),
   },
   {
@@ -486,7 +486,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(35, 35, "English Oven Pav", "200 g"),
   },
   {
@@ -495,7 +495,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "56 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(168, 179, "The Cinnamon Kitchen Cacao, Hazelnut & Date Fudge Brownie", "56 g"),
   },
   {
@@ -504,7 +504,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(75, 80, "The Health Factory Low GI Multigrain Bread", "250 g"),
   },
   {
@@ -513,7 +513,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(85, 85, "The Health Factory Zero Maida Protein Bread", "250 g"),
   },
   {
@@ -522,7 +522,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(55, 55, "Bakers County Fresh Milk Bread", "300 g"),
   },
   {
@@ -549,7 +549,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(45, 45, "English Oven Zero Maida Pav", "200 g"),
   },
   {
@@ -558,7 +558,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/498799a.jpg",
     offers: generateStoreOffers(55, 55, "The Baker's Dozen Sourdough Pav", "200 g"),
   },
   {
@@ -576,7 +576,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(75, 80, "The Health Factory Sourdough Focaccia", "160 g"),
   },
   {
@@ -585,7 +585,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(92, 95, "Theobroma Eggless Walnut Brownie", "65 g"),
   },
   {
@@ -612,7 +612,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(63, 70, "Modern Protein Bread", "300 g"),
   },
   {
@@ -639,7 +639,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(40, 40, "The Health Factory Zero Maida Burger Bun", "120 g"),
   },
   {
@@ -648,7 +648,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "156 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(60, 60, "The Health Factory Zero Maida Garlic Bread", "156 g"),
   },
   {
@@ -657,7 +657,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(129, 129, "CakeZone Marble Teacake", "180 g"),
   },
   {
@@ -666,7 +666,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(79, 79, "CakeZone Walnut Brownie", "80 g"),
   },
   {
@@ -711,7 +711,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(230, 249, "Artinci Vanilla Cake", "150 g"),
   },
   {
@@ -720,7 +720,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(158, 169, "Cookieman Choc Chunk Chocolate Cookies Biscuits", "120 g"),
   },
   {
@@ -729,7 +729,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "425 g",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(99, 99, "Modern Whole Wheat Parota", "425 g"),
   },
   {
@@ -738,7 +738,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/572225a.jpg",
     offers: generateStoreOffers(176, 199, "Sunfeast Baked Creations Rich Choco Chip Cookies", "120 g"),
   },
   {
@@ -756,7 +756,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "74 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(168, 179, "The Cinnamon Kitchen Berry, Cacao, Oat Cookies", "74 g"),
   },
   {
@@ -765,7 +765,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(95, 100, "Asal Whole Wheat Parota", "5 pcs"),
   },
   {
@@ -783,7 +783,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(45, 45, "Britannia Atta Kulcha", "250 g"),
   },
   {
@@ -810,7 +810,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(197, 210, "The Cinnamon Kitchen Cacao, Almond & Berry Rocks Dark Chocolate", "50 g"),
   },
   {
@@ -819,7 +819,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(349, 399, "Artinci Almond Flour Keto Cake (Sugar Free)", "150 g"),
   },
   {
@@ -828,7 +828,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(268, 285, "The Cinnamon Kitchen Sugar-Free Cacao & Berry Rocks Dark Chocolate", "50 g"),
   },
   {
@@ -864,7 +864,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(174, 199, "Sunfeast Baked Creations Turkish Oats & Hazelnut Cookies", "120 g"),
   },
   {
@@ -882,7 +882,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(135, 150, "Wingreens Farms Multigrain Baked Flat Bread Sticks", "100 g"),
   },
   {
@@ -900,7 +900,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(176, 199, "Sunfeast Baked Creations Walnut & Choco Chip Cookies", "120 g"),
   },
   {
@@ -927,7 +927,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "425 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(360, 365, "American Garden Plain Bread Crumbs", "425 g"),
   },
   {
@@ -936,7 +936,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(129, 129, "CakeZone Date & Raisin Teacake", "180 g"),
   },
   {
@@ -945,7 +945,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(122, 124, "Theobroma Ragi Crackers", "100 g"),
   },
   {
@@ -972,7 +972,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(102, 109, "Cookieman Choc Chunk Brownie", "50 g"),
   },
   {
@@ -999,7 +999,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(298, 329, "Cookieman Double Chocolate Chunk Cookies Biscuits", "200 g"),
   },
   {
@@ -1008,7 +1008,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(235, 249, "Artinci Sugar Free Eggless Coffee Cake", "150 g"),
   },
   {
@@ -1026,7 +1026,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(175, 175, "The Baker’s Dozen Whole Wheat Banana Cake", "150 g"),
   },
   {
@@ -1035,7 +1035,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "Modern White Bread", "400 g"),
   },
   {
@@ -1044,7 +1044,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "Britannia Whole Wheat Bread", "400 g"),
   },
   {
@@ -1053,7 +1053,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(55, 60, "English Oven Zero Maida Whole Wheat Bread", "400 g"),
   },
   {
@@ -1062,7 +1062,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "Britannia Breakfast Slice White Bread", "450 g"),
   },
   {
@@ -1071,7 +1071,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(40, 40, "Modern Medium Crust Pizza Base", "150 g"),
   },
   {
@@ -1080,7 +1080,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(35, 35, "Britannia Pav", "200 g"),
   },
   {
@@ -1089,7 +1089,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "10 pcs",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(99, 110, "iD Fresh Mini Malabar Parota", "10 pcs"),
   },
   {
@@ -1098,7 +1098,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(90, 90, "iD Homestyle Whole Wheat Paratha", "5 pcs"),
   },
   {
@@ -1107,7 +1107,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(40, 40, "Everyday Just Baked Pizza Base", "200 g"),
   },
   {
@@ -1116,7 +1116,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "English Oven Brown Bread", "400 g"),
   },
   {
@@ -1125,7 +1125,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "240 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(70, 70, "The Health Factory Zero Maida Burger Bun - Pack of 4", "240 g"),
   },
   {
@@ -1134,7 +1134,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(45, 45, "The Health Factory Zero Maida Pizza Base", "140 g"),
   },
   {
@@ -1143,7 +1143,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "5 pcs",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(95, 100, "Asal Malabar Parota", "5 pcs"),
   },
   {
@@ -1152,7 +1152,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(76, 89, "The Health Factory Zero Maida Milk Bread", "350 g"),
   },
   {
@@ -1170,7 +1170,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(69, 69, "Protein Chef 32 g Protein Sharbati Wheat Bread (No Maida)", "250 g"),
   },
   {
@@ -1188,7 +1188,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(35, 35, "English Oven Pizza Base", "160 g"),
   },
   {
@@ -1197,7 +1197,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "175 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(52, 65, "The Health Factory Zero Maida Protein Bombay Pav", "175 g"),
   },
   {
@@ -1215,7 +1215,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "112 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(301, 320, "The Cinnamon Kitchen Fudge Brownie", "112 g"),
   },
   {
@@ -1224,7 +1224,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(25, 25, "English Oven Fruit Bread", "150 g"),
   },
   {
@@ -1233,7 +1233,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(40, 40, "Everyday Burger Bun", "200 g"),
   },
   {
@@ -1278,7 +1278,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(125, 125, "Theobroma Choco Chip Brownie for Raksha Bandhan", "80 g"),
   },
   {
@@ -1287,7 +1287,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(60, 60, "Bakers County Fresh Whole Wheat Bread", "300 g"),
   },
   {
@@ -1296,7 +1296,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "425 g",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(90, 90, "Modern Classic Malabar Parota", "425 g"),
   },
   {
@@ -1305,7 +1305,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "112.5 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(175, 199, "Sunfeast Baked Creations French Style Butter Cookies", "112.5 g"),
   },
   {
@@ -1314,7 +1314,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(125, 135, "The Health Factory Zero Maida Multigrain Sourdough", "350 g"),
   },
   {
@@ -1323,7 +1323,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(198, 225, "Theobroma Dense Chocolate Cake", "200 g"),
   },
   {
@@ -1332,7 +1332,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(92, 95, "Theobroma Eggless Choco Chip Brownie", "65 g"),
   },
   {
@@ -1341,7 +1341,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(168, 190, "Theobroma Butter Vanilla Pound Cake", "180 g"),
   },
   {
@@ -1359,7 +1359,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(61, 100, "Awsum Better Bakes Orange Pistachio Slice Cake", "60 g"),
   },
   {
@@ -1368,7 +1368,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "48.5 g",
-    image: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(20, 20, "Britannia Treat Croissant with Cocoa Crème", "48.5 g"),
   },
   {
@@ -1377,7 +1377,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(63, 90, "Britannia Cake Fudge it Chocolate Brownie", "120 g"),
   },
   {
@@ -1386,7 +1386,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 30, "Britannia Choco Chill Slice Cake", "100 g"),
   },
   {
@@ -1395,7 +1395,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 299, "Awsum Coffee Cheesecake", "100 g"),
   },
   {
@@ -1404,7 +1404,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(29, 30, "Britannia Gobbles Fruit Slice Cake", "100 g"),
   },
   {
@@ -1413,7 +1413,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "33 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(15, 15, "Bauli Spyroll Soft Swiss Roll", "33 g"),
   },
   {
@@ -1422,7 +1422,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "242 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(91, 180, "Sunfeast Dark Fantasy Yumfills Choco Pie", "242 g"),
   },
   {
@@ -1431,7 +1431,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 299, "Awsum Zesty Lemon Cheesecake", "100 g"),
   },
   {
@@ -1440,7 +1440,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "33 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
     offers: generateStoreOffers(15, 15, "Britannia Gobbles Pineapple Plunge Slice Cake", "33 g"),
   },
   {
@@ -1449,7 +1449,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "336 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(139, 180, "Lotte Choco Pie - 12 units", "336 g"),
   },
   {
@@ -1458,7 +1458,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(31, 35, "Parle Happy Happy Slice Cake (Vanilla)", "100 g"),
   },
   {
@@ -1467,7 +1467,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(200, 299, "Awsum Blueberry Cheesecake", "100 g"),
   },
   {
@@ -1476,7 +1476,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "170 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(70, 75, "Elite Choco Brownie", "170 g"),
   },
   {
@@ -1485,7 +1485,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 60, "Britannia Treat Dubai Kunafa Croissant", "45 g"),
   },
   {
@@ -1494,7 +1494,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "170 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(50, 53, "Elite Butter Muffin", "170 g"),
   },
   {
@@ -1503,7 +1503,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(200, 299, "Awsum New York Style Cheesecake", "100 g"),
   },
   {
@@ -1512,7 +1512,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "168 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(88, 99, "Lotte Choco Pie", "168 g"),
   },
   {
@@ -1521,7 +1521,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "114 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(90, 100, "Cadbury Rich & Fudgy Brownie", "114 g"),
   },
   {
@@ -1530,7 +1530,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(68, 75, "Unibic Royal Vanilla Pound Cake", "140 g"),
   },
   {
@@ -1539,7 +1539,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "6 pcs",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 210, "Wholy Belgian Chocolate Fudge Cake", "6 pcs"),
   },
   {
@@ -1548,7 +1548,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(48, 50, "Karachi Bakery Vanilla Muffins", "75 g"),
   },
   {
@@ -1557,7 +1557,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(22, 25, "Bauli Moonfils Vanilla Crème Soft Croissant", "45 g"),
   },
   {
@@ -1566,7 +1566,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "48.5 g",
-    image: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(20, 20, "Britannia Treat Croissant - Vanilla Creme Filling", "48.5 g"),
   },
   {
@@ -1575,7 +1575,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "6 pcs",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 210, "Wholy Hazelnut Fudge Cake", "6 pcs"),
   },
   {
@@ -1584,7 +1584,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "114 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(70, 80, "Cadbury Choc-Layered Cake Minion Pack", "114 g"),
   },
   {
@@ -1593,7 +1593,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 35, "Parle Happy Happy Slice Cake (Chocolate)", "90 g"),
   },
   {
@@ -1602,7 +1602,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(100, 100, "Bingo Churros with Chocolate Dip", "60 g"),
   },
   {
@@ -1611,7 +1611,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 50, "Awsum Chocolate Cream Roll", "45 g"),
   },
   {
@@ -1620,7 +1620,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(67, 120, "Britannia Fudge it Veg Brownie Cake", "120 g"),
   },
   {
@@ -1629,7 +1629,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(22, 25, "Bauli Moonfils Chocolate Crème Croissant", "45 g"),
   },
   {
@@ -1638,7 +1638,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "155 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(56, 60, "Elite Banana Pudding Slice Cake", "155 g"),
   },
   {
@@ -1647,7 +1647,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 50, "Awsum Vanilla Cream Roll", "45 g"),
   },
   {
@@ -1656,7 +1656,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(10, 10, "Modern Choco Cream Bun", "50 g"),
   },
   {
@@ -1665,7 +1665,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(23, 25, "Bauli Moonfils Strawberry Crème Soft Croissant (Eggless)", "45 g"),
   },
   {
@@ -1674,7 +1674,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(10, 10, "Modern Strawberry Cream Bun", "50 g"),
   },
   {
@@ -1683,7 +1683,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 50, "Awsum Strawberry Cream Roll", "45 g"),
   },
   {
@@ -1692,7 +1692,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "122 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 30, "Britannia Vanilla Choco Marble Slice Cake", "122 g"),
   },
   {
@@ -1701,7 +1701,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(28, 30, "Winkies Eggless Choco Brownie", "50 g"),
   },
   {
@@ -1710,7 +1710,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(235, 249, "Artinci Sugar-Free Chocolate Cake (Eggless)", "150 g"),
   },
   {
@@ -1719,7 +1719,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(61, 100, "Awsum Lemon Blueberry Slice Cake", "60 g"),
   },
   {
@@ -1728,7 +1728,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(65, 70, "Britannia English Slice Cake", "140 g"),
   },
   {
@@ -1737,7 +1737,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "59 g",
-    image: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 30, "Britannia Treat Croissant - Triple Choco", "59 g"),
   },
   {
@@ -1746,7 +1746,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(67, 70, "Britannia Nut & Raisin Romance Slice Cake", "140 g"),
   },
   {
@@ -1755,7 +1755,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(28, 35, "Awsum Better Bake Mawa Teacake", "40 g"),
   },
   {
@@ -1764,7 +1764,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "50.5 g",
-    image: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(20, 20, "Britannia Treat Croissant - Mixed Fruit Creme Filling", "50.5 g"),
   },
   {
@@ -1773,7 +1773,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 30, "Winkies Marble Slice Cake", "110 g"),
   },
   {
@@ -1782,7 +1782,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "16 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(47, 47, "Oreo Soft Chocolate Layered Cake", "16 g"),
   },
   {
@@ -1791,7 +1791,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(61, 100, "Awsum Carrot Walnut Slice Cake", "60 g"),
   },
   {
@@ -1800,7 +1800,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(23, 25, "Winkies Love Bite French Vanilla Filled Cake", "50 g"),
   },
   {
@@ -1809,7 +1809,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "33 g + 100 g + 100 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
     offers: generateStoreOffers(69, 75, "Britannia Choco Chill Slice Cake + Slice Cake + Gobbles Pineapple Plunge Cake Combo", "33 g + 100 g + 100 g"),
   },
   {
@@ -1818,7 +1818,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(31, 35, "Parle Happy Happy Slice Cake (Tutti Fruity)", "100 g"),
   },
   {
@@ -1827,7 +1827,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 30, "Winkies Red Velvet Marble Slice Cake", "110 g"),
   },
   {
@@ -1845,7 +1845,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "165 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(96, 100, "Winkies Chocolate Swiss Roll", "165 g"),
   },
   {
@@ -1854,7 +1854,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/378875a.jpg",
     offers: generateStoreOffers(65, 65, "Sri Lalitha Premium Idli Rava (Upma Rava)", "1 kg"),
   },
   {
@@ -1863,7 +1863,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(36, 36, "Weikfield Pure Multi-Purpose Baking Soda", "100 g"),
   },
   {
@@ -1872,7 +1872,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(39, 40, "Puramate Culinary Vanilla Essence", "30 ml"),
   },
   {
@@ -1881,7 +1881,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(44, 45, "Weikfield Vanilla Flavor Custard Powder", "100 g"),
   },
   {
@@ -1899,7 +1899,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 40, "Weikfield Double Action Baking Powder", "100 g"),
   },
   {
@@ -1908,7 +1908,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/415759a.jpg",
     offers: generateStoreOffers(99, 99, "Hershey's Chocolate Syrup", "180 g"),
   },
   {
@@ -1917,7 +1917,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(95, 98, "Weikfield Unsweetened Cocoa Powder", "50 g"),
   },
   {
@@ -1926,7 +1926,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 65, "The Select Aisle Dark Choco Chips", "50 g"),
   },
   {
@@ -1935,7 +1935,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(71, 75, "24 Mantra Organic Idly Rava/Sooji", "500 g"),
   },
   {
@@ -1944,7 +1944,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(61, 65, "Puramate Dark Compound Choco Chips", "50 g"),
   },
   {
@@ -1953,7 +1953,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(67, 75, "Organic Tattva Organic Maida", "500 g"),
   },
   {
@@ -1962,7 +1962,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(23, 25, "Puramate Baking Soda", "50 g"),
   },
   {
@@ -1971,7 +1971,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(39, 40, "Puramate Red Liquid Food Colour", "30 ml"),
   },
   {
@@ -1980,7 +1980,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(285, 325, "Sri Lalitha Idli Rava - Small Cut (Ravva)", "5 kg"),
   },
   {
@@ -1989,7 +1989,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/751663a.jpg",
     offers: generateStoreOffers(30, 30, "The Select Aisle Corn Flour (Starch)", "100 g"),
   },
   {
@@ -1998,7 +1998,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(220, 220, "Morde Dark Compound Chocolate Bar", "400 g"),
   },
   {
@@ -2007,7 +2007,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(74, 80, "The Select Aisle Milk Choco Chips", "50 g"),
   },
   {
@@ -2016,7 +2016,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(39, 40, "Puramate Liquid Yellow Food Colour", "30 ml"),
   },
   {
@@ -2025,7 +2025,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(48, 49, "The Select Aisle Instant Dry Yeast", "25 g"),
   },
   {
@@ -2034,7 +2034,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(43, 45, "Puramate Monosodium Glutamate /Ajinomoto", "50 g"),
   },
   {
@@ -2043,7 +2043,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(176, 179, "The Select Aisle Dark Choco Chips", "150 g"),
   },
   {
@@ -2070,7 +2070,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(184, 229, "The Select Aisle Dark Compound Chocolate Bar", "500 g"),
   },
   {
@@ -2079,7 +2079,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(51, 69, "The Select Aisle Mini Marshmallow - Vegan", "20 g"),
   },
   {
@@ -2088,7 +2088,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(229, 229, "The Select Aisle Natural Vanilla Extract", "30 ml"),
   },
   {
@@ -2097,7 +2097,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 45, "Amruth Raj Tutti Fruity", "150 g"),
   },
   {
@@ -2106,7 +2106,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(39, 40, "Puramate Food Colour (Green)", "30 ml"),
   },
   {
@@ -2115,7 +2115,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(42, 45, "Puramate Tooty Fruity Mix Sprinkles", "100 g"),
   },
   {
@@ -2124,7 +2124,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "10 x 30 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(330, 600, "Puramio Liquid Food Colour", "10 x 30 ml"),
   },
   {
@@ -2133,7 +2133,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(149, 199, "Desire Citric Acid Crystals", "200 g"),
   },
   {
@@ -2142,7 +2142,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(149, 199, "Didier & Frank Pure Cocoa Powder", "80 g"),
   },
   {
@@ -2151,7 +2151,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/432609a.jpg",
     offers: generateStoreOffers(129, 135, "Hershey's Hot Chocolate Powder", "110 g"),
   },
   {
@@ -2160,7 +2160,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(48, 50, "Puramate Instant Dry Yeast", "25 g"),
   },
   {
@@ -2169,7 +2169,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(83, 85, "Milky Mist Unsalted Cooking Butter", "100 g"),
   },
   {
@@ -2178,7 +2178,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 200, "Ossoro French Vanilla Essence", "30 ml"),
   },
   {
@@ -2187,7 +2187,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(57, 60, "Puramate Bread Crumbs", "75 g"),
   },
   {
@@ -2196,7 +2196,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(76, 80, "Puramate Milk Compound Choco Chips", "50 g"),
   },
   {
@@ -2205,7 +2205,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 85, "Puramate Twin Compound Choco Chips", "50 g"),
   },
   {
@@ -2214,7 +2214,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(115, 120, "Puramate Vanilla Whipping Cream Powder", "100 g"),
   },
   {
@@ -2223,7 +2223,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(58, 60, "Weikfield Strawberry Jelly Crystal Dessert Mix", "90 g"),
   },
   {
@@ -2232,7 +2232,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(35, 35, "The Select Aisle Baking Soda", "100 g"),
   },
   {
@@ -2241,7 +2241,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(46, 49, "The Select Aisle Bread Crumbs", "50 g"),
   },
   {
@@ -2250,7 +2250,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(32, 49, "The Select Aisle Vanilla Flavour Essence", "30 ml"),
   },
   {
@@ -2259,7 +2259,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "250 ml",
-    image: "https://images.unsplash.com/photo-1550828553-eacbc3f041cb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/488040a.jpg",
     offers: generateStoreOffers(146, 150, "Urban Platter Unsweetened Coconut Milk", "250 ml"),
   },
   {
@@ -2268,7 +2268,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(46, 49, "Weikfield Mango Flavor Custard Powder", "75 g"),
   },
   {
@@ -2277,7 +2277,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(238, 250, "Urban Platter Rose Petal Gulkand", "300 g"),
   },
   {
@@ -2286,7 +2286,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "600 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/415759a.jpg",
     offers: generateStoreOffers(207, 235, "Hershey's Chocolate Syrup", "600 g"),
   },
   {
@@ -2295,7 +2295,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(194, 199, "The Select Aisle Milk Choco Chips", "150 g"),
   },
   {
@@ -2304,7 +2304,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "250 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(72, 75, "Dabur Keora Water Essence", "250 ml"),
   },
   {
@@ -2313,7 +2313,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "28 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 59, "Harveys Kewra Essence", "28 ml"),
   },
   {
@@ -2322,7 +2322,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(28, 42, "Kwality Custard Powder", "100 g"),
   },
   {
@@ -2331,7 +2331,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(699, 799, "Forest Found Unsweetened Dark Cocoa Powder", "500 g"),
   },
   {
@@ -2340,7 +2340,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "28 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 59, "Harveys Biryani Essence", "28 ml"),
   },
   {
@@ -2349,7 +2349,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "28 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 59, "Harveys Vanilla Flavor Essence", "28 ml"),
   },
   {
@@ -2358,7 +2358,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(142, 150, "Puramate Agar Agar Powder", "25 g"),
   },
   {
@@ -2367,7 +2367,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(77, 80, "Puramate Rainbow Sprinkles", "50 g"),
   },
   {
@@ -2376,7 +2376,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(79, 85, "The Select Aisle Twin Choco Chips", "50 g"),
   },
   {
@@ -2385,7 +2385,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(85, 90, "Puramate Cocoa Powder", "50 g"),
   },
   {
@@ -2394,7 +2394,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "250 ml",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/476909a.jpg",
     offers: generateStoreOffers(975, 975, "Abbie's Pure Maple Syrup", "250 ml"),
   },
   {
@@ -2403,7 +2403,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(295, 329, "Cadbury Cocoa Powder Mix", "150 g"),
   },
   {
@@ -2412,7 +2412,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(65, 65, "Heritage Salted Salted Butter", "100 g"),
   },
   {
@@ -2421,7 +2421,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/115102a.jpg",
     offers: generateStoreOffers(94, 99, "Hershey's Caramel Syrup", "180 g"),
   },
   {
@@ -2430,7 +2430,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/766693a.jpg",
     offers: generateStoreOffers(94, 99, "Hershey's Hazelnut Syrup", "180 g"),
   },
   {
@@ -2439,7 +2439,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(225, 400, "Nature Vit Instant Dry Yeast", "200 g"),
   },
   {
@@ -2448,7 +2448,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(95, 135, "Pillsbury Butterscotch Pancake Mix", "180 g"),
   },
   {
@@ -2457,7 +2457,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 85, "Puramate White Compound Choco Chips", "50 g"),
   },
   {
@@ -2466,7 +2466,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 199, "The Select Aisle Cake Décor Sprinkles - Love Combo", "100 g"),
   },
   {
@@ -2475,7 +2475,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(99, 99, "The Select Aisle Icing Sugar", "300 g"),
   },
   {
@@ -2484,7 +2484,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(85, 99, "The Select Aisle Rainbow Sprinkles", "85 g"),
   },
   {
@@ -2493,7 +2493,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(109, 109, "The Select Aisle Sky Blue Gel Food Colour", "30 ml"),
   },
   {
@@ -2502,7 +2502,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(83, 85, "Milky Mist Salted Butter", "100 g"),
   },
   {
@@ -2511,7 +2511,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(32, 33, "Puramate Corn Starch", "100 g"),
   },
   {
@@ -2520,7 +2520,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(288, 360, "Puramio Panko Bread Crumbs", "400 g"),
   },
   {
@@ -2529,7 +2529,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(129, 129, "The Select Aisle Instant Dry Yeast", "75 g"),
   },
   {
@@ -2538,7 +2538,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(225, 225, "Amul Dark Compound Chocolate Bar", "500 g"),
   },
   {
@@ -2547,7 +2547,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "250 ml",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(194, 200, "Urban Platter Unsweetened Coconut Cream", "250 ml"),
   },
   {
@@ -2556,7 +2556,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 59, "The Select Aisle Gelatin", "20 g"),
   },
   {
@@ -2565,7 +2565,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/424204a.jpg",
     offers: generateStoreOffers(94, 99, "Hershey's Strawberry Syrup", "180 g"),
   },
   {
@@ -2574,7 +2574,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(141, 149, "The Select Aisle Dutch Processed Cocoa Powder", "70 g"),
   },
   {
@@ -2583,7 +2583,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(228, 228, "Amul Lite Milk Fat Spread", "500 g"),
   },
   {
@@ -2592,7 +2592,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "28 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 59, "Harveys Saffron Essence", "28 ml"),
   },
   {
@@ -2601,7 +2601,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 199, "The Select Aisle Carnival Cake Décor Sprinkles Combo", "100 g"),
   },
   {
@@ -2610,7 +2610,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "300 ml",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/481013a.jpg",
     offers: generateStoreOffers(209, 220, "Puramate Pancake Syrup", "300 ml"),
   },
   {
@@ -2619,7 +2619,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(31, 46, "Pillsbury Vanilla Custard Powder Smooth & Creamy", "90 g"),
   },
   {
@@ -2628,7 +2628,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "1.3 kg",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/415759a.jpg",
     offers: generateStoreOffers(360, 430, "Hershey's Chocolate Syrup", "1.3 kg"),
   },
   {
@@ -2637,7 +2637,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(375, 375, "Sakura Panko Bread Crumbs", "1 kg"),
   },
   {
@@ -2646,7 +2646,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(46, 49, "Weikfield Smooth & Creamy Strawberry Custard Powder", "75 g"),
   },
   {
@@ -2655,7 +2655,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "600 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/115102a.jpg",
     offers: generateStoreOffers(215, 250, "Hershey's Caramel Syrup", "600 g"),
   },
   {
@@ -2664,7 +2664,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(302, 330, "Weikfield Unsweetened Cocoa Powder", "150 g"),
   },
   {
@@ -2673,7 +2673,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(76, 80, "Puramate Chocolate Sprinkles", "50 g"),
   },
   {
@@ -2682,7 +2682,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(95, 99, "The Select Aisle Sugar Ball Sprinkles", "100 g"),
   },
   {
@@ -2691,7 +2691,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(109, 109, "The Select Aisle Red Gel Food Colour", "30 ml"),
   },
   {
@@ -2700,7 +2700,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(42, 45, "Puramate Vanilla Custard Powder", "100 g"),
   },
   {
@@ -2709,7 +2709,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 45, "The Select Aisle Tutti Frutti Dessert Sprinkles", "100 g"),
   },
   {
@@ -2718,7 +2718,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(109, 109, "The Select Aisle Yellow Gel Food Colour", "30 ml"),
   },
   {
@@ -2727,7 +2727,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "28 ml",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(54, 59, "Harveys Red Food Colour", "28 ml"),
   },
   {
@@ -2736,7 +2736,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(77, 80, "Puramate Coloured Balls Sprinkles", "50 g"),
   },
   {
@@ -2745,7 +2745,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(28, 35, "The Select Aisle Vanilla Custard Mix", "100 g"),
   },
   {
@@ -2754,7 +2754,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 80, "Harveys Dark Compound Choco Chips", "50 g"),
   },
   {
@@ -2763,7 +2763,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 80, "Harveys Milk Compound Choco Chips", "50 g"),
   },
   {
@@ -2772,7 +2772,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 80, "Harveys White Compound Choco Chips", "50 g"),
   },
   {
@@ -2781,7 +2781,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(170, 185, "Japanese Choice Crispy Bread Crumbs", "60 g"),
   },
   {
@@ -2790,7 +2790,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 80, "Harveys Vermicelli Chocolate Sprinkles", "50 g"),
   },
   {
@@ -2799,7 +2799,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 80, "Harveys & Sons Rainbow Sprinkles", "50 g"),
   },
   {
@@ -2817,7 +2817,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 80, "Harveys Colour Ball Sprinkles", "50 g"),
   },
   {
@@ -2826,7 +2826,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(438, 795, "Choko La 35% Choco Chips", "250 g"),
   },
   {
@@ -2835,7 +2835,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(39, 40, "Puramate Liquid Orange Food Colour", "30 ml"),
   },
   {
@@ -2844,7 +2844,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(34, 35, "Puramate Baking Powder", "100 g"),
   },
   {
@@ -2853,7 +2853,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 75, "The Select Aisle Food Grade Citric Acid Powder", "100 g"),
   },
   {
@@ -2862,7 +2862,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(129, 129, "The Select Aisle Agar Agar Powder (Veg Gelatin)", "20 g"),
   },
   {
@@ -2871,7 +2871,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(250, 500, "Nature Vit Baking Soda", "1 kg"),
   },
   {
@@ -2880,7 +2880,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(29, 30, "Puramate Icing Sugar", "100 g"),
   },
   {
@@ -2889,7 +2889,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(35, 35, "The Select Aisle Double Acting Baking Powder", "100 g"),
   },
   {
@@ -2898,7 +2898,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(58, 60, "Weikfield Mango Jelly Mix", "90 g"),
   },
   {
@@ -2907,7 +2907,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Gourmet Bakery",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/633595a.jpg",
     offers: generateStoreOffers(67, 70, "Theobroma Zero Maida Whole Wheat Bread", "350 g"),
   },
   {

@@ -10,22 +10,39 @@ export interface CategoryMeta {
 
 export const CATEGORY_TOTALS: Record<string, number> = {
   all: 24580,
+  paan: 1280,
   dairy: 2410,
   veggies: 3890,
+  cold_drinks: 1850,
+  snacks: 2620,
+  instant: 1750,
+  sweet_tooth: 1480,
+  bakery: 1620,
+  tea_coffee: 1590,
+  atta_rice_dal: 2350,
+  masala_oil: 2120,
+  sauces: 1420,
+  meat_fish: 1150,
+  organic_healthy: 980,
+  baby_care: 920,
+  pharma_wellness: 890,
+  cleaning: 1450,
+  home_office: 1120,
+  personal_care: 1240,
+  pet_care: 860,
+  // Legacy aliases for backward compatibility
   staples: 4150,
-  snacks: 4820,
   beverages: 2940,
-  instant: 2110,
   household: 2620,
   personal: 1640,
-  paan: 1280,
 };
 
-// Seed blueprints for each Indian grocery category
+// Seed blueprints for each of the 20 Blinkit grocery categories
 interface Blueprint {
   item: string;
   hindi: string;
   category: string;
+  subCategory?: string;
   basePrice: number;
   mrpRatio: number;
   brands: string[];
@@ -35,48 +52,89 @@ interface Blueprint {
 }
 
 const BLUEPRINTS: Record<string, Blueprint[]> = {
+  paan: [
+    {
+      item: 'Mouth Fresheners & Mints',
+      hindi: 'माउथ फ्रेशनर व मिंट्स',
+      category: 'paan',
+      subCategory: 'Mints & Lozenges',
+      basePrice: 20,
+      mrpRatio: 1.1,
+      brands: ['Center Fresh Spearmint Gum', 'Tic Tac Mint', 'Happydent Wave White', 'Chlormint Ice', 'Pass Pass Mint Mix'],
+      variants: [{ unit: 'Pack of 1', mult: 1 }, { unit: 'Pack of 3', mult: 2.7 }, { unit: 'Dispenser Bottle', mult: 4.5 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/11629a.jpg'],
+      isEssential: true,
+    },
+    {
+      item: 'Meetha Paan, Supari & Digestive Churan',
+      hindi: 'मीठा पान व सुपारी',
+      category: 'paan',
+      subCategory: 'Paan & Supari',
+      basePrice: 35,
+      mrpRatio: 1.15,
+      brands: ['Paan Smith Shahi Meetha Paan', 'Baba Silver Coated Cardamom Elaichi', 'Swad Pachak Digestive Drops', 'Dabur Hajmola Regular & Imli'],
+      variants: [{ unit: '1 Pack', mult: 1 }, { unit: 'Family Bottle (120 Tabs)', mult: 2.2 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/16085a.jpg'],
+    },
+    {
+      item: 'Smoking Accessories & Lighters',
+      hindi: 'लाइटर व स्मोकिंग एक्सेसरीज',
+      category: 'paan',
+      subCategory: 'Lighters & Accessories',
+      basePrice: 45,
+      mrpRatio: 1.1,
+      brands: ['Cricket Electronic Flint Lighter', 'RAW Classic King Size Slim Papers', 'Elements Ultra Thin Rolling Cones', 'Bic Maxi Pocket Lighter'],
+      variants: [{ unit: '1 Unit', mult: 1 }, { unit: 'Pack of 3', mult: 2.8 }, { unit: 'Booklet (32 Leaves)', mult: 1.5 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-1.png'],
+    },
+  ],
+
   dairy: [
     {
       item: 'Fresh Full Cream Milk',
       hindi: 'फुल क्रीम ताजा दूध',
       category: 'dairy',
+      subCategory: 'Fresh Milk',
       basePrice: 34,
       mrpRatio: 1.05,
-      brands: ['Amul Gold', 'Mother Dairy Full Cream', 'Nandini Special', 'Country Delight Desi', 'Akshayakalpa Organic'],
-      variants: [{ unit: '500 ml Pouch', mult: 1 }, { unit: '1 Litre Pouch', mult: 1.95 }, { unit: '1 Litre Tetra Pack', mult: 2.2 }, { unit: '2 Litre Family Can', mult: 3.8 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40090893_10-amul-amul-gold.jpg', 'https://www.bbassets.com/media/uploads/p/l/40147597_11-heritage-daily-health-toned-milk.jpg'],
+      brands: ['Amul Gold', 'Mother Dairy Full Cream', 'Nandini Special', 'Country Delight Desi'],
+      variants: [{ unit: '500 ml Pouch', mult: 1 }, { unit: '1 Litre Pouch', mult: 1.95 }, { unit: '1 Litre Tetra Pack', mult: 2.2 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/40090893_10-amul-amul-gold.jpg'],
       isEssential: true,
     },
     {
       item: 'Toned Fresh Milk',
       hindi: 'ताजा टोन्ड दूध',
       category: 'dairy',
+      subCategory: 'Fresh Milk',
       basePrice: 27,
       mrpRatio: 1.04,
-      brands: ['Amul Taaza', 'Mother Dairy Toned', 'Nandini Blue Toned', 'Nestle A+ Milk'],
-      variants: [{ unit: '500 ml Pouch', mult: 1 }, { unit: '1 Litre Pouch', mult: 1.96 }, { unit: '1 Litre Tetra Pack', mult: 2.15 }, { unit: '200 ml Tetra (Pack of 6)', mult: 2.6 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/242671_1-nandini-goodlife-toned-milk.jpg', 'https://www.bbassets.com/media/uploads/p/l/306926_6-amul-homogenised-toned-milk.jpg'],
+      brands: ['Amul Taaza', 'Mother Dairy Toned', 'Nandini Blue Toned'],
+      variants: [{ unit: '500 ml Pouch', mult: 1 }, { unit: '1 Litre Pouch', mult: 1.96 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/306926_6-amul-homogenised-toned-milk.jpg'],
       isEssential: true,
     },
     {
       item: 'Fresh Malai Paneer',
       hindi: 'ताजा मलाई पनीर',
       category: 'dairy',
+      subCategory: 'Paneer & Tofu',
       basePrice: 85,
       mrpRatio: 1.15,
-      brands: ['Amul', 'Mother Dairy', 'Milky Mist', 'Gowardhan', 'Akshayakalpa'],
-      variants: [{ unit: '200 g Block', mult: 1 }, { unit: '500 g Value Pack', mult: 2.35 }, { unit: '1 kg Commercial Pack', mult: 4.5 }, { unit: '200 g Diced Cubes', mult: 1.1 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/264679_8-milky-mist-paneer-premium-fresh.jpg', 'https://www.bbassets.com/media/uploads/p/l/40096747_11-amul-malai-fresh-paneer.jpg'],
+      brands: ['Amul', 'Mother Dairy', 'Milky Mist', 'Gowardhan'],
+      variants: [{ unit: '200 g Block', mult: 1 }, { unit: '500 g Value Pack', mult: 2.35 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/40096747_11-amul-malai-fresh-paneer.jpg'],
       isEssential: true,
     },
     {
       item: 'Fresh Dahi / Curd',
       hindi: 'ताजा दही',
       category: 'dairy',
+      subCategory: 'Curd & Yogurt',
       basePrice: 32,
       mrpRatio: 1.08,
-      brands: ['Amul Masti', 'Mother Dairy Classic', 'Milky Mist', 'Epigamia Greek', 'Gowardhan'],
-      variants: [{ unit: '200 g Cup', mult: 0.65 }, { unit: '400 g Pouch', mult: 1 }, { unit: '1 kg Family Bucket', mult: 2.4 }, { unit: '400 g Tub', mult: 1.3 }],
+      brands: ['Amul Masti', 'Mother Dairy Classic', 'Milky Mist'],
+      variants: [{ unit: '400 g Pouch', mult: 1 }, { unit: '1 kg Family Bucket', mult: 2.4 }],
       images: ['https://www.bbassets.com/media/uploads/p/l/40276324_4-milky-mist-curd-rich-in-taste-no-added-preservatives.jpg'],
       isEssential: true,
     },
@@ -84,537 +142,497 @@ const BLUEPRINTS: Record<string, Blueprint[]> = {
       item: 'Pasteurised Salted Table Butter',
       hindi: 'मक्खन',
       category: 'dairy',
+      subCategory: 'Butter & Ghee',
       basePrice: 56,
       mrpRatio: 1.08,
-      brands: ['Amul', 'Mother Dairy', 'Britannia', 'Nandini'],
-      variants: [{ unit: '100 g Bar', mult: 1 }, { unit: '500 g Value Block', mult: 4.8 }, { unit: '200 g Tub', mult: 2.1 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg', 'https://www.bbassets.com/media/uploads/p/l/40045943_1-amul-butter-pasteurised.jpg'],
+      brands: ['Amul', 'Mother Dairy', 'Britannia'],
+      variants: [{ unit: '100 g Bar', mult: 1 }, { unit: '500 g Value Block', mult: 4.8 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg'],
       isEssential: true,
-    },
-    {
-      item: 'Farm Fresh White Eggs',
-      hindi: 'फार्म फ्रेश अंडे',
-      category: 'dairy',
-      basePrice: 54,
-      mrpRatio: 1.15,
-      brands: ['Fresho Farm Fresh', 'Eggoz Nutri-Rich', 'Country Delight Free Range', 'Hello Eggs'],
-      variants: [{ unit: 'Pack of 6', mult: 1 }, { unit: 'Pack of 10 Saver', mult: 1.55 }, { unit: 'Pack of 12', mult: 1.85 }, { unit: 'Pack of 30 Tray', mult: 4.4 }],
-      images: [
-        'https://www.bbassets.com/media/uploads/p/l/150502_11-fresho-farm-eggs-table-tray-medium-antibiotic-residue-free.jpg',
-        'https://www.bbassets.com/media/uploads/p/l/40211592_7-eggoz-white-farm-fresh-eggs-omega-3-rich-with-no-ddgs-hormone-steroids.jpg',
-        'https://www.bbassets.com/media/uploads/p/l/40348875_8-fresho-premium-white-eggs.jpg',
-        'https://www.bbassets.com/media/uploads/p/l/40374433_1-hello-eggs-brown-eggs.jpg',
-      ],
-      isEssential: true,
-    },
-    {
-      item: 'Whole Wheat Brown Bread',
-      hindi: 'ब्राउन ब्रेड',
-      category: 'dairy',
-      basePrice: 42,
-      mrpRatio: 1.12,
-      brands: ['Harvest Gold', 'English Oven', 'Britannia 100% Atta', 'Modern Bread', 'The Health Factory'],
-      variants: [{ unit: '400 g Loaf', mult: 1 }, { unit: '450 g Family Pack', mult: 1.15 }, { unit: 'Sub Footlong Loaf', mult: 1.3 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40162924_8-britannia-100-whole-wheat-bread.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Processed Cheese Slices & Cubes',
-      hindi: 'चीज स्लाइस',
-      category: 'dairy',
-      basePrice: 135,
-      mrpRatio: 1.12,
-      brands: ['Amul', 'Britannia', 'Go Cheese', 'Mother Dairy'],
-      variants: [{ unit: '10 Slices (200 g)', mult: 1 }, { unit: '20 Slices (400 g)', mult: 1.9 }, { unit: '200 g Cubes Box', mult: 1.05 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/104808_11-amul-cheese-slices.jpg'],
-    },
-    {
-      item: 'Spiced Buttermilk (Chhach)',
-      hindi: 'मसाला छाछ',
-      category: 'dairy',
-      basePrice: 15,
-      mrpRatio: 1.05,
-      brands: ['Amul Masti', 'Mother Dairy Tadka', 'Nandini Masala Majjige'],
-      variants: [{ unit: '200 ml Tetra', mult: 1 }, { unit: '500 ml Spout Pouch', mult: 2.1 }, { unit: '1 Litre Family Pack', mult: 3.8 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/180584_9-amul-masti-buttermilk-spice.jpg'],
     },
   ],
+
   veggies: [
     {
-      item: 'Hybrid Fresh Red Tomatoes',
-      hindi: 'ताजा हाइब्रिड टमाटर',
+      item: 'Fresh Desi Tomatoes',
+      hindi: 'देसी टमाटर',
       category: 'veggies',
-      basePrice: 28,
-      mrpRatio: 1.25,
-      brands: ['Fresho Farm Fresh', 'Organic Mandi', 'Desi Mandi Direct', 'Nature Fresh'],
-      variants: [{ unit: '500 g Pack', mult: 0.55 }, { unit: '1 kg Saver Bag', mult: 1 }, { unit: '2 kg Value Box', mult: 1.85 }, { unit: '5 kg Mega Box', mult: 4.2 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000200_21-fresho-tomato-hybrid.jpg', 'https://www.bbassets.com/media/uploads/p/l/40183216_3-fresho-tomato-local.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'New Crop Jyoti Fresh Potato (Aloo)',
-      hindi: 'ताजा ज्योति आलू',
-      category: 'veggies',
-      basePrice: 32,
-      mrpRatio: 1.2,
-      brands: ['Fresho Farm Fresh', 'Agra Mandi Direct', 'Pahar Fresh', 'Organic Farm'],
-      variants: [{ unit: '1 kg Bag', mult: 1 }, { unit: '2 kg Saver', mult: 1.9 }, { unit: '5 kg Wholesale Sack', mult: 4.4 }, { unit: 'Baby Potatoes (500 g)', mult: 0.8 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40189104_1-fresho-new-potato.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Fresh Red Onion (Pyaz)',
-      hindi: 'ताजा नासिक प्याज',
-      category: 'veggies',
-      basePrice: 38,
-      mrpRatio: 1.22,
-      brands: ['Fresho Nasik Special', 'Lasalgaon Mandi', 'Desi Farm Direct', 'Organic Mandi'],
-      variants: [{ unit: '1 kg Net Bag', mult: 1 }, { unit: '2 kg Saver Net', mult: 1.92 }, { unit: '5 kg Jute Sack', mult: 4.5 }, { unit: 'Sambhar Small Onion (500 g)', mult: 1.2 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/20001190_13-fresho-onion.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Fresh Green Lady Finger (Bhindi)',
-      hindi: 'ताजा हरी भिंडी',
-      category: 'veggies',
-      basePrice: 24,
-      mrpRatio: 1.2,
-      brands: ['Fresho Farm Tender', 'Mandi Fresh Direct', 'Nature Basket'],
-      variants: [{ unit: '250 g Tray', mult: 0.55 }, { unit: '500 g Fresh Pack', mult: 1 }, { unit: '1 kg Family Saver', mult: 1.88 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000142_21-fresho-ladies-finger.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Fresh Cauliflower (Phool Gobhi)',
-      hindi: 'फूलगोभी',
-      category: 'veggies',
-      basePrice: 35,
-      mrpRatio: 1.2,
-      brands: ['Fresho Fresh Mandi', 'Local Farm Direct'],
-      variants: [{ unit: '1 pc (Approx 400g-600g)', mult: 1 }, { unit: 'Twin Pack (2 pcs)', mult: 1.85 }, { unit: 'Cleaned Florets (250 g)', mult: 0.9 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000074_22-fresho-cauliflower.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Shimla Royal Gala Fresh Apples',
-      hindi: 'शिमला सेब',
-      category: 'veggies',
-      basePrice: 140,
-      mrpRatio: 1.25,
-      brands: ['Fresho Orchard Choice', 'Kinnaur Royal', 'Washington Extra', 'Kashmir Delicious'],
-      variants: [{ unit: '4 pcs Pack (Approx 500g)', mult: 1 }, { unit: '1 kg Saver Box', mult: 1.88 }, { unit: '2 kg Gift Basket', mult: 3.6 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40134282_6-fresho-baby-apple.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Fresh Robusta & Yelakki Bananas',
-      hindi: 'ताजा केला',
-      category: 'veggies',
-      basePrice: 42,
-      mrpRatio: 1.15,
-      brands: ['Fresho Cavendish', 'South Yelakki Elaichi', 'Organic Nendran'],
-      variants: [{ unit: 'Pack of 6 Robusta', mult: 1 }, { unit: 'Pack of 12 Robusta', mult: 1.85 }, { unit: 'Yelakki Elaichi Banana (500 g)', mult: 1.25 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000031_22-fresho-banana-yelakki.jpg', 'https://www.bbassets.com/media/uploads/p/l/10000025_32-fresho-banana-robusta.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Pomegranate (Anar) Premium',
-      hindi: 'अनार',
-      category: 'veggies',
-      basePrice: 110,
-      mrpRatio: 1.25,
-      brands: ['Fresho Bhagwa', 'Solapur Special Direct'],
-      variants: [{ unit: '2 pcs (Approx 450g)', mult: 1 }, { unit: '1 kg Box', mult: 2.1 }, { unit: 'Peeled Arils / Pearls (150 g)', mult: 0.8 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/20000709_20-fresho-pomegranate.jpg'],
-    },
-    {
-      item: 'Fresh Coriander, Mint & Curry Leaves Trio',
-      hindi: 'धनिया और हरी मिर्च कॉम्बो',
-      category: 'veggies',
+      subCategory: 'Fresh Vegetables',
       basePrice: 22,
       mrpRatio: 1.25,
-      brands: ['Fresho Mandi Combo', 'Hydroponic Herbs', 'Desi Garden Fresh'],
-      variants: [{ unit: '100g Dhaniya + 100g Mirch', mult: 1 }, { unit: 'Dhaniya Bunch (100 g)', mult: 0.6 }, { unit: 'Pudina Mint Bunch (100 g)', mult: 0.6 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000326_17-fresho-coriander-leaves.jpg'],
+      brands: ['Farm Fresh', 'Organics Choice', 'Daily Harvest'],
+      variants: [{ unit: '500 g', mult: 1 }, { unit: '1 kg', mult: 1.9 }, { unit: '2 kg Value Pack', mult: 3.6 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg'],
       isEssential: true,
     },
     {
-      item: 'Fresh Green Capsicum (Shimla Mirch)',
-      hindi: 'हरी शिमला मिर्च',
+      item: 'Fresh Nashik Red Onions',
+      hindi: 'प्याज',
       category: 'veggies',
+      subCategory: 'Fresh Vegetables',
       basePrice: 35,
       mrpRatio: 1.2,
-      brands: ['Fresho Polyhouse Green', 'Organic Mandi', 'Tender Fresh'],
-      variants: [{ unit: '250 g Pack', mult: 0.6 }, { unit: '500 g Pack', mult: 1 }, { unit: 'Red & Yellow Bell Peppers (2 pcs)', mult: 2.1 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000067_27-fresho-capsicum-green.jpg'],
-    },
-  ],
-  staples: [
-    {
-      item: 'Shudh Chakki Fresh Whole Wheat Atta',
-      hindi: 'शुद्ध चक्की गेहूं का आटा',
-      category: 'staples',
-      basePrice: 225,
-      mrpRatio: 1.15,
-      brands: ['Aashirvaad Shudh', 'Fortune Chakki Fresh', 'Pillsbury Traditional', 'Nature Fresh Sampoorna', 'bb Royal Chakki'],
-      variants: [{ unit: '1 kg Pack', mult: 0.23 }, { unit: '5 kg Bag', mult: 1 }, { unit: '10 kg Saver Sack', mult: 1.92 }, { unit: '5 kg Multigrain Power', mult: 1.28 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/126903_12-aashirvaad-atta-whole-wheat.jpg', 'https://www.bbassets.com/media/uploads/p/l/126906_10-aashirvaad-atta-whole-wheat.jpg'],
+      brands: ['Farm Fresh', 'Nashik Direct', 'Pure Roots'],
+      variants: [{ unit: '1 kg', mult: 1 }, { unit: '2 kg Pack', mult: 1.95 }, { unit: '5 kg Mega Bag', mult: 4.6 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg'],
       isEssential: true,
     },
     {
-      item: 'Rozana Super Basmati / Sona Masoori Rice',
-      hindi: 'सोना मसूरी / बासमती चावल',
-      category: 'staples',
-      basePrice: 340,
-      mrpRatio: 1.2,
-      brands: ['India Gate Rozana', 'Daawat Super', 'Fortune Rozana Mogra', 'bb Royal Sona Masoori', 'Kohinoor Charminar'],
-      variants: [{ unit: '1 kg Pouch', mult: 0.24 }, { unit: '5 kg Bag', mult: 1 }, { unit: '10 kg Family Jute Sack', mult: 1.88 }, { unit: '25 kg Wholesale Sack', mult: 4.4 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40075897_15-bb-royal-sona-masoori-rice-raw-rice-super-premium.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Refined Sunflower Cooking Oil',
-      hindi: 'रिफाइंड सूरजमुखी / सरसों तेल',
-      category: 'staples',
-      basePrice: 135,
-      mrpRatio: 1.18,
-      brands: ['Fortune Sunlite', 'Saffola Gold Pro', 'Dhara Health', 'Gemini Pure', 'Emami Healthy'],
-      variants: [{ unit: '1 Litre Pouch', mult: 1 }, { unit: '1 Litre PET Bottle', mult: 1.08 }, { unit: '5 Litre Jar / Can', mult: 4.8 }, { unit: '15 Litre Mega Tin', mult: 14.1 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/274145_19-fortune-sun-lite-sunflower-refined-oil.jpg', 'https://www.bbassets.com/media/uploads/p/l/276764_13-fortune-fortune-premium-kachi-ghani-pure-mustard-oil.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Unpolished Arhar / Toor Dal (Yellow Split)',
-      hindi: 'अरहर / तूर दाल',
-      category: 'staples',
-      basePrice: 155,
-      mrpRatio: 1.15,
-      brands: ['Tata Sampann', 'bb Royal Unpolished', 'Fortune Arhar Dal', 'Organic Tattva Desi', 'Catch Natural'],
-      variants: [{ unit: '500 g Pack', mult: 0.54 }, { unit: '1 kg Pouch', mult: 1 }, { unit: '2 kg Value Pack', mult: 1.92 }, { unit: '5 kg Saver Sack', mult: 4.6 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40000276_10-tata-sampann-unpolished-toor-dal.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Moong Dal (Yellow Dhuli & Green Split)',
-      hindi: 'मूंग दाल',
-      category: 'staples',
-      basePrice: 130,
-      mrpRatio: 1.18,
-      brands: ['Tata Sampann', 'Fortune', 'Organic Tattva', 'BB Royal'],
-      variants: [{ unit: '500 g Pouch', mult: 0.53 }, { unit: '1 kg Pouch', mult: 1 }, { unit: '2 kg Saver Pack', mult: 1.94 }],
-      images: ['https://images.unsplash.com/photo-1585994192701-f1a505c8574a?w=500&auto=format&fit=crop&q=80'],
-      isEssential: true,
-    },
-    {
-      item: 'Vacuum Evaporated Iodised Table Salt',
-      hindi: 'आयोडाइज्ड नमक',
-      category: 'staples',
+      item: 'Fresh Farm Potatoes (Aloo)',
+      hindi: 'आलू',
+      category: 'veggies',
+      subCategory: 'Fresh Vegetables',
       basePrice: 28,
-      mrpRatio: 1.0,
-      brands: ['Tata Salt', 'Aashirvaad Iodized Salt', 'Catch Salt', 'Tata Salt Lite (Low Sodium)', 'bb Popular Salt'],
-      variants: [{ unit: '1 kg Pouch', mult: 1 }, { unit: '1 kg Low-Sodium Lite', mult: 1.6 }, { unit: 'Rock Salt / Sendha Namak (1 kg)', mult: 1.8 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/241600_11-tata-salt-iodized.jpg'],
+      mrpRatio: 1.18,
+      brands: ['Farm Fresh', 'Pahari Fresh', 'Agra Direct'],
+      variants: [{ unit: '1 kg', mult: 1 }, { unit: '2 kg Bag', mult: 1.95 }, { unit: '5 kg Bag', mult: 4.7 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg'],
       isEssential: true,
     },
     {
-      item: 'Pure Desi Cow Ghee (Danedar)',
-      hindi: 'शुद्ध देसी गाय का घी',
-      category: 'staples',
-      basePrice: 650,
-      mrpRatio: 1.15,
-      brands: ['Amul Cow Ghee', 'Mother Dairy Desi Ghee', 'Patanjali Cow Ghee', 'Nandini Pure Ghee', 'Gowardhan Danedar'],
-      variants: [{ unit: '500 ml Pouch', mult: 0.53 }, { unit: '1 Litre Pouch', mult: 1 }, { unit: '1 Litre PET Jar', mult: 1.06 }, { unit: '5 Litre Family Tin', mult: 4.85 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/213273_9-nandini-pure-ghee.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Authentic Indian Ground Spices (Haldi, Mirch, Dhaniya)',
-      hindi: 'हल्दी, मिर्च, धनिया पाउडर',
-      category: 'staples',
-      basePrice: 58,
-      mrpRatio: 1.25,
-      brands: ['Everest Spices', 'MDH Deggi Mirch', 'Catch Pure Spices', 'Tata Sampann Spices', 'Badshah Masala'],
-      variants: [{ unit: '100 g Box', mult: 0.55 }, { unit: '200 g Box', mult: 1 }, { unit: '500 g Saver Pouch', mult: 2.3 }, { unit: 'Garam Masala 100g', mult: 1.4 }],
-      images: ['https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=500&auto=format&fit=crop&q=80'],
-    },
-    {
-      item: 'Pure & Hygienic Crystal White Sugar',
-      hindi: 'सफेद चीनी',
-      category: 'staples',
-      basePrice: 48,
-      mrpRatio: 1.1,
-      brands: ['Madhur Pure Sugar', 'Trust Classic Sulphur-Free', 'bb Popular Crystal', 'Dhampure Organic'],
-      variants: [{ unit: '1 kg Packet', mult: 1 }, { unit: '5 kg Saver Polybag', mult: 4.8 }, { unit: 'Brown Sugar / Demerara (1 kg)', mult: 1.9 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/30005417_10-bb-popular-sugar.jpg'],
+      item: 'Fresh Green Coriander (Kottimeera)',
+      hindi: 'हरा धनिया',
+      category: 'veggies',
+      subCategory: 'Leafies & Herbs',
+      basePrice: 15,
+      mrpRatio: 1.2,
+      brands: ['Farm Fresh Daily'],
+      variants: [{ unit: '100 g Bunch', mult: 1 }, { unit: '250 g Bunch', mult: 2.2 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3891a.jpg'],
       isEssential: true,
     },
   ],
+
+  cold_drinks: [
+    {
+      item: 'Sparkling Carbonated Soft Drink',
+      hindi: 'सॉफ्ट ड्रिंक',
+      category: 'cold_drinks',
+      subCategory: 'Soft Drinks',
+      basePrice: 40,
+      mrpRatio: 1.05,
+      brands: ['Thums Up Charged', 'Coca-Cola Classic', 'Pepsi Zero Sugar', 'Sprite Lemon Lime'],
+      variants: [{ unit: '250 ml Can', mult: 0.8 }, { unit: '750 ml Bottle', mult: 1 }, { unit: '1.25 L Bottle', mult: 1.5 }, { unit: '2 L Party Pack', mult: 2.1 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/315a.jpg', 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/562366a.jpg'],
+      isEssential: true,
+    },
+    {
+      item: 'Mango Pulp Fruit Drink',
+      hindi: 'मैंगो फ्रूट जूस',
+      category: 'cold_drinks',
+      subCategory: 'Mango Drinks',
+      basePrice: 38,
+      mrpRatio: 1.08,
+      brands: ['Maaza Mango Drink', "Frooti Fresh 'n' Juicy", 'Slice Thick Mango'],
+      variants: [{ unit: '600 ml Bottle', mult: 1 }, { unit: '1.2 L Family Pack', mult: 1.8 }, { unit: '2 Litre Pet Bottle', mult: 2.8 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/427007a.jpg'],
+    },
+    {
+      item: 'Pure Fruit Juice',
+      hindi: 'फ्रूट जूस',
+      category: 'cold_drinks',
+      subCategory: 'Fruit Juices',
+      basePrice: 110,
+      mrpRatio: 1.15,
+      brands: ['Real Fruit Power Mixed Fruit', 'Paper Boat Aamras', 'Tropicana 100% Orange'],
+      variants: [{ unit: '1 Litre Tetra Pack', mult: 1 }, { unit: '200 ml Tetra (Pack of 4)', mult: 0.9 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/20143a.jpg'],
+    },
+  ],
+
   snacks: [
     {
-      item: 'Crispy Potato Chips & Crunchy Munchies',
-      hindi: 'आलू चिप्स और स्नैक्स',
+      item: 'Crispy Potato Chips',
+      hindi: 'आलू चिप्स',
       category: 'snacks',
+      subCategory: 'Chips & Crisps',
       basePrice: 20,
-      mrpRatio: 1.0,
-      brands: ["Lay's India's Magic Masala", "Lay's Classic Salted", 'Kurkure Masala Munch', 'Bingo Mad Angles', 'Too Yumm Karare'],
-      variants: [{ unit: 'Standard Bag (50 g)', mult: 1 }, { unit: 'Party Saver Pack (115 g)', mult: 2.3 }, { unit: 'Mega Family Pack (200 g)', mult: 3.8 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40219148_10-bingo-original-style-potato-chips-chilli-sprinkled.jpg'],
-    },
-    {
-      item: 'Everyday Tea Biscuits & Cookies',
-      hindi: 'चाय के बिस्कुट',
-      category: 'snacks',
-      basePrice: 35,
-      mrpRatio: 1.08,
-      brands: ['Parle-G Gluco', 'Britannia Good Day Butter', 'Britannia Marie Gold', 'Sunfeast Dark Fantasy', 'Oreo Chocolate Crème'],
-      variants: [{ unit: 'Regular Pack (120 g)', mult: 0.6 }, { unit: 'Family Saver Pack (300 g)', mult: 1 }, { unit: 'Mega Economy Box (800 g)', mult: 2.4 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40197801_9-britannia-marie-gold-biscuits.jpg'],
+      mrpRatio: 1.05,
+      brands: ["Lay's India's Magic Masala", "Lay's American Style Cream & Onion", "Pringles Sour Cream & Onion", "Bingo Mad Angles Achaari Masti"],
+      variants: [{ unit: '50 g Pack', mult: 1 }, { unit: '90 g Share Pack', mult: 1.9 }, { unit: '115 g Party Pack', mult: 2.4 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg'],
       isEssential: true,
     },
     {
-      item: 'Traditional Bikaneri Bhujia & Aloo Bhujia',
-      hindi: 'बीकानेरी भुजिया व आलू भुजिया',
+      item: 'Crispy Crunchy Namkeen & Bhujia',
+      hindi: 'भुजिया व नमकीन',
       category: 'snacks',
-      basePrice: 58,
-      mrpRatio: 1.15,
-      brands: ['Haldiram\'s Nagpur', 'Bikaji Bhujia No. 1', 'Balaji Wafers & Namkeen', 'Chhedas Banana Chips'],
-      variants: [{ unit: '200 g Pouch', mult: 1 }, { unit: '400 g Saver Pouch', mult: 1.9 }, { unit: '1 kg Jumbo Family Bag', mult: 4.4 }, { unit: 'Moong Dal Salted 200g', mult: 1.1 }],
-      images: ['https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=500&auto=format&fit=crop&q=80'],
-    },
-    {
-      item: 'Cadbury Dairy Milk & Silk Chocolates',
-      hindi: 'डेयरी मिल्क सिल्क चॉकलेट',
-      category: 'snacks',
-      basePrice: 75,
-      mrpRatio: 1.08,
-      brands: ['Cadbury Dairy Milk', 'Cadbury Dairy Milk Silk', 'Nestle KitKat 4-Finger', 'Cadbury 5 Star 3D', 'Ferrero Rocher Gold'],
-      variants: [{ unit: '55 g Classic Bar', mult: 1 }, { unit: '150 g Silk Large Bar', mult: 2.4 }, { unit: 'Ferrero Box of 16 pcs', mult: 6.8 }, { unit: 'Snickers Peanut Bar 45g', mult: 0.65 }],
-      images: ['https://images.unsplash.com/photo-1548907040-4baa42d10919?w=500&auto=format&fit=crop&q=80'],
-    },
-    {
-      item: 'Premium California Almonds & Cashews',
-      hindi: 'बादाम व काजू',
-      category: 'snacks',
-      basePrice: 240,
-      mrpRatio: 1.35,
-      brands: ['Farmley Prasadam Makhana', 'Nutraj California Almonds', 'Happilo Premium Cashews', 'BB Royal Walnuts Akhrot'],
-      variants: [{ unit: '250 g Pouch', mult: 1 }, { unit: '500 g Value Zip Pouch', mult: 1.92 }, { unit: '1 kg Mega Pack', mult: 3.75 }, { unit: 'Roasted Makhana 100g', mult: 0.65 }],
-      images: ['https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=500&auto=format&fit=crop&q=80'],
-    },
-  ],
-  beverages: [
-    {
-      item: 'Brooke Bond & Tata Premium Chai Tea Leaf',
-      hindi: 'प्रीमियम चाय पत्ती',
-      category: 'beverages',
-      basePrice: 145,
-      mrpRatio: 1.15,
-      brands: ['Tata Tea Premium', 'Red Label Natural Care', 'Taj Mahal Classic', 'Wagh Bakri CTC', 'Tata Tea Gold'],
-      variants: [{ unit: '250 g Carton', mult: 0.55 }, { unit: '500 g Value Pack', mult: 1 }, { unit: '1 kg Family Saver Sack', mult: 1.88 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/226491_15-red-label-tea-natural-care.jpg', 'https://www.bbassets.com/media/uploads/p/l/102871_12-red-label-tea.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Pure Instant Coffee & Filter Coffee Blend',
-      hindi: 'इंस्टेंट कॉफ़ी',
-      category: 'beverages',
-      basePrice: 195,
-      mrpRatio: 1.12,
-      brands: ['Nescafé Classic', 'BRU Instant', 'Continental Xtra Blend', 'Tata Coffee Grand', 'Cothas Filter Coffee'],
-      variants: [{ unit: '50 g Glass Jar', mult: 0.55 }, { unit: '100 g Glass Jar', mult: 1 }, { unit: '200 g Saver Pouch', mult: 1.8 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/266579_30-bru-instant-coffee.jpg', 'https://www.bbassets.com/media/uploads/p/l/252171_10-cothas-coffee-coffee-powder-speciality-blend-of-coffee-chicory-powder.jpg'],
-    },
-    {
-      item: 'Chilled Cold Drinks, Colas & Sodas',
-      hindi: 'कोल्ड ड्रिंक्स',
-      category: 'beverages',
-      basePrice: 40,
-      mrpRatio: 1.0,
-      brands: ['Coca-Cola', 'Thums Up', 'Sprite', 'Pepsi', 'Limca', 'Diet Coke'],
-      variants: [{ unit: '250 ml Can', mult: 0.9 }, { unit: '750 ml Bottle', mult: 1 }, { unit: '1.25 Litre Party Pet', mult: 1.5 }, { unit: '2 Litre Family Chill', mult: 2.2 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/251023_12-coca-cola-soft-drink-original-taste.jpg'],
-    },
-    {
-      item: '100% Real Fruit Power & Pulp Juices',
-      hindi: 'फलों का ताजा जूस',
-      category: 'beverages',
-      basePrice: 115,
-      mrpRatio: 1.25,
-      brands: ['Real Fruit Power Mixed', 'Tropicana 100% Orange', 'Paper Boat Aamras', 'Frooti Mango Drink', 'B Natural Mixed Fruit'],
-      variants: [{ unit: '1 Litre Tetra Pack', mult: 1 }, { unit: '1 Litre Pack of 2 Combo', mult: 1.88 }, { unit: '200 ml Tetra Pack with Straw', mult: 0.25 }],
-      images: ['https://images.unsplash.com/photo-1613478223719-2ab802602423?w=500&auto=format&fit=crop&q=80'],
-    },
-    {
-      item: 'Health Malt Nutrition Drinks (Bournvita, Horlicks, Boost)',
-      hindi: 'बॉर्नविटा व हॉर्लिक्स',
-      category: 'beverages',
-      basePrice: 320,
-      mrpRatio: 1.15,
-      brands: ['Cadbury Bournvita Pro-Health', 'Horlicks Classic Malt', 'Boost Energy Drink', 'Complan Royale Chocolate'],
-      variants: [{ unit: '500 g Refill', mult: 0.55 }, { unit: '1 kg Pet Jar', mult: 1 }, { unit: '2 kg Mega Saver Pack', mult: 1.9 }],
-      images: ['https://images.unsplash.com/photo-1541658016709-82535e94bc69?w=500&auto=format&fit=crop&q=80'],
-    },
-    {
-      item: 'Red Bull & Monster Energy Drinks',
-      hindi: 'रेड बुल एनर्जी ड्रिंक',
-      category: 'beverages',
-      basePrice: 115,
+      subCategory: 'Bhujia & Mixtures',
+      basePrice: 55,
       mrpRatio: 1.1,
-      brands: ['Red Bull Energy Drink', 'Monster Energy Original', 'Sting Energy Drink 250ml', 'Hell Energy Classic'],
-      variants: [{ unit: '250 ml Can', mult: 1 }, { unit: '350 ml Tall Can', mult: 1.35 }, { unit: 'Pack of 4 Cans (250 ml)', mult: 3.8 }],
-      images: ['https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500&auto=format&fit=crop&q=80'],
+      brands: ["Haldiram's Aloo Bhujia", "Bikaji Bhujia Sev", "Haldiram's Khatta Meetha", "Balaji Ratlami Sev"],
+      variants: [{ unit: '200 g Pouch', mult: 1 }, { unit: '400 g Saver Pack', mult: 1.85 }, { unit: '1 kg Mega Pack', mult: 4.2 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/266299_17-haldirams-namkeen-aloo-bhujia.jpg'],
+    },
+    {
+      item: 'Crispy Cheesy Nachos',
+      hindi: 'नाचोज',
+      category: 'snacks',
+      subCategory: 'Nachos',
+      basePrice: 40,
+      mrpRatio: 1.08,
+      brands: ['Doritos Cheese Supreme', 'Cornitos Barbeque Nachos', 'Doritos Sizzlin Hot'],
+      variants: [{ unit: '60 g Bag', mult: 1 }, { unit: '120 g Duo Pack', mult: 1.9 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg'],
     },
   ],
+
   instant: [
     {
-      item: 'Instant Noodles',
+      item: 'Instant Masala Noodles',
       hindi: 'इंस्टेंट नूडल्स',
       category: 'instant',
-      basePrice: 55,
-      mrpRatio: 1.05,
-      brands: ['Maggi 2-Minute Masala', 'Maggi Special Masala', 'Sunfeast Yippee Magic', 'Top Ramen Curry', 'Ching\'s Secret Schezwan'],
-      variants: [{ unit: 'Single Pack (70 g)', mult: 0.28 }, { unit: 'Pack of 4 Saver (280 g)', mult: 1 }, { unit: 'Pack of 8 Mega (560 g)', mult: 1.95 }, { unit: 'Pack of 12 Super Saver (840 g)', mult: 2.85 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/266112_30-maggi-2-minute-instant-noodles-masala.jpg', 'https://images.unsplash.com/photo-1612927601601-6638404737ce?w=500&auto=format&fit=crop&q=80'],
+      subCategory: 'Noodles',
+      basePrice: 14,
+      mrpRatio: 1.07,
+      brands: ['Maggi 2-Minute Masala Noodles', 'Sunfeast YiPPee! Magic Masala', 'Ching\'s Secret Schezwan Noodles'],
+      variants: [{ unit: '70 g Single Pack', mult: 1 }, { unit: 'Pack of 4 (280 g)', mult: 3.8 }, { unit: 'Pack of 8 (560 g)', mult: 7.2 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/266109_15-maggi-2-minute-instant-noodles-masala.jpg'],
       isEssential: true,
     },
     {
-      item: 'Rich Tomato Ketchup & Schezwan Chutney',
-      hindi: 'टोमैटो केचप व शेजवान चटनी',
+      item: 'Breakfast Cereals & Corn Flakes',
+      hindi: 'कॉर्न फ्लेक्स',
       category: 'instant',
-      basePrice: 110,
-      mrpRatio: 1.25,
-      brands: ['Maggi Rich Tomato Ketchup', 'Kissan Fresh Tomato Ketchup', 'Heinz Tomato Ketchup', 'Ching\'s Secret Schezwan Chutney'],
-      variants: [{ unit: '500 g Squeezy Bottle', mult: 0.6 }, { unit: '1 kg Squeezy Bottle Saver', mult: 1 }, { unit: 'Ching\'s Schezwan 250g Jar', mult: 0.75 }],
-      images: ['https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=500&auto=format&fit=crop&q=80'],
+      subCategory: 'Breakfast Cereals',
+      basePrice: 120,
+      mrpRatio: 1.15,
+      brands: ["Kellogg's Original Corn Flakes", "Kellogg's Muesli Fruit & Nut", 'Bagrry\'s Crunchy Muesli'],
+      variants: [{ unit: '300 g Carton', mult: 1 }, { unit: '875 g Family Value Box', mult: 2.7 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/266270_19-kelloggs-corn-flakes.jpg'],
     },
     {
-      item: 'Durum Wheat Penne & Fusilli Pasta',
+      item: 'Instant Pasta & Macaroni',
       hindi: 'पास्ता व मैकरोनी',
       category: 'instant',
-      basePrice: 85,
-      mrpRatio: 1.3,
-      brands: ['Disano 100% Durum Wheat Penne', 'Barilla Italian Pasta', 'Borges Fusilli Pasta', 'Bambino Roasted Vermicelli'],
-      variants: [{ unit: '500 g Pouch', mult: 1 }, { unit: '1 kg Family Saver Bag', mult: 1.9 }, { unit: 'Vermicelli Sevai 500g', mult: 0.6 }],
-      images: ['https://images.unsplash.com/photo-1621996346565-e3d5d6281264?w=500&auto=format&fit=crop&q=80'],
-    },
-    {
-      item: 'MTR Ready-to-Eat Dal Makhani & Paneer Tikka',
-      hindi: 'रेडी-टू-ईट दाल मखनी व पनीर',
-      category: 'instant',
-      basePrice: 120,
-      mrpRatio: 1.2,
-      brands: ['MTR Ready to Eat', 'Tata Sampann Yumside', 'Gits Instant Mix Gulab Jamun', 'MTR Rava Idli Mix'],
-      variants: [{ unit: '300 g Retort Pouch', mult: 1 }, { unit: 'Pack of 2 Combo', mult: 1.9 }, { unit: 'Instant Idli Mix 500g', mult: 0.85 }],
-      images: ['https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500&auto=format&fit=crop&q=80'],
-    },
-  ],
-  household: [
-    {
-      item: 'Matic Washing Machine Detergent Powder & Liquid',
-      hindi: 'वॉशिंग मशीन डिटर्जेंट',
-      category: 'household',
-      basePrice: 195,
-      mrpRatio: 1.15,
-      brands: ['Surf Excel Matic Front Load', 'Ariel Matic Top Load', 'Tide Plus Double Power', 'Rin Refreshing Lemon', 'Henko Stain Care'],
-      variants: [{ unit: '1 kg Pouch', mult: 1 }, { unit: '2 kg Value Box', mult: 1.9 }, { unit: '1 Litre Matic Liquid Pouch', mult: 1.1 }, { unit: '4 kg Family Bucket', mult: 3.6 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40320190_10-surf-excel-matic-front-load-liquid-detergent-refill.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Lemon Anti-Germ Dishwash Gel & Bar',
-      hindi: 'डिशवॉश जेल और साबुन',
-      category: 'household',
-      basePrice: 55,
+      subCategory: 'Pasta & More',
+      basePrice: 35,
       mrpRatio: 1.1,
-      brands: ['Vim Dishwash Gel Lemon', 'Pril Lime Active', 'Exo Touch & Shine Bar', 'Vim Round Bar with Tub'],
-      variants: [{ unit: '250 ml Squeeze Bottle', mult: 0.65 }, { unit: '500 ml Bottle', mult: 1 }, { unit: '750 ml Refill Pouch', mult: 1.35 }, { unit: '2 Litre Saver Can', mult: 3.2 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/900459772_10-vim-dishwash-liquid-gel.jpg', 'https://www.bbassets.com/media/uploads/p/l/317229_14-vim-dishwash-bar-lemon.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Disinfectant Floor & Toilet Cleaners',
-      hindi: 'टॉयलेट व फ्लोर क्लीनर',
-      category: 'household',
-      basePrice: 95,
-      mrpRatio: 1.12,
-      brands: ['Harpic Power Plus Original', 'Lizol Disinfectant Citrus Floor Cleaner', 'Domex Fresh Guard', 'Dettol Multi-Action Cleaner'],
-      variants: [{ unit: '500 ml Bottle', mult: 1 }, { unit: '1 Litre Value Pack', mult: 1.8 }, { unit: '2 Litre Family Can', mult: 3.4 }, { unit: 'Combo (500ml Harpic + 500ml Lizol)', mult: 1.85 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40359652_2-harpic-original-fresh-disinfectant-toilet-cleaner-liquid.jpg'],
-      isEssential: true,
-    },
-    {
-      item: 'Mosquito Vaporizers & Insect Killers',
-      hindi: 'मच्छर मार रिफिल व स्प्रे',
-      category: 'household',
-      basePrice: 145,
-      mrpRatio: 1.18,
-      brands: ['All Out Ultra Power+ Twin Refill', 'Good Knight Gold Flash Machine + Refill', 'Black HIT Mosquito Spray', 'Red HIT Cockroach Spray'],
-      variants: [{ unit: 'Machine + Refill Combo', mult: 1 }, { unit: 'Twin Refill Pack (90 Nights)', mult: 1.1 }, { unit: 'HIT Spray 625 ml Tall Can', mult: 1.5 }],
-      images: ['https://images.unsplash.com/photo-1585421514738-01798e348b17?w=500&auto=format&fit=crop&q=80'],
-    },
-    {
-      item: 'Kitchen Foil, Cling Wrap & Garbage Bags',
-      hindi: 'किचन फॉयल व गारबेज बैग्स',
-      category: 'household',
-      basePrice: 99,
-      mrpRatio: 1.25,
-      brands: ['Freshee Aluminium Foil 18m', 'Origami Kitchen Paper Towels', 'Glad Cling Wrap 30m', 'Shalimar Oxo-Biodegradable Garbage Bags'],
-      variants: [{ unit: '18 Meter Heavy Duty Foil', mult: 1 }, { unit: '72 Meter Commercial Roll', mult: 2.8 }, { unit: 'Garbage Bags Roll (30 Bags)', mult: 0.85 }, { unit: 'Kitchen Towel 2 Rolls Pack', mult: 0.95 }],
-      images: ['https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&auto=format&fit=crop&q=80'],
+      brands: ['Maggi Pazzta Cheesy Tomato', 'Sunfeast YiPPee! Tricolor Pasta', 'Disano Penne Rigate'],
+      variants: [{ unit: '64 g Pouch', mult: 1 }, { unit: '500 g Value Pack', mult: 2.8 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/266109_15-maggi-2-minute-instant-noodles-masala.jpg'],
     },
   ],
-  personal: [
+
+  sweet_tooth: [
     {
-      item: 'Bathing Soap Bars with Germ Protection & Glycerin',
-      hindi: 'नहाने का साबुन',
-      category: 'personal',
+      item: 'Rich Creamy Dark & Milk Chocolate',
+      hindi: 'चॉकलेट',
+      category: 'sweet_tooth',
+      subCategory: 'Chocolates & Candies',
+      basePrice: 45,
+      mrpRatio: 1.05,
+      brands: ['Cadbury Dairy Milk Silk', 'Nestle KitKat Share Bag', 'Cadbury 5 Star Choco Bar', 'Ferrero Rocher Premium Box'],
+      variants: [{ unit: '45 g Bar', mult: 1 }, { unit: '150 g Silk Bar', mult: 3.2 }, { unit: 'Pack of 16 (Ferrero)', mult: 8.5 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg', 'https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg'],
+      isEssential: true,
+    },
+    {
+      item: 'Authentic Indian Sweets & Mithai',
+      hindi: 'भारतीय मिठाइयां',
+      category: 'sweet_tooth',
+      subCategory: 'Indian Sweets & Mithai',
+      basePrice: 140,
+      mrpRatio: 1.15,
+      brands: ["Haldiram's Gulab Jamun", "Bikano Rasgulla Tin", "Haldiram's Soan Papdi", 'Gits Instant Jalebi Mix'],
+      variants: [{ unit: '500 g Tin', mult: 1 }, { unit: '1 kg Family Tin', mult: 1.9 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/266299_17-haldirams-namkeen-aloo-bhujia.jpg'],
+    },
+  ],
+
+  bakery: [
+    {
+      item: 'Cookies & Premium Biscuits',
+      hindi: 'बिस्कुट व कुकीज',
+      category: 'bakery',
+      subCategory: 'Cookies & Biscuits',
+      basePrice: 30,
+      mrpRatio: 1.08,
+      brands: ['Cadbury Oreo Vanilla Creme', 'Britannia Good Day Cashew', 'Parle-G Gold Biscuits', 'Britannia Marie Gold', 'Britannia Bourbon Chocolate'],
+      variants: [{ unit: '120 g Pack', mult: 1 }, { unit: '300 g Family Pack', mult: 2.3 }, { unit: '600 g Jumbo Value Pack', mult: 4.2 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg', 'https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg'],
+      isEssential: true,
+    },
+    {
+      item: 'Crispy Tea Rusks & Wafers',
+      hindi: 'टोस्ट रस्क',
+      category: 'bakery',
+      subCategory: 'Rusks & Wafers',
+      basePrice: 45,
+      mrpRatio: 1.1,
+      brands: ['Britannia Toastea Premium Bake Rusk', 'Parle Rusk Real Elaichi', 'Sunfeast All Rounder Potato Biscuit'],
+      variants: [{ unit: '200 g Pack', mult: 1 }, { unit: '400 g Value Pack', mult: 1.9 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg'],
+    },
+  ],
+
+  tea_coffee: [
+    {
+      item: 'Premium Assam & Nilgiri Tea',
+      hindi: 'चाय पत्ती',
+      category: 'tea_coffee',
+      subCategory: 'Tea',
+      basePrice: 160,
+      mrpRatio: 1.12,
+      brands: ['Tata Tea Gold', 'Brooke Bond Red Label', 'Wagh Bakri Premium Leaf Tea', 'Taj Mahal Classic'],
+      variants: [{ unit: '250 g Pouch', mult: 1 }, { unit: '500 g Pack', mult: 1.95 }, { unit: '1 kg Value Carton', mult: 3.8 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/240065_14-tata-tea-gold.jpg'],
+      isEssential: true,
+    },
+    {
+      item: 'Pure Instant & Filter Coffee',
+      hindi: 'इंस्टेंट कॉफी',
+      category: 'tea_coffee',
+      subCategory: 'Coffee',
       basePrice: 145,
       mrpRatio: 1.15,
-      brands: ['Dettol Original Germ Protection', 'Lifebuoy Total Care', 'Dove Cream Beauty Bar', 'Pears Pure & Gentle Glycerine', 'Mysore Sandal Pure Sandalwood'],
-      variants: [{ unit: 'Pack of 3 Bars (75g each)', mult: 0.75 }, { unit: 'Pack of 4 + 1 Free (125g each)', mult: 1 }, { unit: 'Family Saver 8-Bar Mega Pack', mult: 1.85 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/100968_5-mysore-sandal-bathing-soap-superior-with-pure-sandalwood-oil.jpg'],
+      brands: ['Nescafe Classic 100% Pure', 'Bru Instant Coffee Powder', 'Continental Strong South Blend', 'Sleepy Owl Arabica Beans'],
+      variants: [{ unit: '50 g Glass Jar', mult: 1 }, { unit: '100 g Glass Jar', mult: 1.95 }, { unit: '200 g Value Pack', mult: 3.7 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/266531_17-nescafe-classic-instant-coffee.jpg'],
       isEssential: true,
     },
     {
-      item: 'Anti-Dandruff & Hair Fall Control Shampoos',
-      hindi: 'शैम्पू व हेयर ऑयल',
-      category: 'personal',
-      basePrice: 260,
-      mrpRatio: 1.22,
-      brands: ['Head & Shoulders Cool Menthol', 'Dove Intense Repair Shampoo', 'Pantene Pro-V Hair Fall Control', 'Tresemme Keratin Smooth', 'Parachute Pure Coconut Hair Oil'],
-      variants: [{ unit: '340 ml Bottle', mult: 0.65 }, { unit: '650 ml Family Pump Bottle', mult: 1 }, { unit: '1 Litre Salon Size Bottle', mult: 1.5 }, { unit: 'Parachute Oil 500ml Bottle', mult: 0.75 }],
-      images: ['https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=500&auto=format&fit=crop&q=80'],
+      item: 'Nutrition Health Drinks',
+      hindi: 'हेल्थ ड्रिंक',
+      category: 'tea_coffee',
+      subCategory: 'Milk Drinks',
+      basePrice: 220,
+      mrpRatio: 1.1,
+      brands: ['Cadbury Bournvita Health Drink', 'Horlicks Classic Malt', 'Complan Royal Chocolate'],
+      variants: [{ unit: '500 g Refill Pouch', mult: 1 }, { unit: '1 kg Jar', mult: 1.95 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/241600_7-cadbury-bournvita-health-drink.jpg'],
+    },
+  ],
+
+  atta_rice_dal: [
+    {
+      item: 'Chakki Fresh Whole Wheat Atta',
+      hindi: 'चक्की ताजा गेहूं का आटा',
+      category: 'atta_rice_dal',
+      subCategory: 'Atta',
+      basePrice: 245,
+      mrpRatio: 1.18,
+      brands: ['Aashirvaad Superior MP Chakki Atta', 'Fortune Chakki Fresh Atta', 'Pillsbury Fresh Chakki Atta', '24 Mantra Organic Whole Wheat'],
+      variants: [{ unit: '5 kg Bag', mult: 1 }, { unit: '10 kg Saver Bag', mult: 1.95 }, { unit: '1 kg Trial Pack', mult: 0.25 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg'],
+      isEssential: true,
     },
     {
-      item: 'Toothpaste & Whole Mouth Care Brushes',
-      hindi: 'टूथपेस्ट',
-      category: 'personal',
+      item: 'Premium Rozana & Biryani Basmati Rice',
+      hindi: 'बासमती चावल',
+      category: 'atta_rice_dal',
+      subCategory: 'Rice',
       basePrice: 110,
-      mrpRatio: 1.12,
-      brands: ['Colgate Strong Teeth Calcium Boost', 'Sensodyne Fresh Mint Sensitivity', 'Close-Up Red Hot Gel', 'Dabur Red Ayurvedic Paste', 'Pepsodent Germi Check'],
-      variants: [{ unit: '150 g Tube', mult: 0.65 }, { unit: '300 g Saver Twin Tube Pack', mult: 1 }, { unit: '500 g Mega Family Pack', mult: 1.55 }, { unit: 'Toothbrush Multipack (Buy 2 Get 2)', mult: 0.9 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/10000488_12-colgate-strong-teeth-anticavity-toothpaste.jpg'],
+      mrpRatio: 1.25,
+      brands: ['Daawat Rozana Super Basmati Rice', 'India Gate Basmati Rice Feast', 'Fortune Special Biryani Basmati Rice'],
+      variants: [{ unit: '1 kg Pouch', mult: 1 }, { unit: '5 kg Family Bag', mult: 4.6 }, { unit: '10 kg Mega Bag', mult: 8.8 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/40072499_7-daawat-rozana-super-basmati-rice.jpg'],
       isEssential: true,
     },
     {
-      item: 'Shaving Razors, Foams & Deodorants',
-      hindi: 'शेविंग रेज़र व डिओडोरेंट',
-      category: 'personal',
+      item: 'Desi Toor & Moong Dal Pulses',
+      hindi: 'दालें',
+      category: 'atta_rice_dal',
+      subCategory: 'Toor, Urad & Chana',
+      basePrice: 78,
+      mrpRatio: 1.15,
+      brands: ['BB Royal Unpolished Toor Dal', 'Tata Sampann High Protein Chana Dal', 'Organic Tattva Moong Dal Split'],
+      variants: [{ unit: '500 g Pouch', mult: 1 }, { unit: '1 kg Pouch', mult: 1.95 }, { unit: '2 kg Value Pack', mult: 3.8 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/10000404_18-bb-royal-toor-dal-desi.jpg'],
+      isEssential: true,
+    },
+  ],
+
+  masala_oil: [
+    {
+      item: 'Refined Sunflower & Mustard Cooking Oil',
+      hindi: 'कुकिंग ऑयल (तेल)',
+      category: 'masala_oil',
+      subCategory: 'Cooking Oils',
+      basePrice: 165,
+      mrpRatio: 1.2,
+      brands: ['Fortune Sunlite Refined Sunflower Oil', 'Freedom Refined Sunflower Oil', 'Saffola Gold Pro Heart', 'Dhara Kachi Ghani Mustard Oil'],
+      variants: [{ unit: '1 Litre Pouch', mult: 1 }, { unit: '2 Litre Family Can', mult: 1.96 }, { unit: '5 Litre Economy Jar', mult: 4.8 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg', 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/16082a.jpg'],
+      isEssential: true,
+    },
+    {
+      item: 'Pure Desi Danedar Ghee',
+      hindi: 'शुद्ध देसी घी',
+      category: 'masala_oil',
+      subCategory: 'Ghee & Vanaspati',
+      basePrice: 320,
+      mrpRatio: 1.1,
+      brands: ['Amul Pure Desi Ghee', 'Mother Dairy Cow Ghee', 'Gowardhan 100% Pure Cow Ghee', 'Aashirvaad Svasti Ghee'],
+      variants: [{ unit: '500 ml Pouch', mult: 1 }, { unit: '1 Litre Tin/Jar', mult: 1.95 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg'],
+      isEssential: true,
+    },
+    {
+      item: 'Whole & Blended Ground Spices',
+      hindi: 'मसाले व हल्दी',
+      category: 'masala_oil',
+      subCategory: 'Whole Spices',
+      basePrice: 42,
+      mrpRatio: 1.18,
+      brands: ['Everest Garam Masala', 'Catch Turmeric Powder', 'MDH Deggi Mirch', 'Tata Salt Vaccum Evaporated'],
+      variants: [{ unit: '100 g Box', mult: 1 }, { unit: '200 g Value Pack', mult: 1.9 }, { unit: '1 kg Bag (Salt)', mult: 0.6 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/241600_5-tata-salt-iodized.jpg'],
+      isEssential: true,
+    },
+  ],
+
+  sauces: [
+    {
+      item: 'Fresh Tomato Ketchup & Chilli Sauces',
+      hindi: 'टोमैटो केचप व सॉस',
+      category: 'sauces',
+      subCategory: 'Tomato & Chilli Ketchup',
+      basePrice: 65,
+      mrpRatio: 1.15,
+      brands: ['Kissan Fresh Tomato Ketchup', 'Maggi Hot & Sweet Tomato Chilli', 'Heinz Tomato Ketchup Squeezy', 'Ching\'s Secret Red Chilli Sauce'],
+      variants: [{ unit: '500 g Pouch', mult: 1 }, { unit: '1 kg Value Pack', mult: 1.85 }, { unit: '200 g Squeezy Bottle', mult: 0.65 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/266185_13-kissan-fresh-tomato-ketchup.jpg'],
+      isEssential: true,
+    },
+    {
+      item: 'Creamy Mayonnaise & Sandwich Spreads',
+      hindi: 'मेयोनेज व सैंडविच स्प्रेड',
+      category: 'sauces',
+      subCategory: 'Mayonnaise',
+      basePrice: 85,
+      mrpRatio: 1.18,
+      brands: ['Veeba Eggless Mayonnaise', 'Dr. Oetker FunFoods Veg Mayo', 'Wingreens Farms Garlic Dip', 'Hellmann\'s Real Mayo'],
+      variants: [{ unit: '250 g Pouch', mult: 1 }, { unit: '875 g Value Jar', mult: 2.6 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/40004523_4-veeba-eggless-mayonnaise.jpg'],
+    },
+    {
+      item: 'Hazelnut Spread & Crunchy Peanut Butter',
+      hindi: 'पीनट बटर व चॉकलेट स्प्रेड',
+      category: 'sauces',
+      subCategory: 'Peanut Butter',
       basePrice: 180,
       mrpRatio: 1.15,
-      brands: ['Gillette Mach3 Razor with Cartridges', 'Gillette Classic Shaving Foam', 'Fogg Scent Xpressio Perfume', 'Nivea Men Deep Black Carbon Deodorant', 'Wild Stone Edge Body Spray'],
-      variants: [{ unit: '150 ml Body Spray Can', mult: 1 }, { unit: 'Mach3 Razor + 2 Cartridges', mult: 1.8 }, { unit: 'Gillette Shave Foam 418g Can', mult: 1.1 }, { unit: 'Fogg 120ml No Gas Perfume', mult: 1.25 }],
-      images: ['https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=500&auto=format&fit=crop&q=80'],
+      brands: ['Nutella Hazelnut Spread with Cocoa', 'Pintola All-Natural Crunchy Peanut Butter', 'MyFitness High Protein Peanut Butter', 'Kissan Mixed Fruit Jam'],
+      variants: [{ unit: '350 g Jar', mult: 1 }, { unit: '1 kg Commercial Tub', mult: 2.5 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/40001001_8-nutella-hazelnut-spread-with-cocoa.jpg', 'https://www.bbassets.com/media/uploads/p/l/40158434_6-pintola-all-natural-peanut-butter-crunchy.jpg'],
     },
+  ],
+
+  meat_fish: [
     {
-      item: 'Feminine Hygiene Wings Pads & Baby Diaper Pants',
-      hindi: 'सेनेटरी पैड्स व डायपर',
-      category: 'personal',
-      basePrice: 185,
+      item: 'Fresh Tender Chicken & Eggs',
+      hindi: 'ताजा चिकन व अंडे',
+      category: 'meat_fish',
+      subCategory: 'Fresh Chicken',
+      basePrice: 135,
+      mrpRatio: 1.15,
+      brands: ['Fresh Cuts Premium', 'Farm Made Classic', 'Keventer Choice'],
+      variants: [{ unit: '500 g Curry Cut', mult: 1 }, { unit: '1 kg Pack', mult: 1.9 }, { unit: 'Pack of 30 Eggs', mult: 1.5 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg'],
+      isEssential: true,
+    },
+  ],
+
+  organic_healthy: [
+    {
+      item: 'Certified Organic Wheat & Pulses',
+      hindi: 'ऑर्गेनिक दालें व अनाज',
+      category: 'organic_healthy',
+      subCategory: 'Organic Staples',
+      basePrice: 95,
       mrpRatio: 1.2,
-      brands: ['Whisper Ultra Clean XL+ Wings', 'Stayfree Secure Extra Large Cottony', 'Sofy AntiBacteria Overnight', 'Pampers All Round Protection Pants (M/L)'],
-      variants: [{ unit: '15 Pads Saver Pack', mult: 0.55 }, { unit: '30 Pads Ultra Box', mult: 1 }, { unit: '50 Pads Mega Value Bag', mult: 1.6 }, { unit: 'Baby Diaper Pants (32 Pants)', mult: 2.8 }],
-      images: ['https://www.bbassets.com/media/uploads/p/l/40195476_13-whisper-ultra-clean-sanitary-pads-xl-plus-locks-wetness-odour.jpg'],
+      brands: ['24 Mantra Organic', 'Organic Tattva', 'Pro Nature 100% Organic'],
+      variants: [{ unit: '500 g Pack', mult: 1 }, { unit: '1 kg Pack', mult: 1.95 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg'],
+    },
+  ],
+
+  baby_care: [
+    {
+      item: 'Comfort Diaper Pants & Gentle Baby Wipes',
+      hindi: 'बेबी डायपर व वाइप्स',
+      category: 'baby_care',
+      subCategory: 'Diapers & Wipes',
+      basePrice: 380,
+      mrpRatio: 1.2,
+      brands: ['Pampers All round Protection Pants', 'MamyPoko Extra Absorb', 'Huggies Wonder Pants', "Johnson's Baby Gentle Wipes"],
+      variants: [{ unit: 'Medium (Pack of 32)', mult: 1 }, { unit: 'Large (Pack of 48)', mult: 1.45 }, { unit: 'Pack of 72 Wipes', mult: 0.4 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/40198083_2-pampers-all-round-protection-pants-diapers-l.jpg'],
+      isEssential: true,
+    },
+  ],
+
+  pharma_wellness: [
+    {
+      item: 'Antiseptic & Instant Pain Relief Sprays',
+      hindi: 'दवाइयां व प्राथमिक चिकित्सा',
+      category: 'pharma_wellness',
+      subCategory: 'Pain Relief',
+      basePrice: 95,
+      mrpRatio: 1.1,
+      brands: ['Dettol Antiseptic Liquid', 'Volini Rapid Action Pain Spray', 'Eno Lemon Fruit Salt Sachet', 'Vicks VapoRub Relief Balm'],
+      variants: [{ unit: '100 ml Bottle', mult: 1 }, { unit: '55 g Spray Can', mult: 1.8 }, { unit: 'Pack of 6 Sachets', mult: 0.6 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/266950_10-dettol-antiseptic-liquid.jpg'],
+      isEssential: true,
+    },
+  ],
+
+  cleaning: [
+    {
+      item: 'Matic Detergent & Dishwash Gel',
+      hindi: 'सर्फ व डिशवाश',
+      category: 'cleaning',
+      subCategory: 'Detergent Powder & Liquid',
+      basePrice: 145,
+      mrpRatio: 1.15,
+      brands: ['Surf Excel Matic Front Load Powder', 'Ariel Complete Detergent', 'Vim Lemon Dishwash Gel Bottle', 'Harpic Power Plus Toilet Cleaner', 'Lizol Citrus Disinfectant Floor Cleaner'],
+      variants: [{ unit: '1 kg Bag / 500 ml Bottle', mult: 1 }, { unit: '2 kg Value Pouch', mult: 1.9 }, { unit: '5 kg Mega Economy Bucket', mult: 4.4 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/266969_14-surf-excel-easy-wash-detergent-powder.jpg', 'https://www.bbassets.com/media/uploads/p/l/266974_15-vim-dishwash-bar.jpg', 'https://www.bbassets.com/media/uploads/p/l/266952_13-harpic-disinfectant-toilet-cleaner-original.jpg'],
+      isEssential: true,
+    },
+  ],
+
+  home_office: [
+    {
+      item: 'Heavy Duty Batteries & Kitchen Foil Rolls',
+      hindi: 'बैटरी व किचन फॉयल',
+      category: 'home_office',
+      subCategory: 'Kitchenware & Storage',
+      basePrice: 120,
+      mrpRatio: 1.18,
+      brands: ['Duracell Ultra Alkaline AA Batteries', 'Freshwrap Aluminium Food Foil Roll', 'Scotch-Brite Sponge Wipe Pack', 'Mangaldeep Premium Agarbatti'],
+      variants: [{ unit: 'Pack of 4', mult: 1 }, { unit: 'Pack of 8', mult: 1.85 }, { unit: '18 Metre Roll', mult: 1.2 }],
+      images: ['https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-18.png'],
+    },
+  ],
+
+  personal_care: [
+    {
+      item: 'Beauty Bathing Bar & Anti-Dandruff Shampoo',
+      hindi: 'साबुन व शैम्पू',
+      category: 'personal_care',
+      subCategory: 'Bath & Body Wash',
+      basePrice: 85,
+      mrpRatio: 1.12,
+      brands: ['Dove Cream Beauty Bathing Bar', 'Dettol Original Germ Protection Soap', 'Head & Shoulders Cool Menthol Shampoo', 'Colgate Strong Teeth Anticavity Toothpaste'],
+      variants: [{ unit: 'Pack of 3 (100 g each)', mult: 1 }, { unit: '650 ml Family Pump', mult: 3.8 }, { unit: '300 g Mega Saver Tube', mult: 1.8 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/40019053_8-dove-cream-beauty-bathing-bar.jpg', 'https://www.bbassets.com/media/uploads/p/l/10000068_18-colgate-strong-teeth-anticavity-toothpaste-with-amino-shakti.jpg'],
+      isEssential: true,
+    },
+  ],
+
+  pet_care: [
+    {
+      item: 'Nutritious Adult Dog & Cat Food',
+      hindi: 'पेट फूड (कुत्ते व बिल्ली का खाना)',
+      category: 'pet_care',
+      subCategory: 'Dog Food & Treats',
+      basePrice: 220,
+      mrpRatio: 1.15,
+      brands: ['Pedigree Adult Chicken & Vegetables Dry Dog Food', 'Whiskas Adult Wet Cat Food Mackerel Pouch', 'Drools 100% Real Chicken Dog Biscuits'],
+      variants: [{ unit: '1.2 kg Bag', mult: 1 }, { unit: '3 kg Value Bag', mult: 2.3 }, { unit: 'Pack of 12 Pouches', mult: 1.8 }],
+      images: ['https://www.bbassets.com/media/uploads/p/l/10000486_11-pedigree-dry-dog-food-chicken-vegetables-for-adult-dogs.jpg', 'https://www.bbassets.com/media/uploads/p/l/40000947_11-whiskas-adult-dry-cat-food-ocean-fish.jpg'],
       isEssential: true,
     },
   ],
@@ -626,13 +644,28 @@ function pseudoRandom(seed: number) {
   return x - Math.floor(x);
 }
 
-// Generate a deterministic SKU from the index and category
+// Generate a deterministic SKU from index and category
 export function generateDeterministicSku(globalIndex: number, categoryId: string, cityMultiplier = 1.0): Product {
-  const targetCategory = categoryId === 'all' 
-    ? (['dairy', 'veggies', 'staples', 'snacks', 'beverages', 'instant', 'household', 'personal'][globalIndex % 8])
-    : categoryId;
+  const ALL_KEYS = [
+    'paan', 'dairy', 'veggies', 'cold_drinks', 'snacks', 'instant', 'sweet_tooth', 'bakery',
+    'tea_coffee', 'atta_rice_dal', 'masala_oil', 'sauces', 'meat_fish', 'organic_healthy',
+    'baby_care', 'pharma_wellness', 'cleaning', 'home_office', 'personal_care', 'pet_care'
+  ];
 
-  const blueprints = BLUEPRINTS[targetCategory] || BLUEPRINTS.staples;
+  let targetCategory = categoryId;
+  if (categoryId === 'all') {
+    targetCategory = ALL_KEYS[globalIndex % ALL_KEYS.length];
+  } else if (categoryId === 'beverages') {
+    targetCategory = globalIndex % 2 === 0 ? 'cold_drinks' : 'tea_coffee';
+  } else if (categoryId === 'staples') {
+    targetCategory = globalIndex % 2 === 0 ? 'atta_rice_dal' : 'masala_oil';
+  } else if (categoryId === 'household') {
+    targetCategory = globalIndex % 2 === 0 ? 'cleaning' : 'home_office';
+  } else if (categoryId === 'personal') {
+    targetCategory = globalIndex % 2 === 0 ? 'personal_care' : 'baby_care';
+  }
+
+  const blueprints = BLUEPRINTS[targetCategory] || BLUEPRINTS.dairy;
   const blueprintIndex = globalIndex % blueprints.length;
   const bp = blueprints[blueprintIndex];
 
@@ -645,7 +678,6 @@ export function generateDeterministicSku(globalIndex: number, categoryId: string
   const imageIndex = globalIndex % bp.images.length;
   const imageUrl = bp.images[imageIndex];
 
-  // Variations seed
   const seed = globalIndex * 7919 + targetCategory.charCodeAt(0);
   const priceVariation = 0.95 + pseudoRandom(seed) * 0.1; // +/- 5%
   const baseCalculatedPrice = Math.round(bp.basePrice * variant.mult * priceVariation * cityMultiplier);
@@ -660,11 +692,13 @@ export function generateDeterministicSku(globalIndex: number, categoryId: string
     nameHindi: `${brand.split(' ')[0]} ${bp.hindi} (${variant.unit})`,
     brand: brand,
     category: targetCategory as any,
+    subCategory: bp.subCategory || bp.item,
     unit: variant.unit,
+    image: imageUrl,
     imageUrl: imageUrl,
     trending: (globalIndex % 7 === 0),
     isDailyEssential: bp.isEssential || (globalIndex % 4 === 0),
-    offers: generateStoreOffers(baseCalculatedPrice, mrp, fullName),
+    offers: generateStoreOffers(baseCalculatedPrice, mrp, fullName, variant.unit),
   };
 }
 
@@ -676,7 +710,80 @@ export interface PaginatedResult {
   totalPages: number;
 }
 
-// Get paginated items with search, filter, and sort across all 24,580 SKUs
+// Category matching helper supporting exact keys and cross-taxonomy
+function matchesCategory(p: Product, targetCategory: string): boolean {
+  if (!targetCategory || targetCategory === 'all') return true;
+  const cat = (p.category || '').toLowerCase();
+  const sub = (p.subCategory || '').toLowerCase();
+  const name = (p.name || '').toLowerCase();
+
+  if (cat === targetCategory) return true;
+
+  switch (targetCategory) {
+    case 'paan':
+      return cat === 'paan' || /paan|supari|mouth freshener|mints|hookah|lighter|rolling|cone|churan|elaichi/i.test(sub) || /paan|supari|center fresh|tic tac|raw classic/i.test(name);
+    case 'dairy':
+      return cat === 'dairy' || /milk|bread|egg|paneer|curd|dahi|butter|cheese|cream/i.test(sub);
+    case 'veggies':
+      return cat === 'veggies' || /vegetable|fruit|herb|leafy|salad|exotic|sprout/i.test(sub);
+    case 'cold_drinks':
+      return (cat === 'beverages' || cat === 'cold_drinks') && !/tea|coffee|hot chocolate/i.test(sub) && !/tea|coffee/i.test(name) || /soft drink|fruit juice|mango drink|coconut water|energy drink|soda/i.test(sub);
+    case 'snacks':
+      return cat === 'snacks' && !/chocolate|candy|sweet|biscuit|cookie|rusk/i.test(sub);
+    case 'instant':
+      return cat === 'instant' || /noodle|maggi|pasta|soup|cereal|breakfast|batter|frozen/i.test(sub);
+    case 'sweet_tooth':
+      return /chocolate|candy|mithai|sweet|dessert|ice cream|silk|kitkat|cadbury/i.test(sub) || /chocolate|cadbury|kitkat|ferrero|mithai/i.test(name);
+    case 'bakery':
+      return cat === 'bakery' || /biscuit|cookie|rusk|cake|roll|gourmet bakery|wafer|oreo|parle|bourbon/i.test(sub) || /biscuit|cookie|rusk|cake|oreo|parle-g|good day/i.test(name);
+    case 'tea_coffee':
+      return (cat === 'beverages' || cat === 'tea_coffee') && (/tea|coffee|milk drink|hot chocolate|infusion/i.test(sub) || /tea|coffee|bru|nescafe|bournvita|horlicks/i.test(name));
+    case 'atta_rice_dal':
+      return (cat === 'staples' || cat === 'atta_rice_dal') && /atta|rice|dal|chana|moong|masoor|rajma|besan|sooji|maida|flour|grain/i.test(sub);
+    case 'masala_oil':
+      return (cat === 'staples' || cat === 'masala_oil') && /oil|ghee|masala|spice|salt|sugar|jaggery|dry fruit|seed|date|herb/i.test(sub);
+    case 'sauces':
+      return cat === 'sauces' || /sauce|ketchup|spread|mayo|peanut butter|jam|honey|chutney|pickle|dip/i.test(sub);
+    case 'meat_fish':
+      return cat === 'meat_fish' || /chicken|meat|fish|mutton|prawn|egg|sausage/i.test(sub) || /chicken|mutton|fish/i.test(name);
+    case 'organic_healthy':
+      return cat === 'organic_healthy' || /organic|healthy|sugar free|gluten free|cold pressed/i.test(sub);
+    case 'baby_care':
+      return (cat === 'personal' || cat === 'baby_care') && (/baby|diaper|wipe|cerelac|pampers/i.test(sub) || /pampers|mamy poko|johnson'?s baby|cerelac/i.test(name));
+    case 'pharma_wellness':
+      return /pharma|wellness|first aid|dettol|pain|cough|bandage|vitamin|antacid/i.test(sub) || /dettol|eno|moov|volini|vicks/i.test(name);
+    case 'cleaning':
+      return (cat === 'household' || cat === 'cleaning') && (/detergent|dishwash|cleaner|surf|vim|harpic|lizol|colin/i.test(sub) || /surf excel|vim|harpic|lizol|colin/i.test(name));
+    case 'home_office':
+      return (cat === 'household' || cat === 'home_office') && (/home|office|kitchen|stationery|battery|bulb|tissue|foil/i.test(sub) || /duracell|tissue|agarbatti/i.test(name));
+    case 'personal_care':
+      return (cat === 'personal' || cat === 'personal_care') && !/baby|diaper/i.test(sub) && (/soap|shampoo|paste|brush|cream|lotion|shave/i.test(sub) || /colgate|dove|nivea|gillette/i.test(name));
+    case 'pet_care':
+      return cat === 'pet_care' || /pet|dog|cat|pedigree|whiskas|drools/i.test(sub) || /pedigree|whiskas|drools/i.test(name);
+    case 'beverages':
+      return cat === 'beverages' || /drink|juice|tea|coffee|soda/i.test(sub);
+    case 'staples':
+      return cat === 'staples' || /atta|rice|dal|oil|ghee|spice/i.test(sub);
+    case 'household':
+      return cat === 'household' || /clean|detergent|home/i.test(sub);
+    case 'personal':
+      return cat === 'personal' || /personal|care|soap|shampoo/i.test(sub);
+    default:
+      return cat === targetCategory;
+  }
+}
+
+function matchesSubCategory(p: Product, targetSub: string): boolean {
+  if (!targetSub || targetSub === 'all' || targetSub.toLowerCase() === 'all') return true;
+  const pSub = (p.subCategory || '').toLowerCase();
+  const tSub = targetSub.toLowerCase();
+  if (pSub === tSub || pSub.includes(tSub) || tSub.includes(pSub)) return true;
+
+  const words = tSub.split(/[\s,&]+/).filter((w) => w.length > 2);
+  return words.some((w) => pSub.includes(w) || (p.name || '').toLowerCase().includes(w));
+}
+
+// Query the Master Catalog across all SKUs
 export function queryMasterCatalog(options: {
   category: string;
   subCategory?: string;
@@ -701,7 +808,7 @@ export function queryMasterCatalog(options: {
   const q = searchQuery.toLowerCase().trim();
   const maxCategorySkus = CATEGORY_TOTALS[category] || 24580;
 
-  // If there is an active search query: scan seed + generated items to find matching SKUs
+  // Active search query: rank by relevance
   if (q.length > 0) {
     const matchedProducts: Product[] = [];
     const seenIds = new Set<string>();
@@ -712,25 +819,22 @@ export function queryMasterCatalog(options: {
       const hindi = (p.nameHindi || '').toLowerCase();
       const sub = (p.subCategory || '').toLowerCase();
 
-      // Highest relevance: name or brand starts with query or equals query
       if (name.startsWith(q) || brand.startsWith(q)) return 100;
-      // Exact word match
       const wordRegex = new RegExp(`\\b${q.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')}`, 'i');
       if (wordRegex.test(name) || wordRegex.test(brand)) return 80;
-      // Substring in name
       if (name.includes(q)) return 60;
-      // Substring in brand
       if (brand.includes(q)) return 45;
-      // Hindi match
       if (hindi.includes(q)) return 30;
-      // Subcategory match
       if (sub.includes(q)) return 20;
       return 10;
     };
 
-    // 1. Check static comprehensive first across ALL categories so items like Maggi are never excluded
+    // 1. Scan static catalog items
     for (const p of COMPREHENSIVE_GROCERY_DATA) {
       if (onlyEssentials && !p.isDailyEssential) continue;
+      if (category !== 'all' && !matchesCategory(p, category)) continue;
+      if (subCategory && subCategory !== 'all' && !matchesSubCategory(p, subCategory)) continue;
+
       const name = p.name.toLowerCase();
       const brand = (p.brand || '').toLowerCase();
       const hindi = (p.nameHindi || '').toLowerCase();
@@ -744,14 +848,13 @@ export function queryMasterCatalog(options: {
       }
     }
 
-    // 2. Search across generated deterministic items across all categories
-    const categoriesToScan = category === 'all'
-      ? ['dairy', 'veggies', 'staples', 'snacks', 'beverages', 'instant', 'household', 'personal']
-      : [category, 'instant', 'dairy', 'veggies', 'staples', 'snacks', 'beverages', 'household', 'personal'];
+    // 2. Scan generated blueprints
+    const scanKeys = category === 'all'
+      ? ['dairy', 'veggies', 'cold_drinks', 'snacks', 'instant', 'sweet_tooth', 'bakery', 'tea_coffee', 'atta_rice_dal', 'masala_oil', 'sauces', 'paan', 'cleaning', 'personal_care', 'pet_care']
+      : [category];
 
-    for (const cat of categoriesToScan) {
-      const limit = 200;
-      for (let i = 0; i < limit && matchedProducts.length < 250; i++) {
+    for (const cat of scanKeys) {
+      for (let i = 0; i < 150 && matchedProducts.length < 250; i++) {
         const p = generateDeterministicSku(i, cat, cityMultiplier);
         if (onlyEssentials && !p.isDailyEssential) continue;
         const name = p.name.toLowerCase();
@@ -767,14 +870,10 @@ export function queryMasterCatalog(options: {
       }
     }
 
-    // 3. Sort primarily by Relevance Score, then by chosen sortBy
     matchedProducts.sort((a, b) => {
       const scoreA = getRelevanceScore(a);
       const scoreB = getRelevanceScore(b);
-
-      if (scoreA !== scoreB) {
-        return scoreB - scoreA; // higher relevance first!
-      }
+      if (scoreA !== scoreB) return scoreB - scoreA;
 
       const getSavings = (prod: Product) => {
         const prices = Object.values(prod.offers).filter((o) => o.inStock).map((o) => o.price);
@@ -797,66 +896,57 @@ export function queryMasterCatalog(options: {
     const startIdx = (safePage - 1) * pageSize;
     const items = matchedProducts.slice(startIdx, startIdx + pageSize);
 
-    return {
-      items,
-      totalCount,
-      page: safePage,
-      pageSize,
-      totalPages,
-    };
+    return { items, totalCount, page: safePage, pageSize, totalPages };
   }
 
-  // Filter static matches by category and subCategory
+  // Browse mode: filter static matches
   const staticMatches = COMPREHENSIVE_GROCERY_DATA.filter((p) => {
-    if (category !== 'all' && p.category !== category) return false;
-    if (subCategory && subCategory !== 'all') {
-      const pSub = (p.subCategory || '').toLowerCase();
-      const targetSub = subCategory.toLowerCase();
-      if (!pSub.includes(targetSub) && !targetSub.includes(pSub)) return false;
-    }
+    if (!matchesCategory(p, category)) return false;
+    if (subCategory && subCategory !== 'all' && !matchesSubCategory(p, subCategory)) return false;
     if (onlyEssentials && !p.isDailyEssential) return false;
     return true;
   });
 
   const staticCount = staticMatches.length;
-  const effectiveTotalCount = (subCategory && subCategory !== 'all') 
-    ? staticCount 
+  const effectiveTotalCount = (subCategory && subCategory !== 'all')
+    ? (staticCount > 0 ? staticCount : 60)
     : Math.max(maxCategorySkus, staticCount);
+
   const totalPages = Math.max(1, Math.ceil(effectiveTotalCount / pageSize));
   const safePage = Math.min(Math.max(1, page), totalPages);
   const startIndex = (safePage - 1) * pageSize;
 
   const items: Product[] = [];
 
-  // Stream static matches seamlessly across pages
   if (startIndex < staticCount) {
     const pageStatic = staticMatches.slice(startIndex, startIndex + pageSize);
     items.push(...pageStatic);
   }
 
-  // Fill remainder from deterministic generator if not filtered by specific subcategory
-  if (!subCategory || subCategory === 'all') {
-    let genIndex = Math.max(0, startIndex - staticCount);
-    while (items.length < pageSize && genIndex < effectiveTotalCount) {
-      const p = generateDeterministicSku(genIndex, category, cityMultiplier);
-      if (!onlyEssentials || p.isDailyEssential) {
-        items.push(p);
-      }
-      genIndex++;
+  // Generate remainder from deterministic generator
+  let genIndex = Math.max(0, startIndex - staticCount);
+  while (items.length < pageSize && genIndex < effectiveTotalCount) {
+    const p = generateDeterministicSku(genIndex, category, cityMultiplier);
+    if (subCategory && subCategory !== 'all') {
+      p.subCategory = subCategory;
     }
+    if (!onlyEssentials || p.isDailyEssential) {
+      items.push(p);
+    }
+    genIndex++;
   }
 
-  // Sort items according to preference
-  items.sort((a, b) => {
-    const getSavings = (prod: Product) => {
-      const prices = Object.values(prod.offers).filter((o) => o.inStock).map((o) => o.price);
-      return prices.length >= 2 ? Math.max(...prices) - Math.min(...prices) : 0;
-    };
-    const getMinPrice = (prod: Product) => {
-      const prices = Object.values(prod.offers).filter((o) => o.inStock).map((o) => o.price);
-      return prices.length > 0 ? Math.min(...prices) : 9999;
-    };
+  // Sort items
+  const getSavings = (prod: Product) => {
+    const prices = Object.values(prod.offers).filter((o) => o.inStock).map((o) => o.price);
+    return prices.length >= 2 ? Math.max(...prices) - Math.min(...prices) : 0;
+  };
+  const getMinPrice = (prod: Product) => {
+    const prices = Object.values(prod.offers).filter((o) => o.inStock).map((o) => o.price);
+    return prices.length > 0 ? Math.min(...prices) : 9999;
+  };
 
+  items.sort((a, b) => {
     if (sortBy === 'savings') return getSavings(b) - getSavings(a);
     if (sortBy === 'price-asc') return getMinPrice(a) - getMinPrice(b);
     if (sortBy === 'price-desc') return getMinPrice(b) - getMinPrice(a);

@@ -9,7 +9,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(595, 595, "SmallBatch The Classic San Marzano Tomato Ketchup", "350 g"),
   },
   {
@@ -18,7 +18,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "415 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(51, 89, "Del Monte Tomato Ketchup", "415 g"),
   },
   {
@@ -27,7 +27,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "190 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 75, "Maggi Rich Tomato Ketchup", "190 g"),
   },
   {
@@ -36,7 +36,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "825 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(99, 99, "Kissan Tomato Ketchup", "825 g"),
   },
   {
@@ -45,7 +45,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "850 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(120, 130, "Kissan Tomato Ketchup (No Onion & Garlic) - Doy Pack", "850 g"),
   },
   {
@@ -54,7 +54,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "435 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(152, 165, "Heinz Tomato Ketchup", "435 g"),
   },
   {
@@ -63,7 +63,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "1.1 kg",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(116, 150, "Kissan Fresh Tomato Ketchup", "1.1 kg"),
   },
   {
@@ -72,7 +72,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(65, 80, "Del Monte Tomato Ketchup", "300 g"),
   },
   {
@@ -81,7 +81,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "320 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(299, 299, "Little Joys Tomato Ketchup", "320 g"),
   },
   {
@@ -90,7 +90,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(265, 265, "Two Brothers Truemato Ketchup, 75% Tomatoes", "300 g"),
   },
   {
@@ -99,7 +99,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(99, 180, "Yu Zero Sugar Tomato Ketchup", "270 g"),
   },
   {
@@ -117,7 +117,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "340 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(190, 190, "Troovy Tomato Ketchup - No Chemicals", "340 g"),
   },
   {
@@ -126,7 +126,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(140, 175, "Veeba Tomato Ketchup (No Added Preservatives)", "1 kg"),
   },
   {
@@ -135,7 +135,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 250, "Vistevia Sugar Free Tomato Sauce", "250 g"),
   },
   {
@@ -144,7 +144,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "325 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(148, 180, "Heinz Classic Tomato Ketchup", "325 g"),
   },
   {
@@ -153,7 +153,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "570 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(261, 290, "Heinz Tomato Ketchup", "570 g"),
   },
   {
@@ -162,7 +162,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "900 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(100, 125, "Del Monte No Onion No Garlic Tomato Ketchup", "900 g"),
   },
   {
@@ -171,7 +171,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "220 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(239, 249, "The True Tomato Ketchup (Classic)", "220 g"),
   },
   {
@@ -180,7 +180,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "220 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(185, 185, "Repeat Gud Healthy Tomato Ketchup", "220 g"),
   },
   {
@@ -189,7 +189,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "220 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(239, 249, "The True Tomato Ketchup (No Chilli Kids Ketchup)", "220 g"),
   },
   {
@@ -198,7 +198,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "220 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(239, 249, "The True Tomato Ketchup (Bell Pepper Chilli Flavor)", "220 g"),
   },
   {
@@ -207,7 +207,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "550 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(479, 489, "The True Tomato Ketchup (No Added Sugar)", "550 g"),
   },
   {
@@ -216,7 +216,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "320 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(159, 199, "Kaidoo Tomato Ketchup for Kids", "320 g"),
   },
   {
@@ -225,7 +225,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "150 g + 270 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(115, 225, "Yu Veg Hakka Noodles (Zero Oil) + Zero Sugar Tomato Ketchup Combo", "150 g + 270 g"),
   },
   {
@@ -234,7 +234,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "320 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(193, 200, "Gladful Tomato Ketchup", "320 g"),
   },
   {
@@ -243,7 +243,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Tomato & Chilli Ketchup",
     unit: "230 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(195, 295, "Devavo Gud Tomato Ketchup with Jaggery", "230 g"),
   },
   {
@@ -252,7 +252,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Asian Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/622516a.jpg",
     offers: generateStoreOffers(54, 54, "Knorr Green Chilli Sauce", "1 pc"),
   },
   {
@@ -261,7 +261,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Asian Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/713a.jpg",
     offers: generateStoreOffers(56, 56, "Ching's Secret Dark Soy Sauce Rich, Brown and Zesty", "1 pc"),
   },
   {
@@ -270,7 +270,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Asian Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/686036a.jpg",
     offers: generateStoreOffers(99, 99, "MasterChow Chilli Oil", "1 pc"),
   },
   {
@@ -279,7 +279,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Asian Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/106786a.jpg",
     offers: generateStoreOffers(56, 56, "Ching's Secret Red Chilli Sauce, Bold, Fiery & Aromatic", "1 pc"),
   },
   {
@@ -288,7 +288,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Asian Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/708443a.jpg",
     offers: generateStoreOffers(198, 198, "Ching's Secret Chilli Oil Schezwan", "1 pc"),
   },
   {
@@ -297,7 +297,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Asian Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/538655a.jpg",
     offers: generateStoreOffers(49, 49, "MasterChow Dark Soya Sauce", "1 pc"),
   },
   {
@@ -306,7 +306,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Asian Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/66337a.jpg",
     offers: generateStoreOffers(80, 80, "Maggi Hot & Sweet Tomato Chilli Sauce", "1 pc"),
   },
   {
@@ -315,7 +315,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Asian Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/717a.jpg",
     offers: generateStoreOffers(56, 56, "Ching's Secret Green Chilli Sauce", "1 pc"),
   },
   {
@@ -324,7 +324,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Asian Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/707736a.jpg",
     offers: generateStoreOffers(198, 198, "Ching's Secret Chilli Oil Crunchy", "1 pc"),
   },
   {
@@ -333,7 +333,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Asian Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/544211a.jpg",
     offers: generateStoreOffers(161, 161, "MasterChow Green Chilli Sauce + Dark Soya Sauce + Red Chilli Sauce + White Vinegar Combo", "1 pc"),
   },
   {
@@ -342,7 +342,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Mayonnaise",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/633200a.jpg",
     offers: generateStoreOffers(42, 42, "Hellmann's Smoky Tandoori Veg Mayonnaise", "1 pc"),
   },
   {
@@ -351,7 +351,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Mayonnaise",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/415846a.jpg",
     offers: generateStoreOffers(49, 49, "Dr. Oetker FunFoods Veg Mayonnaise Original", "1 pc"),
   },
   {
@@ -360,7 +360,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Mayonnaise",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/500288a.jpg",
     offers: generateStoreOffers(49, 49, "Wingreens Farms Premium Veg Mayonnaise", "1 pc"),
   },
   {
@@ -369,7 +369,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Mayonnaise",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/633226a.jpg",
     offers: generateStoreOffers(40, 40, "Hellmann's Creamy Mayonnaise", "1 pc"),
   },
   {
@@ -378,7 +378,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Mayonnaise",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/633205a.jpg",
     offers: generateStoreOffers(42, 42, "Hellmann's Roasted Garlic Mayonnaise", "1 pc"),
   },
   {
@@ -387,7 +387,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Mayonnaise",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/479191a.jpg",
     offers: generateStoreOffers(67, 67, "Wingreens Farms Tandoori - Flavoured Mayonnaise", "1 pc"),
   },
   {
@@ -396,7 +396,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Mayonnaise",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/430513a.jpg",
     offers: generateStoreOffers(89, 89, "Hellmann's Real Mayonnaise", "1 pc"),
   },
   {
@@ -405,7 +405,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Mayonnaise",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/633221a.jpg",
     offers: generateStoreOffers(42, 42, "Hellmann's Cheesy Jalapeno Burst Mayonnaise", "1 pc"),
   },
   {
@@ -414,7 +414,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Mayonnaise",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/490653a.jpg",
     offers: generateStoreOffers(128, 128, "Dr. Oetker Funfoods Veg Mayonnaise De'lite", "1 pc"),
   },
   {
@@ -423,7 +423,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Peanut Butter",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/767719a.jpg",
     offers: generateStoreOffers(149, 149, "Sundrop Chocolate Crunchy Peanut Butter", "1 pc"),
   },
   {
@@ -432,7 +432,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Peanut Butter",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/444833a.jpg",
     offers: generateStoreOffers(169, 169, "Pintola Dark Chocolate Crunchy Peanut Butter", "1 pc"),
   },
   {
@@ -441,7 +441,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Peanut Butter",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/782393a.jpg",
     offers: generateStoreOffers(250, 250, "Disano Chocolate Crunchy Peanut Butter", "1 pc"),
   },
   {
@@ -450,7 +450,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Peanut Butter",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/484008a.jpg",
     offers: generateStoreOffers(281, 281, "MyFitness High Protein Chocolate Crunchy Peanut Butter Spread", "1 pc"),
   },
   {
@@ -459,7 +459,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Peanut Butter",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/737057a.jpg",
     offers: generateStoreOffers(549, 549, "Country Farms High Protein Crispy Peanut Butter", "1 pc"),
   },
   {
@@ -468,7 +468,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Peanut Butter",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/444825a.jpg",
     offers: generateStoreOffers(281, 281, "MyFitness High Protein Chocolate Peanut Butter Smooth Spread", "1 pc"),
   },
   {
@@ -477,7 +477,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Peanut Butter",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/425544a.jpg",
     offers: generateStoreOffers(156, 156, "Pintola All Natural Crunchy Peanut Butter (Unsweetened)", "1 pc"),
   },
   {
@@ -486,7 +486,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Peanut Butter",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/166a.jpg",
     offers: generateStoreOffers(144, 144, "Sundrop Creamy Peanut Butter", "1 pc"),
   },
   {
@@ -495,7 +495,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Peanut Butter",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/497915a.jpg",
     offers: generateStoreOffers(148, 148, "MyFitness High Protein Chocolate Crunchy Peanut Butter Spread (227 g)", "1 pc"),
   },
   {
@@ -504,7 +504,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Peanut Butter",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/1377916a.jpg",
     offers: generateStoreOffers(99, 99, "Sundrop Crunchy Peanut Butter with Honey", "1 pc"),
   },
   {
@@ -513,7 +513,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Jam & Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/120182a.jpg",
     offers: generateStoreOffers(351, 351, "Nutella Hazelnut Chocolate Spread with Cocoa", "1 pc"),
   },
   {
@@ -522,7 +522,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Jam & Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/11527a.jpg",
     offers: generateStoreOffers(90, 90, "Kissan Mixed Fruit Jam", "1 pc"),
   },
   {
@@ -531,7 +531,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Jam & Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/429760a.jpg",
     offers: generateStoreOffers(95, 95, "Nutralite Eggless Cheesy Garlic Flavoured Mayonnaise", "1 pc"),
   },
   {
@@ -540,7 +540,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Jam & Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/633528a.jpg",
     offers: generateStoreOffers(279, 279, "Eatopia Mixed Berry Honey Jam (No Refined Sugar)", "1 pc"),
   },
   {
@@ -549,7 +549,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Jam & Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/776478a.jpg",
     offers: generateStoreOffers(299, 299, "Sweetmate Strawberry Jam", "1 pc"),
   },
   {
@@ -558,7 +558,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Jam & Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/567968a.jpg",
     offers: generateStoreOffers(499, 499, "Little Joys Hazelnut Chocolate Spread", "1 pc"),
   },
   {
@@ -567,7 +567,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Honey & Chyawanprash",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/220611a.jpg",
     offers: generateStoreOffers(273, 273, "Dabur Honey Squezzy (No Sugar Adulteration) - Buy 1 Get 1 Free", "1 pc"),
   },
   {
@@ -576,7 +576,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Honey & Chyawanprash",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10729a.jpg",
     offers: generateStoreOffers(70, 70, "Dabur Honey (No Sugar Adulteration)", "1 pc"),
   },
   {
@@ -585,7 +585,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Honey & Chyawanprash",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/410824a.jpg",
     offers: generateStoreOffers(168, 168, "Dabur Honey Squeezy", "1 pc"),
   },
   {
@@ -594,7 +594,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Honey & Chyawanprash",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/731341a.jpg",
     offers: generateStoreOffers(350, 350, "V-Rich Pure Immunity Honey", "1 pc"),
   },
   {
@@ -603,7 +603,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Honey & Chyawanprash",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/576459a.jpg",
     offers: generateStoreOffers(99, 99, "Apis Multifloral Honey Squeezy", "1 pc"),
   },
   {
@@ -612,7 +612,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Honey & Chyawanprash",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/659940a.jpg",
     offers: generateStoreOffers(131, 131, "Saffola Sundarbans Forest Honey Active", "1 pc"),
   },
   {
@@ -621,7 +621,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Honey & Chyawanprash",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/539708a.jpg",
     offers: generateStoreOffers(351, 351, "Organic India, A TATA Product - Multi Floral Organic Honey", "1 pc"),
   },
   {
@@ -630,7 +630,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Honey & Chyawanprash",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/483432a.jpg",
     offers: generateStoreOffers(419, 419, "Zandu Pure Honey Squ-Easy", "1 pc"),
   },
   {
@@ -639,7 +639,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Honey & Chyawanprash",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/600066a.jpg",
     offers: generateStoreOffers(270, 270, "Earthen Story Wild Forest Certified Honey", "1 pc"),
   },
   {
@@ -648,7 +648,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Syrups",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/621200a.jpg",
     offers: generateStoreOffers(330, 330, "Good&Moore Zero Sugar Vanilla Coffee Syrup", "1 pc"),
   },
   {
@@ -657,7 +657,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Syrups",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/285196a.jpg",
     offers: generateStoreOffers(99, 99, "Hershey's Chocolate Syrup", "1 pc"),
   },
   {
@@ -666,7 +666,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Syrups",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/788775a.jpg",
     offers: generateStoreOffers(94, 94, "Hershey's Caramel Syrup", "1 pc"),
   },
   {
@@ -675,7 +675,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Syrups",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/476909a.jpg",
     offers: generateStoreOffers(975, 975, "Abbie's Pure Maple Syrup", "1 pc"),
   },
   {
@@ -684,7 +684,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Syrups",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/766693a.jpg",
     offers: generateStoreOffers(94, 94, "Hershey's Hazelnut Syrup", "1 pc"),
   },
   {
@@ -693,7 +693,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Syrups",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/424204a.jpg",
     offers: generateStoreOffers(94, 94, "Hershey's Strawberry Syrup", "1 pc"),
   },
   {
@@ -702,7 +702,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Syrups",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/481013a.jpg",
     offers: generateStoreOffers(209, 209, "Puramate Pancake Syrup", "1 pc"),
   },
   {
@@ -711,7 +711,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Indian Chutney & Pickle",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/800258a.jpg",
     offers: generateStoreOffers(66, 66, "iD Fresh Vada Pav Peanut Chutney", "1 pc"),
   },
   {
@@ -720,7 +720,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Indian Chutney & Pickle",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/549020a.jpg",
     offers: generateStoreOffers(50, 50, "iD Peanut Chutney", "1 pc"),
   },
   {
@@ -729,7 +729,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Indian Chutney & Pickle",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/696681a.jpg",
     offers: generateStoreOffers(45, 45, "Khetika Peanut Chutney", "1 pc"),
   },
   {
@@ -738,7 +738,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Indian Chutney & Pickle",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/234875a.jpg",
     offers: generateStoreOffers(96, 96, "Priya Tomato with Garlic Pickle", "1 pc"),
   },
   {
@@ -747,7 +747,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Indian Chutney & Pickle",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/793511a.jpg",
     offers: generateStoreOffers(50, 50, "Kissan Karipatta Coconut Chutney", "1 pc"),
   },
   {
@@ -756,7 +756,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Indian Chutney & Pickle",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/567303a.jpg",
     offers: generateStoreOffers(27, 27, "Priya Tamarind Paste", "1 pc"),
   },
   {
@@ -765,7 +765,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Indian Chutney & Pickle",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/549017a.jpg",
     offers: generateStoreOffers(50, 50, "iD Fresh Coconut Chutney", "1 pc"),
   },
   {
@@ -774,7 +774,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Indian Chutney & Pickle",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/261376a.jpg",
     offers: generateStoreOffers(96, 96, "Priya Mango Avakaya with Garlic Pickle", "1 pc"),
   },
   {
@@ -783,7 +783,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Indian Chutney & Pickle",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/793510a.jpg",
     offers: generateStoreOffers(76, 76, "Kissan Aam Kasundi Chutney", "1 pc"),
   },
   {
@@ -792,7 +792,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Indian Chutney & Pickle",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/549166a.jpg",
     offers: generateStoreOffers(50, 50, "iD Tomato Chutney", "1 pc"),
   },
   {
@@ -801,7 +801,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Dips & Salad Dressings",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/428214a.jpg",
     offers: generateStoreOffers(105, 105, "Amul Green Chutney Cheese Sauce", "1 pc"),
   },
   {
@@ -810,7 +810,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Dips & Salad Dressings",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/481419a.jpg",
     offers: generateStoreOffers(30, 30, "Snackible Biscuit Sticks with Chocolatey Dip", "1 pc"),
   },
   {
@@ -819,7 +819,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Dips & Salad Dressings",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/719a.jpg",
     offers: generateStoreOffers(47, 47, "Ching's Secret White Chilli Vinegar with Green Jwala Chilli", "1 pc"),
   },
   {
@@ -828,7 +828,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Dips & Salad Dressings",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/632429a.jpg",
     offers: generateStoreOffers(184, 184, "Ching's Secret Dark Soy Sauce Rich, Brown and Zesty + Red Chilli Sauce, Bold, Fiery & Aromatic + Green Chilli Sauce + Chilli Vinegar Combo", "1 pc"),
   },
   {
@@ -837,7 +837,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Dips & Salad Dressings",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/370227a.jpg",
     offers: generateStoreOffers(30, 30, "Snackible Dipsters Vanilla Creme Dip with Biscuit Sticks", "1 pc"),
   },
   {
@@ -846,7 +846,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Dips & Salad Dressings",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/13366a.jpg",
     offers: generateStoreOffers(225, 225, "American Garden Apple Cider Vinegar", "1 pc"),
   },
   {
@@ -855,7 +855,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Dips & Salad Dressings",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/486371a.jpg",
     offers: generateStoreOffers(289, 289, "Kapiva Himalayan Apple Cider Vinegar", "1 pc"),
   },
   {
@@ -864,7 +864,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Dips & Salad Dressings",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1588615419957-566a5682fa1f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/495737a.jpg",
     offers: generateStoreOffers(186, 186, "MasterChow Sichuan Chilli Oil", "1 pc"),
   },
   {
@@ -873,7 +873,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Dips & Salad Dressings",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/679643a.jpg",
     offers: generateStoreOffers(219, 219, "GreenTokri Sun Dried Tomato Pesto", "1 pc"),
   },
   {
@@ -882,7 +882,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Dips & Salad Dressings",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/524815a.jpg",
     offers: generateStoreOffers(202, 202, "Cremeitalia Sour Cream", "1 pc"),
   },
   {
@@ -891,7 +891,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Table Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95213a.jpg",
     offers: generateStoreOffers(188, 188, "Tabasco Red Pepper Chilli Sauce", "1 pc"),
   },
   {
@@ -900,7 +900,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Table Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/693291a.jpg",
     offers: generateStoreOffers(225, 225, "Devavo Dijon Mustard Sauce (Classic French)", "1 pc"),
   },
   {
@@ -909,7 +909,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Table Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/537599a.jpg",
     offers: generateStoreOffers(151, 151, "Moi Soi Schezwan Sauce - Dip - Spread - Cook", "1 pc"),
   },
   {
@@ -918,7 +918,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Table Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/693949a.jpg",
     offers: generateStoreOffers(209, 209, "GreenTokri German Mustard Sauce", "1 pc"),
   },
   {
@@ -927,7 +927,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Table Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/438984a.jpg",
     offers: generateStoreOffers(114, 114, "Wingreens Farms Cheesy Chipotle Sauce", "1 pc"),
   },
   {
@@ -936,7 +936,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Table Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/424848a.jpg",
     offers: generateStoreOffers(88, 88, "Wingreens Farms Tandoori Sauce", "1 pc"),
   },
   {
@@ -945,7 +945,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Table Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/424849a.jpg",
     offers: generateStoreOffers(148, 148, "Wingreens Farms Traditional Recipe Mexican Salsa Sauce", "1 pc"),
   },
   {
@@ -954,7 +954,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Table Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/547174a.jpg",
     offers: generateStoreOffers(88, 88, "MasterChow Schezwan Hot & Spicy Chutney", "1 pc"),
   },
   {
@@ -963,7 +963,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Table Sauces",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/486118a.jpg",
     offers: generateStoreOffers(147, 147, "Moi Soi Sichuan Chilli Oil - Dip - Spread - Cook", "1 pc"),
   },
   {
@@ -972,7 +972,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Cooking Sauces & Vinegar",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/424382a.jpg",
     offers: generateStoreOffers(58, 58, "Knorr Pizza & Pasta Sauce", "1 pc"),
   },
   {
@@ -981,7 +981,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Cooking Sauces & Vinegar",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/415627a.jpg",
     offers: generateStoreOffers(32, 32, "Catch Ginger Garlic Paste", "1 pc"),
   },
   {
@@ -990,7 +990,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Cooking Sauces & Vinegar",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/567125a.jpg",
     offers: generateStoreOffers(84, 84, "Priya Ginger Garlic Paste", "1 pc"),
   },
   {
@@ -999,7 +999,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Cooking Sauces & Vinegar",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/118121a.jpg",
     offers: generateStoreOffers(45, 45, "Double Horse Vinegar", "1 pc"),
   },
   {
@@ -1008,7 +1008,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Cooking Sauces & Vinegar",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/424383a.jpg",
     offers: generateStoreOffers(63, 63, "Knorr Schezwan Sauce", "1 pc"),
   },
   {
@@ -1017,7 +1017,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Cooking Sauces & Vinegar",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/122155a.jpg",
     offers: generateStoreOffers(43, 43, "Smith & Jones Ginger Garlic Paste", "1 pc"),
   },
   {
@@ -1026,7 +1026,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Cooking Sauces & Vinegar",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1550828553-eacbc3f041cb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/29550a.jpg",
     offers: generateStoreOffers(81, 81, "Hommade Coconut Milk", "1 pc"),
   },
   {
@@ -1035,7 +1035,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Cooking Sauces & Vinegar",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/566306a.jpg",
     offers: generateStoreOffers(40, 40, "Everest Ginger Garlic Paste", "1 pc"),
   },
   {
@@ -1044,7 +1044,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Cooking Sauces & Vinegar",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/768216a.jpg",
     offers: generateStoreOffers(68, 68, "Knorr Green Thai Curry Paste", "1 pc"),
   },
   {
@@ -1053,7 +1053,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Imported Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/480663a.jpg",
     offers: generateStoreOffers(294, 294, "Chabaa Blueberry Fruit Jam", "1 pc"),
   },
   {
@@ -1062,7 +1062,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Imported Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/480665a.jpg",
     offers: generateStoreOffers(294, 294, "Chabaa Mixed Berry Fruit Jam", "1 pc"),
   },
   {
@@ -1071,7 +1071,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Imported Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/480662a.jpg",
     offers: generateStoreOffers(264, 264, "Chabaa Strawberry Fruit Jam", "1 pc"),
   },
   {
@@ -1080,7 +1080,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Imported Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/42807a.jpg",
     offers: generateStoreOffers(562, 562, "Skippy Super Chunk Crunchy Peanut Butter", "1 pc"),
   },
   {
@@ -1089,7 +1089,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Imported Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/42804a.jpg",
     offers: generateStoreOffers(562, 562, "Skippy Creamy Peanut Butter", "1 pc"),
   },
   {
@@ -1098,7 +1098,7 @@ export const LIVE_SAUCES_DATA: Product[] = [
     category: 'sauces',
     subCategory: "Imported Spreads",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/634808a.jpg",
     offers: generateStoreOffers(369, 369, "The Butternut Co. Tahini Sesame Seed Spread", "1 pc"),
   },
 ];

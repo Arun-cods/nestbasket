@@ -9,7 +9,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(37, 50, "Crax Mota Chips (Classic Homestyle Chilli)", "70 g"),
   },
   {
@@ -36,7 +36,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/294297_18-kurkure-namkeen-masala-munch.jpg",
     offers: generateStoreOffers(20, 20, "Kurkure Masala Munch Crisps", "75 g"),
   },
   {
@@ -45,7 +45,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "78.9 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(20, 20, "Kurkure Chilli Chatka Crisps", "78.9 g"),
   },
   {
@@ -63,7 +63,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "43 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(19, 20, "Bingo Original Style Chilli Potato Chips", "43 g"),
   },
   {
@@ -81,7 +81,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(19, 20, "Bingo Mad Angles Achaari Masti Crisps / Chips", "60 g"),
   },
   {
@@ -90,7 +90,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "58 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/294297_18-kurkure-namkeen-masala-munch.jpg",
     offers: generateStoreOffers(20, 20, "Kurkure Puffcorn Yummy Cheese Puffs", "58 g"),
   },
   {
@@ -117,7 +117,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "78.9 g",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/294297_18-kurkure-namkeen-masala-munch.jpg",
     offers: generateStoreOffers(20, 20, "Kurkure Green Chutney Crisps", "78.9 g"),
   },
   {
@@ -126,7 +126,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "53 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(20, 20, "Uncle Chipps Spicy Treat Flavour Potato Chips", "53 g"),
   },
   {
@@ -135,7 +135,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(16, 20, "Bingo Tedhe Medhe Masala Tadka Crisps", "75 g"),
   },
   {
@@ -153,7 +153,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(38, 50, "Crax Zero Salted Potato Chips -No Palm Oil", "70 g"),
   },
   {
@@ -162,7 +162,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "138.7 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(60, 100, "Bingo Original Style Chilli Sprinkled Potato Chips", "138.7 g"),
   },
   {
@@ -171,7 +171,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(19, 20, "Bingo Mad Angles Tomato Madness Crisps", "60 g"),
   },
   {
@@ -189,7 +189,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(51, 55, "Pringles Scorchin’ Red Hot Chilli Potato Chips", "40 g"),
   },
   {
@@ -198,7 +198,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(60, 64, "Sweet Karam Coffee Kerala Nendran Banana Chips", "65 g"),
   },
   {
@@ -207,7 +207,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(86, 92, "Sweet Karam Coffee Andhra Spicy Murukku (Chakli)", "95 g"),
   },
   {
@@ -216,7 +216,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(65, 65, "Troovy High Protein Mix Veggie Chips", "70 g"),
   },
   {
@@ -225,7 +225,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "102 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(101, 110, "Pringles Scorchin’ Potato Chips (Red Hot Chilli)", "102 g"),
   },
   {
@@ -234,7 +234,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "82 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 60, "Crax Curls Chatpata Masala Puffs Snacks", "82 g"),
   },
   {
@@ -243,7 +243,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "57 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 50, "Snackible Peri Peri Ragi Chips", "57 g"),
   },
   {
@@ -252,7 +252,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "43 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(19, 20, "Bingo Original Style Salt Potato Chips", "43 g"),
   },
   {
@@ -261,7 +261,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 60, "Crax Cheese Balls Puff Snacks", "65 g"),
   },
   {
@@ -270,7 +270,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "78.9 g",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/294297_18-kurkure-namkeen-masala-munch.jpg",
     offers: generateStoreOffers(20, 20, "Kurkure Schezwan Chutney Crisps", "78.9 g"),
   },
   {
@@ -279,7 +279,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(37, 40, "SuperYou Multigrain Super Masala Chips", "40 g"),
   },
   {
@@ -288,7 +288,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Crunchex Chilli Tadka Potato Wafers", "140 g"),
   },
   {
@@ -297,7 +297,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(31, 60, "Crax Biggies Chilli Cheese Puff Snacks", "65 g"),
   },
   {
@@ -306,7 +306,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(35, 60, "Bingo XXX Chilli Cheese Baked Puffs", "80 g"),
   },
   {
@@ -315,7 +315,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(55, 60, "Beyond Snack Original style Nendran Banana Chips", "75 g"),
   },
   {
@@ -324,7 +324,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "103.6 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/294297_18-kurkure-namkeen-masala-munch.jpg",
     offers: generateStoreOffers(30, 35, "Kurkure Masala Munch Crisps", "103.6 g"),
   },
   {
@@ -333,7 +333,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(79, 115, "Beyond Snack Upperi Banana Chips", "100 g"),
   },
   {
@@ -342,7 +342,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 60, "Crax Crunchy Noodle Puffs Chips Snacks", "75 g"),
   },
   {
@@ -351,7 +351,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(65, 65, "Troovy High Protein Ragi Chips", "70 g"),
   },
   {
@@ -369,7 +369,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(45, 50, "Seung Toko Honey Soy Butter Korean Tapioca Chips", "50 g"),
   },
   {
@@ -378,7 +378,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(39, 48, "Uncle Chipps Plain Salted Potato Chips", "80 g"),
   },
   {
@@ -387,7 +387,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "71.5 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(29, 30, "Britannia 5050 Potazos Masti Masala Potato Biscuit", "71.5 g"),
   },
   {
@@ -396,7 +396,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(51, 55, "Pringles Original Potato Chips - Crispy Snack", "40 g"),
   },
   {
@@ -405,7 +405,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(45, 50, "Seung Toko Korean BBQ Potato Chips", "50 g"),
   },
   {
@@ -414,7 +414,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(39, 48, "Uncle Chipps Spicy Treat Potato Chips", "80 g"),
   },
   {
@@ -432,7 +432,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Crunchem Masala Masti Wafers", "140 g"),
   },
   {
@@ -441,7 +441,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(45, 50, "Seung Toko Korean Kimchi Banana Chips", "50 g"),
   },
   {
@@ -450,7 +450,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(51, 55, "Pringles Sour Cream & Onion Potato Chips (40 g)", "40 g"),
   },
   {
@@ -468,7 +468,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(40, 40, "Troovy High Protein Makhana Krunchies", "40 g"),
   },
   {
@@ -477,7 +477,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(76, 95, "Modern Kitchens Tapioca Sticks", "180 g"),
   },
   {
@@ -486,7 +486,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(39, 50, "Beyond Snack Zero Banana Chips - Salt & Black Pepper", "50 g"),
   },
   {
@@ -495,7 +495,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(37, 40, "SuperYou Multigrain Sour Cream & Onion Chips", "40 g"),
   },
   {
@@ -504,7 +504,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(55, 70, "Modern Kitchens Hot Chips Salted", "100 g"),
   },
   {
@@ -513,7 +513,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(32, 35, "Too Yumm Veggie Stix Chili Chataka Spicy Crisps", "70 g"),
   },
   {
@@ -522,7 +522,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(37, 50, "Bingo Baked No Rulz Masala Curlz Puffs", "80 g"),
   },
   {
@@ -531,7 +531,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(37, 50, "Bingo Original Hot & Spicy Korean Style Potato Chips", "85 g"),
   },
   {
@@ -540,7 +540,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "3 x 33 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(84, 90, "Farmley Makha Shaka Crisps - Masala Stix Healthy Snacks", "3 x 33 g"),
   },
   {
@@ -549,7 +549,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(42, 60, "Modern Kitchens Salted Banana Chips", "70 g"),
   },
   {
@@ -558,7 +558,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "94 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(20, 20, "Kurkure Naughty Tomato Crisps", "94 g"),
   },
   {
@@ -567,7 +567,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(65, 65, "Veerabhadra Banana Chips", "100 g"),
   },
   {
@@ -576,7 +576,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(86, 92, "Sweet Karam Coffee Butter Murukku Namkeen", "95 g"),
   },
   {
@@ -585,7 +585,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(55, 70, "Modern Kitchens Hot Chips Spicy", "100 g"),
   },
   {
@@ -594,7 +594,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "87.5 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(38, 50, "Bingo Hot & Spicy Korean Style Potato Chips", "87.5 g"),
   },
   {
@@ -603,7 +603,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "84 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(41, 48, "Cheetos Crisps (Masala Balls)", "84 g"),
   },
   {
@@ -612,7 +612,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(55, 60, "Beyond Snack Peri Peri Nendran Banana Chips", "75 g"),
   },
   {
@@ -621,7 +621,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(35, 40, "Modern Kitchens Spicy Potato Wafers", "70 g"),
   },
   {
@@ -630,7 +630,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 60, "Crax Biggies Swiss Cheese Puffs Snacks", "70 g"),
   },
   {
@@ -639,7 +639,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "51.2 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(33, 50, "Bingo Popped Indian Spice Mix Potato Chips", "51.2 g"),
   },
   {
@@ -648,7 +648,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "84 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/294297_18-kurkure-namkeen-masala-munch.jpg",
     offers: generateStoreOffers(24, 48, "Kurkure Playz Puffcorn Yummy Cheese Puffs", "84 g"),
   },
   {
@@ -657,7 +657,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(41, 60, "Modern Kitchens Wheel Chips", "60 g"),
   },
   {
@@ -675,7 +675,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Crunchem Cream & Onion Wafers", "140 g"),
   },
   {
@@ -684,7 +684,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "48 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(19, 20, "Bingo Cream & Onion Potato Chips", "48 g"),
   },
   {
@@ -693,7 +693,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
     offers: generateStoreOffers(54, 60, "4700BC Pineapple Salsa Nachos", "60 g"),
   },
   {
@@ -702,7 +702,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "107 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(101, 110, "Pringles Sour Cream & Onion Potato Chips", "107 g"),
   },
   {
@@ -711,7 +711,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(65, 69, "Sweet Karam Coffee Kerala Tapioca Chips", "65 g"),
   },
   {
@@ -720,7 +720,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(87, 99, "Sweet Karam Coffee Ragi Onion Murukku Chakli/Crisp", "95 g"),
   },
   {
@@ -729,7 +729,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(159, 199, "Nutrirootz 26 g Protein Edamame Beans (Roasted) - Sea Salt", "60 g"),
   },
   {
@@ -738,7 +738,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(84, 92, "Sweet Karam Coffee Garlic Murukku Chakli/Crisp", "95 g"),
   },
   {
@@ -747,7 +747,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 55, "Too Yumm Smoking Hot Bhoot Potato Chips - Spicy Chilli", "79 g"),
   },
   {
@@ -756,7 +756,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(65, 69, "Sweet Karam Coffee Tapioca Chips - Indian Masala", "65 g"),
   },
   {
@@ -765,7 +765,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "87.5 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(38, 50, "Bingo Cream and Onion Potato Chips", "87.5 g"),
   },
   {
@@ -774,7 +774,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Crunchem Tomato Twist Wafers", "140 g"),
   },
   {
@@ -783,7 +783,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(20, 20, "Bingo Mad Angles Masala Madness Crisps", "60 g"),
   },
   {
@@ -801,7 +801,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "73 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(34, 60, "Crax Crunchy Pipes Salted Puffs Snacks", "73 g"),
   },
   {
@@ -819,7 +819,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(56, 99, "Garden Yellow Banana Chips", "150 g"),
   },
   {
@@ -846,7 +846,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(51, 55, "Pringles Cheese Burst Potato Crisps", "40 g"),
   },
   {
@@ -855,7 +855,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "102 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40053880_7-pringles-potato-chips-sour-cream-onion.jpg",
     offers: generateStoreOffers(101, 110, "Pringles Peri Peri Chips - Crispy Snack", "102 g"),
   },
   {
@@ -864,7 +864,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "71.5 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(24, 25, "Too Yumm Smoking Hot Bhoot Karare Snack - Spicy Chilli", "71.5 g"),
   },
   {
@@ -873,7 +873,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "135 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(94, 134, "Cheetos Puffs (Classic Cheese Flavour)", "135 g"),
   },
   {
@@ -882,7 +882,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(37, 40, "SuperYou Multigrain Cheese & Tomato Chips", "40 g"),
   },
   {
@@ -891,7 +891,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(45, 45, "Troovy High Protein Potato Chips - Masala", "40 g"),
   },
   {
@@ -900,7 +900,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "117 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(37, 50, "Bingo Mad Angles Very Peri Peri Crisps", "117 g"),
   },
   {
@@ -909,7 +909,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(34, 60, "Crax Crunchy Pipes Masala Puffs Snacks", "70 g"),
   },
   {
@@ -945,7 +945,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "102 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(101, 110, "Pringles Pizza Flavour Potato Chips - Crispy Snack", "102 g"),
   },
   {
@@ -954,7 +954,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3891a.jpg",
     offers: generateStoreOffers(108, 110, "To Be Honest Spiced Okra with Coriander Namkeen Snacks", "40 g"),
   },
   {
@@ -963,7 +963,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/10000411_14-bb-royal-moong-dal.jpg",
     offers: generateStoreOffers(65, 65, "Troovy High Protein Moong Dal Chips", "70 g"),
   },
   {
@@ -972,7 +972,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "87.5 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(38, 50, "Bingo Bangin Butter & Garlic Potato Chips", "87.5 g"),
   },
   {
@@ -981,7 +981,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(24, 47, "Crax Masala Punch Potato Chips Snacks", "85 g"),
   },
   {
@@ -999,7 +999,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(43, 60, "Peppy Cheese Balls", "60 g"),
   },
   {
@@ -1008,7 +1008,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "130 g",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40158434_6-pintola-all-natural-peanut-butter-crunchy.jpg",
     offers: generateStoreOffers(130, 160, "Pintola Wholegrain Brown Rice Cake (Lightly Salted)", "130 g"),
   },
   {
@@ -1026,7 +1026,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/467360a.jpg",
     offers: generateStoreOffers(109, 109, "The Baker's Dozen Zero Maida Lavash Baked Flatbread Crisp for Dip", "75 g"),
   },
   {
@@ -1035,7 +1035,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(130, 135, "To Be Honest Mix Veggie Chips (Rock salt)", "60 g"),
   },
   {
@@ -1044,7 +1044,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(54, 60, "4700BC Cheese & Jalapeno Nachos", "60 g"),
   },
   {
@@ -1053,7 +1053,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Crunchem Simply Salted Wafers", "140 g"),
   },
   {
@@ -1062,7 +1062,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "86 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(46, 50, "Crax Peri Peri Ragi Chips - Healthy Protein Snacks", "86 g"),
   },
   {
@@ -1089,7 +1089,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(72, 75, "Beyond Snack Rock Salt Nendran Banana Chips", "80 g"),
   },
   {
@@ -1098,7 +1098,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(47, 49, "Kettle Studio Sharp Jalapenos & Cream Cheese Potato Chips", "60 g"),
   },
   {
@@ -1107,7 +1107,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(49, 55, "Open Secret Mix Veggie Healthy Chips", "40 g"),
   },
   {
@@ -1116,7 +1116,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "102 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(101, 110, "Pringles Cheese Burst Potato Chips", "102 g"),
   },
   {
@@ -1125,7 +1125,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "53 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(54, 60, "Red Rock Deli Baked Chips (Greek Salad) 40% Less Fat Snacks", "53 g"),
   },
   {
@@ -1134,7 +1134,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "53 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(54, 60, "Red Rock Deli Baked Chips (Risotto) 40% Less Fat Snacks", "53 g"),
   },
   {
@@ -1143,7 +1143,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(54, 60, "4700BC Spicy Barbeque Pretzels", "50 g"),
   },
   {
@@ -1152,7 +1152,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "84 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(30, 60, "Crax Fritts Peri Peri Corn & Potato Sticks", "84 g"),
   },
   {
@@ -1161,7 +1161,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 99, "Lo Foods Gluten Free Millet Ragi Chips (No Palm Oil)", "75 g"),
   },
   {
@@ -1170,7 +1170,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(32, 35, "Too Yumm Cheese Balls Puffs (No Palm Oil)", "40 g"),
   },
   {
@@ -1179,7 +1179,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "53 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(20, 20, "Uncle Chipps Potato Chips (Plain Salted)", "53 g"),
   },
   {
@@ -1188,7 +1188,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(23, 50, "Yellow Diamond Cream N Onion Potato Chips", "75 g"),
   },
   {
@@ -1197,7 +1197,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "5 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(270, 299, "Jolochip Last Chip Challenge Chips", "5 g"),
   },
   {
@@ -1224,7 +1224,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "58 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(51, 60, "Red Rock Deli Kettle Rotisserie Style Smoked Chicken Potato Chips", "58 g"),
   },
   {
@@ -1233,7 +1233,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40276324_4-milky-mist-curd-rich-in-taste-no-added-preservatives.jpg",
     offers: generateStoreOffers(32, 35, "Too Yumm Baked Dahi Papdi Chaat Multigrain Chips", "70 g"),
   },
   {
@@ -1242,7 +1242,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(49, 55, "Too Yumm Grilled Cheese & Chilli Protein Healthy Chips", "60 g"),
   },
   {
@@ -1251,7 +1251,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(49, 50, "Too Yumm Protein Chips Masala Magic", "60 g"),
   },
   {
@@ -1260,7 +1260,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(38, 38, "Troovy High Protein Cheese & Herbs Puffs", "40 g"),
   },
   {
@@ -1269,7 +1269,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "51.2 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(33, 50, "Bingo Popped Sour Cream & Herbs Potato Chips", "51.2 g"),
   },
   {
@@ -1278,7 +1278,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(35, 60, "Bingo XXX Hot N Spicy Puffs", "80 g"),
   },
   {
@@ -1296,7 +1296,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(39, 50, "Crax Zero Masala Potato Chips - No Palm Oil", "70 g"),
   },
   {
@@ -1305,7 +1305,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(199, 199, "DOKi Tokyo Teriyaki Chicken Jerky", "30 g"),
   },
   {
@@ -1314,7 +1314,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(43, 60, "Piknik Red Hot Puffs", "60 g"),
   },
   {
@@ -1323,7 +1323,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(38, 38, "Troovy High Protein Tangy Tomato Puffs", "40 g"),
   },
   {
@@ -1332,7 +1332,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "58.7 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(30, 30, "Bingo Original Style Chilli Charged Tomato Potato Chips", "58.7 g"),
   },
   {
@@ -1341,7 +1341,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "113 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(99, 99, "Kettle Studio Rock Sea Salt & English Vinegar Potato Chips", "113 g"),
   },
   {
@@ -1350,7 +1350,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(45, 45, "RiteBite Max Protein Cream & Onion 10 g Protein Multigrain Chips", "60 g"),
   },
   {
@@ -1359,7 +1359,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(93, 99, "Sweet Karam Coffee Kerala Jackfruit Chips - Classic Salted", "50 g"),
   },
   {
@@ -1368,7 +1368,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(91, 99, "Sweet Karam Coffee Long Banana Chips (Kerala Malabar Masala)", "95 g"),
   },
   {
@@ -1377,7 +1377,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(32, 35, "Too Yumm Karare Noodles Masala Crisps", "100 g"),
   },
   {
@@ -1386,7 +1386,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(45, 45, "Troovy High Protein Potato Chips - Lemon", "40 g"),
   },
   {
@@ -1395,7 +1395,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "21 pcs",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(150, 190, "Rice Cake Whole Grain Brown Rice Cake", "21 pcs"),
   },
   {
@@ -1404,7 +1404,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "54 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(35, 40, "BRB Peri Peri Rice Popped Chips", "54 g"),
   },
   {
@@ -1413,7 +1413,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Crunchex Simply Salted Potato Wafers", "140 g"),
   },
   {
@@ -1422,7 +1422,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "51.2 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(33, 50, "Bingo Popped Salt n Pepper Potato Chips", "51.2 g"),
   },
   {
@@ -1449,7 +1449,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(43, 50, "MOM Peri Peri Ragi Chips", "75 g"),
   },
   {
@@ -1458,7 +1458,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(36, 40, "Open Secret Korean Mirchi Healthy Ragi Chips", "30 g"),
   },
   {
@@ -1467,7 +1467,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "102 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(101, 110, "Pringles Desi Masala Tadka Potato Chips - Crispy Snack", "102 g"),
   },
   {
@@ -1476,7 +1476,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "57 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 50, "Snackible Desi Masala Ragi Chips", "57 g"),
   },
   {
@@ -1485,7 +1485,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(44, 50, "SuperYou Chilli Masala Power Puffs", "55 g"),
   },
   {
@@ -1494,7 +1494,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(32, 35, "Too Yumm Karare Chilli Achari Crisps", "100 g"),
   },
   {
@@ -1503,7 +1503,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(49, 52, "Too Yumm Spicy Korean Banana Chips (No Palm Oil)", "60 g"),
   },
   {
@@ -1512,7 +1512,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "3 x 40 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
     offers: generateStoreOffers(95, 105, "4700BC Cheese Jalapeno, Korean Kimchi & Pineapple Salsa Nachos", "3 x 40 g"),
   },
   {
@@ -1521,7 +1521,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(54, 60, "4700BC Himalayan Salt Pretzels", "50 g"),
   },
   {
@@ -1530,7 +1530,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(55, 60, "Beyond Snack Hot and Sweet Chilli Nendran Banana Chips", "75 g"),
   },
   {
@@ -1539,7 +1539,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(39, 50, "Beyond Snack Vibe Long Banana Chips (Masala Mingle)", "50 g"),
   },
   {
@@ -1548,7 +1548,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "119.5 g",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(37, 50, "Bingo Mad Angles Mystery Pickle Crisps", "119.5 g"),
   },
   {
@@ -1557,7 +1557,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "57 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(22, 25, "Crax Corn Rings Masala Mania Puffs Snacks with Super Toys", "57 g"),
   },
   {
@@ -1566,7 +1566,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "57 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(22, 25, "Crax Corn Rings Tangy Tomato Puffs Snacks with Super Toys", "57 g"),
   },
   {
@@ -1584,7 +1584,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(69, 70, "Protein Chef Crunchy Coated Peanuts (Indian Masala)", "50 g"),
   },
   {
@@ -1593,7 +1593,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(135, 180, "Right Shift High Protein Roasted Navrattan Mixture", "250 g"),
   },
   {
@@ -1611,7 +1611,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(116, 120, "To Be Honest Crispy Beetroot with Himalayan Rock Salt Chips", "50 g"),
   },
   {
@@ -1620,7 +1620,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "3 x 75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(68, 150, "Yellow Diamond Classic Salted Potato Chips", "3 x 75 g"),
   },
   {
@@ -1629,7 +1629,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(54, 60, "4700BC Sour Cream & Chives Pretzels Knots", "50 g"),
   },
   {
@@ -1638,7 +1638,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "51 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(35, 40, "BRB Potato Popped Chips (Spicy Chipotle Flavour)", "51 g"),
   },
   {
@@ -1647,7 +1647,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(55, 60, "Beyond Snack Desi Masala Nendran Banana Chips", "75 g"),
   },
   {
@@ -1656,7 +1656,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(73, 80, "Beyond Snack Nendran Banana Chips Party Pack", "100 g"),
   },
   {
@@ -1665,7 +1665,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "56.6 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(30, 30, "Bingo Hashtags Spicy Masala Potato Chips", "56.6 g"),
   },
   {
@@ -1674,7 +1674,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "88 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(34, 60, "Crax Curls Cheese Delight Corn Puffs Snacks", "88 g"),
   },
   {
@@ -1683,7 +1683,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(120, 120, "Flavours Of Calicut Ripe Jackfruit Chips", "50 g"),
   },
   {
@@ -1692,7 +1692,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "82 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 50, "Fun Flips Baked & Crunchy Masala Puffs", "82 g"),
   },
   {
@@ -1701,7 +1701,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3893a.jpg",
     offers: generateStoreOffers(49, 55, "Open Secret Spinach Healthy Veggie Chips", "40 g"),
   },
   {
@@ -1710,7 +1710,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "102 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(101, 110, "Pringles Tangy Tomato Twist Potato Chips - Crispy Snack", "102 g"),
   },
   {
@@ -1719,7 +1719,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(34, 40, "Snackible Nacho Cheese Jowar Puffs", "35 g"),
   },
   {
@@ -1728,7 +1728,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3889a.jpg",
     offers: generateStoreOffers(37, 40, "SuperYou Multigrain Pudina Chips", "40 g"),
   },
   {
@@ -1737,7 +1737,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g + 95 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(133, 156, "Sweet Karam Coffee Andhra Spicy Murukku + Nendran Banana Chips Combo", "65 g + 95 g"),
   },
   {
@@ -1746,7 +1746,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(62, 69, "Sweet Karam Coffee Kerala Tapioca Chips - Butter Garlic", "65 g"),
   },
   {
@@ -1755,7 +1755,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(61, 120, "Crax Ready to Eat Fryumms - Classic Salted Puffs", "2 x 65 g"),
   },
   {
@@ -1773,7 +1773,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "4 x 40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(149, 160, "The Healthy Binge Assorted Chips", "4 x 40 g"),
   },
   {
@@ -1782,7 +1782,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(159, 175, "The Magic Oven Sourdough Grissini Cumin Bread Sticks", "200 g"),
   },
   {
@@ -1791,7 +1791,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(118, 120, "To Be Honest Golden Sweet Potato Chips with Peri Peri", "75 g"),
   },
   {
@@ -1800,7 +1800,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(116, 120, "To Be Honest Mixed Sweet Potato with Rock Salt & Pepper Chips", "75 g"),
   },
   {
@@ -1809,7 +1809,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(49, 52, "Too Yumm Classic Salted Banana Chips (No Palm Oil)", "60 g"),
   },
   {
@@ -1818,7 +1818,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(29, 50, "Yellow Diamond Naga Spicy Punch Potato Chips", "85 g"),
   },
   {
@@ -1827,7 +1827,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(29, 50, "Yellow Diamond Sizzling Cheese Potato Chips", "85 g"),
   },
   {
@@ -1836,7 +1836,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(57, 60, "iD Fresh Masala Oats Healthy Chips", "75 g"),
   },
   {
@@ -1845,7 +1845,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(325, 325, "Akunka Salt & Pepper Floret Broccoli & Cauliflower Crisps", "70 g"),
   },
   {
@@ -1863,7 +1863,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "88 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 60, "Crax Natkhat Classic Wheat Puffs Snacks", "88 g"),
   },
   {
@@ -1872,7 +1872,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(34, 60, "Crax Pasta Crunch Chinese Tadka Puffs", "70 g"),
   },
   {
@@ -1881,7 +1881,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(24, 47, "Crax Pudina Spice Treat Potato Chips", "90 g"),
   },
   {
@@ -1890,7 +1890,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(51, 65, "Crax Ragi Nut Crackers Peanuts", "120 g"),
   },
   {
@@ -1899,7 +1899,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(220, 220, "Good Goodies Baked Jowar Puffs - Indian Masala", "100 g"),
   },
   {
@@ -1926,7 +1926,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(99, 99, "Kettle Studio Air Fried Sweet & Smoky BBQ Potato Chips", "85 g"),
   },
   {
@@ -1953,7 +1953,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(83, 110, "Right Shift 20g Protein Roasted Mix - Khatta Meetha", "150 g"),
   },
   {
@@ -1962,7 +1962,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 45, "RiteBite Max Protein Spanish Tomato 10 g Protein Multigrain Chips", "60 g"),
   },
   {
@@ -1971,7 +1971,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(62, 69, "Sweet Karam Coffee Kerala Tapioca Chips - Hot & Sweet Chilli", "65 g"),
   },
   {
@@ -1980,7 +1980,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(81, 89, "Sweet Karam Coffee Spicy Banana Chips (Onam Special)", "65 g"),
   },
   {
@@ -1989,7 +1989,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(54, 59, "Sweet Karam Coffee Vrat Rock Salt Potato Chips", "60 g"),
   },
   {
@@ -1998,7 +1998,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(50, 60, "Taali Masala Roasted Protein Puffs (Jowar & Corn)", "60 g"),
   },
   {
@@ -2007,7 +2007,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(51, 60, "Taali Roasted Protein Puffs - Smoky Barbeque Snack", "60 g"),
   },
   {
@@ -2025,7 +2025,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(32, 35, "Too Yumm Hot Spicy Korean Karare Crisps (No Palm Oil)", "90 g"),
   },
   {
@@ -2034,7 +2034,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(47, 49, "Too Yumm Indian Masala Potato Chips", "79 g"),
   },
   {
@@ -2043,7 +2043,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 10 pcs",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(180, 250, "24Bites Millet & Peanut Chikki Combo", "2 x 10 pcs"),
   },
   {
@@ -2052,7 +2052,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 50, "4700BC Cheese & Herbs Corn Popped Chips +", "55 g"),
   },
   {
@@ -2061,7 +2061,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 50, "4700BC Hawaiian Barbeque Corn Chips+", "55 g"),
   },
   {
@@ -2070,7 +2070,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(265, 349, "Herbolina Vegetable Crisps (Veggie Chips)", "125 g"),
   },
   {
@@ -2079,7 +2079,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "113 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(99, 99, "Kettle Studio Crushed Peprika with Exotic Spices Potato Chips", "113 g"),
   },
   {
@@ -2088,7 +2088,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 49, "Kettle Studio Sweet Chilli With Lime & Basil Potato Chips", "60 g"),
   },
   {
@@ -2097,7 +2097,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(49, 55, "Open Secret Beetroot Veggie Healthy Chips", "40 g"),
   },
   {
@@ -2106,7 +2106,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(36, 40, "Open Secret Chatpata Healthy Ragi Chips", "30 g"),
   },
   {
@@ -2115,7 +2115,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 45, "RiteBite Max Protein Korean Barbeque 10 g Protein Chips", "60 g"),
   },
   {
@@ -2124,7 +2124,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(63, 70, "Snackible Baked Pizza Sticks with Jalapeno Dip", "75 g"),
   },
   {
@@ -2133,7 +2133,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(43, 50, "Snackible Dipsters Piri Piri Ragi Chips with Cheesy Jalapeno Dip", "60 g"),
   },
   {
@@ -2142,7 +2142,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(63, 69, "Sweet Karam Coffee Vrat Banana Chips (Rock Salt)", "65 g"),
   },
   {
@@ -2151,7 +2151,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 55, "Too Yumm Baked Potato Stix Aloo Chaat Crisps", "70 g"),
   },
   {
@@ -2160,7 +2160,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(49, 70, "Too Yumm Citrus Pepper Tapioca Chips (No Palm Oil)", "65 g"),
   },
   {
@@ -2169,7 +2169,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(48, 55, "Too Yumm Spicy Korean Masala Ragi Crisps Namkeen", "55 g"),
   },
   {
@@ -2178,7 +2178,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(21, 50, "Udupi Munch Vrat Aloo Mota Chips", "100 g"),
   },
   {
@@ -2187,7 +2187,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(38, 40, "Wingreens Farms Butter Garlic Naan Chips", "60 g"),
   },
   {
@@ -2196,7 +2196,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(39, 60, "2PM Fire Balls Hot & Fiery Munchies", "60 g"),
   },
   {
@@ -2205,7 +2205,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 50, "4700BC Korean Kimchi Corn Chips", "55 g"),
   },
   {
@@ -2214,7 +2214,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(54, 60, "4700BC Tangy Guacamole Nachos", "60 g"),
   },
   {
@@ -2223,7 +2223,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(55, 60, "Beyond Snack Salt & Pepper Nendran Banana Chips", "75 g"),
   },
   {
@@ -2232,7 +2232,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(139, 150, "Chase Protein Spicy Jalapeno Healthy Chips", "50 g"),
   },
   {
@@ -2241,7 +2241,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "35.4 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(220, 220, "Cheetos Flamin Hot Crunchy Crisps", "35.4 g"),
   },
   {
@@ -2259,7 +2259,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "84 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(34, 60, "Crax Fritts Cream & Onion Corn & Potato Stick", "84 g"),
   },
   {
@@ -2268,7 +2268,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(57, 65, "Dobra Plain Salted Tapioca Chips / Crisps", "60 g"),
   },
   {
@@ -2277,7 +2277,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(69, 69, "Flavours Of Calicut Sweet Potato Chips", "55 g"),
   },
   {
@@ -2286,7 +2286,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(51, 60, "Fun Flips Ghost Puffs (Chilli Flavour)", "85 g"),
   },
   {
@@ -2304,7 +2304,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(47, 48, "Heka Bites Roasted Jowar Puffs - Cheesy Salsa", "40 g"),
   },
   {
@@ -2313,7 +2313,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(47, 48, "Heka Bites Roasted Quinoa Puffs - Indian Chaat", "40 g"),
   },
   {
@@ -2322,7 +2322,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(47, 48, "Heka Bites Roasted-Jowar Puffs - Majestic Masala", "40 g"),
   },
   {
@@ -2331,7 +2331,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(99, 99, "Kettle Studio Air Fried Lime & Chilli Potato Chips", "85 g"),
   },
   {
@@ -2340,7 +2340,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(99, 99, "Kettle Studio Air Fried Spicy Dill Pickle Potato Chips", "80 g"),
   },
   {
@@ -2367,7 +2367,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(54, 60, "Orion Korean 3X Spicy K Snack Ring Puffs", "70 g"),
   },
   {
@@ -2376,7 +2376,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(54, 60, "Orion Korean Kimchi K Snack Onion Rings", "70 g"),
   },
   {
@@ -2385,7 +2385,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "4 x 50 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(240, 280, "Polaz Rice And Potato Popped Chips", "4 x 50 g"),
   },
   {
@@ -2394,7 +2394,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "134 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(169, 169, "Pringles Desi Masala Tadka Potato Chips", "134 g"),
   },
   {
@@ -2403,7 +2403,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "107 g + 102 g + 102 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(274, 330, "Pringles Scorchin’ Potato Chips (Red Hot Chilli) + Pizza Flavoured Potato Chips + Sour Cream & Onion Potato Chips Combo", "107 g + 102 g + 102 g"),
   },
   {
@@ -2412,7 +2412,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "128 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(112, 119, "RiteBite Max Protein Cream & Onion 20 g Protein Multigrain Chips", "128 g"),
   },
   {
@@ -2421,7 +2421,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "57 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 50, "Snackible Chatpata Crunch Ragi Chips", "57 g"),
   },
   {
@@ -2430,7 +2430,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(42, 50, "Snackible Sweet Chilli Jowar Healthy Chips", "55 g"),
   },
   {
@@ -2439,7 +2439,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(49, 60, "Taali Roasted Korean Protein Puffs (Jowar & Corn)", "60 g"),
   },
   {
@@ -2448,7 +2448,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(59, 60, "To Be Honest Classic Salted Sweet Potato Crisps", "45 g"),
   },
   {
@@ -2457,7 +2457,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(46, 55, "Too Yumm Himalayan Pink Salt Gourmet Potato Chips", "50 g"),
   },
   {
@@ -2466,7 +2466,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3889a.jpg",
     offers: generateStoreOffers(38, 38, "Troovy High Protein Pudina Puffs", "40 g"),
   },
   {
@@ -2475,7 +2475,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(199, 250, "Twirtles Beetroot Chips (Peri-Peri)", "180 g"),
   },
   {
@@ -2484,7 +2484,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(29, 50, "Yellow Diamond Piri Piri Chips", "85 g"),
   },
   {
@@ -2493,7 +2493,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(76, 80, "Jabsons Salted Banana Chips", "150 g"),
   },
   {
@@ -2502,7 +2502,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Rumbles Pudina Twist Potato Wafers", "140 g"),
   },
   {
@@ -2520,7 +2520,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(42, 50, "Snackible Cheddar Cheese Jowar Healthy Chips", "55 g"),
   },
   {
@@ -2529,7 +2529,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(47, 49, "Too Yumm American Style Cream & Onion Potato Chips", "79 g"),
   },
   {
@@ -2538,7 +2538,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(47, 49, "Too Yumm Kashmiri Chilli Potato Chips", "79 g"),
   },
   {
@@ -2547,7 +2547,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "39 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(23, 25, "Crax Choco Ring Puffs Snacks with Super Toys", "39 g"),
   },
   {
@@ -2556,7 +2556,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(54, 60, "4700BC Korean Kimchi Nachos", "60 g"),
   },
   {
@@ -2565,7 +2565,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(81, 89, "Sweet Karam Coffee Kerala Ripe Nendran Banana Chips", "65 g"),
   },
   {
@@ -2583,7 +2583,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(49, 59, "Mille Jowar Puffs (Magic Masala)", "35 g"),
   },
   {
@@ -2592,7 +2592,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 45, "RiteBite Max Protein Korean Gochujang 10 g Protein Chips", "60 g"),
   },
   {
@@ -2601,7 +2601,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(45, 45, "RiteBite Max Protein Korean Hot Chilli 10 g Protein Chips", "60 g"),
   },
   {
@@ -2610,7 +2610,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(46, 55, "Too Yumm Lightly Salted Gourmet Potato Chips", "50 g"),
   },
   {
@@ -2619,7 +2619,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "51 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(35, 40, "BRB Potato Popped Chips (Pasta Cheese Flavour)", "51 g"),
   },
   {
@@ -2637,7 +2637,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(63, 125, "Red Rock Deli Popped Chips (Buldak) No Palm Oil Snacks", "75 g"),
   },
   {
@@ -2646,7 +2646,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "51 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(35, 40, "BRB Potato Popped Chips (Bhel Flavour)", "51 g"),
   },
   {
@@ -2655,7 +2655,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(199, 199, "DOKi Murg Mughlai Chicken Jerky for Humans", "30 g"),
   },
   {
@@ -2664,7 +2664,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "51 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(35, 40, "BRB Potato Popped Chips (Salt & Pepper Flavour)", "51 g"),
   },
   {
@@ -2673,7 +2673,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(43, 50, "MOM Desi Masala Ragi Chips", "75 g"),
   },
   {
@@ -2682,7 +2682,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(59, 60, "To Be Honest Crispy Sweet Potao Healthy Chips (Lemon Chilli)", "45 g"),
   },
   {
@@ -2691,7 +2691,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(59, 60, "To Be Honest Red Moroccan Sweet Potato Crisps", "45 g"),
   },
   {
@@ -2700,7 +2700,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "66 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(43, 50, "Cornitos Crusties Korean Chilli Puffs", "66 g"),
   },
   {
@@ -2727,7 +2727,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 55, "Too Yumm Khatta Meetha Teekha Triple Tadka Potato Chips", "79 g"),
   },
   {
@@ -2736,7 +2736,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "99.2 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(469, 499, "Cheetos Crunchy Cheese Flavoured Crisps", "99.2 g"),
   },
   {
@@ -2745,7 +2745,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(40, 59, "Mille Cheese Balls", "35 g"),
   },
   {
@@ -2772,7 +2772,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(59, 60, "To Be Honest Crispy Sweet Potato Chips (Peri Peri)", "45 g"),
   },
   {
@@ -2781,7 +2781,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(49, 59, "Mille Jowar Puffs (Chatpata Treat)", "35 g"),
   },
   {
@@ -2790,7 +2790,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(31, 60, "Taali Jumboz Swiss Cheese Puff", "65 g"),
   },
   {
@@ -2799,7 +2799,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(43, 50, "Fun Flips Cheeesy Pizza Puffs", "90 g"),
   },
   {
@@ -2808,7 +2808,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(39, 60, "2PM Premium Cheese Balls", "60 g"),
   },
   {
@@ -2817,7 +2817,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(78, 95, "Modern Kitchens Nendran Banana Chips (Rock Salt)", "160 g"),
   },
   {
@@ -2826,7 +2826,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "66 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(43, 50, "Cornitos Crusties Fiery Peri Peri Puffs", "66 g"),
   },
   {
@@ -2835,7 +2835,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(31, 60, "Taali Fryz Peri Peri Puffs", "65 g"),
   },
   {
@@ -2844,7 +2844,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 50, "4700BC Salt and Truffle Corn Chips+", "55 g"),
   },
   {
@@ -2853,7 +2853,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 52, "GO DESi Hot Salted Potato Chips", "55 g"),
   },
   {
@@ -2862,7 +2862,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 65, "Adukale Pudina Masala Potato Chips", "60 g"),
   },
   {
@@ -2871,7 +2871,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 65, "Adukale Bangalore Classic Masala Potato Chips", "60 g"),
   },
   {
@@ -2880,7 +2880,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(51, 65, "Granamma Salted Banana Chips", "75 g"),
   },
   {
@@ -2889,7 +2889,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(129, 139, "Nongshim Shrimp Flavoured Crackers Chips", "75 g"),
   },
   {
@@ -2907,7 +2907,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(31, 60, "Taali Chatpata Masala Ring Puffs", "60 g"),
   },
   {
@@ -2925,7 +2925,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(96, 120, "Modern Kitchens Roasted Chana", "450 g"),
   },
   {
@@ -2934,7 +2934,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(81, 99, "Unibic Kerala Banana Chips Classic Salted", "60 g"),
   },
   {
@@ -2943,7 +2943,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(57, 65, "Dobra Spicy Kari Tapioca Chips /Crisps", "60 g"),
   },
   {
@@ -2952,7 +2952,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(159, 159, "Lo Foods Keto Spicy Murukku Chakli Namkeen", "100 g"),
   },
   {
@@ -2961,7 +2961,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(118, 120, "To Be Honest Sweet Ripe Banana Chips with Amchur & Chilli", "75 g"),
   },
   {
@@ -2970,7 +2970,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "159 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(75, 75, "Crax Corn Rings Chatpata Masala Puffs Snacks - with Super Toys - Combo of 3", "159 g"),
   },
   {
@@ -2979,7 +2979,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(28, 50, "Yellow Diamond Cheese Puff Corn", "85 g"),
   },
   {
@@ -2988,7 +2988,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(57, 57, "Flavours Of Calicut Tapioca Chips", "60 g"),
   },
   {
@@ -2997,7 +2997,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 65, "Adukale Mysore Curry Leaf Masala Potato Chips", "60 g"),
   },
   {
@@ -3006,7 +3006,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(62, 70, "Unibic Kerala Banana Chips - Fiery Red Hot", "60 g"),
   },
   {
@@ -3024,7 +3024,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "128 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(112, 119, "RiteBite Max Protein Cheese & Jalapeno 20 g Protein Multigrain Chips", "128 g"),
   },
   {
@@ -3033,7 +3033,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(49, 52, "GO DESi Hot Chips Chilli Tapioca Chips", "55 g"),
   },
   {
@@ -3042,7 +3042,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(42, 50, "Udupi Munch Coconut Oil Yellow Banana Chips", "60 g"),
   },
   {
@@ -3060,7 +3060,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(249, 399, "BDF Dried Vegetable Healthy Chips", "100 g"),
   },
   {
@@ -3069,7 +3069,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "62 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(40, 50, "Cornitos Crusties Sour Cream and Onion Puffs", "62 g"),
   },
   {
@@ -3078,7 +3078,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(139, 150, "Chase Protein Black Truffle Healthy Chips", "50 g"),
   },
   {
@@ -3087,7 +3087,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 100 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(169, 328, "Healthy Master Ragi Chips", "2 x 100 g"),
   },
   {
@@ -3096,7 +3096,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(69, 75, "Beyond Snack Malabar Masala Nendran Banana Chips", "70 g"),
   },
   {
@@ -3105,7 +3105,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g + 60 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(105, 123, "Sweet Karam Coffee Rock Salt Potato Chips + Nendran Banana Chips Combo", "65 g + 60 g"),
   },
   {
@@ -3132,7 +3132,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(169, 170, "Nocap Foods Beetroot Cream & Onion Chips", "150 g"),
   },
   {
@@ -3141,7 +3141,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 65, "Adukale Malnad Magic Masala Potato Chips", "60 g"),
   },
   {
@@ -3150,7 +3150,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(139, 150, "Chase Protein Tomato Blast Healthy Chips", "50 g"),
   },
   {
@@ -3159,7 +3159,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(57, 65, "Dobra Garlic Pickle Tapioca Chips / Crisps", "60 g"),
   },
   {
@@ -3168,7 +3168,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g + 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(73, 90, "Too Yumm Baked Dahi Papdi Chaat Multigrain Chips + Grilled Cheese & Chilli Protein Healthy Chips Combo", "70 g + 60 g"),
   },
   {
@@ -3177,7 +3177,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "90 g + 100 g + 100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(71, 105, "Too Yumm Hot Spicy Korean Karare Crisps (No Palm Oil) + Karare Chilli Achari Crisps + Karare Noodles Masala Crisps Combo", "90 g + 100 g + 100 g"),
   },
   {
@@ -3186,7 +3186,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(43, 50, "Cornitos Crusties Classic Cheese Balls Puffs", "52 g"),
   },
   {
@@ -3195,7 +3195,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 40 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(180, 180, "Fabeato Jack Fruit Chips", "2 x 40 g"),
   },
   {
@@ -3204,7 +3204,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "135 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(310, 315, "Healthy Bites Crispy Okra Chips", "135 g"),
   },
   {
@@ -3213,7 +3213,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 60 g + 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(127, 135, "RiteBite Max Protein Korean 10 g Protein Healthy Chips (Gochujang) + Healthy Chips (Korean Barbeque) + Max Protein Korean Healthy Chips (Hot Chilli) Combo", "60 g + 60 g + 60 g"),
   },
   {
@@ -3222,7 +3222,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1610970881699-44a5587cabec?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(349, 399, "Mittal Organics Jamun Healthy Chips", "100 g"),
   },
   {
@@ -3240,7 +3240,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(61, 75, "Granamma Salt & Pepper Banana Chips", "70 g"),
   },
   {
@@ -3249,7 +3249,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g + 65 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(114, 133, "Sweet Karam Coffee Kerala Style Rock Salt Banana Chips + Nendran Banana Chips Combo", "65 g + 65 g"),
   },
   {
@@ -3258,7 +3258,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "4 x 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(149, 160, "The Healthy Binge Quinoa Crisps (Smokey BBQ)", "4 x 40 g"),
   },
   {
@@ -3276,7 +3276,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(229, 229, "Kettle Studio Black Truffle with Salt Potato Chips", "150 g"),
   },
   {
@@ -3312,7 +3312,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(37, 60, "Piknik Cheese & Chilli Pops", "60 g"),
   },
   {
@@ -3321,7 +3321,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "4 x 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(149, 160, "The Healthy Binge Moringa Jowar Crisps", "4 x 40 g"),
   },
   {
@@ -3339,7 +3339,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(140, 150, "Chase Protein Classic Salted Crisps", "50 g"),
   },
   {
@@ -3357,7 +3357,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(90, 95, "RiteBite Max Protein Choco Chips Cookies + Max Protein Cream & Onion Chips Combo", "60 g + 55 g"),
   },
   {
@@ -3366,7 +3366,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(57, 65, "Dobra Tangy Tomato Tapioca Chips /Crisps", "60 g"),
   },
   {
@@ -3384,7 +3384,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 60 g",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(106, 130, "Dobra Spicy Kari Tapioca Chips /Crisps + Garlic Pickle Tapioca Chips / Crisps Combo", "60 g + 60 g"),
   },
   {
@@ -3393,7 +3393,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g + 60 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(119, 125, "RiteBite Max Protein Korean 10 g Protein Healthy Chips (Gochujang) + Max Protein Daily Choco Almond 10 g Protein Bar Combo", "50 g + 60 g"),
   },
   {
@@ -3402,7 +3402,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(24, 50, "7 Diamonds Garlic & Herb Puffs", "80 g"),
   },
   {
@@ -3411,7 +3411,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(100, 120, "Kari Kari Salt Pepper Snack", "120 g"),
   },
   {
@@ -3420,7 +3420,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(249, 311, "GetKrrackin Sourdough Garlic Bread Flavour Crackers", "150 g"),
   },
   {
@@ -3438,7 +3438,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(75, 75, "Open Secret Healthy Namkeen Snacks - Khatta Meetha", "100 g"),
   },
   {
@@ -3447,7 +3447,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(199, 229, "Snutzy Ragi Chips (Chatpata Indian Masala)", "150 g"),
   },
   {
@@ -3456,7 +3456,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g + 60 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(119, 125, "RiteBite Healthy Chips (Korean Barbeque) + Max Protein Daily Choco Almond 10 g Protein Bar Combo", "50 g + 60 g"),
   },
   {
@@ -3465,7 +3465,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(199, 250, "Twirtles Peri Peri Ragi Chips", "180 g"),
   },
   {
@@ -3474,7 +3474,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 60 g",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(106, 130, "Dobra Plain Salted Tapioca Chips / Crisps + Garlic Pickle Tapioca Chips / Crisps Combo", "60 g + 60 g"),
   },
   {
@@ -3483,7 +3483,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(106, 130, "Dobra Plain Salted Tapioca Chips / Crisps + Spicy Kari Tapioca Chips /Crisps Combo", "60 g + 60 g"),
   },
   {
@@ -3501,7 +3501,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "4 x 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(240, 300, "Nourish Organics Cream & Onion Popeas Chickpea Puffs", "4 x 60 g"),
   },
   {
@@ -3510,7 +3510,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(40, 40, "Parle Tangy Tomato Potato Chips (Celebration Pack)", "75 g"),
   },
   {
@@ -3519,7 +3519,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g + 60 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(111, 116, "RiteBite Healthy Chips (Korean Barbeque) + Strawberry Truffle Millet Wafer Protein Bar Combo", "40 g + 60 g"),
   },
   {
@@ -3528,7 +3528,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g + 60 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(111, 116, "RiteBite Max Protein Korean 10 g Protein Healthy Chips (Gochujang) + Strawberry Truffle Millet Wafer Protein Bar Combo", "40 g + 60 g"),
   },
   {
@@ -3537,7 +3537,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(110, 116, "RiteBite Strawberry Truffle Millet Wafer Protein Bar + Max Protein Cream & Onion 10 g Protein Multigrain Chips Combo", "60 g + 40 g"),
   },
   {
@@ -3555,7 +3555,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "4 x 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(149, 160, "The Healthy Binge Ragi Crisps (Chatpata Chaat)", "4 x 40 g"),
   },
   {
@@ -3573,7 +3573,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "106 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(37, 50, "Bingo Mad Angles Achaari Masti Crisps", "106 g"),
   },
   {
@@ -3582,7 +3582,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "64 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 45, "RiteBite Max Protein Peri Peri 10 g Protein Multigrain Chips", "64 g"),
   },
   {
@@ -3591,7 +3591,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(43, 60, "Peppy Tomato Discs Crisps", "60 g"),
   },
   {
@@ -3600,7 +3600,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "33 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(29, 30, "Farmley Makha Shaka - Achaari Stix", "33 g"),
   },
   {
@@ -3609,7 +3609,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "33 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(29, 30, "Farmley Makha Shaka - Flaming Hot Stix", "33 g"),
   },
   {
@@ -3618,7 +3618,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "82 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(38, 50, "Bingo Masala Massacre Potato Chips", "82 g"),
   },
   {
@@ -3627,7 +3627,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "58 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(54, 60, "Red Rock Deli Kettle Chips (Basil Thai) No Palm Oil Snacks", "58 g"),
   },
   {
@@ -3636,7 +3636,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(29, 50, "Yellow Diamond Spicy Korean Potato Chips", "85 g"),
   },
   {
@@ -3654,7 +3654,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(62, 100, "DOKi Portuguese Peri Peri Chicken Chips", "30 g"),
   },
   {
@@ -3672,7 +3672,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(32, 35, "Too Yumm Sour Cream & Onion Veggie Stix", "70 g"),
   },
   {
@@ -3681,7 +3681,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Crunchem Chaat Chaska Wafers", "140 g"),
   },
   {
@@ -3690,7 +3690,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(26, 50, "Bikano Crunchy Munchy Sweet Chilli Namkeen", "90 g"),
   },
   {
@@ -3717,7 +3717,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 45, "RiteBite Max Protein Chinese Manchurian 10 g Protein Multigrain Chips", "60 g"),
   },
   {
@@ -3726,7 +3726,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 99, "Flavours Of Calicut Kerala Jackfruit Chips", "70 g"),
   },
   {
@@ -3735,7 +3735,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "82 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 50, "Fun Flips Baked & Crunchy Mocktail Curly Puffs", "82 g"),
   },
   {
@@ -3744,7 +3744,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(57, 60, "Jabsons Sundried Red Chilli Masala Mota Chips", "110 g"),
   },
   {
@@ -3762,7 +3762,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "64 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 45, "RiteBite Max Protein Cheese & Jalapeno 10 g Protein Multigrain Chips", "64 g"),
   },
   {
@@ -3771,7 +3771,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(44, 50, "SuperYou Maaad Achaari Power Puffs", "55 g"),
   },
   {
@@ -3780,7 +3780,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(45, 45, "Troovy High Protein Potato Chips - Tangy Tomato", "40 g"),
   },
   {
@@ -3798,7 +3798,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(34, 60, "Crax Korean Ramen Noodle Puffs Chips Snacks", "75 g"),
   },
   {
@@ -3807,7 +3807,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 60, "Crax Truffle Fries (Black Truffle & Parmesan Cheese)", "55 g"),
   },
   {
@@ -3816,7 +3816,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(100, 100, "DOKi Chicken Chips (Cheddar Cheese)", "30 g"),
   },
   {
@@ -3843,7 +3843,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(63, 69, "Sweet Karam Coffee Rock Salt Tapioca Chips", "65 g"),
   },
   {
@@ -3852,7 +3852,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(135, 135, "To Be Honest Ripe Jackfruit Chips with Chilli Mango", "55 g"),
   },
   {
@@ -3861,7 +3861,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(32, 35, "Too Yumm Cornado Extra Cheesy Corn Puffs Chips", "55 g"),
   },
   {
@@ -3870,7 +3870,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(46, 55, "Too Yumm Truffle Flavour Gourmet Potato Chips", "50 g"),
   },
   {
@@ -3879,7 +3879,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(150, 150, "Akunka Spicy Broccoli & Cauliflower Floret Crisps", "30 g"),
   },
   {
@@ -3888,7 +3888,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "54 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3889a.jpg",
     offers: generateStoreOffers(35, 40, "BRB Pudina Punch Rice Popped Chips", "54 g"),
   },
   {
@@ -3897,7 +3897,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "119.5 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(50, 50, "Bingo Mad Angles Red Alert Crisps", "119.5 g"),
   },
   {
@@ -3915,7 +3915,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(44, 50, "SuperYou Cheesy Cheese Power Puffs", "55 g"),
   },
   {
@@ -3924,7 +3924,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "84 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(80, 120, "Taali Roasted Protein Puffs Combo (4 Flavours)", "84 g"),
   },
   {
@@ -3942,7 +3942,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(100, 100, "DOKi Chicken Chips (Amritsari Achari)", "30 g"),
   },
   {
@@ -3951,7 +3951,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(100, 100, "DOKi Sea Salt Chicken Chips", "30 g"),
   },
   {
@@ -3960,7 +3960,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(169, 328, "Healthy Master Beetroot Chips", "2 x 100 g"),
   },
   {
@@ -3969,7 +3969,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(42, 60, "Modern Kitchens Spicy Banana Chips", "70 g"),
   },
   {
@@ -3978,7 +3978,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(275, 275, "Natch Wasabi Thai Rice Chips", "100 g"),
   },
   {
@@ -3987,7 +3987,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(169, 170, "Nocap Foods Millet Jalapeno Chips", "150 g"),
   },
   {
@@ -3996,7 +3996,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 55, "Too Yumm Bhoot Wafer Potato Chips - Spicy Jholokia Chilli", "79 g"),
   },
   {
@@ -4005,7 +4005,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(49, 52, "Too Yumm Himalayan Pink Rock Salt Banana Chips", "60 g"),
   },
   {
@@ -4014,7 +4014,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(60, 120, "2PM Cheese Balls Party Pack", "120 g"),
   },
   {
@@ -4023,7 +4023,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "54 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(35, 40, "BRB Classic Salted Rice Popped Chips", "54 g"),
   },
   {
@@ -4032,7 +4032,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(82, 95, "Beyond Snack Original Style Nendran Banana Chips", "125 g"),
   },
   {
@@ -4041,7 +4041,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "6 x 50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(549, 900, "Chase Protein Assorted Healthy Chips Combo", "6 x 50 g"),
   },
   {
@@ -4050,7 +4050,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(24, 47, "Crax Simply Salted Potato Chips Snacks", "85 g"),
   },
   {
@@ -4059,7 +4059,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(135, 135, "Flavours Of Calicut Jaggery Coated Banana Chips", "150 g"),
   },
   {
@@ -4068,7 +4068,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(135, 135, "Flavours Of Calicut Ripe Banana Chips", "150 g"),
   },
   {
@@ -4077,7 +4077,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "15 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(330, 330, "GubGub Mango Melts Snack", "15 g"),
   },
   {
@@ -4086,7 +4086,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 150, "Healthy Master Baked Quinoa Healthy Chips", "100 g"),
   },
   {
@@ -4095,7 +4095,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(99, 99, "Kettle Studio Kettle Cooked Gourmet Potato Chips (Fiery Hot Fusion)", "120 g"),
   },
   {
@@ -4104,7 +4104,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(47, 49, "Kettle Studio Mature Cheddar & Red Onions Potato Chips", "60 g"),
   },
   {
@@ -4122,7 +4122,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(59, 59, "Protein Chef Double Protein Crunchy Soya Sticks (No Palm Oil)", "65 g"),
   },
   {
@@ -4131,7 +4131,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(41, 49, "Protein Chef Multigrain Puffs (High Protein, Gluten Free)", "25 g"),
   },
   {
@@ -4140,7 +4140,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(44, 50, "SuperYou Power Puffs - Pizza Party", "55 g"),
   },
   {
@@ -4149,7 +4149,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(117, 129, "Sweet Karam Coffee Sharkara Upperi Chips (Onam)", "95 g"),
   },
   {
@@ -4158,7 +4158,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(51, 60, "Taali Roasted Protein Puffs - Cheese Balls", "60 g"),
   },
   {
@@ -4167,7 +4167,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "67 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(39, 45, "Too Yumm Baked Tomato Thunder Rings Crisps", "67 g"),
   },
   {
@@ -4176,7 +4176,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 55, "Too Yumm Hot & Sweet Teekha Meetha Potato Chips", "79 g"),
   },
   {
@@ -4185,7 +4185,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(49, 52, "Too Yumm Masala Banana Chips (No Palm Oil)", "60 g"),
   },
   {
@@ -4194,7 +4194,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(49, 79, "Farmley Makha Shaka Cheese Wavez Makhana Chips", "70 g"),
   },
   {
@@ -4203,7 +4203,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(45, 45, "RiteBite Max Protein Desi Masala 10 g Protein Multigrain Chips", "60 g"),
   },
   {
@@ -4212,7 +4212,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(47, 49, "Kettle Studio Himalayan Pink Salt Potato Chips", "60 g"),
   },
   {
@@ -4221,7 +4221,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "33 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(29, 30, "Farmley Makha Shaka- Tomato Stix", "33 g"),
   },
   {
@@ -4230,7 +4230,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 99, "Protein Chef Sprouted Dal Bikaneri Bhujia", "80 g"),
   },
   {
@@ -4239,7 +4239,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(131, 139, "Nongshim Shrimp Flavoured Hot & Spicy Crackers Chips", "75 g"),
   },
   {
@@ -4248,7 +4248,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(16, 20, "Bingo Tedhe Medhe Chatpata Twist Crisps", "75 g"),
   },
   {
@@ -4257,7 +4257,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "88 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(34, 60, "Crax Natkhat Masala Wheat Puffs Snacks", "88 g"),
   },
   {
@@ -4266,7 +4266,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(68, 68, "Flavours Of Calicut Tapioca Chips (Spicy)", "70 g"),
   },
   {
@@ -4275,7 +4275,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(55, 60, "Beyond Snack Sour Cream, Onion & Parsley Nendran Banana Chips", "75 g"),
   },
   {
@@ -4284,7 +4284,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(33, 50, "Cornitos Crusties Honey Chilli Potato Ball Puffs", "55 g"),
   },
   {
@@ -4293,7 +4293,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "230 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(108, 120, "Fun Flips Exotic Puffs Combo Pack", "230 g"),
   },
   {
@@ -4302,7 +4302,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(49, 52, "GO DESi Hot Chilli Potato Chips", "55 g"),
   },
   {
@@ -4311,7 +4311,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 141, "Healthy Master Baked Beetroot Chips", "100 g"),
   },
   {
@@ -4320,7 +4320,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "128 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(112, 119, "RiteBite Max Protein Peri Peri 20 g Protein Multigrain Chips", "128 g"),
   },
   {
@@ -4329,7 +4329,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(28, 50, "Yellow Diamond Plain Salted Pipe Puffs", "75 g"),
   },
   {
@@ -4338,7 +4338,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "72 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(69, 75, "Snackible Salted Banana Chips", "72 g"),
   },
   {
@@ -4347,7 +4347,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(49, 79, "Farmley Makha Shaka Imli Wavez Makhana Chips", "70 g"),
   },
   {
@@ -4356,7 +4356,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(62, 70, "Dobra Smoky Barbeque Tapioca Chips / Crisps", "60 g"),
   },
   {
@@ -4374,7 +4374,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(100, 120, "Kari Kari Chilli Garlic Snack", "120 g"),
   },
   {
@@ -4383,7 +4383,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(43, 50, "Fun Flips Hot & Saucy Puffs", "90 g"),
   },
   {
@@ -4392,7 +4392,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(31, 60, "Taali Twirlz Chatpata Masala Puffs", "75 g"),
   },
   {
@@ -4401,7 +4401,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "113 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(99, 99, "Kettle Studio Potato Chips - Himalyan Pink Salt", "113 g"),
   },
   {
@@ -4410,7 +4410,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(129, 139, "Nongshim Onion Ring Puffs", "50 g"),
   },
   {
@@ -4428,7 +4428,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g + 40 g + 50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(71, 105, "Too Yumm Cornado Extra Cheesy Corn Puffs Chips + Cheese Balls Puffs (No Palm Oil) + Crunchy Chatpata Masala Kraze Puffs (No Palm Oil) Combo", "55 g + 40 g + 50 g"),
   },
   {
@@ -4437,7 +4437,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "7 x 30 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(234, 374, "Healthy Master Millet Chips Combo", "7 x 30 g"),
   },
   {
@@ -4455,7 +4455,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "54 g + 54 g + 54 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3889a.jpg",
     offers: generateStoreOffers(90, 120, "BRB Peri Peri Rice Popped Chips + BRB Pudina Punch Rice Popped Chips + BRB Classic Salted Rice Popped Chips Combo", "54 g + 54 g + 54 g"),
   },
   {
@@ -4473,7 +4473,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(78, 95, "Modern Kitchens Banana Chips (Spicy)", "160 g"),
   },
   {
@@ -4482,7 +4482,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(80, 80, "Kettle Studio Lime & Chilli Wafers", "140 g"),
   },
   {
@@ -4491,7 +4491,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(59, 60, "Sundrop Snacko Corn Puffs Cheese & Herbs Bakes", "2 x 55 g"),
   },
   {
@@ -4500,7 +4500,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(115, 160, "Kepps Cheddar Jowar Puffs", "70 g"),
   },
   {
@@ -4509,7 +4509,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "64 g + 55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(90, 95, "RiteBite Max Protein Choco Chips Cookies + Max Protein Peri Peri Chips Combo", "64 g + 55 g"),
   },
   {
@@ -4518,7 +4518,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(39, 70, "Too Yumm Anti-Hangover Party Harder Chips", "60 g"),
   },
   {
@@ -4536,7 +4536,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g + 70 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(56, 70, "Too Yumm Veggie Stix Sour Cream & Onion Crisps + Veggie Stix Chili Chataka Spicy Crisps Combo", "70 g + 70 g"),
   },
   {
@@ -4545,7 +4545,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 141, "Healthy Master Mix Veg Healthy Chips (Masala)", "100 g"),
   },
   {
@@ -4563,7 +4563,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "64 g + 60 g + 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(127, 135, "RiteBite Max Protein Desi Masala Chips + Max Protein Cream & Onion Chips + Max Protein Peri Peri Chips Combo", "64 g + 60 g + 60 g"),
   },
   {
@@ -4572,7 +4572,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(54, 60, "Orion Kimchi K Snack Masala Ring Puffs", "70 g"),
   },
   {
@@ -4581,7 +4581,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(189, 199, "Anmol Aahar Healthy Ragi Chips", "150 g"),
   },
   {
@@ -4590,7 +4590,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(55, 59, "Sweet Karam Coffee Mysore Masala Potato Wafers", "60 g"),
   },
   {
@@ -4599,7 +4599,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(37, 60, "Piknik Jalapeno Pops", "60 g"),
   },
   {
@@ -4608,7 +4608,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 50 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 300, "Chase Protein Healthy Chips (Tomato Blast)", "2 x 50 g"),
   },
   {
@@ -4617,7 +4617,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(189, 199, "Anmol Aahar Healthy Beetroot Chips", "150 g"),
   },
   {
@@ -4635,7 +4635,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(110, 116, "RiteBite Coffee Mousse Millet Waffer Protein Bar + Max Protein Cream & Onion 10 g Protein Multigrain Chips Combo", "60 g + 40 g"),
   },
   {
@@ -4644,7 +4644,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(130, 150, "No Cheat Creamy Delhi Popped Chips", "120 g"),
   },
   {
@@ -4653,7 +4653,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "64 g + 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(110, 116, "RiteBite Coffee Mousse Millet Waffer Protein Bar + Max Protein Peri Peri 10 g Protein Multigrain Chips Combo", "64 g + 40 g"),
   },
   {
@@ -4662,7 +4662,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(169, 350, "Healthy Master Soya Chips", "2 x 100 g"),
   },
   {
@@ -4671,7 +4671,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 20 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(200, 300, "Grabz Beetroot & Carrot Healthy Chips", "2 x 20 g"),
   },
   {
@@ -4680,7 +4680,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(93, 93, "Tong Garden Mixed Root Sea Salt Chips", "65 g"),
   },
   {
@@ -4689,7 +4689,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(115, 160, "Kepps Masala Munch Jowar Puffs", "70 g"),
   },
   {
@@ -4698,7 +4698,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(179, 245, "Andy Sandy Mix Veg Healthy Chips", "150 g"),
   },
   {
@@ -4707,7 +4707,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "79 g + 79 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(84, 104, "Too Yumm Spicy Chilli Wafers Potato Chips (No Palm Oil) + Bhoot Wafer Potato Chips - Spicy Jholokia Chilli Combo", "79 g + 79 g"),
   },
   {
@@ -4716,7 +4716,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(110, 135, "Dobra Plain Salted Tapioca Chips / Crisps + Smoky Barbeque Tapioca Chips / Crisps Combo", "60 g + 60 g"),
   },
   {
@@ -4725,7 +4725,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 60 g + 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(105, 156, "Too Yumm Spicy Korean Nendran Banana Chips + Masala Nendran Banana Chips (No Palm Oil) + Classic Salted Nendran Banana Chips Combo", "60 g + 60 g + 60 g"),
   },
   {
@@ -4734,7 +4734,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "64 g + 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(110, 116, "RiteBite Choco Temptation Millet Wafer Protein Bar + Max Protein Cheese & Jalapeno 10 g Protein Multigrain Chips Combo", "64 g + 40 g"),
   },
   {
@@ -4743,7 +4743,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(110, 135, "Dobra Smoky Barbeque Tapioca Chips / Crisps + Tangy Tomato Tapioca Chips /Crisps Combo", "60 g + 60 g"),
   },
   {
@@ -4752,7 +4752,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 75 g",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(41, 100, "7 Diamonds Roasted Peanut Butter Puffs", "2 x 75 g"),
   },
   {
@@ -4761,7 +4761,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 53 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(59, 60, "Bingo Hashtags Cream and Onion Potato Chips", "2 x 53 g"),
   },
   {
@@ -4770,7 +4770,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 56.6 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(59, 60, "Bingo Hashtags Hot & Spicy Korean Style Chips", "2 x 56.6 g"),
   },
   {
@@ -4779,7 +4779,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(175, 225, "Bonvie Peri Peri Oats Chips", "125 g"),
   },
   {
@@ -4788,7 +4788,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 60 g",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(110, 135, "Dobra Smoky Barbeque Tapioca Chips / Crisps + Garlic Pickle Tapioca Chips / Crisps Combo", "60 g + 60 g"),
   },
   {
@@ -4797,7 +4797,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(110, 135, "Dobra Smoky Barbeque Tapioca Chips / Crisps + Spicy Kari Tapioca Chips /Crisps Combo", "60 g + 60 g"),
   },
   {
@@ -4806,7 +4806,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "55 g + 55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(75, 104, "GO DESI GO DESi Hot Salted Potato Chips + GO DESi Hot Chilli Potato Chips Combo", "55 g + 55 g"),
   },
   {
@@ -4815,7 +4815,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 20 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(150, 200, "Grabz Potato Healthy Chips Pack", "2 x 20 g"),
   },
   {
@@ -4824,7 +4824,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "3 x 56.2 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/294297_18-kurkure-namkeen-masala-munch.jpg",
     offers: generateStoreOffers(54, 60, "Kurkure Chatpata Masala Jowar Puffs", "3 x 56.2 g"),
   },
   {
@@ -4851,7 +4851,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 45 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(67, 70, "Open Secret Chilli Pizza Baked Chips (High Protein)", "2 x 45 g"),
   },
   {
@@ -4860,7 +4860,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 45 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(67, 70, "Open Secret Tandoori Baked Chips (High Protein)", "2 x 45 g"),
   },
   {
@@ -4869,7 +4869,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "64 g + 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(110, 116, "RiteBite Strawberry Truffle Millet Wafer Protein Bar + Max Protein Peri Peri 10 g Protein Multigrain Chips Combo", "64 g + 40 g"),
   },
   {
@@ -4878,7 +4878,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(109, 150, "Open Secret Un-Junked Cheese Puff", "2 x 75 g"),
   },
   {
@@ -4887,7 +4887,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 75 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(109, 150, "Open Secret Un-Junked Cream & Onion Puff", "2 x 75 g"),
   },
   {
@@ -4896,7 +4896,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g + 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(110, 116, "RiteBite Choco Temptation Millet Wafer Protein Bar + Max Protein Cream & Onion 10 g Protein Multigrain Chips Combo", "60 g + 40 g"),
   },
   {
@@ -4905,7 +4905,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "64 g + 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(110, 116, "RiteBite Choco Temptation Millet Wafer Protein Bar + Max Protein Peri Peri 10 g Protein Multigrain Chips Combo", "64 g + 40 g"),
   },
   {
@@ -4914,7 +4914,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "64 g + 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(110, 116, "RiteBite Coffee Mousse Millet Waffer Protein Bar + Max Protein Cheese & Jalapeno 10 g Protein Multigrain Chips Combo", "64 g + 40 g"),
   },
   {
@@ -4923,7 +4923,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "64 g + 40 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(110, 116, "RiteBite Strawberry Truffle Millet Wafer Protein Bar + Max Protein Cheese & Jalapeno 10 g Protein Multigrain Chips Combo", "64 g + 40 g"),
   },
   {
@@ -4932,7 +4932,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(108, 118, "Sweet Karam Coffee Potato Chips - Indian Masala", "2 x 60 g"),
   },
   {
@@ -4941,7 +4941,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(101, 110, "Sweet Karam Coffee Potato Chips - Madras Curry Leaves", "2 x 60 g"),
   },
   {
@@ -4950,7 +4950,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "2 x 60 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(95, 118, "Sweet Karam Coffee Tuticorin Rock Salt Potato Chips - Homestyle Wafers", "2 x 60 g"),
   },
   {
@@ -4959,7 +4959,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(99, 99, "Protein Chef High Protein Elaichi Rusk", "150 g"),
   },
   {
@@ -4968,7 +4968,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(42, 50, "Britannia Toastea Premium Bake Rusk (250 g)", "250 g"),
   },
   {
@@ -4977,7 +4977,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(27, 50, "Britannia Treat Strawberry Flavoured Wafers", "55 g"),
   },
   {
@@ -4986,7 +4986,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(98, 180, "Dukes Waffy Choco Wafer Roll", "250 g"),
   },
   {
@@ -4995,7 +4995,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "291.2 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(54, 60, "Parle Real Elaichi Premium Rusk", "291.2 g"),
   },
   {
@@ -5004,7 +5004,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(27, 50, "Britannia Treat Rich Creme Choco Flavoured Wafers", "50 g"),
   },
   {
@@ -5013,7 +5013,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(30, 50, "Dukes Waffy Chocolate Wafers", "55 g"),
   },
   {
@@ -5022,7 +5022,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(91, 95, "Karachi Bakery Twist Khari", "200 g"),
   },
   {
@@ -5031,7 +5031,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "48 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(29, 45, "Choki Choki Choco Creme Crunchy Stix", "48 g"),
   },
   {
@@ -5040,7 +5040,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "182 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(30, 35, "Britannia Toastea Milk Atta Rusk", "182 g"),
   },
   {
@@ -5049,7 +5049,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(27, 50, "Britannia Treat Rich Creme Orange Flavoured Wafers", "55 g"),
   },
   {
@@ -5058,7 +5058,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(30, 50, "Dukes Waffy Strawberry Wafers", "55 g"),
   },
   {
@@ -5067,7 +5067,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(30, 50, "Dukes Waffy Vanilla Wafers", "55 g"),
   },
   {
@@ -5076,7 +5076,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(99, 133, "Beanly Dark Chocolate Spread with Breadsticks", "52 g"),
   },
   {
@@ -5085,7 +5085,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(112, 200, "Sunfeast Dark Fantasy Rich Creme Filled Choco Wafer Roll", "180 g"),
   },
   {
@@ -5094,7 +5094,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
     offers: generateStoreOffers(30, 50, "Dukes Waffy Pineapple Wafers", "55 g"),
   },
   {
@@ -5112,7 +5112,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(30, 50, "Dukes Waffy Orange Wafers", "55 g"),
   },
   {
@@ -5121,7 +5121,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(170, 175, "HB Bakers Choice Mawa Cake Rusk", "200 g"),
   },
   {
@@ -5130,7 +5130,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(91, 95, "Karachi Bakery Zeera Khari", "200 g"),
   },
   {
@@ -5139,7 +5139,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "145 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(99, 99, "Protein Chef Double Protein Whole Wheat Rusk", "145 g"),
   },
   {
@@ -5148,7 +5148,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "700 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(144, 150, "Britannia Toastea Premium Bake Rusk (700 g)", "700 g"),
   },
   {
@@ -5157,7 +5157,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "182 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(35, 35, "Elite Premium Elaichi Rusk", "182 g"),
   },
   {
@@ -5166,7 +5166,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "125.4 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(71, 100, "Sunfeast Fantastik Mini Treats (Homepack) Wafer Roll", "125.4 g"),
   },
   {
@@ -5175,7 +5175,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(29, 50, "Maddox Swirlicious Cookie Cream Wafer Roll", "90 g"),
   },
   {
@@ -5184,7 +5184,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(180, 240, "Parle Premium Real Elaichi Rusk", "1 kg"),
   },
   {
@@ -5193,7 +5193,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(179, 210, "HB Bakers Choice Almond Cake Rusk", "200 g"),
   },
   {
@@ -5202,7 +5202,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(65, 65, "Tata Soulfull No Maida Elaichi Rusk (16% Jowar)", "200 g"),
   },
   {
@@ -5211,7 +5211,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "3 x 30 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(79, 90, "Unibic Qubz Assorted Wafer Chocolate", "3 x 30 g"),
   },
   {
@@ -5220,7 +5220,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "54 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(104, 129, "Loacker Quadratini Chocolate Wafer Cube", "54 g"),
   },
   {
@@ -5229,7 +5229,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "54 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(184, 199, "Oreo Chocolate Wafer Roll (Creamy & Munchy)", "54 g"),
   },
   {
@@ -5238,7 +5238,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "130 g",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(130, 160, "Pintola Wholegrain Brown Rice Cake", "130 g"),
   },
   {
@@ -5256,7 +5256,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(49, 60, "Tiffany Crunch N Cream Wafer Bar (Strawberry)", "65 g"),
   },
   {
@@ -5265,7 +5265,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "47 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(169, 178, "Pocky Chocolate Flavoured Biscuit Sticks", "47 g"),
   },
   {
@@ -5274,7 +5274,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(33, 60, "Unibic Rich Chocolate Wafers", "60 g"),
   },
   {
@@ -5283,7 +5283,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(45, 50, "Elite Cake Rusk", "150 g"),
   },
   {
@@ -5292,7 +5292,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(91, 95, "Karachi Bakery Masala Khari", "200 g"),
   },
   {
@@ -5301,7 +5301,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(120, 149, "Loacker Vanilla Classic Wafers", "45 g"),
   },
   {
@@ -5310,7 +5310,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(169, 178, "Pocky Cookies and Cream Flavoured Biscuit Sticks", "40 g"),
   },
   {
@@ -5319,7 +5319,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(329, 350, "The Cinnamon Kitchen Cardamom & Almond Biscotti", "125 g"),
   },
   {
@@ -5328,7 +5328,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(80, 150, "Unibic Qubz Belgian Chocolate Wafer Cube", "120 g"),
   },
   {
@@ -5337,7 +5337,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(70, 150, "Unibic Qubz English Strawberry Wafer Cube", "120 g"),
   },
   {
@@ -5346,7 +5346,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "2 x 100 g",
-    image: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(259, 400, "Unwrap Happiness Baked Lavash", "2 x 100 g"),
   },
   {
@@ -5355,7 +5355,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(149, 250, "Unwrap Happiness Crispetti Bruschetta Rusk", "150 g"),
   },
   {
@@ -5364,7 +5364,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(209, 299, "Loacker Quadratini Vanilla Wafers", "125 g"),
   },
   {
@@ -5373,7 +5373,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "54 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(194, 199, "Oreo Vanila Flavored Cream Wafer Chocolate", "54 g"),
   },
   {
@@ -5382,7 +5382,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "54 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(104, 129, "Loacker Quadratini Napolitaner Hazlenut Wafer Cube", "54 g"),
   },
   {
@@ -5391,7 +5391,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(49, 60, "Tiffany Crunch N Cream Wafer Bar (Vanilla)", "65 g"),
   },
   {
@@ -5409,7 +5409,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "320 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(300, 300, "Delfi Twister Chocolate Cream Wafer Roll", "320 g"),
   },
   {
@@ -5418,7 +5418,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(120, 149, "Loacker Napolitaner Hazelnut Wafers", "45 g"),
   },
   {
@@ -5427,7 +5427,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(71, 150, "Unibic Qubz Choco Hazelnut Wafer Cube", "120 g"),
   },
   {
@@ -5436,7 +5436,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(56, 69, "Loacker Sandwich Wafer Biscuit Hazelnut", "25 g"),
   },
   {
@@ -5445,7 +5445,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "47 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(178, 178, "Pocky Double Chocolate Covered Biscuit Sticks", "47 g"),
   },
   {
@@ -5454,7 +5454,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "170 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(99, 105, "Tata Soulfull Chabites Millet Rusk", "170 g"),
   },
   {
@@ -5463,7 +5463,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(49, 60, "Tiffany Crunch N Cream Wafer Bar (Orange)", "65 g"),
   },
   {
@@ -5472,7 +5472,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "320 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(300, 300, "Delfi Twister Black Wafer Roll With Vanilla Cream", "320 g"),
   },
   {
@@ -5481,7 +5481,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(309, 349, "Lotus Biscoff & GO Biscoff Spread and Breadsticks Snack", "45 g"),
   },
   {
@@ -5490,7 +5490,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "135 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(100, 100, "Tiffany Crunch n Cream Wafer Bar - Strawberry", "135 g"),
   },
   {
@@ -5499,7 +5499,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(149, 250, "Unwrap Happiness Drippin Coffee Wafer Roll", "120 g"),
   },
   {
@@ -5508,7 +5508,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "455 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(90, 100, "Elite Classic Rusk", "455 g"),
   },
   {
@@ -5517,7 +5517,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "700 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(199, 240, "HB Bakers Choice Elaichi Rusk - Zero Maida", "700 g"),
   },
   {
@@ -5526,7 +5526,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(114, 120, "Dukes Chocolate Flavoured Wafer Bar Creamy & Crunchy", "360 g"),
   },
   {
@@ -5535,7 +5535,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(139, 160, "HB Bakers Choice Till Rusk", "400 g"),
   },
   {
@@ -5544,7 +5544,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(185, 249, "Sartaj Rusk (No Added Sugar)", "350 g"),
   },
   {
@@ -5553,7 +5553,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "135 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(100, 100, "Tiffany Crunch n Cream Wafer Bar - Orange", "135 g"),
   },
   {
@@ -5562,7 +5562,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(240, 299, "Loacker Quadratini Tiramisu Wafers", "110 g"),
   },
   {
@@ -5571,7 +5571,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "4 x 45 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(480, 599, "Loacker Classic Napolitaner Wafer Biscuit", "4 x 45 g"),
   },
   {
@@ -5580,7 +5580,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "700 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(300, 330, "Thakar Gur Rusk", "700 g"),
   },
   {
@@ -5589,7 +5589,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "700 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(300, 300, "Thakar Saunf Elaichi Rusk", "700 g"),
   },
   {
@@ -5598,7 +5598,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(249, 325, "Sartaj Cake Rusk (Egg Less)", "400 g"),
   },
   {
@@ -5607,7 +5607,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(109, 149, "Ruskle No Maida Butter Garlic Rusk", "200 g"),
   },
   {
@@ -5625,7 +5625,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "4 x 45 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(480, 599, "Loacker Classic Chocolate Wafer Biscuit", "4 x 45 g"),
   },
   {
@@ -5634,7 +5634,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(149, 210, "HB Bakers Choice Chocolate Cake Rusk", "200 g"),
   },
   {
@@ -5643,7 +5643,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "275 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(149, 155, "HB Bakers Choice Kaju Rusk", "275 g"),
   },
   {
@@ -5652,7 +5652,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "275 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(149, 155, "HB Bakers Choice Oats Rusk", "275 g"),
   },
   {
@@ -5661,7 +5661,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(131, 140, "Tata Soulfull Chabites Salted Butter Millet Khari", "160 g"),
   },
   {
@@ -5670,7 +5670,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(100, 100, "Bingo Churros with Chocolate Dip", "60 g"),
   },
   {
@@ -5679,7 +5679,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(25, 30, "Choki Choki Choco Filled Wafer Roll", "50 g"),
   },
   {
@@ -5688,7 +5688,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(167, 250, "Britannia Toastea Premium Bake Rusk (1 kg)", "1 kg"),
   },
   {
@@ -5697,7 +5697,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(98, 180, "Dukes Waffy Strawberry Wafer Roll", "250 g"),
   },
   {
@@ -5706,7 +5706,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(72, 89, "Loacker Dark Chocolate Wafer Biscuit Sandwich", "25 g"),
   },
   {
@@ -5715,7 +5715,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(49, 60, "Tiffany Crunch N Cream Wafer Bar (Hazelnut)", "65 g"),
   },
   {
@@ -5724,7 +5724,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(72, 89, "Loacker Chocolate Wafer Biscuit Sandwich", "25 g"),
   },
   {
@@ -5733,7 +5733,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(209, 299, "Loacker Quadratini Chocolate Wafers", "125 g"),
   },
   {
@@ -5742,7 +5742,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(40, 40, "Britannia Toastea Cake Rusk", "100 g"),
   },
   {
@@ -5751,7 +5751,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(46, 49, "Open Secret High Protein Elaichi Rusk", "80 g"),
   },
   {
@@ -5760,7 +5760,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(33, 60, "Unibic Yummy Strawberry Wafers", "60 g"),
   },
   {
@@ -5787,7 +5787,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(209, 299, "Loacker Quadratini Napolitaner Wafers", "125 g"),
   },
   {
@@ -5796,7 +5796,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(325, 325, "Nutella & Go! Hazelnut Spread with Breadsticks", "52 g"),
   },
   {
@@ -5805,7 +5805,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(99, 99, "Protein Chef Elaichi Whole Wheat Rusk", "100 g"),
   },
   {
@@ -5814,7 +5814,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "183 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(40, 40, "Tata Soulfull Elaichi No Maida Rusk", "183 g"),
   },
   {
@@ -5823,7 +5823,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "135 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(100, 100, "Tiffany Crunch n Cream Wafer Bar - Chocolate", "135 g"),
   },
   {
@@ -5832,7 +5832,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(49, 60, "Tiffany Crunch N Cream Wafer Bar (Chocolate)", "65 g"),
   },
   {
@@ -5850,7 +5850,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(131, 140, "Tata Soulfull Ajwain Seed Crunch Millet Khari", "160 g"),
   },
   {
@@ -5859,7 +5859,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "6 x 60 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(145, 145, "Dukes Atc Waffy Wafers Combo", "6 x 60 g"),
   },
   {
@@ -5868,7 +5868,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(99, 105, "Tata Soulfull Chabites Crunchy Seed Mix Millet Rusk", "180 g"),
   },
   {
@@ -5886,7 +5886,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(209, 299, "Loacker Quadratini Espresso Wafer Biscuit", "110 g"),
   },
   {
@@ -5895,7 +5895,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(120, 149, "Loacker Crispy Wafers Classic Chocolate", "45 g"),
   },
   {
@@ -5904,7 +5904,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(174, 249, "Loacker Quadratini Dark Chocolate Wafers", "125 g"),
   },
   {
@@ -5913,7 +5913,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "274 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(50, 50, "Elite Milk Rusk", "274 g"),
   },
   {
@@ -5922,7 +5922,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "320 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(300, 300, "Delfi Twister Vanilla Wafer Roll", "320 g"),
   },
   {
@@ -5931,7 +5931,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(39, 48, "Doritos Cheese Nachos", "75 g"),
   },
   {
@@ -5940,7 +5940,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "65.2 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(26, 30, "Doritos Dinamita Fiery Lime And Chilli Snack", "65.2 g"),
   },
   {
@@ -5949,7 +5949,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(39, 48, "Doritos Sweet Chilli Flavour Nachos", "75 g"),
   },
   {
@@ -5958,7 +5958,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "71 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(35, 35, "Doritos Sweet Chilli Nachos", "71 g"),
   },
   {
@@ -5967,7 +5967,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "71 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(35, 35, "Doritos Cheese Nachos", "71 g"),
   },
   {
@@ -5976,7 +5976,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "42 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(19, 20, "Bingo Cheese Nachos with Free Dip", "42 g"),
   },
   {
@@ -5985,7 +5985,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(73, 75, "Cornitos Nachos Chips & Dip Combo", "150 g"),
   },
   {
@@ -5994,7 +5994,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(57, 60, "Cornitos Sizzlin Jalapeno Nachos Chips", "65 g"),
   },
   {
@@ -6003,7 +6003,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(57, 60, "Cornitos Cheese & Herbs Nachos Chips", "65 g"),
   },
   {
@@ -6012,7 +6012,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "142 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(70, 86, "Doritos Sweet Chilli Flavour Nachos", "142 g"),
   },
   {
@@ -6021,7 +6021,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(35, 35, "Balaji Amaize Cheese Chilli Nachos", "150 g"),
   },
   {
@@ -6030,7 +6030,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(35, 35, "Balaji Amaize Flamin Hot Nachos", "150 g"),
   },
   {
@@ -6039,7 +6039,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(54, 60, "Cornitos Korean Chilli Nachos Chips", "65 g"),
   },
   {
@@ -6048,7 +6048,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(89, 90, "Cornitos Peri Peri Nachos Chips", "150 g"),
   },
   {
@@ -6057,7 +6057,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(68, 70, "Cornitos Peri Peri Nachos & Salsa Dip", "79 g"),
   },
   {
@@ -6075,7 +6075,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(89, 90, "Cornitos Sweet Chilli Nachos Chips", "150 g"),
   },
   {
@@ -6084,7 +6084,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(89, 90, "Cornitos Tomato Mexicana Nachos Chips", "150 g"),
   },
   {
@@ -6093,7 +6093,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(89, 90, "Cornitos Sizzlin Jalapeno Nachos Chips", "150 g"),
   },
   {
@@ -6102,7 +6102,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "62 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(55, 60, "Cornitos Gourmet Beetroot Nachos (Spicy Pepper)", "62 g"),
   },
   {
@@ -6120,7 +6120,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "62 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(45, 60, "Cornitos Gourmet Quinoa Nachos (Himalayan Pink Salt)", "62 g"),
   },
   {
@@ -6129,7 +6129,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(20, 20, "Bingo Mad Angles Pizza-aaaah Chips", "60 g"),
   },
   {
@@ -6138,7 +6138,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(89, 90, "Cornitos Sea Salt Nachos Chips", "150 g"),
   },
   {
@@ -6156,7 +6156,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(89, 90, "Cornitos Cheese & Herbs Nachos Chips", "150 g"),
   },
   {
@@ -6165,7 +6165,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(68, 70, "Cornitos Jalapeno Nachos & Salsa Dip", "79 g"),
   },
   {
@@ -6174,7 +6174,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "130 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(49, 50, "Act II Jalapeno Nachos Crispy & Crunch", "130 g"),
   },
   {
@@ -6183,7 +6183,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "85.4 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(37, 50, "Bingo Cheese Nachos with Free Dip", "85.4 g"),
   },
   {
@@ -6192,7 +6192,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "142 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(70, 86, "Doritos Cheese Nachos", "142 g"),
   },
   {
@@ -6201,7 +6201,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "3 x 55 g + 50 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(117, 120, "Cornitos Nachos & Salsa Combo", "3 x 55 g + 50 g"),
   },
   {
@@ -6210,7 +6210,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(89, 90, "Cornitos Tikka Masala Nachos Chips", "150 g"),
   },
   {
@@ -6219,7 +6219,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "78 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(57, 60, "Cornitos Sweet Chili Nachos Chips", "78 g"),
   },
   {
@@ -6228,7 +6228,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "62 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3893a.jpg",
     offers: generateStoreOffers(55, 60, "Cornitos Gourmet Spinach Nachos (Italian Spice Mix)", "62 g"),
   },
   {
@@ -6246,7 +6246,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "92.3 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(353, 399, "Takis Blue Heat Tortilla Chips", "92.3 g"),
   },
   {
@@ -6264,7 +6264,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "2 x 85.4 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(73, 100, "Bingo Chilli Limon Nachos with Free Dip", "2 x 85.4 g"),
   },
   {
@@ -6273,7 +6273,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Nachos",
     unit: "2 x 75 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40120286_8-doritos-nacho-chips-cheese.jpg",
     offers: generateStoreOffers(72, 96, "Doritos International Cool Ranch Nachos", "2 x 75 g"),
   },
   {
@@ -6282,7 +6282,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(106, 120, "Bikaji Khatta Meetha Tana Bana Mixture Namkeen", "400 g"),
   },
   {
@@ -6309,7 +6309,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(70, 70, "Veerabhadra Mixture Namkeen", "200 g"),
   },
   {
@@ -6318,7 +6318,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(85, 99, "Sweet Karam Coffee Ragi Onion Mixture Namkeen", "95 g"),
   },
   {
@@ -6336,7 +6336,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "230 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 45, "Balaji Tikha Mitha Mixture Namkeen", "230 g"),
   },
   {
@@ -6354,7 +6354,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(86, 92, "Sweet Karam Coffee Madras Mixture Namkeen Snacks", "95 g"),
   },
   {
@@ -6390,7 +6390,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(69, 90, "Swetha Telugu Foods Andhra Mixture Namkeen", "150 g"),
   },
   {
@@ -6399,7 +6399,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(69, 90, "Swetha Telugu Foods Chekodilu Traditional Mixture Namkeen", "150 g"),
   },
   {
@@ -6426,7 +6426,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(72, 80, "Karachi Bakery Khara Boondi", "200 g"),
   },
   {
@@ -6453,7 +6453,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Shing Peanuts", "200 g"),
   },
   {
@@ -6480,7 +6480,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Ratlami Sev Bhujia", "200 g"),
   },
   {
@@ -6489,7 +6489,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(90, 90, "Balaji Wafers Farali Chevdo Falhari Mixture", "450 g"),
   },
   {
@@ -6507,7 +6507,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(54, 60, "Bikaji Kuch Kuch All In One Mixture Namkeen", "200 g"),
   },
   {
@@ -6516,7 +6516,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/10000411_14-bb-royal-moong-dal.jpg",
     offers: generateStoreOffers(50, 50, "Balaji Moong Dal Namkeen", "250 g"),
   },
   {
@@ -6525,7 +6525,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(57, 60, "Bikano Bikaneri Bhujia", "200 g"),
   },
   {
@@ -6534,7 +6534,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(132, 175, "4700BC Nutty Tuxedo Chocolate Popcorn", "80 g"),
   },
   {
@@ -6543,7 +6543,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "47 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(25, 25, "Act II Butter Popcorn - Ready to Eat", "47 g"),
   },
   {
@@ -6552,7 +6552,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(37, 40, "Act II Sour Cream & Cheese Popcorn - Ready to Eat", "50 g"),
   },
   {
@@ -6561,7 +6561,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "2 x 47 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(53, 60, "4700BC Cheese & Peri Peri Popcorn Jumbo Size", "2 x 47 g"),
   },
   {
@@ -6570,7 +6570,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(159, 299, "Poppacorn Gourmet Nutty Choco Delight Popcorn", "150 g"),
   },
   {
@@ -6579,7 +6579,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "4700BC Jumbo Cheese Popcorn", "45 g"),
   },
   {
@@ -6597,7 +6597,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(50, 50, "4700BC Jumbo Butter Popcorn", "50 g"),
   },
   {
@@ -6606,7 +6606,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(39, 50, "Act II Hot & Spicy Popcorn", "50 g"),
   },
   {
@@ -6615,7 +6615,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "4700BC Hawaiian Barbeque Cheese Popcorn, Gourmet", "35 g"),
   },
   {
@@ -6624,7 +6624,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 70, "Act II Caramel Bliss Popcorn - Ready To Eat", "75 g"),
   },
   {
@@ -6633,7 +6633,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "37.5 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(10, 10, "Act II Classic Salted Popcorn - Instant", "37.5 g"),
   },
   {
@@ -6642,7 +6642,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(35, 50, "Act II Sour Cream & Wasabi Cheese Popcorn", "50 g"),
   },
   {
@@ -6651,7 +6651,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(54, 60, "4700BC Jumbo Salted Popcorn (Made in Ghee)", "45 g"),
   },
   {
@@ -6660,7 +6660,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "59 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(29, 33, "Act II Instant Popcorn - Tomato Chilli", "59 g"),
   },
   {
@@ -6669,7 +6669,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(60, 60, "4700BC Himalayan Salt Caramel Popcorn, Gourmet", "60 g"),
   },
   {
@@ -6678,7 +6678,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(60, 60, "4700BC Gourmet Popcorn (Belgian Choco Caramel)", "60 g"),
   },
   {
@@ -6687,7 +6687,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(145, 149, "Desire Popcorn Kernels", "500 g"),
   },
   {
@@ -6696,7 +6696,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(48, 50, "4700BC Devil Popcorn - Hot N Spicy", "50 g"),
   },
   {
@@ -6705,7 +6705,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(90, 100, "4700BC Himalayan Salt Caramel Gourmet Popcorn", "125 g"),
   },
   {
@@ -6714,7 +6714,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "99 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(69, 80, "Act II Microwave Cheese Delite Popcorn", "99 g"),
   },
   {
@@ -6723,7 +6723,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "72 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 90, "4700BC Cheese, Korean And Netflix Cheese & Caramel Popcorn Combo", "72 g"),
   },
   {
@@ -6732,7 +6732,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "94 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(77, 85, "4700BC Microwave Cheese Popcorn with Seasoning", "94 g"),
   },
   {
@@ -6741,7 +6741,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(57, 60, "4700BC Netflix Cheese & Caramel Popcorn, Gourmet", "50 g"),
   },
   {
@@ -6750,7 +6750,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(152, 225, "Act II Chocolate Tuxedo Gourmet Popcorn Tin", "150 g"),
   },
   {
@@ -6759,7 +6759,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "101 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 90, "Act II Microwave Cheese Burst Popcorn", "101 g"),
   },
   {
@@ -6768,7 +6768,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(57, 60, "4700BC Butter Toffee Caramel Popcorn", "60 g"),
   },
   {
@@ -6777,7 +6777,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(27, 30, "4700BC Instant Butter Popcorn Jumbo Size", "90 g"),
   },
   {
@@ -6786,7 +6786,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "92 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(81, 85, "4700BC Microwave Barbeque Popcorn with Seasoning", "92 g"),
   },
   {
@@ -6795,7 +6795,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "4700BC Sriracha Lime Cheese Popcorn, Gourmet", "35 g"),
   },
   {
@@ -6804,7 +6804,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(66, 90, "Granamma Butter Murukku Namkeen", "120 g"),
   },
   {
@@ -6867,7 +6867,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(43, 60, "Piknik Classic Tomato Chilli Soya Sticks", "50 g"),
   },
   {
@@ -6885,7 +6885,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(70, 90, "Swetha Telugu Foods Ribbon Pakoda Namkeen Snacks", "150 g"),
   },
   {
@@ -6894,7 +6894,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(57, 60, "Bikano Classic Salted Peanuts", "200 g"),
   },
   {
@@ -6912,7 +6912,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(69, 90, "Swetha Telugu Foods Kara Boondi Namkeen", "150 g"),
   },
   {
@@ -6921,7 +6921,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(65, 75, "Modern Kitchens Spicy Murukku Namkeen", "150 g"),
   },
   {
@@ -6930,7 +6930,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/656573a.jpg",
     offers: generateStoreOffers(39, 69, "Shareat Whole Wheat Foochka Pani Puri", "200 g"),
   },
   {
@@ -6939,7 +6939,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(70, 90, "Swetha Telugu Foods Mullu Murukulu Namkeen Snacks", "150 g"),
   },
   {
@@ -6957,7 +6957,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(69, 90, "Swetha Telugu Foods Jantikalu / Chakli", "150 g"),
   },
   {
@@ -6966,7 +6966,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(59, 59, "Protein Chef Himalayan Pink Salted Peanuts (Healthy & Roasted)", "100 g"),
   },
   {
@@ -6975,7 +6975,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(65, 65, "Veerabhadra Roasted Bhuna Chana", "200 g"),
   },
   {
@@ -6984,7 +6984,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Namkeen Snacks",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(86, 92, "Sweet Karam Coffee Onion Murukku Chakli /Kodubale", "95 g"),
   },
   {
@@ -7002,7 +7002,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(499, 549, "Avesha Jumbo Size Makhana", "250 g"),
   },
   {
@@ -7011,7 +7011,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/52629a.jpg",
     offers: generateStoreOffers(55, 55, "Haldiram's Nagpur Masala Kaju", "35 g"),
   },
   {
@@ -7020,7 +7020,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "3 x 40 g",
-    image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(60, 60, "Misk Masala Dates (Achari, Imli, Chilli Lime)", "3 x 40 g"),
   },
   {
@@ -7029,7 +7029,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Lime & Chilli Flavoured Makhana", "21 g"),
   },
   {
@@ -7038,7 +7038,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 239, "Farmley Roasted & Himalayan Salted (Sendha Namak) Flavoured Makhana Roasted In Olive Oil", "77 g"),
   },
   {
@@ -7047,7 +7047,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "34 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/481419a.jpg",
     offers: generateStoreOffers(30, 35, "Snackible Biscuit Sticks with Chocolatey Dip", "34 g"),
   },
   {
@@ -7056,7 +7056,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3889a.jpg",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Pudina Party Flavoured Makhana", "21 g"),
   },
   {
@@ -7065,7 +7065,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(47, 50, "Farmley Cream & Onion Roasted Flavoured Makhana Roasted In Olive Oil", "20 g"),
   },
   {
@@ -7074,7 +7074,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "16 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 50, "MOM Mast Masala Roasted Flavoured Makhana", "16 g"),
   },
   {
@@ -7083,7 +7083,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(34, 35, "Slurrp Farm Choco Ragi Puffs", "20 g"),
   },
   {
@@ -7092,7 +7092,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(43, 50, "Farmley Panchmeva Dry Fruit Mix", "30 g"),
   },
   {
@@ -7101,7 +7101,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "3 x 17 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 60, "MOM Makhana Chikki Bar", "3 x 17 g"),
   },
   {
@@ -7110,7 +7110,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(47, 50, "Farmley Peri Peri Roasted Flavoured Makhana Roasted In Olive Oil", "20 g"),
   },
   {
@@ -7119,7 +7119,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(169, 225, "Chakna Makhna Flavoured Makhana (Fiery Peri Peri)", "80 g"),
   },
   {
@@ -7128,7 +7128,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(200, 239, "Farmley Peri Peri Roasted Flavoured Makhana Roasted In Olive Oil", "77 g"),
   },
   {
@@ -7137,7 +7137,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "16 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(38, 50, "MOM Roasted Flavoured Makhana Himalayan Salt & Pepper", "16 g"),
   },
   {
@@ -7146,7 +7146,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(147, 159, "Farmley Peri Peri Flavoured Makhana", "55 g"),
   },
   {
@@ -7155,7 +7155,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(34, 35, "Slurrp Farm Mighty Munch Cheese and Herbs Puffs", "20 g"),
   },
   {
@@ -7164,7 +7164,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(147, 159, "Farmley Himalayan Salt Flavoured Makhana", "55 g"),
   },
   {
@@ -7173,7 +7173,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "16 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(38, 50, "MOM Roasted Flavoured Makhana Cheddar Cheese", "16 g"),
   },
   {
@@ -7182,7 +7182,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Flavoured Makhana (Black Salt)", "21 g"),
   },
   {
@@ -7191,7 +7191,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(98, 125, "Sattviko Ghee Rock Salt Flavoured Makhana", "30 g"),
   },
   {
@@ -7200,7 +7200,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "34 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/370227a.jpg",
     offers: generateStoreOffers(30, 35, "Snackible Dipsters Vanilla Creme Dip with Biscuit Sticks", "34 g"),
   },
   {
@@ -7209,7 +7209,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Butter Tomato Flavoured Makhana", "21 g"),
   },
   {
@@ -7218,7 +7218,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Himalayan Salt & Pepper Flavoured Makhana", "21 g"),
   },
   {
@@ -7227,7 +7227,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "175 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(154, 199, "Open Secret Baked (Not Fried) Bhujia Namkeen - Healthy Snacks", "175 g"),
   },
   {
@@ -7236,7 +7236,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(350, 550, "Whole Farm Premium Roasted & Salted Pistachios (Pistapappu)", "200 g"),
   },
   {
@@ -7245,7 +7245,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(165, 225, "Chakna Makhna Cheese Flavoured Makhana", "80 g"),
   },
   {
@@ -7254,7 +7254,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(99, 99, "Lo Foods Gluten Free Butter Millet Jaggery Cookies", "80 g"),
   },
   {
@@ -7263,7 +7263,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(131, 163, "True Elements 9-In-1 Trail Mix, Seeds & Dry Fruits", "125 g"),
   },
   {
@@ -7272,7 +7272,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(548, 650, "Happilo 100% Natural Premium Whole Cashew (Jidipappu)", "450 g"),
   },
   {
@@ -7281,7 +7281,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "48 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(81, 99, "MOM Dry Roasted Cashews, Almonds & Pista Nuts Mix", "48 g"),
   },
   {
@@ -7290,7 +7290,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(269, 599, "Only Truth Premium Makhana", "200 g"),
   },
   {
@@ -7299,7 +7299,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3889a.jpg",
     offers: generateStoreOffers(169, 225, "Chakna Makhna Mint Pudina Flavoured Makhana", "80 g"),
   },
   {
@@ -7308,7 +7308,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(41, 45, "Tong Garden Mexican Style Peanuts", "65 g"),
   },
   {
@@ -7317,7 +7317,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "16 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(49, 55, "Too Yumm Roasted Makhana Peri Peri Healthy Snack", "16 g"),
   },
   {
@@ -7326,7 +7326,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(149, 359, "Khatus 5 Suta Makhana", "120 g"),
   },
   {
@@ -7335,7 +7335,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "48 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(81, 99, "MOM California Flavoured Almonds (Roasted & Salted)", "48 g"),
   },
   {
@@ -7344,7 +7344,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(99, 140, "MOM Mini Makhana Chikki Bar", "100 g"),
   },
   {
@@ -7353,7 +7353,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Piri Piri Paradise Flavoured Makhana", "21 g"),
   },
   {
@@ -7371,7 +7371,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(200, 239, "Farmley Cheesy Cheddar Flavoured Makhana Roasted In Olive Oil", "77 g"),
   },
   {
@@ -7380,7 +7380,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "36 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(89, 99, "Farmley Classic Salted & Roasted Flavoured Cashew (Flavoured Jidipappu)", "36 g"),
   },
   {
@@ -7389,7 +7389,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(351, 395, "Happilo Californian Roasted & Salted Flavoured Almonds (Badam)", "200 g"),
   },
   {
@@ -7398,7 +7398,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "16 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(29, 50, "MOM Flavoured Makhana (Cream N Onion)", "16 g"),
   },
   {
@@ -7407,7 +7407,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "230 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(389, 600, "Mevo Jumbo Size Makhana", "230 g"),
   },
   {
@@ -7416,7 +7416,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Cheezy Peezy Flavoured Makhana (Standee Pouch)", "55 g"),
   },
   {
@@ -7425,7 +7425,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/480576a.jpg",
     offers: generateStoreOffers(1265, 1700, "Paper Boat Absolute Health Dry Fruits Trail Mix", "1 kg"),
   },
   {
@@ -7434,7 +7434,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "2 x 100 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(195, 440, "Sanwariya Bhog Makhana", "2 x 100 g"),
   },
   {
@@ -7443,7 +7443,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(96, 130, "Sattviko Pink Salt & Pepper Flavoured Makhana", "52 g"),
   },
   {
@@ -7452,7 +7452,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 205, "Lo Foods Keto Almond Cookies (No Added Sugar)", "100 g"),
   },
   {
@@ -7470,7 +7470,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(437, 450, "Cornitos Roasted Salted Cashew (Lightly Salted)", "200 g"),
   },
   {
@@ -7479,7 +7479,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(146, 159, "Farmley Black Salt Flavoured Makhana", "55 g"),
   },
   {
@@ -7488,7 +7488,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(146, 159, "Farmley Cheesy Cheddar Flavoured Makhana 55 g", "55 g"),
   },
   {
@@ -7497,7 +7497,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(147, 159, "Farmley Cream & Onion Flavoured Makhana", "55 g"),
   },
   {
@@ -7506,7 +7506,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(451, 475, "Happilo Jumbo Californian Roasted & Salted Pistachios (Pistapappu)", "200 g"),
   },
   {
@@ -7515,7 +7515,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(351, 722, "Kwality Eat Classic Plain Makhana /Foxnuts", "250 g"),
   },
   {
@@ -7533,7 +7533,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Flavoured Makhana (Cheezy Peezy)", "21 g"),
   },
   {
@@ -7542,7 +7542,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Piri Piri Paradise Flavoured Makhana (Standee Pouch)", "55 g"),
   },
   {
@@ -7551,7 +7551,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/11629a.jpg",
     offers: generateStoreOffers(96, 130, "Sattviko Mint Roasted Flavoured Makhana", "52 g"),
   },
   {
@@ -7560,7 +7560,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(58, 61, "Garden Diet Chivda Namkeen", "160 g"),
   },
   {
@@ -7569,7 +7569,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(388, 510, "Cravana Raw Makhana", "200 g"),
   },
   {
@@ -7578,7 +7578,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(179, 499, "Henley Phool Makhana", "150 g"),
   },
   {
@@ -7596,7 +7596,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(131, 140, "MOM Cheddar Cheese Roasted Flavoured Makhana", "52 g"),
   },
   {
@@ -7605,7 +7605,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(131, 140, "MOM Cream & Onion Roasted Flavoured Makhana", "52 g"),
   },
   {
@@ -7614,7 +7614,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(131, 140, "MOM Himalayan Salt & Pepper Roasted Flavoured Makhana", "52 g"),
   },
   {
@@ -7623,7 +7623,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(299, 549, "Makhayo Makhana", "250 g"),
   },
   {
@@ -7632,7 +7632,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Black Salt Flavoured Makhana", "55 g"),
   },
   {
@@ -7641,7 +7641,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Cream & Onion Flavoured Makhana (Standee Pouch)", "55 g"),
   },
   {
@@ -7650,7 +7650,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3889a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Pudina Party Flavoured Makhana (Standee Pouch)", "55 g"),
   },
   {
@@ -7659,7 +7659,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(94, 99, "Nutty Gritties Salted & Roasted Flavoured Cashew (Flavoured Jidipappu)", "40 g"),
   },
   {
@@ -7668,7 +7668,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/480576a.jpg",
     offers: generateStoreOffers(104, 130, "Paper Boat Classic Salted Flavoured Cashew (Flavoured Jidipappu)", "50 g"),
   },
   {
@@ -7677,7 +7677,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(130, 250, "Royal Virasat High Protein Makhana", "100 g"),
   },
   {
@@ -7686,7 +7686,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "42 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(81, 90, "Sattviko Belgian Chocolate Flavoured Makhana", "42 g"),
   },
   {
@@ -7695,7 +7695,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "42 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(72, 80, "Sattviko Gur(Jaggery) Roasted Flavoured Makhana", "42 g"),
   },
   {
@@ -7704,7 +7704,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g + 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(99, 123, "Slurrp Farm Choco Ragi Ragi Snacks + Choco Ragi Cookies Combo", "20 g + 80 g"),
   },
   {
@@ -7713,7 +7713,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "190 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(331, 370, "Tata Sampann Classic Salted & Roasted Flavoured Almonds (Badam)", "190 g"),
   },
   {
@@ -7722,7 +7722,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 75, "Tong Garden Black Pepper Flavoured Cashew", "30 g"),
   },
   {
@@ -7731,7 +7731,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(243, 270, "Tong Garden Salted Cocktail Nut Mix", "140 g"),
   },
   {
@@ -7749,7 +7749,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(86, 99, "Nutty Gritties Daily Mix Nuts Roasted in Himalayan Pink Salt", "35 g"),
   },
   {
@@ -7758,7 +7758,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(289, 335, "Farmley Trail Mix Dry Fruits, Nuts & Seeds Superfood", "200 g"),
   },
   {
@@ -7767,7 +7767,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(200, 239, "Farmley Tangy Tomato Flavoured Makhana Roasted In Olive Oil", "77 g"),
   },
   {
@@ -7776,7 +7776,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "26 g",
-    image: "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/480576a.jpg",
     offers: generateStoreOffers(56, 65, "Paper Boat Protein Crunch Dry Fruit Mix", "26 g"),
   },
   {
@@ -7785,7 +7785,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(146, 159, "Farmley Tangy Tomato Flavoured Makhana", "55 g"),
   },
   {
@@ -7794,7 +7794,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "6 x 35 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(194, 270, "Yoga Bar Multigrain Protein Bar Pack (Assorted)", "6 x 35 g"),
   },
   {
@@ -7803,7 +7803,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(131, 140, "MOM Peri Peri Roasted Flavoured Makhana", "52 g"),
   },
   {
@@ -7812,7 +7812,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Lime And Chilli Flavoured Makhana", "55 g"),
   },
   {
@@ -7821,7 +7821,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(363, 440, "Nutty Gritties Lightly Salted & Roasted Jumbo Flavoured Cashew (Flavoured Jidipappu)", "200 g"),
   },
   {
@@ -7830,7 +7830,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3889a.jpg",
     offers: generateStoreOffers(85, 89, "Wingreens Farms Chatpatta Pudina Naan Chips", "150 g"),
   },
   {
@@ -7839,7 +7839,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(49, 60, "Omay Foods Roasted Chana Jor (Beaten Chana)", "60 g"),
   },
   {
@@ -7848,7 +7848,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(92, 110, "Omay Foods Roasted Flax Seeds", "160 g"),
   },
   {
@@ -7857,7 +7857,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(200, 239, "Farmley Rock Salt & Pepper Flavoured Makhana Fit For Fasting", "77 g"),
   },
   {
@@ -7866,7 +7866,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(85, 99, "MOM Tandoori Flavoured Cashew", "45 g"),
   },
   {
@@ -7875,7 +7875,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(144, 163, "Tong Garden Roasted Salted Seeds", "200 g"),
   },
   {
@@ -7884,7 +7884,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "190 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(329, 370, "Tata Sampann Classic Salted & Roasted Flavoured Cashew (Flavoured Jidipappu)", "190 g"),
   },
   {
@@ -7893,7 +7893,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(110, 140, "Sattviko Cream & Onion Flavoured Makhana", "52 g"),
   },
   {
@@ -7902,7 +7902,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "28 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(49, 50, "Farmley Fruit & Nut Trail Mix", "28 g"),
   },
   {
@@ -7911,7 +7911,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(146, 159, "Farmley Achari Chatka Flavoured Makhana", "55 g"),
   },
   {
@@ -7920,7 +7920,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(84, 99, "Nutty Gritties Roasted Salted Flavoured Almonds (Badam)", "40 g"),
   },
   {
@@ -7929,7 +7929,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(113, 113, "Heka Bites Himalayan Pink Salt Flavoured Makhana", "60 g"),
   },
   {
@@ -7938,7 +7938,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "42 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(80, 110, "Sattviko High Protein Sweet Chilli Roasted Flavoured Makhana", "42 g"),
   },
   {
@@ -7947,7 +7947,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(140, 150, "MOM Black Salt Flavoured Makhana", "60 g"),
   },
   {
@@ -7956,7 +7956,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(138, 145, "Cornitos Party Nut Mix Snack", "180 g"),
   },
   {
@@ -7965,7 +7965,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(408, 560, "True Elements Panchmeva (Dry Fruit Mishrana)", "400 g"),
   },
   {
@@ -7974,7 +7974,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "405 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(378, 515, "MOM Panchmeva Mix", "405 g"),
   },
   {
@@ -7983,7 +7983,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(100, 150, "MOM Korean Flavoured Makhana", "60 g"),
   },
   {
@@ -7992,7 +7992,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(351, 395, "Happilo Premium Roasted Party Mix Nuts", "200 g"),
   },
   {
@@ -8001,7 +8001,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(225, 300, "Heka Bites Makhana", "150 g"),
   },
   {
@@ -8010,7 +8010,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Butter Tomato Flavoured Makhana", "55 g"),
   },
   {
@@ -8019,7 +8019,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(91, 125, "Sattviko Pink Salt & Peri Peri Flavoured Makhana Combo", "52 g"),
   },
   {
@@ -8028,7 +8028,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(369, 440, "Nutty Gritties Lightly Salted Jumbo Roasted Flavoured Almonds (Badam)", "200 g"),
   },
   {
@@ -8037,7 +8037,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(199, 239, "Happilo Chilli Garlic Flavoured Makhana", "80 g"),
   },
   {
@@ -8046,7 +8046,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(418, 485, "Nutty Gritties Roasted & Salted California Pistachios (Pistapappu)", "200 g"),
   },
   {
@@ -8055,7 +8055,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3889a.jpg",
     offers: generateStoreOffers(199, 239, "Happilo Perky Pudina Flavoured Makhana", "80 g"),
   },
   {
@@ -8064,7 +8064,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(199, 239, "Happilo Cream & Onion Flavoured Makhana", "80 g"),
   },
   {
@@ -8073,7 +8073,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(129, 299, "Wonderland Foods Seeds & Berries Mix (Berrilu Mix)", "200 g"),
   },
   {
@@ -8082,7 +8082,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "3 x 25 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Flavoured Makhana Gift Pack", "3 x 25 g"),
   },
   {
@@ -8091,7 +8091,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(78, 129, "Wonderland Foods Peri Peri Flavoured Makhana", "40 g"),
   },
   {
@@ -8100,7 +8100,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Flavoured Makhana (Sea Salt & Vinegar)", "21 g"),
   },
   {
@@ -8109,7 +8109,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(406, 499, "Wonderland Foods Roasted & Salted Pistachios (Pistapappu)", "200 g"),
   },
   {
@@ -8118,7 +8118,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(243, 270, "Tong Garden Salted Almonds", "140 g"),
   },
   {
@@ -8127,7 +8127,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(234, 399, "Wonderland Foods Cocktail Party/ Dry Fruit Mix", "200 g"),
   },
   {
@@ -8136,7 +8136,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(360, 550, "Hunger Bites Raw Makhana", "200 g"),
   },
   {
@@ -8145,7 +8145,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(252, 300, "Mr. Makhana Veda Premium Raw Makhana", "100 g"),
   },
   {
@@ -8154,7 +8154,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Pickle Tickle Flavoured Makhana", "55 g"),
   },
   {
@@ -8163,7 +8163,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(125, 150, "Too Yumm Roasted Makhana - Himalayan Salt & Pepper", "50 g"),
   },
   {
@@ -8172,7 +8172,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(290, 325, "Tong Garden Tropical Nuts & Fruits Trail Mix", "180 g"),
   },
   {
@@ -8181,7 +8181,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(313, 399, "Wonderland Foods Spicy Trail Mix - Nuts & Seed Mix", "200 g"),
   },
   {
@@ -8190,7 +8190,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(79, 129, "Wonderland Foods Tangy Masala Flavoured Makhana", "40 g"),
   },
   {
@@ -8199,7 +8199,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(269, 360, "Wonderland Foods Healthy Dry Fruits & Seeds Mix", "200 g"),
   },
   {
@@ -8217,7 +8217,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(368, 549, "Aktual Foodz Plain Makhana", "200 g"),
   },
   {
@@ -8226,7 +8226,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Sea Salt & Vinegar Flavoured Makhana", "55 g"),
   },
   {
@@ -8235,7 +8235,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(399, 599, "House Of Makhana Premium Raw Makhana", "200 g"),
   },
   {
@@ -8244,7 +8244,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(369, 599, "Makau Foods Premium Raw Makhana", "200 g"),
   },
   {
@@ -8253,7 +8253,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(319, 699, "Mr. Choice Premium Handpicked Makhana", "180 g"),
   },
   {
@@ -8262,7 +8262,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(495, 595, "Mr. Makhana Veda Premium Raw Makhana", "200 g"),
   },
   {
@@ -8271,7 +8271,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Himalayan Salt & Pepper Flavoured Makhana", "55 g"),
   },
   {
@@ -8280,7 +8280,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(200, 239, "Farmley Cream & Onion Roasted Flavoured Makhana Roasted In Olive Oil", "77 g"),
   },
   {
@@ -8289,7 +8289,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(47, 50, "Farmley Tangy Tomato Flavoured Makhana Roasted In Olive Oil", "20 g"),
   },
   {
@@ -8298,7 +8298,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(351, 435, "Happilo Freshly Oven Roasted & Salted Flavoured Cashew (Flavoured Jidipappu)", "200 g"),
   },
   {
@@ -8307,7 +8307,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3889a.jpg",
     offers: generateStoreOffers(40, 50, "MOM Roasted Pudina Flavoured Makhana", "20 g"),
   },
   {
@@ -8316,7 +8316,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(96, 130, "Sattviko Peri Peri Roasted Flavoured Makhana", "52 g"),
   },
   {
@@ -8325,7 +8325,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(44, 50, "Farmley Mexican Peri-Peri Mix Nuts", "35 g"),
   },
   {
@@ -8334,7 +8334,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Cream & Onion Flavoured Makhana", "21 g"),
   },
   {
@@ -8343,7 +8343,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(478, 530, "Tata Sampann Roasted & Salted Premium Pistachios (Pistapappu)", "200 g"),
   },
   {
@@ -8352,7 +8352,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(350, 699, "AURIK Plain Jumbo Makhana /Foxnuts", "250 g"),
   },
   {
@@ -8361,7 +8361,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(169, 225, "Chakna Makhna Achaari Masti Flavoured Makhana", "80 g"),
   },
   {
@@ -8370,7 +8370,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(238, 250, "Cornitos Roasted Pumpkin Seeds (Salted)", "200 g"),
   },
   {
@@ -8379,7 +8379,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "24 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(39, 42, "Nutty Gritties Premium Spicy Trail Mix", "24 g"),
   },
   {
@@ -8388,7 +8388,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(255, 300, "True Elements 7 in 1 Roasted Seeds Mix", "250 g"),
   },
   {
@@ -8397,7 +8397,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(187, 250, "Kepps Salt & Pepper Flavoured Makhana", "70 g"),
   },
   {
@@ -8406,7 +8406,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "26 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/480576a.jpg",
     offers: generateStoreOffers(54, 65, "Paper Boat Mix Nuts Smoked with Himalayan Pink Salt", "26 g"),
   },
   {
@@ -8415,7 +8415,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(365, 525, "Shree Daana Phool Makhana", "250 g"),
   },
   {
@@ -8424,7 +8424,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(74, 90, "Omay Foods Roasted Soyabean (Protein Rich)", "160 g"),
   },
   {
@@ -8433,7 +8433,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(168, 199, "Makhana Mantra Peri Peri Flavoured Makhana", "75 g"),
   },
   {
@@ -8442,7 +8442,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(130, 130, "Meiji Yan Yan Chocolate Dip Biscuit Sticks", "50 g"),
   },
   {
@@ -8451,7 +8451,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "42 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(72, 80, "Sattviko Caramel Roasted Flavoured Makhana", "42 g"),
   },
   {
@@ -8460,7 +8460,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(110, 140, "Sattviko Roasted Noodles Masala Flavoured Makhana", "52 g"),
   },
   {
@@ -8469,7 +8469,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(135, 150, "Wingreens Farms Chilli and Garlic Pita Chips", "100 g"),
   },
   {
@@ -8478,7 +8478,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(200, 239, "Farmley Achaari Flavoured Makhana Roasted In Olive Oil", "77 g"),
   },
   {
@@ -8487,7 +8487,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(130, 130, "Meiji Yan Yan Strawberry Dip Biscuit Sticks", "50 g"),
   },
   {
@@ -8496,7 +8496,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(389, 525, "Tashi Naturals Makhana", "250 g"),
   },
   {
@@ -8505,7 +8505,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "325 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(414, 489, "Farmley Snack Trail Mix (Mexican Peri Peri)", "325 g"),
   },
   {
@@ -8514,7 +8514,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 239, "Happilo Pink Salt & Pepper Flavoured Makhana", "80 g"),
   },
   {
@@ -8523,7 +8523,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/480576a.jpg",
     offers: generateStoreOffers(112, 130, "Paper Boat Absolute Health Dry Fruit Trail Mix", "70 g"),
   },
   {
@@ -8532,7 +8532,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(187, 250, "Kepps Peri Peri Flavoured Makhana", "70 g"),
   },
   {
@@ -8541,7 +8541,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(90, 90, "Popular Roasties Crunchies Flavoured Almonds (Desi Dhamaka) (Badam)", "45 g"),
   },
   {
@@ -8550,7 +8550,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "2 x 36 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(177, 198, "Farmley Roasted Black Pepper Flavoured Cashew - Pack of 2 (Flavoured Jidipappu)", "2 x 36 g"),
   },
   {
@@ -8559,7 +8559,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "2 x 135 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(428, 650, "Open Secret Flavoured Cashew - Namkeen Cream & Onion - Pack of 2", "2 x 135 g"),
   },
   {
@@ -8568,7 +8568,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "2 x 135 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(300, 650, "Open Secret Nutty Tandoori Masala Nut Mix (Almonds, Peanuts & Cashews) - Pack of 2", "2 x 135 g"),
   },
   {
@@ -8577,7 +8577,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/359086a.jpg",
     offers: generateStoreOffers(107, 107, "Ambika No 5 Appalam Papad", "150 g"),
   },
   {
@@ -8586,7 +8586,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/477193a.jpg",
     offers: generateStoreOffers(45, 45, "Veerabhadra Salto Rings Fryums", "200 g"),
   },
   {
@@ -8595,7 +8595,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/481020a.jpg",
     offers: generateStoreOffers(42, 50, "DNV Appalam Papad", "100 g"),
   },
   {
@@ -8604,7 +8604,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/794740a.jpg",
     offers: generateStoreOffers(180, 185, "Frigo Ready To Fry Falahari Potato Chips", "400 g"),
   },
   {
@@ -8613,7 +8613,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/368453a.jpg",
     offers: generateStoreOffers(77, 77, "Ambika Appalam No.6 Papad", "100 g"),
   },
   {
@@ -8631,7 +8631,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(35, 35, "Veerabhadra Fryums", "100 g"),
   },
   {
@@ -8649,7 +8649,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 50, "DNV Sabudana Papad", "100 g"),
   },
   {
@@ -8658,7 +8658,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 80, "Lijjat Plain Urad Dal Papad", "200 g"),
   },
   {
@@ -8667,7 +8667,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/501328a.jpg",
     offers: generateStoreOffers(34, 45, "Ramji Pani Puri Papad", "100 g"),
   },
   {
@@ -8676,7 +8676,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/15558a.jpg",
     offers: generateStoreOffers(80, 80, "Lijjat Moong Dal Papad", "200 g"),
   },
   {
@@ -8694,7 +8694,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(115, 115, "Lijjat Punjabi Masala Papad", "250 g"),
   },
   {
@@ -8703,7 +8703,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(58, 80, "Ramji Tingo Fryums", "200 g"),
   },
   {
@@ -8712,7 +8712,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 75, "Veerabhadra Masala Sabudana Papad", "200 g"),
   },
   {
@@ -8721,7 +8721,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(100, 100, "Lijjat Urad Dal Papad", "250 g"),
   },
   {
@@ -8730,7 +8730,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(56, 60, "Priya Urad Dal Plain Appalam Papad", "100 g"),
   },
   {
@@ -8739,7 +8739,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(58, 80, "Ramji Mix Fryums", "200 g"),
   },
   {
@@ -8748,7 +8748,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 75, "Veerabhadra Sabudana Papad", "200 g"),
   },
   {
@@ -8757,7 +8757,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "220 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(175, 180, "Chokhi Dhani Ready to Cook Pani Puri Chaat", "220 g"),
   },
   {
@@ -8784,7 +8784,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(80, 80, "Lijjat Garlic Papad", "200 g"),
   },
   {
@@ -8802,7 +8802,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(50, 80, "Ramji Onion Fryums", "200 g"),
   },
   {
@@ -8811,7 +8811,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/11629a.jpg",
     offers: generateStoreOffers(66, 119, "Shareat Foochka Mint", "200 g"),
   },
   {
@@ -8820,7 +8820,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 45, "Veerabhadra Salto Wheat Flower Fryums", "200 g"),
   },
   {
@@ -8829,7 +8829,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Rice Flour Khichiya Papad", "200 g"),
   },
   {
@@ -8838,7 +8838,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(126, 143, "Bikaji Dil Khush Moong and Urad Dal Papad", "400 g"),
   },
   {
@@ -8847,7 +8847,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 80, "Ramji Finger Mix Fryums", "200 g"),
   },
   {
@@ -8856,7 +8856,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(66, 99, "Ramji Jeera Rice Papad", "200 g"),
   },
   {
@@ -8865,7 +8865,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(66, 119, "Shareat Sweet & Spicy Pani Puri", "200 g"),
   },
   {
@@ -8874,7 +8874,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "Veerabhadra Madras Appalam Papad", "100 g"),
   },
   {
@@ -8883,7 +8883,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 75, "Veerabhadra Sago Fryums", "200 g"),
   },
   {
@@ -8892,7 +8892,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(89, 89, "Wah Luft Pani Puri Pellets", "200 g"),
   },
   {
@@ -8910,7 +8910,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(61, 65, "Priya Jeera Appalam Papad", "100 g"),
   },
   {
@@ -8919,7 +8919,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(55, 99, "Shareat Foochka Millets Pani Puri", "200 g"),
   },
   {
@@ -8937,7 +8937,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(76, 85, "DNV Punjabi Masala Papad", "180 g"),
   },
   {
@@ -8946,7 +8946,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(139, 139, "Wah Luft Pani Puri", "150 g"),
   },
   {
@@ -8955,7 +8955,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(61, 65, "Priya Garlic Appalam Papad", "100 g"),
   },
   {
@@ -8964,7 +8964,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/95031a.jpg",
     offers: generateStoreOffers(50, 80, "Ramji Garlic Fryums", "200 g"),
   },
   {
@@ -8982,7 +8982,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 100, "Whole Farm Premium Appalam Papad", "200 g"),
   },
   {
@@ -9000,7 +9000,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(61, 65, "Priya Pepper Appalam Papad", "100 g"),
   },
   {
@@ -9009,7 +9009,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(291, 330, "Bikaji Baat Cheet Dal Papad", "1 kg"),
   },
   {
@@ -9018,7 +9018,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(60, 60, "Balaji Udad Papad", "200 g"),
   },
   {
@@ -9027,7 +9027,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 100, "Whole Farm Special Urad Dal Papad", "200 g"),
   },
   {
@@ -9054,7 +9054,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 40, "Balaji Wheat Flour Khichiya Papad", "200 g"),
   },
   {
@@ -9063,7 +9063,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(61, 65, "Priya Ajwain Appalam Papad", "100 g"),
   },
   {
@@ -9081,7 +9081,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(73, 110, "Ramji Sabudana Papad", "150 g"),
   },
   {
@@ -9090,7 +9090,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(87, 159, "Shareat Get Set Treat Pani Puri", "180 g"),
   },
   {
@@ -9099,7 +9099,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(70, 70, "Veerabhadra Ajwain Papad (Poha)", "200 g"),
   },
   {
@@ -9108,7 +9108,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/477188a.jpg",
     offers: generateStoreOffers(45, 45, "Veerabhadra Maka Makka Poha", "250 g"),
   },
   {
@@ -9117,7 +9117,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(69, 69, "Flavours Of Calicut Kerala Papad", "120 g"),
   },
   {
@@ -9126,7 +9126,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(70, 70, "Veerabhadra Salto Rice Papad", "200 g"),
   },
   {
@@ -9135,7 +9135,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/316383a.jpg",
     offers: generateStoreOffers(127, 127, "Ambika Appalam No 4 Papad", "180 g"),
   },
   {
@@ -9144,7 +9144,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10044a.jpg",
     offers: generateStoreOffers(31, 50, "DNV Red Chilli Sabudana Papad", "70 g"),
   },
   {
@@ -9153,7 +9153,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "225 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(157, 157, "Ambika No 3 Appalam Papad", "225 g"),
   },
   {
@@ -9162,7 +9162,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "50 units",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(197, 197, "Ambika Appalam No 2 Papad", "50 units"),
   },
   {
@@ -9171,7 +9171,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(124, 140, "Bikaji Baat Cheet Moong and Urad Dal Papad", "400 g"),
   },
   {
@@ -9189,7 +9189,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/199435a.jpg",
     offers: generateStoreOffers(73, 110, "Ramji Mini Potato Papad", "150 g"),
   },
   {
@@ -9198,7 +9198,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(58, 80, "Ramji Net Fryums", "200 g"),
   },
   {
@@ -9207,7 +9207,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(60, 60, "Veerabhadra Punjabi Masala Papad", "100 g"),
   },
   {
@@ -9216,7 +9216,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(61, 65, "Priya Masala Appalam Papad", "100 g"),
   },
   {
@@ -9225,7 +9225,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(70, 70, "Veerabhadra Masala Rice Papad", "200 g"),
   },
   {
@@ -9243,7 +9243,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(68, 110, "Ramji Sago/ Sabudana Papad", "150 g"),
   },
   {
@@ -9252,7 +9252,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Imported Snacks",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(36, 40, "Koh Kae Peanut Namkeen With Crispy Snack", "35 g"),
   },
   {
@@ -9261,7 +9261,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Imported Snacks",
     unit: "38 g",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(32, 35, "Koh Kae Salted Peanut Namkeen", "38 g"),
   },
   {
@@ -9270,7 +9270,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Imported Snacks",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(167, 185, "Koh Kae Roasted Party Nut Mix With Crispy Snacks", "160 g"),
   },
   {
@@ -9288,7 +9288,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Imported Snacks",
     unit: "44 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40004455_7-ferrero-rocher-chocolates.jpg",
     offers: generateStoreOffers(199, 199, "Hanuta Ferrero Crunchy Hazelnut Wafer Chocolate Biscuit", "44 g"),
   },
   {
@@ -9297,7 +9297,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Imported Snacks",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(1080, 1200, "Urban Platter Shelled Brazil Nuts", "250 g"),
   },
   {
@@ -9342,7 +9342,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(360, 400, "Elevate Cocoa & Almond High protein Granola", "300 g"),
   },
   {
@@ -9351,7 +9351,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(360, 400, "Elevate Almond & Seeds High Protein Granola", "300 g"),
   },
   {
@@ -9360,7 +9360,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
     offers: generateStoreOffers(360, 400, "Elevate Apple & Cinnamon High Protein Granola", "300 g"),
   },
   {
@@ -9378,7 +9378,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(255, 260, "True Elements Dark Chocolate Granola", "400 g"),
   },
   {
@@ -9387,7 +9387,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "315 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(375, 375, "Kibi Kibi Chunky Chocolate Granola", "315 g"),
   },
   {
@@ -9396,7 +9396,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "315 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(375, 375, "Kibi Kibi Classic Fruit & Nut Granola", "315 g"),
   },
   {
@@ -9405,7 +9405,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(599, 1399, "HyperFoods Kaju Katli & Dry Kachori Gift Pack", "350 g"),
   },
   {
@@ -9414,7 +9414,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(699, 1539, "HyperFoods Sweets & Munchies Gift Pack by", "500 g"),
   },
   {
@@ -9423,7 +9423,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "375 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(468, 550, "4700BC Nutty Tuxedo Chocolate Gourmet Popcorn Tin", "375 g"),
   },
   {
@@ -9432,7 +9432,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "460 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(776, 1000, "4700BC Popcorn Gift Box of 4, Sweet & Savoury", "460 g"),
   },
   {
@@ -9441,7 +9441,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(625, 1250, "Two Brothers Bachpan Ka Bandhan Bhaiya Box Rakhi Gift Pack", "500 g"),
   },
   {
@@ -9450,7 +9450,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(750, 1500, "Two Brothers Rishton ka Bandhan Bhaiya - Bhabhi Box Rakhi Gift Pack", "500 g"),
   },
   {
@@ -9459,7 +9459,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(70, 70, "Nestle KitKat Chunky Wafer Chocolate", "40 g"),
   },
   {
@@ -9468,7 +9468,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "38.5 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(30, 30, "Nestle KitKat 4 Fingers Choco Coated Wafer Bar", "38.5 g"),
   },
   {
@@ -9477,7 +9477,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 45, "Amul Dark Chocolate Bar", "35 g"),
   },
   {
@@ -9486,7 +9486,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "38.5 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(20, 20, "Nestle Munch Max Choco Coated Crunchy Wafer Bar", "38.5 g"),
   },
   {
@@ -9495,7 +9495,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1582293041079-7814c2f12063?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(68, 75, "Snickers Peanut Brownie Chocolate Filled Bar", "45 g"),
   },
   {
@@ -9504,7 +9504,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 45, "Amul Sugar Free Dark Chocolate Bar", "35 g"),
   },
   {
@@ -9513,7 +9513,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "34 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(36, 36, "Cadbury Dairy Milk Milkinis Milk Chocolate Bar", "34 g"),
   },
   {
@@ -9522,7 +9522,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1582293041079-7814c2f12063?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 45, "Snickers Peanut Nougat & Caramel Chocolate Filled Bar", "40 g"),
   },
   {
@@ -9531,7 +9531,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "56 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(90, 100, "Galaxy Smooth Milk Chocolate Bar with Goodness of Milk & Cocoa", "56 g"),
   },
   {
@@ -9540,7 +9540,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(143, 150, "Cadbury Bournville 70% Dark Dark Chocolate Bar", "75 g"),
   },
   {
@@ -9549,7 +9549,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(99, 105, "Cadbury Dairy Milk Silk Milk Chocolate Bar", "60 g"),
   },
   {
@@ -9558,7 +9558,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(25, 25, "Cadbury Dairy Milk Chocolate Bar", "25 g"),
   },
   {
@@ -9567,7 +9567,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(144, 180, "Galaxy Smooth Milk Chocolate Bar", "110 g"),
   },
   {
@@ -9576,7 +9576,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "22.4 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "Kinder Schoko Bons Crispy", "22.4 g"),
   },
   {
@@ -9585,7 +9585,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35.2 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(20, 20, "Cadbury 5 Star Chocolate Filled Bar", "35.2 g"),
   },
   {
@@ -9594,7 +9594,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "Kinder Joy Blue 20g", "20 g"),
   },
   {
@@ -9603,7 +9603,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(85, 100, "Galaxy Cookie Crumble Milk Chocolate Bar With Cookie Pieces", "50 g"),
   },
   {
@@ -9612,7 +9612,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "46 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(100, 100, "Cadbury Dairy Milk Silk Bubbly Milk Chocolate Bar", "46 g"),
   },
   {
@@ -9621,7 +9621,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "32 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(40, 50, "Nestle KitKat Choco-Coated Wafer Pops", "32 g"),
   },
   {
@@ -9630,7 +9630,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "51 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(100, 100, "Cadbury Dairy Milk Silk Fruit & Nut Small Milk Chocolate Bar", "51 g"),
   },
   {
@@ -9639,7 +9639,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "89 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(547, 575, "Loyka Dubai Kunafa Chocolate Bar", "89 g"),
   },
   {
@@ -9648,7 +9648,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "115.5 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(54, 60, "Nestle Munch Max - Choco Coated Crunchy Wafer Chocolate", "115.5 g"),
   },
   {
@@ -9657,7 +9657,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(100, 100, "Cadbury Dairy Milk Silk Roast Almond Milk Chocolate Bar", "52 g"),
   },
   {
@@ -9666,7 +9666,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "24.97 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(20, 20, "Cadbury Gems Duo Chocolates Pack", "24.97 g"),
   },
   {
@@ -9675,7 +9675,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(90, 99, "Mars Nougat & Caramel Chocolate Filled Bar", "40 g"),
   },
   {
@@ -9684,7 +9684,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "42 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 40, "Nestle Milkybar Creamy Milky Treat", "42 g"),
   },
   {
@@ -9693,7 +9693,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(102, 110, "Cadbury Dairy Milk Silk Desserts Brownie Milk Chocolate Bar", "70 g"),
   },
   {
@@ -9702,7 +9702,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "37.5 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(25, 25, "Nestle Munch Max Nuts Double Choco Coated Wafer Bar", "37.5 g"),
   },
   {
@@ -9711,7 +9711,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(40, 40, "Cadbury Dairy Milk Crispello Milk Chocolate Bar", "35 g"),
   },
   {
@@ -9720,7 +9720,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "78 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(129, 135, "Cadbury Bournville Cranberry Dark Chocolate Bar", "78 g"),
   },
   {
@@ -9729,7 +9729,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(20, 20, "Cadbury Perk Plus Coated Wafer Chocolate Bar", "40 g"),
   },
   {
@@ -9738,7 +9738,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "36 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(50, 50, "Cadbury Dairy Milk Crackle Milk Chocolate Bar", "36 g"),
   },
   {
@@ -9747,7 +9747,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "46 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(52, 53, "Cadbury Dairy Milk Milk Chocolate Bar", "46 g"),
   },
   {
@@ -9756,7 +9756,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 180, "Amul 99% Cacao Dark Chocolate Bar", "125 g"),
   },
   {
@@ -9765,7 +9765,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(90, 90, "Nestle KitKat Delights Rich Wafer Bar", "50 g"),
   },
   {
@@ -9774,7 +9774,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 180, "Amul 55% Cocoa Dark Chocolate Bar", "150 g"),
   },
   {
@@ -9783,7 +9783,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "36 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(50, 50, "Cadbury Dairy Milk Roast Almond Milk Chocolate Bar", "36 g"),
   },
   {
@@ -9792,7 +9792,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(55, 55, "Cadbury Bournville Fruit & Nut Dark Chocolate Bar", "30 g"),
   },
   {
@@ -9801,7 +9801,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "19 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(23, 25, "Kinder Creamy Milky & Crunchy", "19 g"),
   },
   {
@@ -9810,7 +9810,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(299, 599, "TABS Dark Aphrodisiac Chocolate", "20 g"),
   },
   {
@@ -9819,7 +9819,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(95, 95, "KitKat Delights Dark Wafer Chocolate", "50 g"),
   },
   {
@@ -9828,7 +9828,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "5 x 9 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(25, 30, "Choki Choki XL Choco Milk Chocolate", "5 x 9 g"),
   },
   {
@@ -9837,7 +9837,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(110, 125, "Cadbury Temptations Rum & Raisins Premium Milk Chocolate Bar", "70 g"),
   },
   {
@@ -9846,7 +9846,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(110, 125, "Cadbury Temptations Almond Treat Premium Milk Chocolate Bar", "70 g"),
   },
   {
@@ -9855,7 +9855,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(129, 135, "Cadbury Bournville Fruit & Nut Dark Chocolate Bar", "75 g"),
   },
   {
@@ -9864,7 +9864,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 30, "Amul Almondbar Milk Chocolate Bar", "35 g"),
   },
   {
@@ -9873,7 +9873,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "225 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(113, 120, "Choki Choki Chocomilk Shaped Chocolates", "225 g"),
   },
   {
@@ -9882,7 +9882,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 180, "Amul Sugar Free Dark Chocolate Bar", "150 g"),
   },
   {
@@ -9900,7 +9900,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "37.5 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(25, 25, "Nestle Munch Brownie Max Choco Coated Wafer Chocolate", "37.5 g"),
   },
   {
@@ -9909,7 +9909,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 40, "Nestle Munch Max Crunchies Chocolate Bar", "45 g"),
   },
   {
@@ -9918,7 +9918,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(279, 310, "Karachi Bakery Dubai Kunafa Chocolate Bar", "90 g"),
   },
   {
@@ -9927,7 +9927,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(249, 295, "Chocobles Pistachio Kunafa Chocolate Bar", "95 g"),
   },
   {
@@ -9936,7 +9936,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(50, 50, "Nestle Milkybar Butterscotch Bite White Chocolate Bar", "45 g"),
   },
   {
@@ -9945,7 +9945,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(143, 150, "Cadbury Bournville Intense Orange 70% Dark Chocolate Bar", "75 g"),
   },
   {
@@ -9954,7 +9954,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "144 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(201, 225, "Cadbury Dairy Milk Silk Milk Chocolate Bar", "144 g"),
   },
   {
@@ -9963,7 +9963,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(115, 200, "Amul India Twilight Tryst Dark Chocolate Bar (55 % Rich in Cocoa)", "125 g"),
   },
   {
@@ -9972,7 +9972,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "57 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(50, 50, "Nestle KitKat Share & Snap 2x3 Fingers Wafer Bar", "57 g"),
   },
   {
@@ -9981,7 +9981,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "48.5 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(100, 100, "Cadbury Dairy Milk Silk Mousse Milk Chocolate Bar", "48.5 g"),
   },
   {
@@ -9990,7 +9990,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 180, "Amul 90% Bitter Dark Chocolate Bar", "150 g"),
   },
   {
@@ -9999,7 +9999,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "56 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(119, 140, "Galaxy Fusions Dark Chocolate Bar with 70% Cocoa", "56 g"),
   },
   {
@@ -10008,7 +10008,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(62, 65, "Galaxy Smooth Milk Chocolate Bar", "30 g"),
   },
   {
@@ -10017,7 +10017,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(55, 55, "Cadbury Bournville Rich Cocoa Dark Chocolate Bar", "30 g"),
   },
   {
@@ -10026,7 +10026,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(55, 55, "Cadbury Bournville Cranberry Dark Chocolate Bar", "30 g"),
   },
   {
@@ -10035,7 +10035,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(129, 135, "Cadbury Bournville Rich Cocoa 50% Dark Chocolate Bar", "75 g"),
   },
   {
@@ -10044,7 +10044,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(45, 45, "Cadbury 5 Star Oreo Chocolate Filled Bar", "40 g"),
   },
   {
@@ -10053,7 +10053,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(292, 310, "The Whole Truth Rich 71% Cocoa Bar", "80 g"),
   },
   {
@@ -10062,7 +10062,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "124 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(205, 215, "Cadbury Dairy Milk Silk Oreo Large Milk Chocolate Bar", "124 g"),
   },
   {
@@ -10071,7 +10071,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "54 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(100, 100, "Cadbury Dairy Milk Silk Ganache Milk Chocolate Bar", "54 g"),
   },
   {
@@ -10080,7 +10080,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "43 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(45, 45, "Cadbury Fuse Peanut & Caramel Chocolate Filled Bar", "43 g"),
   },
   {
@@ -10107,7 +10107,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "94.04 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(90, 100, "Cadbury Gems Mini Treats Shaped Chocolate Pack", "94.04 g"),
   },
   {
@@ -10116,7 +10116,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(220, 220, "Morde Dark Compound Chocolate Bar", "400 g"),
   },
   {
@@ -10125,7 +10125,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(168, 210, "KitKat Delights Rich Wafer Chocolate with Greeting Card", "150 g"),
   },
   {
@@ -10134,7 +10134,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(99, 105, "Cadbury Dairy Milk Fruit & Nut Milk Chocolate Bar", "75 g"),
   },
   {
@@ -10143,7 +10143,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "36 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(132, 139, "Chocobles Kunafa Chocolate Truffles", "36 g"),
   },
   {
@@ -10152,7 +10152,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(99, 99, "Bounty Coconut Chocolate Filled Bar", "50 g"),
   },
   {
@@ -10161,7 +10161,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(129, 135, "Cadbury Bournville Orange 50% Dark Chocolate Bar", "75 g"),
   },
   {
@@ -10170,7 +10170,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "112 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(205, 215, "Cadbury Dairy Milk Silk Bubbly Milk Chocolate Bar", "112 g"),
   },
   {
@@ -10188,7 +10188,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(90, 90, "KitKat Delights Caramel Coated Wafer Chocolate", "50 g"),
   },
   {
@@ -10197,7 +10197,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(68, 75, "Snickers Almond Filled Chocolate Bar", "40 g"),
   },
   {
@@ -10206,7 +10206,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(40, 40, "Cadbury 5 Star 3D Filled Bar", "40 g"),
   },
   {
@@ -10215,7 +10215,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "185.6 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(116, 116, "Cadbury Dairy Milk Shots", "185.6 g"),
   },
   {
@@ -10224,7 +10224,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "1 pack",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(150, 150, "Kinder Joy Pink (Pack of 3)", "1 pack"),
   },
   {
@@ -10251,7 +10251,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(204, 220, "Darkins Chocolates Blueberry 70% Dark Chocolate", "50 g"),
   },
   {
@@ -10260,7 +10260,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(160, 160, "Amul Belgian Smooth and Creamy Milk Chocolate Bar", "125 g"),
   },
   {
@@ -10269,7 +10269,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "78 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(129, 135, "Cadbury Bournville Rum & Raisin Dark Chocolate Bar", "78 g"),
   },
   {
@@ -10278,7 +10278,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "54 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(100, 100, "Cadbury Dairy Milk Silk Hazelnut Small Milk Chocolate Bar", "54 g"),
   },
   {
@@ -10287,7 +10287,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "14.69 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(42, 45, "Cadbury Gems Surprise Chocolates Ball", "14.69 g"),
   },
   {
@@ -10305,7 +10305,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(309, 335, "The Whole Truth Hazelnut 47% Cocoa Bar", "80 g"),
   },
   {
@@ -10314,7 +10314,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(88, 99, "Twix Cookie Caramel Chocolate Filled Bar", "50 g"),
   },
   {
@@ -10323,7 +10323,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(186, 200, "Darkins Chocolates Citrus Blast Chocolate Pebbles", "50 g"),
   },
   {
@@ -10332,7 +10332,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 180, "Amul Smooth & Creamy Milk Chocolate Bar", "150 g"),
   },
   {
@@ -10350,7 +10350,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "1 pack",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(150, 150, "Kinder Joy Blue (Pack of 3) 60g", "1 pack"),
   },
   {
@@ -10368,7 +10368,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(42, 45, "Cadbury Dairy Milk Lickables Shaped Chocolates with Oreo Chunks", "20 g"),
   },
   {
@@ -10377,7 +10377,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 699, "E.Wedel Classic 64% Cocoa Dark Chocolate Bar", "90 g"),
   },
   {
@@ -10386,7 +10386,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(265, 265, "Morde Milk Compound Chocolate Bar", "400 g"),
   },
   {
@@ -10395,7 +10395,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(204, 220, "Darkins Roasted Almonds 70% Dark Chocolate", "50 g"),
   },
   {
@@ -10404,7 +10404,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "63 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(120, 120, "KitKat Delights Double Choco Wafer Chocolate", "63 g"),
   },
   {
@@ -10413,7 +10413,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "134 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(205, 215, "Cadbury Dairy Milk Silk Hazelnut Milk Chocolate Bar", "134 g"),
   },
   {
@@ -10422,7 +10422,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(299, 399, "Entisi Chocolatier Harry Potter 9¾ Milk Chocolate Bar", "50 g"),
   },
   {
@@ -10431,7 +10431,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(234, 275, "Galaxy Fusions Dark Chocolate Bar with 70% Cocoa", "110 g"),
   },
   {
@@ -10449,7 +10449,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(98, 110, "Nova Nova Best Bite Chocolate Filled Waffle Cones - Dark Chocolate", "50 g"),
   },
   {
@@ -10458,7 +10458,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "112 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(168, 210, "KitKat Delights Choco Lava Wafer Chocolate Bar", "112 g"),
   },
   {
@@ -10467,7 +10467,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(210, 210, "KitKat Delights Hazelnut Wafer Chocolate Bar", "120 g"),
   },
   {
@@ -10476,7 +10476,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(115, 200, "Amul India Twilight Tryst Single Origin Milk Chocolate Bar", "125 g"),
   },
   {
@@ -10485,7 +10485,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(204, 220, "Darkins Orange 63% Dark Chocolate", "50 g"),
   },
   {
@@ -10494,7 +10494,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(99, 120, "Didier & Frank Sweet - 50% Dark Chocolate Bar", "40 g"),
   },
   {
@@ -10503,7 +10503,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(549, 610, "Karachi Bakery Dubai Kunafa Chocolate Bar (200 g)", "180 g"),
   },
   {
@@ -10512,7 +10512,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "96 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(510, 575, "Le Pure Dubai Pistachio Kunafa Dark Chocolate Bar", "96 g"),
   },
   {
@@ -10521,7 +10521,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(599, 599, "Lindt Excellence 70% Cocoa Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10539,7 +10539,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "72 g",
-    image: "https://images.unsplash.com/photo-1582293041079-7814c2f12063?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(64, 75, "Snickers Duo Peanut Filled Bar", "72 g"),
   },
   {
@@ -10548,7 +10548,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(292, 310, "The Whole Truth Orange 71% Cocoa Bar", "80 g"),
   },
   {
@@ -10557,7 +10557,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(299, 399, "Toblerone Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10566,7 +10566,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(213, 225, "Chocoville Dark Compound Chocolate Bar", "500 g"),
   },
   {
@@ -10575,7 +10575,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(549, 549, "Lindt Lindor White Chocolate Bar", "100 g"),
   },
   {
@@ -10584,7 +10584,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(270, 270, "Morde White Compound Chocolate Bar", "400 g"),
   },
   {
@@ -10593,7 +10593,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "95 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(327, 349, "Milka Broken Hazelnut Milk Chocolate Bar", "95 g"),
   },
   {
@@ -10602,7 +10602,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(214, 214, "Cadbury Dairy Milk Silk Mousse Milk Chocolate Bar", "110 g"),
   },
   {
@@ -10611,7 +10611,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(257, 270, "Chocoville White Compound Chocolate Bar", "500 g"),
   },
   {
@@ -10620,7 +10620,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "131 g",
-    image: "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(447, 475, "Fabelle Strawberry Cheesecake Handcrafted Centre Filled Milk Chocolate Bar", "131 g"),
   },
   {
@@ -10629,7 +10629,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "37 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(177, 199, "Maltesers Shaped Chocolate", "37 g"),
   },
   {
@@ -10638,7 +10638,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(725, 725, "Manam Chocolate Almond Praline Clusters", "200 g"),
   },
   {
@@ -10647,7 +10647,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(495, 495, "Manam Chocolate Indian Origin Tablet No. 1 Milk Chocolate Bar", "80 g"),
   },
   {
@@ -10656,7 +10656,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "33 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(129, 185, "Ritter Sport Cornflakes & Hazelnuts Chocolate Pack", "33 g"),
   },
   {
@@ -10665,7 +10665,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(197, 210, "The Cinnamon Kitchen Cacao, Almond & Berry Rocks Dark Chocolate", "50 g"),
   },
   {
@@ -10674,7 +10674,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(292, 310, "The Whole Truth Almond Raisin 47% Cocoa Bar", "80 g"),
   },
   {
@@ -10683,7 +10683,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(292, 310, "The Whole Truth Rich 55% Cocoa Bar", "80 g"),
   },
   {
@@ -10692,7 +10692,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(299, 399, "Toblerone Fruit & Nut Milk Chocolate Bar", "100 g"),
   },
   {
@@ -10701,7 +10701,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(299, 399, "Toblerone White Chocolate Bar", "100 g"),
   },
   {
@@ -10710,7 +10710,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(570, 600, "Le Pure Hazelnut Heart Chocolate Gift Pack", "100 g"),
   },
   {
@@ -10719,7 +10719,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(210, 210, "Nestle KitKat Delights Rich Wafer Bar", "150 g"),
   },
   {
@@ -10728,7 +10728,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(249, 299, "Didier & Frank Wicked 85% Dark Chocolate Bar", "80 g"),
   },
   {
@@ -10737,7 +10737,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(268, 285, "The Cinnamon Kitchen Sugar-Free Cacao & Berry Rocks Dark Chocolate", "50 g"),
   },
   {
@@ -10746,7 +10746,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40018532_8-nestle-kitkat-share-bag-2-fingers-wafer-bar.jpg",
     offers: generateStoreOffers(220, 220, "Nestle KitKat Delights Dark Wafer Bar", "150 g"),
   },
   {
@@ -10755,7 +10755,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(204, 225, "Nova Nova Best Bite Chocolate Filled Waffle Cones -Belgian, Dark & White Chocolate", "100 g"),
   },
   {
@@ -10764,7 +10764,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(599, 599, "Lindt Excellence 90% Cocoa Supreme Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10773,7 +10773,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(222, 240, "Darkins 70% Dark Chocolate Bar (Andhra Cacao)", "50 g"),
   },
   {
@@ -10782,7 +10782,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(495, 495, "Manam Chocolate Origin Tablet No. 5 Dark Chocolate Bar", "80 g"),
   },
   {
@@ -10791,7 +10791,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 699, "E.Wedel White Chocolate Bar", "80 g"),
   },
   {
@@ -10800,7 +10800,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(599, 599, "Lindt Excellence 85% Cocoa Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10809,7 +10809,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(599, 599, "Lindt Excellence Orange Intense Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10818,7 +10818,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(349, 399, "Didier & Frank 99% Ultimate Dark Chocolate Bar", "80 g"),
   },
   {
@@ -10827,7 +10827,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(549, 549, "Lindt Lindor Filled Milk Chocolate Bar", "100 g"),
   },
   {
@@ -10836,7 +10836,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "48 g",
-    image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(95, 99, "Loyka Choco Dates", "48 g"),
   },
   {
@@ -10845,7 +10845,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(327, 349, "Milka Oreo Milk Chocolate Bar", "90 g"),
   },
   {
@@ -10854,7 +10854,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(745, 745, "Manam Chocolate Dark Chocolate & Orange Clusters", "200 g"),
   },
   {
@@ -10863,7 +10863,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 699, "E.Wedel Extra Milk Chocolate Bar with Hazelnuts", "80 g"),
   },
   {
@@ -10872,7 +10872,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 699, "E.Wedel Classic Milk Chocolate Bar", "90 g"),
   },
   {
@@ -10881,7 +10881,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(223, 259, "The Select Aisle Milk Compound Chocolate Bar", "500 g"),
   },
   {
@@ -10890,7 +10890,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(126, 140, "Karachi Bakery 35% Milk Almonds Shaped Chocolates", "50 g"),
   },
   {
@@ -10899,7 +10899,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(223, 259, "The Select Aisle White Compound Chocolate Bar", "500 g"),
   },
   {
@@ -10908,7 +10908,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(275, 275, "Lindt Extra Creamy Dark Chocolate Bar", "35 g"),
   },
   {
@@ -10917,7 +10917,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(179, 179, "Lo Foods Sugar Free Dark Chocolate Bar (Almond Delight)", "40 g"),
   },
   {
@@ -10926,7 +10926,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(319, 500, "Ritter Sport Marzipan Milk Chocolate Bar", "100 g"),
   },
   {
@@ -10944,7 +10944,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(599, 599, "Lindt Excellence Caramel Sea Salt Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10953,7 +10953,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(319, 500, "Ritter Sport Milk Chocolate Bar with Cornflakes", "100 g"),
   },
   {
@@ -10962,7 +10962,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(327, 349, "Milka Cow Spot Milk Chocolate Bar", "90 g"),
   },
   {
@@ -10971,7 +10971,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40004455_7-ferrero-rocher-chocolates.jpg",
     offers: generateStoreOffers(482, 499, "Ferrero Weiss Haselnuss White Chocolate Bar", "90 g"),
   },
   {
@@ -10980,7 +10980,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(252, 265, "Chocoville Milk Compound Chocolate Bar", "500 g"),
   },
   {
@@ -10989,7 +10989,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(200, 200, "Amul Best Wishes Dark Chocolate Bar", "150 g"),
   },
   {
@@ -10998,7 +10998,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(327, 349, "Milka Alpine Milk Chocolate Bar", "90 g"),
   },
   {
@@ -11007,7 +11007,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(319, 500, "Ritter Sport Fine Milk Chocolate Bar", "100 g"),
   },
   {
@@ -11016,7 +11016,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(275, 275, "Lindt Extra Creamy Smooth Milk Chocolate Bar", "35 g"),
   },
   {
@@ -11025,7 +11025,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 199, "Kids Protein Ball - Double Chocolate Choco Comets by Kaidoo", "80 g"),
   },
   {
@@ -11034,7 +11034,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(441, 540, "Ritter Sport Colorful Mix Milk Chocolate Bar - Almond, Cornflakes & Alpine Milk", "100 g"),
   },
   {
@@ -11043,7 +11043,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "32 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(149, 199, "Godiva 72% Cocoa Dark Chocolate Bar", "32 g"),
   },
   {
@@ -11052,7 +11052,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(499, 499, "Kunafa Tales Kunafa Chocolate Bar", "200 g"),
   },
   {
@@ -11061,7 +11061,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(477, 795, "Choko La 55% Dark Chocolate Bar Buttons", "250 g"),
   },
   {
@@ -11070,7 +11070,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(282, 470, "Choko La 75% Signature Noir Dark Chocolate Bar", "80 g"),
   },
   {
@@ -11079,7 +11079,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "112.5 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(150, 150, "Sunfeast Fantastik Roast Almond Choco Treats", "112.5 g"),
   },
   {
@@ -11088,7 +11088,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "240 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(899, 999, "Foo Foods Pistachio Kunafa Chocolate Bar", "240 g"),
   },
   {
@@ -11097,7 +11097,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(349, 349, "Yalla Delights Filled & Coated Choco Dates", "120 g"),
   },
   {
@@ -11106,7 +11106,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(599, 599, "Lindt Extra Creamy Smooth Dark Chocolate Bar", "80 g"),
   },
   {
@@ -11115,7 +11115,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/11629a.jpg",
     offers: generateStoreOffers(149, 199, "No Sugar Kids Snack - Mint Choco Comets by Kaidoo", "80 g"),
   },
   {
@@ -11124,7 +11124,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(340, 340, "Cho Cho Chocolate Spread Sticks", "250 g"),
   },
   {
@@ -11133,7 +11133,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(405, 675, "Choko La 54% Sugar Free Dark Chocolate Bar", "80 g"),
   },
   {
@@ -11142,7 +11142,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(995, 1149, "Oyaki Dubai Kunafa Chocolate Bar", "200 g"),
   },
   {
@@ -11151,7 +11151,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(525, 699, "GuyLian Belgian Milk Chocolate Bar (Creamy Milk)", "100 g"),
   },
   {
@@ -11169,7 +11169,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g + 50 g + 40 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(250, 297, "Bounty Coconut Chocolate Filled Bar + Twix Cookie Caramel Chocolate Filled Bar + Mars Nougat & Caramel Chocolate Filled Bar Combo", "50 g + 50 g + 40 g"),
   },
   {
@@ -11178,7 +11178,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(250, 250, "Karachi Bakery 66% Dark Chocolate Bar", "100 g"),
   },
   {
@@ -11187,7 +11187,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(270, 450, "Choko La Almond Marbles Shaped Chocolates", "75 g"),
   },
   {
@@ -11196,7 +11196,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(357, 420, "Karachi Bakery Cocoa Dusted Almond Shaped Chocolates", "180 g"),
   },
   {
@@ -11205,7 +11205,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "85 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(425, 425, "Deseo Pistachio Kunafa Dark Chocolate Bar", "85 g"),
   },
   {
@@ -11223,7 +11223,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "2 x 65 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(270, 270, "Nourish Hive Choco Almond Protein Bar", "2 x 65 g"),
   },
   {
@@ -11232,7 +11232,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "Kinder Joy Pink 20g", "20 g"),
   },
   {
@@ -11241,7 +11241,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "58.5 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(100, 100, "Cadbury Dairy Milk Silk Oreo Milk Chocolate Bar", "58.5 g"),
   },
   {
@@ -11250,7 +11250,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "112 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(117, 130, "Cadbury Dairy Milk Milk Chocolate Bar Family Pack", "112 g"),
   },
   {
@@ -11259,7 +11259,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 180, "Amul Fruit & Nut Dark Chocolate Bar", "150 g"),
   },
   {
@@ -11268,7 +11268,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(45, 45, "Amul Milk Chocolate Bar", "35 g"),
   },
   {
@@ -11286,7 +11286,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "36 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(50, 50, "Cadbury Dairy Milk Fruit & Nut Chocolate Bar", "36 g"),
   },
   {
@@ -11295,7 +11295,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "3 pcs",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(150, 150, "Kinder Joy Suprise Pack (Harry Potter/Super Mario)", "3 pcs"),
   },
   {
@@ -11304,7 +11304,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(37, 50, "Amul Velvett Milk Chocolate Bar", "35 g"),
   },
   {
@@ -11313,7 +11313,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "129 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(205, 215, "Cadbury Dairy Milk Silk Fruit & Nut Milk Chocolate Bar", "129 g"),
   },
   {
@@ -11322,7 +11322,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "134 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(205, 215, "Cadbury Dairy Milk Silk Roast Almond Milk Chocolate Bar", "134 g"),
   },
   {
@@ -11331,7 +11331,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(210, 210, "Amul Almondo Milk Chocolate Pack", "200 g"),
   },
   {
@@ -11340,7 +11340,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 180, "Amul Bitter Dark Chocolate Bar", "150 g"),
   },
   {
@@ -11349,7 +11349,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(175, 180, "Loyka Dubai Kunafa Chocolate Bar", "40 g"),
   },
   {
@@ -11358,7 +11358,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(299, 399, "Toblerone Milk Chocolate Bar", "100 g"),
   },
   {
@@ -11376,7 +11376,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(184, 229, "The Select Aisle Dark Compound Chocolate Bar", "500 g"),
   },
   {
@@ -11385,7 +11385,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "Amul Belgian Smooth and Creamy Milk Chocolate Bar", "35 g"),
   },
   {
@@ -11403,7 +11403,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "27.5 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 80, "Galaxy Fusions Dark Chocolate Bar with 70% Cocoa", "27.5 g"),
   },
   {
@@ -11412,7 +11412,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "20 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "Kinder Joy Super Mario 20 g", "20 g"),
   },
   {
@@ -11421,7 +11421,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(292, 310, "The Whole Truth Sea Salt 71% Cocoa Bar", "80 g"),
   },
   {
@@ -11430,7 +11430,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(207, 250, "Cadbury Dairy Milk Silk Desserts Brownie Milk Chocolate Bar", "140 g"),
   },
   {
@@ -11439,7 +11439,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "65 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "Nestlé Classic Fruit ‘N’ Nut with Almond & Raisins", "65 g"),
   },
   {
@@ -11448,7 +11448,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "137 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(205, 215, "Cadbury Dairy Milk Silk Ganache Milk Chocolate Bar", "137 g"),
   },
   {
@@ -11457,7 +11457,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1582293041079-7814c2f12063?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(68, 75, "Snickers Butterscotch Flavoured Chocolate Filled Bar", "40 g"),
   },
   {
@@ -11466,7 +11466,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(225, 225, "Amul Dark Compound Chocolate Bar", "500 g"),
   },
   {
@@ -11475,7 +11475,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 180, "Amul Tropical Orange Dark Chocolate Bar", "150 g"),
   },
   {
@@ -11484,7 +11484,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(140, 200, "Amul Velvett Milk Chocolate Bar", "150 g"),
   },
   {
@@ -11493,7 +11493,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "130 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(509, 575, "Fabelle Intense 84% Dark Chocolate Centre Filled Bar", "130 g"),
   },
   {
@@ -11502,7 +11502,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "121 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(509, 575, "Fabelle Open Secret Milk Chocolate Bar", "121 g"),
   },
   {
@@ -11511,7 +11511,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/16085a.jpg",
     offers: generateStoreOffers(47, 50, "Paancho Choco Paan Dates", "30 g"),
   },
   {
@@ -11520,7 +11520,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1582293041079-7814c2f12063?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(68, 75, "Snickers Berry Whip Chocolate Filled Bar", "40 g"),
   },
   {
@@ -11529,7 +11529,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(200, 200, "Amul Happy Birthday Milk Chocolate Bar", "150 g"),
   },
   {
@@ -11538,7 +11538,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 699, "E.Wedel Espresso Filling Dark Chocolate Bar", "100 g"),
   },
   {
@@ -11556,7 +11556,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "51 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(84, 99, "Mars Premium Nougat & Caramel Chocolate Filled Bar", "51 g"),
   },
   {
@@ -11565,7 +11565,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(104, 109, "The Select Aisle Dark Compound Chocolate Bar", "150 g"),
   },
   {
@@ -11574,7 +11574,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(104, 109, "The Select Aisle Milk Compound Chocolate Bar", "150 g"),
   },
   {
@@ -11592,7 +11592,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(170, 170, "Amul White Compound Chocolate Bar", "500 g"),
   },
   {
@@ -11601,7 +11601,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(249, 299, "Didier & Frank Crunchy Hazelnut Dark Chocolate Bar", "80 g"),
   },
   {
@@ -11610,7 +11610,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "32 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(149, 199, "Godiva Caramel Lion of Belgium Milk Chocolate Bar", "32 g"),
   },
   {
@@ -11628,7 +11628,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "10 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(243, 269, "Jolochip Hottest Chocolate Challenge", "10 g"),
   },
   {
@@ -11637,7 +11637,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(599, 599, "Lindt Excellence Sea Salt Dark Chocolate Bar", "100 g"),
   },
   {
@@ -11646,7 +11646,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(299, 399, "Toblerone Crunchy Almonds Milk Chocolate Bar", "100 g"),
   },
   {
@@ -11655,7 +11655,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "43 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(117, 130, "Kinder Bueno Crispy Creamy Chocolate Bar", "43 g"),
   },
   {
@@ -11664,7 +11664,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(495, 495, "Manam Chocolate Indian Origin Tablet No. 6 - 66% Dark Chocolate Bar", "80 g"),
   },
   {
@@ -11673,7 +11673,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(125, 149, "Didier & Frank 75% Intense Dark Chocolate Bar", "40 g"),
   },
   {
@@ -11682,7 +11682,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40004455_7-ferrero-rocher-chocolates.jpg",
     offers: generateStoreOffers(289, 475, "Ferrero Rocher Hazelnut Milk Chocolate Bar", "90 g"),
   },
   {
@@ -11691,7 +11691,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(179, 179, "Lo Foods Sugar Free Dark Chocolate Bar (Hazelnut Heaven)", "40 g"),
   },
   {
@@ -11700,7 +11700,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(425, 525, "Le Pure Happy Rakhi Gift Milk Chocolate Bar", "75 g"),
   },
   {
@@ -11709,7 +11709,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(119, 120, "Dark Chocolate Kaju Katli GO DESi", "100 g"),
   },
   {
@@ -11718,7 +11718,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "15 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(129, 129, "Entisi Chocolatier Chocolate Frog with Surprise Wizard Card", "15 g"),
   },
   {
@@ -11727,7 +11727,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g + 40 g + 45 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(180, 225, "Snickers Almond Chocolate Filled Bar + Berry Whip Chocolate Filled Bar + Peanut Brownie Chocolate Filled Bar Combo", "40 g + 40 g + 45 g"),
   },
   {
@@ -11736,7 +11736,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(126, 140, "Karachi Bakery 35% Milk Cashews Shaped Chocolates", "50 g"),
   },
   {
@@ -11745,7 +11745,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(179, 179, "Lo Foods Sugar Free Milk Chocolate Bar (Premium and Silky)", "40 g"),
   },
   {
@@ -11754,7 +11754,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "6 x 13 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(375, 420, "Melted Joy The Dark Nectar Dark Chocolate Bar", "6 x 13 g"),
   },
   {
@@ -11763,7 +11763,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(599, 599, "Yalla Delights Filled & Coated Choco Dates", "250 g"),
   },
   {
@@ -11772,7 +11772,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(399, 610, "Velvey Pistachio & Kunafa Chocolate Bar", "140 g"),
   },
   {
@@ -11781,7 +11781,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "2 x 123 g",
-    image: "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(225, 300, "Cadbury Dairy Milk Limited Edition Milk Chocolate Bar", "2 x 123 g"),
   },
   {
@@ -11790,7 +11790,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(220, 220, "Karachi Bakery 55% Dark Chocolate Bar", "100 g"),
   },
   {
@@ -11799,7 +11799,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(65, 75, "Sunfeast Farmlite Oats & Almond Protein Cookies", "75 g"),
   },
   {
@@ -11808,7 +11808,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "69 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(39, 40, "Sunfeast Dark Fantasy Choco Fill Cookies", "69 g"),
   },
   {
@@ -11817,7 +11817,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(27, 30, "Hide & Seek Choco Chip Cookies", "100 g"),
   },
   {
@@ -11826,7 +11826,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(48, 60, "Hide & Seek Chocolate Chip Cookies", "200 g"),
   },
   {
@@ -11835,7 +11835,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(75, 100, "Sunfeast Farmlite Sugar Free ChocoNut Cookies", "100 g"),
   },
   {
@@ -11844,7 +11844,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(133, 140, "Karachi Bakery Osmania Chai Bakery Cookies", "400 g"),
   },
   {
@@ -11853,7 +11853,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "230 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 170, "Sunfeast Dark Fantasy Choco Fills Chocolate Biscuit Pack", "230 g"),
   },
   {
@@ -11862,7 +11862,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(26, 30, "Hide & Seek Choco Chip & Coffee Chocolate Cookies", "100 g"),
   },
   {
@@ -11871,7 +11871,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg",
     offers: generateStoreOffers(40, 45, "Britannia Good Day Chunkies Coconut Cookies", "100 g"),
   },
   {
@@ -11880,7 +11880,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg",
     offers: generateStoreOffers(45, 45, "Britannia Good Day Cashew Biscuit", "200 g"),
   },
   {
@@ -11898,7 +11898,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 30, "Lotus Biscoff Caramelized Cookies", "75 g"),
   },
   {
@@ -11907,7 +11907,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(75, 100, "Sunfeast Farmlite Sugar Free Hazelnut & Oat Cookies", "100 g"),
   },
   {
@@ -11916,7 +11916,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg",
     offers: generateStoreOffers(40, 45, "Britannia Good Day Chunkies Chocochip Cookies", "75 g"),
   },
   {
@@ -11934,7 +11934,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "135 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(54, 60, "Unibic Fruit & Nut Cookies", "135 g"),
   },
   {
@@ -11943,7 +11943,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "487.5 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg",
     offers: generateStoreOffers(101, 200, "Britannia Good Day Fruit & Nut Cookies", "487.5 g"),
   },
   {
@@ -11952,7 +11952,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(200, 210, "Karachi Bakery Fruit Bakery Cookies", "400 g"),
   },
   {
@@ -11961,7 +11961,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "248 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(38, 40, "Britannia Good Day Butter Cookies", "248 g"),
   },
   {
@@ -11970,7 +11970,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "112.7 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg",
     offers: generateStoreOffers(25, 25, "Britannia Good Day Pista Badam Biscuit", "112.7 g"),
   },
   {
@@ -11979,7 +11979,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "2 x 200 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(69, 130, "FarrmB Butter Cookies (Pack of 2)", "2 x 200 g"),
   },
   {
@@ -11988,7 +11988,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(63, 120, "Hide & Seek Milano Choco Chip Cookies", "120 g"),
   },
   {
@@ -12006,7 +12006,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(190, 200, "Karachi Bakery Osmania Bakery Cookies", "400 g"),
   },
   {
@@ -12015,7 +12015,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(236, 250, "Cafe Niloufer Osmania Biscuit", "400 g"),
   },
   {
@@ -12024,7 +12024,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(49, 50, "RiteBite Max Protein No Maida 7 Grains Choco Chips 10 g Protein Cookies", "55 g"),
   },
   {
@@ -12033,7 +12033,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "70 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/614410a.jpg",
     offers: generateStoreOffers(193, 199, "The Cinnamon Kitchen Almond Flour & Cacao Protein Cookies", "70 g"),
   },
   {
@@ -12042,7 +12042,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "460 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(184, 370, "Sunfeast Dark Fantasy Choco-Fills Cookies", "460 g"),
   },
   {
@@ -12051,7 +12051,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "396 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(67, 130, "Parle Happy Happy Choco Chip Cookies", "396 g"),
   },
   {
@@ -12060,7 +12060,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(26, 30, "Hide & Seek Choco & Almonds Cookies", "100 g"),
   },
   {
@@ -12069,7 +12069,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 35, "Parle Milano Hide & Seek Milano Choco Chip Biscuit", "60 g"),
   },
   {
@@ -12078,7 +12078,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "827 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg",
     offers: generateStoreOffers(142, 275, "Britannia Good Day Cashew Biscuit", "827 g"),
   },
   {
@@ -12087,7 +12087,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "225 g",
-    image: "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(105, 110, "Lotus Biscoff Original Caramelized Cookies", "225 g"),
   },
   {
@@ -12096,7 +12096,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "98 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(25, 30, "Unibic Caramel Biscotti", "98 g"),
   },
   {
@@ -12105,7 +12105,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(53, 60, "Unibic Sugar Free Multigrain Cookies", "75 g"),
   },
   {
@@ -12114,7 +12114,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "111.6 g",
-    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/241600_7-cadbury-bournvita-health-drink.jpg",
     offers: generateStoreOffers(29, 30, "Bournvita Biscuit", "111.6 g"),
   },
   {
@@ -12123,7 +12123,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 105, "Open Secret Zero Maida Chocolate Almond Protein Cookies", "75 g"),
   },
   {
@@ -12132,7 +12132,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(54, 60, "Unibic Chocolate Chip Cookies", "150 g"),
   },
   {
@@ -12141,7 +12141,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(369, 380, "MomsMade Desi Ghee Gud Thekua Cookie (No Maida)", "400 g"),
   },
   {
@@ -12150,7 +12150,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "111 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg",
     offers: generateStoreOffers(30, 30, "Britannia Good Day Chocochip Cookies", "111 g"),
   },
   {
@@ -12159,7 +12159,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "167 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(60, 70, "Cadbury Chocobakes Choc Chip Cookies", "167 g"),
   },
   {
@@ -12168,7 +12168,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(79, 88, "Slurrp Farm Banana Oat Cookies", "80 g"),
   },
   {
@@ -12177,7 +12177,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(228, 240, "Karachi Bakery Cashew Bakery Cookies", "400 g"),
   },
   {
@@ -12186,7 +12186,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "20 pcs",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(200, 200, "Satvikveda Millet Jaggery Assorted Cookies Biscuits", "20 pcs"),
   },
   {
@@ -12195,7 +12195,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 99, "Lo Foods Gluten Free Cashew Millet Cookies (No Added Sugar)", "75 g"),
   },
   {
@@ -12204,7 +12204,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 99, "Lo Foods Gluten-Free Ragi Cookies (Elaichi)", "80 g"),
   },
   {
@@ -12213,7 +12213,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(72, 80, "Unibic Sugar-Free Digestive Cookies", "200 g"),
   },
   {
@@ -12222,7 +12222,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(105, 200, "Unibic Swaadesi Atta Biskut Bakery Cookies", "200 g"),
   },
   {
@@ -12231,7 +12231,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "526.1 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg",
     offers: generateStoreOffers(82, 130, "Britannia Good Day Cashew Cookies Family Pack", "526.1 g"),
   },
   {
@@ -12240,7 +12240,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "526 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(65, 110, "Britannia Good Day Butter Biscuit Family Pack", "526 g"),
   },
   {
@@ -12249,7 +12249,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(99, 110, "Karachi Bakery Butter Shortbread Biscuit", "100 g"),
   },
   {
@@ -12258,7 +12258,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(198, 220, "Karachi Bakery Pistachios Bakery Cookies", "200 g"),
   },
   {
@@ -12267,7 +12267,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(315, 350, "Sapphire Butter Biscuits Gift Pack (Gold Collection)", "350 g"),
   },
   {
@@ -12276,7 +12276,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(87, 170, "Parle Hide & Seek Milano Centre Filled Cream Biscuits", "200 g"),
   },
   {
@@ -12285,7 +12285,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(119, 200, "Unibic Choco Chip Cookies", "450 g"),
   },
   {
@@ -12294,7 +12294,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(228, 240, "Karachi Bakery Pista Bakery Cookies", "400 g"),
   },
   {
@@ -12303,7 +12303,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "204 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 30, "Patanjali Whole Wheat Nariyal Biscuit", "204 g"),
   },
   {
@@ -12312,7 +12312,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(85, 85, "Amul Fresh Butter Cookies", "200 g"),
   },
   {
@@ -12321,7 +12321,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(70, 70, "Troovy High Protein Chocolate Cookies", "80 g"),
   },
   {
@@ -12330,7 +12330,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(91, 160, "Unibic Cashew Badam Cookies", "450 g"),
   },
   {
@@ -12339,7 +12339,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(199, 200, "Satvikveda Ragi Almonds Cookies Millet Biscuit", "200 g"),
   },
   {
@@ -12357,7 +12357,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(44, 45, "Open Secret No Maida Healthy Butter Biscuit Cookies", "40 g"),
   },
   {
@@ -12366,7 +12366,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(143, 150, "Sapphire Original Danish Biscuits Gift Pack", "125 g"),
   },
   {
@@ -12375,7 +12375,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(40, 42, "Open Secret Chocolate Almond Cookies", "25 g"),
   },
   {
@@ -12384,7 +12384,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(49, 50, "RiteBite Max Protein No Maida 7 Grains Nuts & Seeds 10 g Protein Cookies", "55 g"),
   },
   {
@@ -12393,7 +12393,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(79, 88, "Slurrp Farm Choco Ragi Cookies", "80 g"),
   },
   {
@@ -12402,7 +12402,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(116, 140, "UNIBIC Biscot - Caramel Flavoured Biscuits", "250 g"),
   },
   {
@@ -12411,7 +12411,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(119, 200, "Unibic Fruit and Nut Cookies", "450 g"),
   },
   {
@@ -12420,7 +12420,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "30 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(40, 50, "Lotte Pepero Biscuit Sticks", "30 g"),
   },
   {
@@ -12429,7 +12429,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(299, 365, "Millet Bisco Coconut Cookies Family Pack", "1 kg"),
   },
   {
@@ -12438,7 +12438,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "50 g + 55 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(123, 130, "RiteBite Max Protein Daily Choco Almond Protein Bar + RiteBite Max Protein Choco Chips Cookies Combo", "50 g + 55 g"),
   },
   {
@@ -12447,7 +12447,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(143, 150, "Sapphire Original Danish Chocochip Biscuits Gift Pack", "125 g"),
   },
   {
@@ -12456,7 +12456,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(195, 320, "Unibic Oats Digestive Cookies", "1 kg"),
   },
   {
@@ -12474,7 +12474,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(110, 110, "Amul Chocolate Cookies", "200 g"),
   },
   {
@@ -12483,7 +12483,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(158, 169, "Cookieman Choc Chunk Chocolate Cookies Biscuits", "120 g"),
   },
   {
@@ -12492,7 +12492,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(109, 119, "Cookieman Premium Choco Chunk Chocolate Cookies", "100 g"),
   },
   {
@@ -12510,7 +12510,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(180, 200, "Karachi Bakery Badam Bakery Cookies", "200 g"),
   },
   {
@@ -12519,7 +12519,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(257, 285, "Karachi Bakery Cashew Butterscotch Butter Bakery Biscuits", "300 g"),
   },
   {
@@ -12528,7 +12528,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(238, 250, "Karachi Bakery Chocolate Cashew Biscuit", "400 g"),
   },
   {
@@ -12537,7 +12537,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(228, 240, "Karachi Bakery Double Delight Fruit & Osmania Bakery Cookies", "400 g"),
   },
   {
@@ -12546,7 +12546,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(375, 375, "Karachi Bakery Dubai Kunafe Chocolate Cookies", "250 g"),
   },
   {
@@ -12564,7 +12564,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "37 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(77, 90, "Lotte Koala March Chocolate Biscuit", "37 g"),
   },
   {
@@ -12573,7 +12573,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(44, 45, "Open Secret No Maida Healthy Jeera Biscuit Cookies", "40 g"),
   },
   {
@@ -12582,7 +12582,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(59, 60, "RiteBite Max Protein No Maida 7 Grains Choco Almond 12 g Protein Cookies", "60 g"),
   },
   {
@@ -12591,7 +12591,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "55 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(49, 50, "RiteBite Max Protein No Maida 7 Grains Oats & Raisins 10 g Protein Cookies", "55 g"),
   },
   {
@@ -12600,7 +12600,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(199, 200, "Satvikveda Jowar Coconut Cookies Millet Biscuit", "200 g"),
   },
   {
@@ -12609,7 +12609,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g + 80 g + 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(177, 264, "Slurrp Farm Banana Oat Cookies + Choco Ragi Cookies + Milky Choco Chip Cookies Combo", "80 g + 80 g + 80 g"),
   },
   {
@@ -12618,7 +12618,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/572225a.jpg",
     offers: generateStoreOffers(176, 199, "Sunfeast Baked Creations Rich Choco Chip Cookies", "120 g"),
   },
   {
@@ -12627,7 +12627,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "74 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(168, 179, "The Cinnamon Kitchen Berry, Cacao, Oat Cookies", "74 g"),
   },
   {
@@ -12636,7 +12636,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "185 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(249, 299, "Artinci Millet Oats Cookies", "185 g"),
   },
   {
@@ -12645,7 +12645,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "63 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(55, 59, "Cookieman Coconut Macaroon Cookies", "63 g"),
   },
   {
@@ -12690,7 +12690,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(99, 105, "Open Secret Peanut Butter Protein Cookies", "75 g"),
   },
   {
@@ -12699,7 +12699,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(229, 249, "Pista House Special Pista Cookies", "250 g"),
   },
   {
@@ -12708,7 +12708,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(99, 99, "Protein Chef High Protein Oats Chocolate Chip Cookies Gluten Free", "60 g"),
   },
   {
@@ -12717,7 +12717,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "340 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(295, 320, "RiteBite Max Protein No Maida 7 Grains Assorted Protein Cookies", "340 g"),
   },
   {
@@ -12726,7 +12726,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(199, 200, "Satvikveda Ragi Chocolate Cookies Millet Biscuit", "200 g"),
   },
   {
@@ -12735,7 +12735,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(88, 88, "Slurrp Farm Milky Choco Chip Cookies", "80 g"),
   },
   {
@@ -12753,7 +12753,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "10 x 67.5 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(249, 340, "Unibic Assorted Cookies", "10 x 67.5 g"),
   },
   {
@@ -12762,7 +12762,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(129, 240, "Unibic Swaadesi Fruit Biskut Bakery Cookies", "200 g"),
   },
   {
@@ -12771,7 +12771,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "600 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(333, 350, "Karachi Bakery Triple Delight Fruit, Cashew & Osmania Biscuit", "600 g"),
   },
   {
@@ -12780,7 +12780,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "225 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(124, 240, "Unibic Swaadesi Kaju Bakery Biscuits", "225 g"),
   },
   {
@@ -12789,7 +12789,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "40 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(44, 45, "Open Secret No Maida Healthy Chocolate Biscuit Cookies", "40 g"),
   },
   {
@@ -12798,7 +12798,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "25 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(72, 89, "Loacker Sandwich Milk Vanilla Wafer Cookies", "25 g"),
   },
   {
@@ -12807,7 +12807,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(105, 200, "Unibic Swaadesi Atta Jeera Biskut Bakery Cookies", "200 g"),
   },
   {
@@ -12816,7 +12816,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(257, 285, "Karachi Bakery Almond Shortbread Biscuit", "300 g"),
   },
   {
@@ -12825,7 +12825,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "275 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(137, 170, "Britannia Pure Magic Chocolush Choco Filled Cookies", "275 g"),
   },
   {
@@ -12834,7 +12834,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "35 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(85, 90, "The Cinnamon Kitchen Berry Cacao Oat Cookies", "35 g"),
   },
   {
@@ -12852,7 +12852,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "60 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(159, 169, "The Cinnamon Kitchen Date & Shortbread Maamoul Cookies", "60 g"),
   },
   {
@@ -12861,7 +12861,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(27, 30, "Elite Rich Butter Cookies", "75 g"),
   },
   {
@@ -12870,7 +12870,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(228, 240, "Karachi Bakery Double Delight Badam Pista & Fruit Bakery Cookies", "400 g"),
   },
   {
@@ -12888,7 +12888,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g + 75 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg",
     offers: generateStoreOffers(72, 90, "Britannia Good Day Chunkies Chocolate Chip Cookies (75 g) + Britannia Good Day Chunkies Tropical Coconut Cookies Combo", "100 g + 75 g"),
   },
   {
@@ -12906,7 +12906,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(186, 199, "Cookieman Sugar Free Multigrain Cookies", "150 g"),
   },
   {
@@ -12915,7 +12915,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(285, 300, "Karachi Bakery Gur Atta Biscuit", "300 g"),
   },
   {
@@ -12933,7 +12933,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(70, 75, "Cookieman Caramel Cashew Soft & Chewy Cookies", "50 g"),
   },
   {
@@ -12942,7 +12942,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "194.4 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(50, 50, "Parle 20-20 Gold Cashew Cookies", "194.4 g"),
   },
   {
@@ -12951,7 +12951,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(174, 199, "Sunfeast Baked Creations Turkish Oats & Hazelnut Cookies", "120 g"),
   },
   {
@@ -12960,7 +12960,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "2 x 80 g + 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(177, 264, "Slurrp Farm Choco Ragi Cookies x 2 + Banana Oat Cookies Combo", "2 x 80 g + 80 g"),
   },
   {
@@ -12978,7 +12978,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "6 x 75 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(170, 200, "Unibic Assorted Cookies", "6 x 75 g"),
   },
   {
@@ -12987,7 +12987,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g + 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(150, 176, "Slurrp Farm Banana Oat Cookies + Choco Ragi Cookies Combo", "80 g + 80 g"),
   },
   {
@@ -12996,7 +12996,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(145, 145, "Karachi Bakery Thin & Crispy Butter Puff Palmiers", "100 g"),
   },
   {
@@ -13005,7 +13005,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1511381939415-e44015466834?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(109, 119, "Cookieman Premium Dark Chocolate Cookies", "100 g"),
   },
   {
@@ -13014,7 +13014,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(176, 199, "Sunfeast Baked Creations Walnut & Choco Chip Cookies", "120 g"),
   },
   {
@@ -13023,7 +13023,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(209, 229, "Cookieman Premium Chocolate Chunks Cookies", "200 g"),
   },
   {
@@ -13041,7 +13041,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "33 g",
-    image: "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(178, 178, "Pocky Matcha Flavoured Biscuit Sticks", "33 g"),
   },
   {
@@ -13059,7 +13059,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "131 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(194, 199, "Oreo Chocolate Vanilla Dutch Cocoa Wafers", "131 g"),
   },
   {
@@ -13068,7 +13068,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "37 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(77, 90, "Lotte Koala March Strawberry Biscuit", "37 g"),
   },
   {
@@ -13077,7 +13077,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "97 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(115, 115, "Flavours Of Calicut Crispy & Crunchy Rose Cookies / Achappam", "97 g"),
   },
   {
@@ -13086,7 +13086,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(320, 400, "The Chakki Co. Desi Ghee Atta Jaggery Bakery Biscuits", "400 g"),
   },
   {
@@ -13095,7 +13095,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(399, 599, "Sartaj No Added Sugar Baked Atta Biscuit", "1 kg"),
   },
   {
@@ -13104,7 +13104,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g + 2 x 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(177, 264, "Slurrp Farm Milky Choco Chip Cookies x 2 + Choco Ragi Cookies Combo", "80 g + 2 x 80 g"),
   },
   {
@@ -13113,7 +13113,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(182, 199, "Cookieman Sugar Free Cashew Cookies Biscuits", "150 g"),
   },
   {
@@ -13122,7 +13122,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "63 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(55, 59, "Cookieman Brandy Snap Cookies", "63 g"),
   },
   {
@@ -13131,7 +13131,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "120 g + 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(135, 168, "Slurrp Farm Choco Ragi Cookies + Magic Masala Millet Instant Noodles Combo", "120 g + 80 g"),
   },
   {
@@ -13140,7 +13140,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g + 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(150, 176, "Slurrp Farm Choco Ragi Cookies + Milky Choco Chip Cookies Combo", "80 g + 80 g"),
   },
   {
@@ -13149,7 +13149,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "2 x 80 g + 80 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(177, 264, "Slurrp Farm Banana Oat Cookies x 2 + Milky Choco Chip Cookies Combo", "2 x 80 g + 80 g"),
   },
   {
@@ -13158,7 +13158,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "50 g + 55 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(123, 130, "RiteBite Max Protein Daily Choco Classic Nutrition Bar + Max Protein Choco Chips Cookies Combo", "50 g + 55 g"),
   },
   {
@@ -13176,7 +13176,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "2 x 80 g + 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(177, 264, "Slurrp Farm Choco Ragi Cookies x 2 + Milky Choco Chip Cookies Combo", "2 x 80 g + 80 g"),
   },
   {
@@ -13185,7 +13185,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(200, 200, "Narad-G Gur Atta Biscuit", "300 g"),
   },
   {
@@ -13194,7 +13194,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(209, 300, "Unwrap Happiness Oh Crumb Dunkin Delight Chocochip Cookies", "160 g"),
   },
   {
@@ -13203,7 +13203,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g + 2 x 80 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(177, 264, "Slurrp Farm Milky Choco Chip Cookies x 2 + Banana Oat Cookies Combo", "80 g + 2 x 80 g"),
   },
   {
@@ -13212,7 +13212,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "340 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(349, 600, "Bakemate Butter Cookies", "340 g"),
   },
   {
@@ -13221,7 +13221,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(249, 249, "Pista House Dark Choco Cookies", "250 g"),
   },
   {
@@ -13230,7 +13230,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "160 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(199, 300, "Unwrap Happiness Oh Crumb Dunkin Delight Hazelnut Enrobed Cookies", "160 g"),
   },
   {
@@ -13239,7 +13239,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "170 g",
-    image: "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(81, 90, "Sapphire BisCrunch Belgian Speculoos Biscuit - Friends Edition", "170 g"),
   },
   {
@@ -13248,7 +13248,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(251, 269, "Cookieman Almond Biscotti Cookies", "150 g"),
   },
   {
@@ -13257,7 +13257,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "120 g + 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(135, 168, "Slurrp Farm Banana Oat Cookies + Magic Masala Millet Instant Noodles Combo", "120 g + 80 g"),
   },
   {
@@ -13266,7 +13266,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "90 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(109, 119, "Cookieman Premium Millet Jaggery Australian Cookies", "90 g"),
   },
   {
@@ -13275,7 +13275,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "3 x 100 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(350, 467, "Adya Organics Chocolate Sesame, Coconut & Jeera Cookies", "3 x 100 g"),
   },
   {
@@ -13284,7 +13284,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(209, 229, "Cookieman Premium Millet Jaggery Cookies", "180 g"),
   },
   {
@@ -13293,7 +13293,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(298, 329, "Cookieman Double Chocolate Chunk Cookies Biscuits", "200 g"),
   },
   {
@@ -13302,7 +13302,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "170 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(285, 475, "Choko La Eggless Cocoa Almond Cookies", "170 g"),
   },
   {
@@ -13311,7 +13311,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(148, 159, "Cookieman Brandy Snap Cookies", "120 g"),
   },
   {
@@ -13320,7 +13320,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(139, 149, "Cookieman Butter Cashew Cookies", "120 g"),
   },
   {
@@ -13329,7 +13329,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(170, 170, "Dusk Miller Confectionery Classic Butter Cookies", "110 g"),
   },
   {
@@ -13338,7 +13338,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "320 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(799, 799, "Milatos Healthy Multi Millet Assorted Cookies Gift Bag", "320 g"),
   },
   {
@@ -13347,7 +13347,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(495, 749, "Sartaj Desi Ghee Atta Biscuit", "1 kg"),
   },
   {
@@ -13356,7 +13356,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(359, 499, "Sartaj Gur Atta Biscuit", "1 kg"),
   },
   {
@@ -13365,7 +13365,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "5 x 34 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(389, 400, "WE (Win Everyday) 10 g High Whey Protein Cookies (Vanilla Almond)", "5 x 34 g"),
   },
   {
@@ -13374,7 +13374,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(360, 450, "Wild Date Peanut Butter & Chocolate Cookies", "200 g"),
   },
   {
@@ -13383,7 +13383,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "83 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(34, 35, "Cadbury Chocobakes Choc Chip Cookies", "83 g"),
   },
   {
@@ -13392,7 +13392,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "444 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40019488_9-britannia-good-day-cashew-cookies.jpg",
     offers: generateStoreOffers(102, 150, "Britannia Good Day Choco chip Cookies", "444 g"),
   },
   {
@@ -13401,7 +13401,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(70, 70, "Troovy High Protein Butter Cookies", "80 g"),
   },
   {
@@ -13419,7 +13419,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(279, 350, "Open Secret Celebration Chocolate Biscuits Gift Pack (Zero Maida)", "150 g"),
   },
   {
@@ -13428,7 +13428,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(93, 170, "Unibic Danish Coconut Cookies", "300 g"),
   },
   {
@@ -13437,7 +13437,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "487.5 g",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(101, 200, "Britannia Good Day Butter Jeera Cookies", "487.5 g"),
   },
   {
@@ -13446,7 +13446,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(70, 75, "Cookieman Choc Chunk Soft & Chewy Cookies", "50 g"),
   },
   {
@@ -13464,7 +13464,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "3 x 80 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(176, 176, "Slurrp Farm Banana Oat Cookies - Buy 2 Get 1 Free", "3 x 80 g"),
   },
   {
@@ -13473,7 +13473,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(228, 240, "Karachi Bakery Double Delight Cashew & Fruit Bakery Cookies", "400 g"),
   },
   {
@@ -13482,7 +13482,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(102, 120, "Karachi Bakery Gluten Free Chocolate Chip Cookies", "140 g"),
   },
   {
@@ -13509,7 +13509,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(308, 325, "Lotus Biscoff Biscuit", "250 g"),
   },
   {
@@ -13518,7 +13518,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "308 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(82, 125, "Parle Milano Hide & Seek Caffe Mocha Cookies", "308 g"),
   },
   {
@@ -13527,7 +13527,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "3 x 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(176, 176, "Slurrp Farm Choco Ragi Cookies - Buy 2 Get 1 Free", "3 x 80 g"),
   },
   {
@@ -13545,7 +13545,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(266, 280, "Cafe Niloufer Fruit Biscuit", "400 g"),
   },
   {
@@ -13554,7 +13554,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "39 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(50, 62, "Lotte Pepero Crunchy Biscuit Sticks", "39 g"),
   },
   {
@@ -13563,7 +13563,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "6 x 55 g",
-    image: "https://images.unsplash.com/photo-1622484216812-70b09d3b4e39?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(276, 300, "RiteBite Max Protein Chocolate Chip Cookies", "6 x 55 g"),
   },
   {
@@ -13572,7 +13572,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(67, 130, "Britannia Tiger Krunch Choco chips Cookies", "400 g"),
   },
   {
@@ -13581,7 +13581,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(109, 119, "Cookieman Premium Double Chocolate Cookies", "100 g"),
   },
   {
@@ -13617,7 +13617,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(99, 105, "Open Secret White Chocolate Cashew Protein Cookies", "75 g"),
   },
   {
@@ -13626,7 +13626,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "112.5 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(175, 199, "Sunfeast Baked Creations French Style Butter Cookies", "112.5 g"),
   },
   {
@@ -13653,7 +13653,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(209, 220, "Karachi Bakery Ajwain Biscuit", "400 g"),
   },
   {
@@ -13662,7 +13662,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "45 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(160, 190, "Pocky Strawberry Flavour Biscuit Sticks", "45 g"),
   },
   {
@@ -13689,7 +13689,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "63 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(55, 59, "Cookieman Choc Chip Cookies", "63 g"),
   },
   {
@@ -13707,7 +13707,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(199, 205, "Lo Foods Keto Jeera Biscuit (Sugar Free)", "100 g"),
   },
   {
@@ -13716,7 +13716,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "37 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(77, 90, "Lotte Koala March Biscuit - Vanilla Milk", "37 g"),
   },
   {
@@ -13725,7 +13725,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(289, 379, "Sartaj Punjabi Atta Biscuit", "1 kg"),
   },
   {
@@ -13734,7 +13734,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1203678_1-farm-made-eggs-free-range.jpg",
     offers: generateStoreOffers(190, 200, "Karachi Bakery Zeera Bakery Cookies (Eggless)", "400 g"),
   },
   {
@@ -13743,7 +13743,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "150 g + 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(230, 287, "Slurrp Farm Chocolate Pancake Mix + Choco Ragi Cookies Combo", "150 g + 80 g"),
   },
   {
@@ -13752,7 +13752,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "150 g + 80 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(230, 287, "Slurrp Farm Banana Chocochip Pancake Mix + Banana Oat Cookies Combo", "150 g + 80 g"),
   },
   {
@@ -13761,7 +13761,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(209, 229, "Cookieman Premium Multigrain Protein Cookies", "180 g"),
   },
   {
@@ -13770,7 +13770,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(203, 225, "Sapphire Vege Crackers", "350 g"),
   },
   {
@@ -13779,7 +13779,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "150 g + 80 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(230, 287, "Slurrp Farm Chocolate Pancake Mix + Banana Oat Cookies Combo", "150 g + 80 g"),
   },
   {
@@ -13788,7 +13788,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "150 g + 80 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10045a.jpg",
     offers: generateStoreOffers(230, 287, "Slurrp Farm Banana Chocochip Pancake Mix + Choco Ragi Cookies Combo", "150 g + 80 g"),
   },
   {
@@ -13797,7 +13797,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "180 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(299, 499, "Bakemate Golden Crumbs Chocolate Chip Cookies", "180 g"),
   },
   {
@@ -13806,7 +13806,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "2 x 150 g",
-    image: "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(144, 160, "Lotus Biscoff Caramelized Snack Pack Cookies", "2 x 150 g"),
   },
   {
@@ -13815,7 +13815,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cookies & Biscuits",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(299, 299, "Soul Bakes Double Choco-Chip Cookies", "125 g"),
   },
   {
@@ -13824,7 +13824,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "3 x 116.9 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(86, 90, "Oreo Strawberry Flavour Sandwich Cream Biscuits", "3 x 116.9 g"),
   },
   {
@@ -13833,7 +13833,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "99 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1204351_1-britannia-bourbon-chocolate-cream-biscuits.jpg",
     offers: generateStoreOffers(15, 30, "Sunfeast Bourbon Dark Fantasy Biscuit", "99 g"),
   },
   {
@@ -13842,7 +13842,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "138 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(36, 40, "Britannia Treat Jim Jam Sandwich Crème Biscuits", "138 g"),
   },
   {
@@ -13851,7 +13851,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "76.5 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(26, 30, "Britannia Pure Magic Choco Stars Chunky Chocolate Topped Cookies", "76.5 g"),
   },
   {
@@ -13860,7 +13860,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(15, 30, "Sunfeast Dark Fantasy Vanilla Sandwich Crème Biscuits", "79 g"),
   },
   {
@@ -13869,7 +13869,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(15, 30, "Sunfeast Dark Fantasy Choco Sandwich Crème Biscuits", "79 g"),
   },
   {
@@ -13878,7 +13878,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "108.55 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(30, 30, "Oreo Golden Vanilla Sandwich Cream Biscuits", "108.55 g"),
   },
   {
@@ -13887,7 +13887,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "188 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(50, 55, "Britannia Milk Bikis Milky Sandwich Creme Biscuits", "188 g"),
   },
   {
@@ -13896,7 +13896,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1204351_1-britannia-bourbon-chocolate-cream-biscuits.jpg",
     offers: generateStoreOffers(31, 40, "Britannia Original Bourbon Creme Biscuit", "150 g"),
   },
   {
@@ -13905,7 +13905,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "125.25 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(38, 40, "Oreo Vanilla Flavour Sandwich Cream Biscuits", "125.25 g"),
   },
   {
@@ -13914,7 +13914,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "144 g",
-    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(39, 53, "Malkist Cappuccino Flavoured Cracker Biscuit - Family Pack", "144 g"),
   },
   {
@@ -13923,7 +13923,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1204351_1-britannia-bourbon-chocolate-cream-biscuits.jpg",
     offers: generateStoreOffers(19, 35, "Britannia Bourbon The Original Biscuit", "120 g"),
   },
   {
@@ -13932,7 +13932,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(57, 60, "Malkist Double Chocolatey Cracker Biscuit", "150 g"),
   },
   {
@@ -13941,7 +13941,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "275.55 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(76, 87, "Oreo Vanilla Sandwich Cream Biscuits Family Pack", "275.55 g"),
   },
   {
@@ -13950,7 +13950,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(93, 180, "Hide & Seek Choco Chip Cream Biscuits", "400 g"),
   },
   {
@@ -13959,7 +13959,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "237 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(52, 98, "Sunfeast Dark Fantasy Choco Sandwich Crème Biscuits", "237 g"),
   },
   {
@@ -13968,7 +13968,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "69 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(44, 50, "Sunfeast Dark Fantasy Mocha Vanilla Dual Fills Cookies", "69 g"),
   },
   {
@@ -13977,7 +13977,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "69 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(44, 50, "Sunfeast Dark Fantasy Coconut & Hazelnut Macaroon Fills Cookies", "69 g"),
   },
   {
@@ -13986,7 +13986,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "125.25 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(38, 40, "Oreo Chocolate Flavour Sandwich Cream Biscuits", "125.25 g"),
   },
   {
@@ -13995,7 +13995,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1204351_1-britannia-bourbon-chocolate-cream-biscuits.jpg",
     offers: generateStoreOffers(71, 140, "Britannia The Original Bourbon Creme Biscuit", "500 g"),
   },
   {
@@ -14004,7 +14004,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(99, 133, "Beanly Choco Hazelnut Spread with Breadsticks", "52 g"),
   },
   {
@@ -14013,7 +14013,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1204351_1-britannia-bourbon-chocolate-cream-biscuits.jpg",
     offers: generateStoreOffers(82, 160, "Hide & Seek Black Bourbon Biscuits Choco Creme Sandwich", "270 g"),
   },
   {
@@ -14031,7 +14031,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(68, 75, "Sunfeast Dark Fantasy Desserts Choconut Dipped Cookies", "100 g"),
   },
   {
@@ -14040,7 +14040,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(51, 75, "Hide & Seek Milano Center Filled Biscuits (Choco & Hazelnut)", "100 g"),
   },
   {
@@ -14049,7 +14049,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(51, 75, "Hide & Seek Milano Center Filled Biscuits (Vanilla Creme)", "100 g"),
   },
   {
@@ -14058,7 +14058,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "3 x 91.85 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(76, 87, "Oreo Golden Vanilla Sandwich Cream Biscuits (Family Pack)", "3 x 91.85 g"),
   },
   {
@@ -14067,7 +14067,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(87, 170, "Hide & Seek Choco Rolls Cream Biscuits", "200 g"),
   },
   {
@@ -14076,7 +14076,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "140 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(35, 50, "Parle Fab Jam In Sandwich Cream Biscuits", "140 g"),
   },
   {
@@ -14085,7 +14085,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "69 g",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg",
     offers: generateStoreOffers(44, 50, "Sunfeast Dark Fantasy Peanut Butter Choco Dual Fills Cookies", "69 g"),
   },
   {
@@ -14094,7 +14094,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "47 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(119, 120, "Meiji Hello Panda Strawberry Flavour Center Filled Biscuits", "47 g"),
   },
   {
@@ -14103,7 +14103,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "310.5 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(134, 134, "Oreo BTS Korean Sweet Pancake Flavour Cream Biscuits", "310.5 g"),
   },
   {
@@ -14112,7 +14112,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "459.25 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(122, 144, "Oreo Vanilla Sandwich Cream Biscuits Jumbo Pack", "459.25 g"),
   },
   {
@@ -14121,7 +14121,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(71, 80, "Sunfeast Dark Fantasy Big Choco Fills Cookies", "150 g"),
   },
   {
@@ -14130,7 +14130,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "710 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(104, 120, "Britannia Milk Bikis Biscuit", "710 g"),
   },
   {
@@ -14139,7 +14139,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "241.5 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(97, 160, "Cadbury Choc-Filled Cookies Minion Pack", "241.5 g"),
   },
   {
@@ -14148,7 +14148,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "450 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1204351_1-britannia-bourbon-chocolate-cream-biscuits.jpg",
     offers: generateStoreOffers(82, 160, "Parle Fab Bourbon Biscuits", "450 g"),
   },
   {
@@ -14157,7 +14157,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "320 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(80, 80, "Parle Fab! Jam In Assorted Biscuit", "320 g"),
   },
   {
@@ -14166,7 +14166,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1204351_1-britannia-bourbon-chocolate-cream-biscuits.jpg",
     offers: generateStoreOffers(25, 36, "Dukes Bourbon Premium Chocolate Flavoured Sandwich Cream Biscuits", "125 g"),
   },
   {
@@ -14175,7 +14175,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "47 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(120, 120, "Meiji Hello Panda Chocolate Center Filled Biscuits", "47 g"),
   },
   {
@@ -14184,7 +14184,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "162 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(238, 250, "Tiffany Sugar Free Cream Biscuits - Orange Flavour", "162 g"),
   },
   {
@@ -14193,7 +14193,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(61, 75, "Hide & Seek Choco Rolls Sandwich Cream Biscuits", "100 g"),
   },
   {
@@ -14202,7 +14202,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "61.3 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(171, 179, "Oreo Mini Chocolate Flavoured Cream Biscuits", "61.3 g"),
   },
   {
@@ -14211,7 +14211,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "44 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(130, 130, "Meiji Yan Yan Double Dip Biscuit Sticks (Chocolate & Vanilla)", "44 g"),
   },
   {
@@ -14220,7 +14220,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "270 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1204351_1-britannia-bourbon-chocolate-cream-biscuits.jpg",
     offers: generateStoreOffers(82, 160, "Hide & Seek Black Bourbon Biscuits Vanilla Creme Sandwich", "270 g"),
   },
   {
@@ -14229,7 +14229,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "276 g",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40004455_7-ferrero-rocher-chocolates.jpg",
     offers: generateStoreOffers(922, 1050, "Nutella Ferrero Center Filled Biscuits", "276 g"),
   },
   {
@@ -14238,7 +14238,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(130, 130, "Meiji Yan Yan Hazelnut Cocoa Biscuit Sticks", "50 g"),
   },
   {
@@ -14247,7 +14247,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "162 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(238, 250, "Tiffany Sugar Free Cream Biscuits - Chocolate Flavour", "162 g"),
   },
   {
@@ -14256,7 +14256,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "50 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(130, 130, "Meiji Yan Yan Vanilla Biscuit Sticks", "50 g"),
   },
   {
@@ -14265,7 +14265,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "131 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(197, 199, "Oreo Dutch Double Cocoa Wafers", "131 g"),
   },
   {
@@ -14274,7 +14274,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "61 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(229, 229, "Oreo Mini Sandwich Cream Biscuits", "61 g"),
   },
   {
@@ -14283,7 +14283,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "102 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 30, "Parle Fabio Chocolate Biscuit", "102 g"),
   },
   {
@@ -14292,7 +14292,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "61.3 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(229, 229, "Oreo Mini Strawberry Flavoured Sandwich Cream Biscuits", "61.3 g"),
   },
   {
@@ -14301,7 +14301,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "115 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(350, 699, "Oreo Mini Vanilla Flavored Sandwich Cream Biscuits", "115 g"),
   },
   {
@@ -14310,7 +14310,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(84, 170, "Unibic Choco Kiss Superman Edition Center Filled Biscuits", "250 g"),
   },
   {
@@ -14319,7 +14319,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1204351_1-britannia-bourbon-chocolate-cream-biscuits.jpg",
     offers: generateStoreOffers(129, 250, "Bakemate Bourbon Biscuit", "500 g"),
   },
   {
@@ -14328,7 +14328,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "110 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(200, 249, "Loacker Quadratini Cappuccino Wafer Cookies", "110 g"),
   },
   {
@@ -14337,7 +14337,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(57, 60, "Malkist Cheese Flavoured Cracker Biscuit - Family Pack", "150 g"),
   },
   {
@@ -14346,7 +14346,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "309 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(60, 100, "Britannia Treat Orange Creme Biscuits", "309 g"),
   },
   {
@@ -14355,7 +14355,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(46, 50, "Britannia 5050 Cheeze Dipped Biscuit", "150 g"),
   },
   {
@@ -14364,7 +14364,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "112.8 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 30, "Britannia Milk Bikis Sandwich Cream Biscuits", "112.8 g"),
   },
   {
@@ -14373,7 +14373,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(66, 75, "Sunfeast Dark Fantasy Desserts Choco Chunks Cookies", "75 g"),
   },
   {
@@ -14382,7 +14382,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "103.5 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(45, 45, "Oreo BTS Korean Sweet Pancake Flavour Cream Biscuits", "103.5 g"),
   },
   {
@@ -14391,7 +14391,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(90, 120, "Britannia Treat Jim Jam Pops Crunchy Open Cookies", "350 g"),
   },
   {
@@ -14400,7 +14400,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(97, 110, "Britannia Treat Jim Jam Sandwich Crème Biscuits - Buy 4 Get 1 Free", "500 g"),
   },
   {
@@ -14409,7 +14409,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "128 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(44, 56, "Sunfeast Wowzers Cheese Crackers Biscuit", "128 g"),
   },
   {
@@ -14418,7 +14418,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "237 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(50, 98, "Sunfeast Dark Fantasy Vanilla Sandwich Crème Biscuits", "237 g"),
   },
   {
@@ -14427,7 +14427,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "275.55 g",
-    image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40085449_6-cadbury-oreo-creme-biscuit-vanilla.jpg",
     offers: generateStoreOffers(76, 87, "Oreo Chocolate Flavour Crème Sandwich Cream Biscuits Family Pack", "275.55 g"),
   },
   {
@@ -14436,7 +14436,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(51, 75, "Hide & Seek Milano Center Filled Biscuits (Mixed Berries)", "100 g"),
   },
   {
@@ -14445,7 +14445,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "126.5 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/281026_10-cadbury-dairy-milk-chocolate.jpg",
     offers: generateStoreOffers(67, 67, "Cadbury Choc Filled Cookies Minion Pack", "126.5 g"),
   },
   {
@@ -14454,7 +14454,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "79 g + 150 g",
-    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/1204351_1-britannia-bourbon-chocolate-cream-biscuits.jpg",
     offers: generateStoreOffers(55, 70, "Britannia Little Hearts Classic Crunch Biscuit + Britannia The Original Bourbon Creme Biscuit With Chocolate Combo", "79 g + 150 g"),
   },
   {
@@ -14463,7 +14463,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "47 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(120, 120, "Meiji Hello Panda Milk Flavour Center Filled Biscuits", "47 g"),
   },
   {
@@ -14472,7 +14472,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(46, 50, "Britannia 5050 Caramel Sandwich Cream Biscuits", "150 g"),
   },
   {
@@ -14481,7 +14481,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "52 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40007548_4-britannia-white-bread-daily-fresh.jpg",
     offers: generateStoreOffers(85, 133, "Beanly Mighty Coffee Spread with Breadsticks", "52 g"),
   },
   {
@@ -14490,7 +14490,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "100 g + 79 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(63, 70, "Britannia Little Hearts Classic Crunch Biscuit + Britannia Pure Magic Chocolush Center Filled Cookies (75 g) Combo", "100 g + 79 g"),
   },
   {
@@ -14499,7 +14499,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "183.6 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(30, 60, "Parle Magix Chocolate Flavoured Cream Biscuits", "183.6 g"),
   },
   {
@@ -14508,7 +14508,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "348 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(50, 73, "Sunfeast Bounce Choco Cream Biscuits", "348 g"),
   },
   {
@@ -14517,7 +14517,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "306.1 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(98, 120, "Britannia Pure Magic Choco Stars Biscuit", "306.1 g"),
   },
   {
@@ -14526,7 +14526,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "145 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(27, 40, "Dukes 4 Fun Chocolate Sandwich Cream Biscuits", "145 g"),
   },
   {
@@ -14535,7 +14535,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "2 x 128 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(87, 112, "Sunfeast Wowzers Crackers", "2 x 128 g"),
   },
   {
@@ -14544,7 +14544,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Cream Biscuits",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102762_12-lays-potato-chips-indias-magic-masala.jpg",
     offers: generateStoreOffers(139, 200, "BAKEMATE Wim Wan Chocolate Coated Sandwich Biscuits", "150 g"),
   },
   {
@@ -14562,7 +14562,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "166.8 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102121_11-britannia-marie-gold-biscuits.jpg",
     offers: generateStoreOffers(29, 30, "Britannia Marie Gold Vita Marie Biscuits", "166.8 g"),
   },
   {
@@ -14571,7 +14571,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "190.5 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 30, "Britannia Milk Bikis - Biscuit", "190.5 g"),
   },
   {
@@ -14580,7 +14580,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "208 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102121_11-britannia-marie-gold-biscuits.jpg",
     offers: generateStoreOffers(38, 40, "Britannia Marie Gold Marie Biscuits", "208 g"),
   },
   {
@@ -14589,7 +14589,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102102_4-parle-parle-g-biscuits.jpg",
     offers: generateStoreOffers(30, 30, "Parle-G Glucose Biscuit", "250 g"),
   },
   {
@@ -14598,7 +14598,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "800 g",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102102_4-parle-parle-g-biscuits.jpg",
     offers: generateStoreOffers(93, 100, "Parle-G Original Gluco Biscuit", "800 g"),
   },
   {
@@ -14607,7 +14607,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "187.5 g",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102102_4-parle-parle-g-biscuits.jpg",
     offers: generateStoreOffers(30, 30, "Parle-G Gold Biscuit", "187.5 g"),
   },
   {
@@ -14616,7 +14616,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102121_11-britannia-marie-gold-biscuits.jpg",
     offers: generateStoreOffers(124, 150, "Britannia Marie Gold Marie Biscuits", "1 kg"),
   },
   {
@@ -14625,7 +14625,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 85, "Britannia Milk Bikis Atta Biscuit", "500 g"),
   },
   {
@@ -14634,7 +14634,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "243 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(26, 40, "Sunfeast Marie Light Active Marie Biscuits", "243 g"),
   },
   {
@@ -14643,7 +14643,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(39, 40, "Parle Marie Biscuits", "250 g"),
   },
   {
@@ -14652,7 +14652,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "585 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102121_11-britannia-marie-gold-biscuits.jpg",
     offers: generateStoreOffers(88, 90, "Britannia Marie Gold Marie Biscuits", "585 g"),
   },
   {
@@ -14661,7 +14661,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "360 g",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102102_4-parle-parle-g-biscuits.jpg",
     offers: generateStoreOffers(66, 75, "Parle-G Royale Glucose Biscuit", "360 g"),
   },
   {
@@ -14670,7 +14670,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102102_4-parle-parle-g-biscuits.jpg",
     offers: generateStoreOffers(139, 160, "Parle-G Gold Glucose Biscuit", "1 kg"),
   },
   {
@@ -14679,7 +14679,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "800 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(105, 205, "Parle Marie Biscuits", "800 g"),
   },
   {
@@ -14688,7 +14688,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "255 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 40, "Patanjali Doodh Biscuit", "255 g"),
   },
   {
@@ -14697,7 +14697,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "1000.8 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(149, 160, "Britannia Vita Gold Marie Biscuits", "1000.8 g"),
   },
   {
@@ -14706,7 +14706,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "924 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(112, 150, "Sunfeast Marie Light Active Marie Biscuits", "924 g"),
   },
   {
@@ -14715,7 +14715,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "350 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(57, 100, "Parle Milk Shakti Biscuit", "350 g"),
   },
   {
@@ -14733,7 +14733,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/102102_4-parle-parle-g-biscuits.jpg",
     offers: generateStoreOffers(20, 20, "Parle-G Dark Biscuit", "120 g"),
   },
   {
@@ -14742,7 +14742,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(120, 150, "Bisk Farm Rich Marie Biscuits", "1 kg"),
   },
   {
@@ -14751,7 +14751,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "280 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(40, 40, "Bisk Farm Rich Marie Biscuits", "280 g"),
   },
   {
@@ -14760,7 +14760,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "960 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(128, 220, "Britannia NutriChoice Digestive High - Fibre Biscuit", "960 g"),
   },
   {
@@ -14769,7 +14769,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(25, 25, "Britannia NutriChoice Digestive High-Fibre Biscuit", "125 g"),
   },
   {
@@ -14778,7 +14778,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 65, "Britannia NutriChoice 5 Grain Digestive Biscuit", "200 g"),
   },
   {
@@ -14787,7 +14787,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(71, 75, "Sunfeast Farmlite Oats & Almonds Cookies", "150 g"),
   },
   {
@@ -14796,7 +14796,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "66.6 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(19, 20, "Britannia NutriChoice Oats Orange & Almond Biscuit", "66.6 g"),
   },
   {
@@ -14805,7 +14805,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "66.6 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(19, 20, "Britannia NutriChoice Oats Chocolate & Almond Biscuit", "66.6 g"),
   },
   {
@@ -14814,7 +14814,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "295 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(52, 55, "Britannia Nutrichoice Sugar Free Cracker", "295 g"),
   },
   {
@@ -14823,7 +14823,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(34, 35, "Britannia NutriChoice Digestive Zero Biscuit", "100 g"),
   },
   {
@@ -14841,7 +14841,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 65, "Britannia NutriChoice Ragi Cookies (Diabetic Friendly)", "150 g"),
   },
   {
@@ -14850,7 +14850,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(56, 60, "Britannia NutriChoice Digestive High Fibre Biscuit", "250 g"),
   },
   {
@@ -14859,7 +14859,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(54, 60, "Britannia NutriChoice 100% Millets Cookies", "100 g"),
   },
   {
@@ -14868,7 +14868,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "66.6 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(19, 20, "Britannia NutriChoice Oats Milk Biscuits", "66.6 g"),
   },
   {
@@ -14877,7 +14877,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(68, 80, "Right Shift Jaggery Oats Cookies", "100 g"),
   },
   {
@@ -14886,7 +14886,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "300 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(92, 150, "Sunfeast Farmlite Oats & Almonds Cookies", "300 g"),
   },
   {
@@ -14895,7 +14895,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(53, 60, "Unibic Sugar Free Oatmeal Cookies", "75 g"),
   },
   {
@@ -14922,7 +14922,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "600 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 240, "Bakemate Digestive Biscuit", "600 g"),
   },
   {
@@ -14940,7 +14940,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(157, 320, "Parle Nutricrunch Classic Digestive Cookies", "1 kg"),
   },
   {
@@ -14949,7 +14949,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(71, 75, "Sunfeast Farmlite Oats with Raisins Cookies", "150 g"),
   },
   {
@@ -14967,7 +14967,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(25, 30, "Sunfeast Farmlite Oats & Almonds Cookies", "75 g"),
   },
   {
@@ -14976,7 +14976,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(49, 55, "Open Secret Healthy Digestive Biscuit High Fibre", "100 g"),
   },
   {
@@ -14985,7 +14985,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "83.3 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(29, 30, "Britannia NutriChoice Digestive Seeds Biscuit", "83.3 g"),
   },
   {
@@ -14994,7 +14994,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "66.6 g + 66.6 g + 66.6 g",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(54, 60, "Britannia NutriChoice Oats Orange & Almond Biscuit + Oats Chocolate & Almond Biscuit + Almond Oats Glucose & Milk Biscuits Combo", "66.6 g + 66.6 g + 66.6 g"),
   },
   {
@@ -15021,7 +15021,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 75, "Patanjali 7 Grain Digestive Biscuit", "200 g"),
   },
   {
@@ -15057,7 +15057,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(195, 195, "Jaggic Gud Atta Biscuit", "400 g"),
   },
   {
@@ -15066,7 +15066,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 50, "Parle Nutricrunch Digestive Biscuit", "200 g"),
   },
   {
@@ -15084,7 +15084,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(210, 210, "Jaggic Gud Millet Biscuit", "200 g"),
   },
   {
@@ -15093,7 +15093,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "275 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(480, 480, "Threptin Diskettes Whey Protein (Chocolate)", "275 g"),
   },
   {
@@ -15102,7 +15102,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(72, 75, "Sunfeast Farmlite Oats with Chocolate Cookies", "150 g"),
   },
   {
@@ -15111,7 +15111,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(68, 80, "Right Shift Jaggery Ragi Cookies", "100 g"),
   },
   {
@@ -15120,7 +15120,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "210 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 30, "Patanjali Digestive Whole Wheat Marie Biscuits", "210 g"),
   },
   {
@@ -15129,7 +15129,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "150 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(59, 65, "Britannia NutriChoice Oats Cookies (Diabetic Friendly)", "150 g"),
   },
   {
@@ -15147,7 +15147,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "75 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(43, 50, "Sunfeast Farmlite Super Millets Ragi and Jowar Cookies", "75 g"),
   },
   {
@@ -15156,7 +15156,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "120 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(85, 100, "Right Shift Jaggery Atta Cookies", "120 g"),
   },
   {
@@ -15174,7 +15174,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "800 g",
-    image: "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/266160_14-quaker-oats.jpg",
     offers: generateStoreOffers(111, 125, "Parle Oats & Berries Biscuit", "800 g"),
   },
   {
@@ -15183,7 +15183,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "19 g",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/279587_8-britannia-toastea-premium-bake-rusk.jpg",
     offers: generateStoreOffers(64, 79, "Loacker Break3 Crunchy Wafer Bar", "19 g"),
   },
   {
@@ -15201,7 +15201,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "79 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(26, 30, "Britannia Little Hearts Classic Crunch Biscuit", "79 g"),
   },
   {
@@ -15210,7 +15210,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "176.4 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(35, 35, "Parle Krackjack Crackers Sweet & Salty Biscuits", "176.4 g"),
   },
   {
@@ -15219,7 +15219,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "114.1 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(26, 30, "Britannia 5050 Maska Chaska Biscuit", "114.1 g"),
   },
   {
@@ -15228,7 +15228,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "4 x 70 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(88, 120, "Britannia Little Hearts Classic Crunch Biscuit", "4 x 70 g"),
   },
   {
@@ -15237,7 +15237,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "185.6 g",
-    image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(35, 35, "Parle Monaco Light Salty Classic Regular Biscuit", "185.6 g"),
   },
   {
@@ -15246,7 +15246,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "152 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(25, 25, "Britannia Nice Time Coconut Biscuit", "152 g"),
   },
   {
@@ -15255,7 +15255,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "142 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(22, 25, "Sunfeast Nice Biscuit", "142 g"),
   },
 ];

@@ -13,29 +13,29 @@ interface CategoryTile {
 }
 
 const CATEGORY_TILES: CategoryTile[] = [
-  // Row 1
-  { id: 1, label: 'Fresh Groceries', sliceId: 3, categoryKey: 'veggies', searchQuery: '' },
+  // Row 1 (Tiles 1 to 10)
+  { id: 1, label: 'Paan Corner', sliceId: 1, categoryKey: 'paan', searchQuery: '' },
   { id: 2, label: 'Dairy, Bread & Eggs', sliceId: 2, categoryKey: 'dairy', searchQuery: '' },
-  { id: 3, label: 'Fruits & Vegetables', sliceId: 14, categoryKey: 'veggies', searchQuery: '' },
-  { id: 4, label: 'Cold Drinks & Juices', sliceId: 4, categoryKey: 'beverages', searchQuery: '' },
+  { id: 3, label: 'Fruits & Vegetables', sliceId: 3, categoryKey: 'veggies', searchQuery: '' },
+  { id: 4, label: 'Cold Drinks & Juices', sliceId: 4, categoryKey: 'cold_drinks', searchQuery: '' },
   { id: 5, label: 'Snacks & Munchies', sliceId: 5, categoryKey: 'snacks', searchQuery: '' },
   { id: 6, label: 'Breakfast & Instant Food', sliceId: 6, categoryKey: 'instant', searchQuery: '' },
-  { id: 7, label: 'Sweet Tooth', sliceId: 7, categoryKey: 'all', searchQuery: 'Ice Cream Chocolate' },
-  { id: 8, label: 'Bakery & Biscuits', sliceId: 8, categoryKey: 'snacks', searchQuery: 'Biscuits Bread' },
-  { id: 9, label: 'Tea, Coffee & Milk Drinks', sliceId: 9, categoryKey: 'beverages', searchQuery: 'Tea Coffee' },
-  { id: 10, label: 'Atta, Rice & Dal', sliceId: 10, categoryKey: 'staples', searchQuery: '' },
+  { id: 7, label: 'Sweet Tooth', sliceId: 7, categoryKey: 'sweet_tooth', searchQuery: '' },
+  { id: 8, label: 'Bakery & Biscuits', sliceId: 8, categoryKey: 'bakery', searchQuery: '' },
+  { id: 9, label: 'Tea, Coffee & Milk Drinks', sliceId: 9, categoryKey: 'tea_coffee', searchQuery: '' },
+  { id: 10, label: 'Atta, Rice & Dal', sliceId: 10, categoryKey: 'atta_rice_dal', searchQuery: '' },
 
-  // Row 2
-  { id: 11, label: 'Masala, Oil & More', sliceId: 11, categoryKey: 'staples', searchQuery: 'Oil Masala' },
-  { id: 12, label: 'Sauces & Spreads', sliceId: 12, categoryKey: 'instant', searchQuery: 'Sauce Spread' },
-  { id: 13, label: 'Chicken, Meat & Fish', sliceId: 13, categoryKey: 'all', searchQuery: 'Eggs Meat' },
-  { id: 14, label: 'Organic & Healthy Living', sliceId: 14, categoryKey: 'all', searchQuery: 'Organic' },
-  { id: 15, label: 'Baby Care', sliceId: 15, categoryKey: 'all', searchQuery: 'Baby Care' },
-  { id: 16, label: 'Pharma & Wellness', sliceId: 16, categoryKey: 'all', searchQuery: 'Pharma Dettol' },
-  { id: 17, label: 'Cleaning Essentials', sliceId: 17, categoryKey: 'household', searchQuery: '' },
-  { id: 18, label: 'Home & Office', sliceId: 18, categoryKey: 'household', searchQuery: 'Home' },
-  { id: 19, label: 'Personal Care', sliceId: 19, categoryKey: 'personal', searchQuery: '' },
-  { id: 20, label: 'Pet Care', sliceId: 20, categoryKey: 'all', searchQuery: 'Pet Care' },
+  // Row 2 (Tiles 11 to 20)
+  { id: 11, label: 'Masala, Oil & More', sliceId: 11, categoryKey: 'masala_oil', searchQuery: '' },
+  { id: 12, label: 'Sauces & Spreads', sliceId: 12, categoryKey: 'sauces', searchQuery: '' },
+  { id: 13, label: 'Chicken, Meat & Fish', sliceId: 13, categoryKey: 'meat_fish', searchQuery: '' },
+  { id: 14, label: 'Organic & Healthy Living', sliceId: 14, categoryKey: 'organic_healthy', searchQuery: '' },
+  { id: 15, label: 'Baby Care', sliceId: 15, categoryKey: 'baby_care', searchQuery: '' },
+  { id: 16, label: 'Pharma & Wellness', sliceId: 16, categoryKey: 'pharma_wellness', searchQuery: '' },
+  { id: 17, label: 'Cleaning Essentials', sliceId: 17, categoryKey: 'cleaning', searchQuery: '' },
+  { id: 18, label: 'Home & Office', sliceId: 18, categoryKey: 'home_office', searchQuery: '' },
+  { id: 19, label: 'Personal Care', sliceId: 19, categoryKey: 'personal_care', searchQuery: '' },
+  { id: 20, label: 'Pet Care', sliceId: 20, categoryKey: 'pet_care', searchQuery: '' },
 ];
 
 export const BlinkitHeroPromo: React.FC<BlinkitHeroPromoProps> = ({ onSelectCategory }) => {
@@ -85,7 +85,7 @@ export const BlinkitHeroPromo: React.FC<BlinkitHeroPromoProps> = ({ onSelectCate
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4 lg:gap-6 w-full">
         {/* Card 1: Pharmacy */}
         <div
-          onClick={() => handleBannerClick('Pharma Dettol Medicine', 'all')}
+          onClick={() => handleBannerClick('', 'pharma_wellness')}
           className="rounded-2xl sm:rounded-3xl overflow-hidden cursor-pointer shadow-xs hover:shadow-md transition-all group border border-slate-100 bg-white"
         >
           <img
@@ -98,7 +98,7 @@ export const BlinkitHeroPromo: React.FC<BlinkitHeroPromoProps> = ({ onSelectCate
 
         {/* Card 2: Pet Care */}
         <div
-          onClick={() => handleBannerClick('Pet Food Dog Cat', 'all')}
+          onClick={() => handleBannerClick('', 'pet_care')}
           className="rounded-2xl sm:rounded-3xl overflow-hidden cursor-pointer shadow-xs hover:shadow-md transition-all group border border-slate-100 bg-white"
         >
           <img
@@ -111,7 +111,7 @@ export const BlinkitHeroPromo: React.FC<BlinkitHeroPromoProps> = ({ onSelectCate
 
         {/* Card 3: Baby Care */}
         <div
-          onClick={() => handleBannerClick('Baby Diaper Pampers', 'all')}
+          onClick={() => handleBannerClick('', 'baby_care')}
           className="rounded-2xl sm:rounded-3xl overflow-hidden cursor-pointer shadow-xs hover:shadow-md transition-all group border border-slate-100 bg-white"
         >
           <img

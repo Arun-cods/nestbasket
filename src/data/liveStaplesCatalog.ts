@@ -9,7 +9,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/21491a.jpg",
     offers: generateStoreOffers(298, 399, "24 Mantra Organic Whole Wheat Atta (Organic Godhuma Pindi)", "5 kg"),
   },
   {
@@ -18,7 +18,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/68482a.jpg",
     offers: generateStoreOffers(71, 75, "Aashirvaad Superior MP Chakki Atta - l kg (Godhuma Pindi)", "1 kg"),
   },
   {
@@ -27,7 +27,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "2 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/656865a.jpg",
     offers: generateStoreOffers(94, 99, "Aashirvaad Superior MP Chakki Atta", "2 kg"),
   },
   {
@@ -36,7 +36,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/32147a.jpg",
     offers: generateStoreOffers(81, 85, "Aashirvaad High Fibre Atta with Multigrains - 1 kg (Multigrain Pindi)", "1 kg"),
   },
   {
@@ -45,7 +45,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/380156a.jpg",
     offers: generateStoreOffers(234, 360, "Fortune Fresh (100% Atta, 0% Maida) Chakki Atta (Godhuma Pindi)", "5 kg"),
   },
   {
@@ -54,7 +54,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/107990a.jpg",
     offers: generateStoreOffers(81, 85, "Aashirvaad Select 100% MP Sharbati Atta (Sharbati Godhuma Pindi)", "1 kg"),
   },
   {
@@ -63,7 +63,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/344107a.jpg",
     offers: generateStoreOffers(310, 358, "Aashirvaad Superior MP Chakki Atta (100% Atta, 0% Maida) (Godhuma Pindi)", "5 kg"),
   },
   {
@@ -72,7 +72,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/514893a.jpg",
     offers: generateStoreOffers(216, 290, "Whole Farm Chakki Atta (100% Atta, 0% Maida) (Godhuma Pindi)", "5 kg"),
   },
   {
@@ -81,7 +81,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/21686a.jpg",
     offers: generateStoreOffers(71, 90, "24 Mantra Organic Premium Whole Wheat Atta", "1 kg"),
   },
   {
@@ -90,7 +90,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/436305a.jpg",
     offers: generateStoreOffers(294, 421, "Aashirvaad Organic Atta", "5 kg"),
   },
   {
@@ -99,7 +99,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(248, 340, "Pillsbury Fresh Superior-Quality Chakki Atta (100% atta, 0% Maida) (Godhuma Pindi)", "5 kg"),
   },
   {
@@ -108,7 +108,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/436305a.jpg",
     offers: generateStoreOffers(72, 86, "Aashirvaad Organic Atta", "1 kg"),
   },
   {
@@ -117,7 +117,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(315, 449, "Right Shift Multigrain Atta (High Protein, Low GI)", "5 kg"),
   },
   {
@@ -126,7 +126,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(71, 86, "Aashirvaad High Protein Atta", "1 kg"),
   },
   {
@@ -135,7 +135,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "10 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/514893a.jpg",
     offers: generateStoreOffers(416, 606, "Whole Farm Chakki Atta (100% Atta, 0% Maida) (Godhuma Pindi)", "10 kg"),
   },
   {
@@ -144,7 +144,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "2 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/514893a.jpg",
     offers: generateStoreOffers(91, 110, "Whole Farm Chakki Atta (100% Atta, 0% Maida)", "2 kg"),
   },
   {
@@ -153,7 +153,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(76, 83, "Pillsbury High Fibre Multigrain Atta (1 kg) (Multigrain Pindi)", "1 kg"),
   },
   {
@@ -162,7 +162,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "10 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/380156a.jpg",
     offers: generateStoreOffers(458, 628, "Fortune Fresh (100% Atta, 0% Maida) Chakki Atta (Godhuma Pindi)", "10 kg"),
   },
   {
@@ -171,7 +171,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(79, 83, "Aashirvaad Atta with Millets (Godhuma Pindi)", "1 kg"),
   },
   {
@@ -180,7 +180,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "10 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/656865a.jpg",
     offers: generateStoreOffers(573, 654, "Aashirvaad Superior MP Chakki Atta (100% Atta, 0% Maida) (10 kg) (Godhuma Pindi)", "10 kg"),
   },
   {
@@ -189,7 +189,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "10 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(460, 613, "Pillsbury Fresh Chakki Atta (100% atta, 0% Maida) (Godhuma Pindi)", "10 kg"),
   },
   {
@@ -198,7 +198,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "2 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(403, 425, "Two Brothers Khapli Wheat Atta, Stoneground", "2 kg"),
   },
   {
@@ -207,7 +207,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "2 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(117, 131, "Pillsbury Fresh Chakki Atta (100% atta, 0% Maida)", "2 kg"),
   },
   {
@@ -216,7 +216,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(165, 220, "Minar Protein Plus Multigrain Atta", "1 kg"),
   },
   {
@@ -225,7 +225,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(333, 406, "Pillsbury High Fibre Multigrain Atta (Multigrain Pindi)", "5 kg"),
   },
   {
@@ -234,7 +234,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(76, 85, "Organic Tattva Wheat Organic Atta - 1 kg", "1 kg"),
   },
   {
@@ -243,7 +243,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "10 kg",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(669, 809, "Aashirvaad High Fibre Atta with Multigrains - 10 kg (Multigrain Pindi)", "10 kg"),
   },
   {
@@ -252,7 +252,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(766, 945, "Praakritik Organic Khapli Wheat Atta", "5 kg"),
   },
   {
@@ -261,7 +261,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(156, 205, "Two Brothers Khapli Multigrain Atta (8 grains)", "1 kg"),
   },
   {
@@ -270,7 +270,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(562, 625, "Organic Tattva Organic Multigrain Flour", "5 kg"),
   },
   {
@@ -279,7 +279,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(322, 450, "Organic Tattva Wheat Organic Atta - 5 kg", "5 kg"),
   },
   {
@@ -288,7 +288,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(268, 399, "Natureland Organics Whole Wheat Organic Atta", "5 kg"),
   },
   {
@@ -297,7 +297,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(214, 225, "Two Brothers Khapli Wheat Atta, Stoneground (Godhuma Pindi)", "1 kg"),
   },
   {
@@ -306,7 +306,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(231, 275, "Patanjali Whole Wheat Chakki Atta (with Bran) (Godhuma Pindi)", "5 kg"),
   },
   {
@@ -315,7 +315,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(77, 83, "Pillsbury Gold Sharbati Atta (Sharbati Godhuma Pindi)", "1 kg"),
   },
   {
@@ -324,7 +324,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(299, 299, "Lo Foods Gluten Free Millet Atta (Bajra, Jowar, Ragi Flour) (Godhuma Pindi)", "1 kg"),
   },
   {
@@ -333,7 +333,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/734829a.jpg",
     offers: generateStoreOffers(395, 399, "Nutroactive Daily Keto Low Carb Atta", "1 kg"),
   },
   {
@@ -342,7 +342,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(531, 531, "Nutroactive Keto Low Carb Atta", "1 kg"),
   },
   {
@@ -351,7 +351,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "2 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(378, 395, "Two Brothers Khapli Multigrain Atta", "2 kg"),
   },
   {
@@ -360,7 +360,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40044731_14-fortune-chakki-fresh-atta.jpg",
     offers: generateStoreOffers(289, 386, "Fortune Multigrain Atta", "5 kg"),
   },
   {
@@ -369,7 +369,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(79, 99, "Manna Multi Millet Atta", "1 kg"),
   },
   {
@@ -378,7 +378,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "10 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(453, 550, "Patanjali Traditional Whole Wheat Chakki Atta (with Bran) (Godhuma Pindi)", "10 kg"),
   },
   {
@@ -387,7 +387,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(939, 995, "Two Brothers Khapli Wheat Atta, Stoneground", "5 kg"),
   },
   {
@@ -396,7 +396,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(64, 75, "Amul Organic Atta (Whole Wheat)", "1 kg"),
   },
   {
@@ -405,7 +405,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(333, 406, "Pillsbury Gold Sharbati Atta (Sharbati Godhuma Pindi)", "5 kg"),
   },
   {
@@ -414,7 +414,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "2 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(473, 495, "Two Brothers High Protein Khapli Wheat Atta", "2 kg"),
   },
   {
@@ -423,7 +423,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "2 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(149, 200, "Better Nutrition Wheat Chakki Atta – 2X Nutrition (Godhuma Pindi)", "2 kg"),
   },
   {
@@ -432,7 +432,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(278, 355, "Manna Multi Millet Atta (Godhuma Pindi)", "5 kg"),
   },
   {
@@ -441,7 +441,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "3 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(179, 248, "Natureland Organics Fresh Chakki Organic Atta", "3 kg"),
   },
   {
@@ -450,7 +450,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(185, 249, "Goswasthya Khapli Wheat Atta (Stoneground)", "1 kg"),
   },
   {
@@ -459,7 +459,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(129, 179, "Manna Low GI Atta", "1 kg"),
   },
   {
@@ -468,7 +468,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(214, 280, "Native Again Heritage Khapli Wheat Atta", "1 kg"),
   },
   {
@@ -477,7 +477,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "2 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(349, 460, "Shiva Organic - Khapli Wheat Atta", "2 kg"),
   },
   {
@@ -486,7 +486,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(199, 249, "Maagaani Khapli Multi Millet Multigrain Atta", "1 kg"),
   },
   {
@@ -495,7 +495,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(65, 70, "Pillsbury Fresh Chakki Atta (100% atta, 0% Maida) (Godhuma Pindi)", "1 kg"),
   },
   {
@@ -504,7 +504,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(575, 575, "Lo Foods Ultra Lo Carb Keto Atta (High Fibre)", "1 kg"),
   },
   {
@@ -513,7 +513,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/40044731_14-fortune-chakki-fresh-atta.jpg",
     offers: generateStoreOffers(319, 385, "Fortune Premium MP Sharbati Atta (Sharbati Godhuma Pindi)", "5 kg"),
   },
   {
@@ -522,7 +522,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/380156a.jpg",
     offers: generateStoreOffers(54, 107, "Fortune Fresh Chakki Atta (0% Maida) (Godhuma Pindi)", "1 kg"),
   },
   {
@@ -531,7 +531,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(100, 105, "Two Brothers Jaggery Powder Sugarcane Crushed Granular (Bellam Powder)", "500 g"),
   },
   {
@@ -540,7 +540,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(562, 625, "24 Mantra Organic 7 Grain Organic Atta", "5 kg"),
   },
   {
@@ -549,7 +549,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(522, 522, "Diabexy Sugar Control Low GI Atta", "1 kg"),
   },
   {
@@ -558,7 +558,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(102, 125, "Organic Tattva Multigrain Organic Atta", "1 kg"),
   },
   {
@@ -567,7 +567,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "2 x 1 kg",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(238, 260, "24 Mantra Organic 7 Grain Atta - Pack of 2", "2 x 1 kg"),
   },
   {
@@ -576,7 +576,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "2.5 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(359, 445, "Swabhoj 7 Grain Multigrain Atta Stone-Ground & High Fibre", "2.5 kg"),
   },
   {
@@ -585,7 +585,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rice",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/124532a.jpg",
     offers: generateStoreOffers(446, 446, "Fortune Rozana-Gold Basmati Rice (Long Grain) (Basmati Biyyam)", "1 pc"),
   },
   {
@@ -594,7 +594,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rice",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/378875a.jpg",
     offers: generateStoreOffers(65, 65, "Sri Lalitha Premium Idli Rava (Upma Rava)", "1 pc"),
   },
   {
@@ -603,7 +603,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rice",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/477078a.jpg",
     offers: generateStoreOffers(408, 408, "Sri Lalitha Premium Quality Steam Sonamasuri Rice (Medium Grain) (Sonamasuri Biyyam)", "1 pc"),
   },
   {
@@ -612,7 +612,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rice",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/179126a.jpg",
     offers: generateStoreOffers(779, 779, "Sri Lalitha Raw Sonamasuri Rice (Long Grain) (Sonamasuri Biyyam)", "1 pc"),
   },
   {
@@ -621,7 +621,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rice",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/541909a.jpg",
     offers: generateStoreOffers(176, 176, "Double Horse Palakkadan Matta Rice (Matta Biyyam)", "1 pc"),
   },
   {
@@ -630,7 +630,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rice",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/477076a.jpg",
     offers: generateStoreOffers(452, 452, "Sri Lalitha Premium Quality HMT Kolam Rice (Short Grain) (Hmt Biyyam)", "1 pc"),
   },
   {
@@ -639,7 +639,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rice",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/528027a.jpg",
     offers: generateStoreOffers(77, 77, "Whole Farm Premium Steam Sonamasuri Rice (Medium Grain) (Sonamasuri Biyyam)", "1 pc"),
   },
   {
@@ -648,7 +648,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rice",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/60660a.jpg",
     offers: generateStoreOffers(95, 95, "Daawat Rozana-Super Basmati Rice (Medium Grain) (Basmati Biyyam)", "1 pc"),
   },
   {
@@ -657,7 +657,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rice",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/478811a.jpg",
     offers: generateStoreOffers(398, 398, "Double Horse Palakkadan Short Grain Matta Rice (Matta Biyyam)", "1 pc"),
   },
   {
@@ -666,7 +666,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rice",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/528749a.jpg",
     offers: generateStoreOffers(29, 29, "Whole Farm Premium Puffed Rice (Murmura) - Muri (Murmuralu)", "1 pc"),
   },
   {
@@ -675,7 +675,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/21491a.jpg",
     offers: generateStoreOffers(298, 298, "24 Mantra Organic Whole Wheat Atta (Organic Godhuma Pindi)", "1 pc"),
   },
   {
@@ -684,7 +684,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/68482a.jpg",
     offers: generateStoreOffers(71, 71, "Aashirvaad Superior MP Chakki Atta - l kg (Godhuma Pindi)", "1 pc"),
   },
   {
@@ -693,7 +693,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/32147a.jpg",
     offers: generateStoreOffers(81, 81, "Aashirvaad High Fibre Atta with Multigrains - 1 kg (Multigrain Pindi)", "1 pc"),
   },
   {
@@ -702,7 +702,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/380156a.jpg",
     offers: generateStoreOffers(234, 234, "Fortune Fresh (100% Atta, 0% Maida) Chakki Atta (Godhuma Pindi)", "1 pc"),
   },
   {
@@ -711,7 +711,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/107990a.jpg",
     offers: generateStoreOffers(81, 81, "Aashirvaad Select 100% MP Sharbati Atta (Sharbati Godhuma Pindi)", "1 pc"),
   },
   {
@@ -720,7 +720,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/344107a.jpg",
     offers: generateStoreOffers(310, 310, "Aashirvaad Superior MP Chakki Atta (100% Atta, 0% Maida) (Godhuma Pindi)", "1 pc"),
   },
   {
@@ -729,7 +729,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/514893a.jpg",
     offers: generateStoreOffers(216, 216, "Whole Farm Chakki Atta (100% Atta, 0% Maida) (Godhuma Pindi)", "1 pc"),
   },
   {
@@ -738,7 +738,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/21686a.jpg",
     offers: generateStoreOffers(71, 71, "24 Mantra Organic Premium Whole Wheat Atta", "1 pc"),
   },
   {
@@ -747,7 +747,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Atta",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/436305a.jpg",
     offers: generateStoreOffers(294, 294, "Aashirvaad Organic Atta", "1 pc"),
   },
   {
@@ -756,7 +756,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(32, 35, "Sri Lalitha Vari Nuka Premium Rice Sooji/Rava (Upma Rava)", "500 g"),
   },
   {
@@ -765,7 +765,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(53, 80, "Whole Farm Premium Sooji (Upma Rava)", "1 kg"),
   },
   {
@@ -774,7 +774,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 42, "Whole Farm Premium Sooji/Rava (Upma Rava)", "500 g"),
   },
   {
@@ -783,7 +783,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 80, "Whole Farm Premium Maida (Maida Pindi)", "1 kg"),
   },
   {
@@ -792,7 +792,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/10000401_16-bb-royal-chana-dal.jpg",
     offers: generateStoreOffers(61, 80, "Tata Sampann 100% Chana Dal Fine Besan/Gram Flour (Senaga Pindi)", "500 g"),
   },
   {
@@ -801,7 +801,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(42, 44, "Aashirvaad Double Roasted Sooji Rava (Kalcina suji)", "500 g"),
   },
   {
@@ -810,7 +810,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(29, 42, "Whole Farm Premium Maida/Refined Wheat Flour (Maida Pindi)", "500 g"),
   },
   {
@@ -819,7 +819,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(38, 39, "Aashirvaad Bansi Sooji / Rava (Ravva)", "500 g"),
   },
   {
@@ -828,7 +828,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(35, 44, "Fortune Maida (Maida Pindi)", "500 g"),
   },
   {
@@ -837,7 +837,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(56, 95, "Whole Farm Premium Besan (Senaga Pindi)", "500 g"),
   },
   {
@@ -846,7 +846,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/10000401_16-bb-royal-chana-dal.jpg",
     offers: generateStoreOffers(68, 85, "Fortune 100% Chana Dal Besan (500 kg) (Senaga Pindi)", "500 g"),
   },
   {
@@ -855,7 +855,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(71, 75, "24 Mantra Organic Idly Rava/Sooji", "500 g"),
   },
   {
@@ -864,7 +864,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(70, 76, "Aashirvaad Bansi Rava", "1 kg"),
   },
   {
@@ -873,7 +873,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/10000401_16-bb-royal-chana-dal.jpg",
     offers: generateStoreOffers(78, 80, "Aashirvaad 100% Chana Dal Besan (Kadale Hittu/Senagapindi) (Senaga Pindi)", "500 g"),
   },
   {
@@ -882,7 +882,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(79, 86, "Aashirvaad Double Roasted Sooji Rava", "1 kg"),
   },
   {
@@ -891,7 +891,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(85, 85, "Vijay Bombay Wheat Sooji (Upma Rava)", "1 kg"),
   },
   {
@@ -900,7 +900,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(67, 75, "Organic Tattva Organic Maida", "500 g"),
   },
   {
@@ -909,7 +909,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(63, 75, "Safe Harvest Pesticide-Free Roasted Sooji/Rava", "500 g"),
   },
   {
@@ -918,7 +918,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 230, "Organic Wisdom Gluten Free Jowar Rava Sooji", "400 g"),
   },
   {
@@ -927,7 +927,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(52, 55, "Double Horse Roasted Sooji/Rava (Kalcina suji)", "500 g"),
   },
   {
@@ -936,7 +936,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(38, 60, "Whole Farm Premium Roasted Sooji/Rava (Kalcina suji)", "500 g"),
   },
   {
@@ -945,7 +945,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(62, 75, "Natureland Organics Wheat Organic Sooji", "500 g"),
   },
   {
@@ -954,7 +954,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(72, 80, "Organic Tattva Wheat Organic Daliya", "500 g"),
   },
   {
@@ -963,7 +963,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(111, 125, "Organic Tattva Organic Besan", "500 g"),
   },
   {
@@ -972,7 +972,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(34, 52, "Whole Farm Premium Bansi Sooji/Rava (Upma Rava)", "500 g"),
   },
   {
@@ -981,7 +981,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "2 x 500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 84, "Whole Farm Premium Sooji - Pack of 2 (Upma Rava)", "2 x 500 g"),
   },
   {
@@ -990,7 +990,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(113, 140, "Safe Harvest Pesticide-Free Roasted Sooji", "1 kg"),
   },
   {
@@ -999,7 +999,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(60, 70, "Natureland Organics Wheat Organic Daliya", "500 g"),
   },
   {
@@ -1008,7 +1008,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(109, 125, "Natureland Organics Chana Organic Besan", "500 g"),
   },
   {
@@ -1017,7 +1017,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(83, 92, "Amul Organic Besan", "500 g"),
   },
   {
@@ -1026,7 +1026,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(199, 230, "Organic Wisdom Gluten Free Ragi Rava (Sooji)", "400 g"),
   },
   {
@@ -1035,7 +1035,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(325, 339, "Two Brothers Besan Flour", "1 kg"),
   },
   {
@@ -1044,7 +1044,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "2 x 500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 120, "Whole Farm Premium Roasted Sooji - Pack of 2 (Kalcina suji)", "2 x 500 g"),
   },
   {
@@ -1053,7 +1053,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(39, 45, "Fortune Sooji (Upma Rava)", "500 g"),
   },
   {
@@ -1062,7 +1062,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(72, 75, "Vijay Raw Rice Sooji/Akki Tari (Upma Rava)", "1 kg"),
   },
   {
@@ -1071,7 +1071,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(121, 125, "24 Mantra Organic Besan", "500 g"),
   },
   {
@@ -1080,7 +1080,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(61, 66, "Sri Lalitha Rava Sooji", "1 kg"),
   },
   {
@@ -1089,7 +1089,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(76, 85, "Organic Tattva Organic Sooji", "500 g"),
   },
   {
@@ -1098,7 +1098,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/10000401_16-bb-royal-chana-dal.jpg",
     offers: generateStoreOffers(127, 169, "Fortune 100% Chana Dal Besan (1 kg) (Senaga Pindi)", "1 kg"),
   },
   {
@@ -1107,7 +1107,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(30, 49, "Whole Farm Premium Chiroti / Barik Sooji Rava (Upma Rava)", "500 g"),
   },
   {
@@ -1116,7 +1116,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(229, 500, "SundarLaxmi Quinoa", "1 kg"),
   },
   {
@@ -1125,7 +1125,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(52, 57, "Tata Sampann High Fibre Thick Poha (Atukulu)", "500 g"),
   },
   {
@@ -1134,7 +1134,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(50, 89, "Whole Farm Premium Sabudana Sago (Saggubiyyam)", "500 g"),
   },
   {
@@ -1143,7 +1143,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(36, 69, "Whole Farm Premium Wheat Daliya/Lapsi (Godhuma Rava)", "500 g"),
   },
   {
@@ -1152,7 +1152,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(222, 289, "Nourish You White Quinoa - High Protein", "500 g"),
   },
   {
@@ -1161,7 +1161,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(43, 68, "Whole Farm Premium Fiber Rich Thick Poha (Atukulu)", "500 g"),
   },
   {
@@ -1170,7 +1170,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1585647347384-2593bc35786b?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(40, 49, "Whole Farm Premium Popcorn Kernels//Makki Dana", "200 g"),
   },
   {
@@ -1179,7 +1179,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "2 x 500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(143, 158, "Eat Millet Jowar Upma Rava", "2 x 500 g"),
   },
   {
@@ -1188,7 +1188,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(95, 140, "Whole Farm Premium Whole Ragi/Finger Millet Grains (Ragulu)", "1 kg"),
   },
   {
@@ -1197,7 +1197,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(59, 65, "Tata Sampann Thin Poha (Sanna Atukulu)", "500 g"),
   },
   {
@@ -1206,7 +1206,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(22, 60, "Whole Farm Premium Barley (Without Skin)", "200 g"),
   },
   {
@@ -1215,7 +1215,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/659158a.jpg",
     offers: generateStoreOffers(90, 150, "Whole Farm Premium Whole Jowar/Sorghum Millets Grains", "1 kg"),
   },
   {
@@ -1224,7 +1224,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(69, 120, "Whole Farm Motidana Sabudana", "500 g"),
   },
   {
@@ -1233,7 +1233,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(52, 52, "Vijay Medium Poha (Atukulu)", "500 g"),
   },
   {
@@ -1242,7 +1242,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(32, 33, "Whole Farm Premium Nylon Sabudana (Saggubiyyam)", "200 g"),
   },
   {
@@ -1251,7 +1251,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(93, 140, "Fortune Thick Poha (Atukulu)", "1 kg"),
   },
   {
@@ -1260,7 +1260,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(75, 75, "Double Horse Fine Broken Wheat / Daliya (Godhuma Rava)", "500 g"),
   },
   {
@@ -1269,7 +1269,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(56, 120, "Whole Farm Premium Kangni/Foxtail Millet Grains (Korralu)", "500 g"),
   },
   {
@@ -1278,7 +1278,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(103, 120, "Whole Farm Premium Samak/Barnyard Millet/Oodhalu Grains (Udalu/Kodisama)", "500 g"),
   },
   {
@@ -1287,7 +1287,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(108, 108, "Vijay Thick Poha (Atukulu)", "1 kg"),
   },
   {
@@ -1296,7 +1296,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(224, 450, "Fit Pants High Protein Quinoa (Gluten Free)", "1 kg"),
   },
   {
@@ -1305,7 +1305,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(60, 64, "Tata Sampann Rice Aval Red Poha (Atukulu)", "500 g"),
   },
   {
@@ -1314,7 +1314,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(299, 399, "Farmley Natural Quinoa High Protein, Dietary Fiber & Gluten-Free Superfood", "1 kg"),
   },
   {
@@ -1323,7 +1323,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(169, 200, "Farmley Natural Quinoa High Protein, Dietary Fiber & Gluten-Free Superfood", "500 g"),
   },
   {
@@ -1332,7 +1332,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(109, 160, "Whole Farm Premium Rajgira/Amaranth Grains", "500 g"),
   },
   {
@@ -1341,7 +1341,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(49, 55, "Natureland Organics Murmure Organic Murmura", "200 g"),
   },
   {
@@ -1350,7 +1350,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(132, 200, "Whole Farm Premium Quinoa Seeds", "500 g"),
   },
   {
@@ -1359,7 +1359,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(64, 80, "Whole Farm Premium Whole Wheat Grains (Godhumalu)", "1 kg"),
   },
   {
@@ -1368,7 +1368,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(38, 55, "JK Sabudana/Badadana/Sago (Saggubiyyam)", "250 g"),
   },
   {
@@ -1377,7 +1377,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(228, 240, "Organic Tattva Organic Quinoa", "500 g"),
   },
   {
@@ -1386,7 +1386,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(38, 53, "Whole Farm Premium Bajra/Pearl Millets Grains (Sajjalu)", "500 g"),
   },
   {
@@ -1395,7 +1395,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(42, 60, "Whole Farm Premium Roasted Wheat Daliya (Godhuma Rava)", "500 g"),
   },
   {
@@ -1404,7 +1404,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "5 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(305, 490, "Whole Farm Sihor Sharbati Wheat (Sharbati Godhumalu)", "5 kg"),
   },
   {
@@ -1413,7 +1413,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(90, 100, "24 Mantra Organic Red Poha", "500 g"),
   },
   {
@@ -1422,7 +1422,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(220, 295, "Organic India, A TATA Product - Organic Quinoa", "500 g"),
   },
   {
@@ -1431,7 +1431,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(172, 385, "True Elements Wholegrain Premium Quinoa", "500 g"),
   },
   {
@@ -1440,7 +1440,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(22, 30, "Whole Farm Grocery Barley /Jau Seeds (with Skin)", "100 g"),
   },
   {
@@ -1449,7 +1449,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(256, 499, "Yoga Bar Premium Wholegrain Quinoa (Gluten-free)", "1 kg"),
   },
   {
@@ -1458,7 +1458,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(65, 85, "Fortune Indori Thick Poha (Mandapati Atukulu)", "500 g"),
   },
   {
@@ -1467,7 +1467,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(35, 35, "Patanjali Regular Daliya (Godhuma Rava)", "500 g"),
   },
   {
@@ -1476,7 +1476,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(92, 159, "Manna Ethnic Kangni/Foxtail Millet (Korralu)", "500 g"),
   },
   {
@@ -1485,7 +1485,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(19, 21, "Amruth Raj Barley/Jau Seeds", "100 g"),
   },
   {
@@ -1494,7 +1494,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(86, 159, "Manna Ethnic Kodra/Kodo Millet (Arikelu)", "500 g"),
   },
   {
@@ -1503,7 +1503,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(174, 200, "Tata Sampann Unpolished Browntop Millet", "500 g"),
   },
   {
@@ -1512,7 +1512,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(162, 205, "Mille Sama Kutki/Little Millet (Samalu)", "500 g"),
   },
   {
@@ -1521,7 +1521,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(179, 219, "Organic Soul Organic Rajgira/Amaranth", "500 g"),
   },
   {
@@ -1530,7 +1530,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(84, 90, "24 Mantra Organic White Poha", "500 g"),
   },
   {
@@ -1539,7 +1539,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "900 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(249, 249, "Mittal Organics Barley Daliya (Organic Barli Biyyam)", "900 g"),
   },
   {
@@ -1548,7 +1548,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(84, 86, "Pro Nature Daliya (Broken Wheat)", "500 g"),
   },
   {
@@ -1557,7 +1557,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(117, 135, "Safe Harvest Pesticide-Free Foxtail Millet", "500 g"),
   },
   {
@@ -1566,7 +1566,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(36, 60, "Pansari Daliya (Godhuma Rava)", "500 g"),
   },
   {
@@ -1584,7 +1584,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(50, 50, "Patanjali Pushtahar Multigrain Daliya (Godhuma Rava)", "500 g"),
   },
   {
@@ -1593,7 +1593,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(159, 161, "True Elements Whole Rajgira/Amaranth", "500 g"),
   },
   {
@@ -1602,7 +1602,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(63, 82, "Whole Farm Premium Kodra/Kodo Millet/Araka Grains (Arikelu)", "500 g"),
   },
   {
@@ -1611,7 +1611,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(122, 159, "Manna Ethinic Kutki/Little Millet (Samalu)", "500 g"),
   },
   {
@@ -1620,7 +1620,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(64, 75, "Safe Harvest Pesticide-Free Daliya", "500 g"),
   },
   {
@@ -1629,7 +1629,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(130, 150, "Tata Sampann Unpolished Kutki/Little Millet", "500 g"),
   },
   {
@@ -1638,7 +1638,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "340 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(165, 220, "Conscious Food Organic Quinoa Seeds", "340 g"),
   },
   {
@@ -1647,7 +1647,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(325, 500, "Nature Vit Buckwheat Seeds/ Kuttu Giri", "1 kg"),
   },
   {
@@ -1656,7 +1656,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(88, 99, "Organic Tattva Organic White Poha", "500 g"),
   },
   {
@@ -1665,7 +1665,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "5 x 500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(1045, 1500, "The Millet Company Unpolished Millet Combo", "5 x 500 g"),
   },
   {
@@ -1674,7 +1674,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(47, 90, "Whole Farm Premium Samak/Barnyard Millet", "200 g"),
   },
   {
@@ -1683,7 +1683,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(162, 205, "Mille Samak/Barnyard Millet (Udalu/Kodisama)", "500 g"),
   },
   {
@@ -1692,7 +1692,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "2 x 1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(557, 1435, "True Elements Quinoa", "2 x 1 kg"),
   },
   {
@@ -1701,7 +1701,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(130, 150, "Tata Sampann Unpolished Kodra/Kodo Millet", "500 g"),
   },
   {
@@ -1710,7 +1710,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(162, 205, "Mille Kangni/Foxtail Millet (Korralu)", "500 g"),
   },
   {
@@ -1719,7 +1719,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "2 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(622, 1430, "True Elements Wholegrain Premium Quinoa", "2 kg"),
   },
   {
@@ -1728,7 +1728,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(99, 99, "Organic Tattva Organic Red Poha 500 g", "500 g"),
   },
   {
@@ -1746,7 +1746,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(80, 85, "Safe Harvest Red Poha", "500 g"),
   },
   {
@@ -1755,7 +1755,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(81, 96, "Pro Nature Red Organic Red Poha", "500 g"),
   },
   {
@@ -1764,7 +1764,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(117, 135, "Safe Harvest Pesticide-Free Kodo Millet", "500 g"),
   },
   {
@@ -1782,7 +1782,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(161, 190, "Millet Marvels Samak/Barnyard Millet", "500 g"),
   },
   {
@@ -1791,7 +1791,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(141, 149, "Natureland Organics Organic Kodo Millet", "500 g"),
   },
   {
@@ -1800,7 +1800,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(104, 159, "Manna Ethnic Chena/Proso Millet", "500 g"),
   },
   {
@@ -1809,7 +1809,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(108, 136, "True Elements Whole Bajra/Pearl Millets (Sajjalu)", "500 g"),
   },
   {
@@ -1818,7 +1818,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(110, 130, "Millet Marvels Kodra/Kodo Millet", "500 g"),
   },
   {
@@ -1827,7 +1827,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(170, 200, "Millet Marvels Kutki/Little Millet", "500 g"),
   },
   {
@@ -1836,7 +1836,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(353, 369, "Two Brothers Bajra Poha", "500 g"),
   },
   {
@@ -1845,7 +1845,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(384, 384, "Health Fields Rajgira/Amaranth (Chaulai)", "1 kg"),
   },
   {
@@ -1854,7 +1854,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(154, 179, "Organic Soul Organic Red Poha", "500 g"),
   },
   {
@@ -1863,7 +1863,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(237, 280, "Millet Marvels Quinoa", "500 g"),
   },
   {
@@ -1872,7 +1872,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(179, 209, "Aazol Red Rice Poha", "250 g"),
   },
   {
@@ -1881,7 +1881,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "125 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530158a.jpg",
     offers: generateStoreOffers(155, 249, "EAT Anytime Cream & Onion Millet Kurmura Roasted Namkeen", "125 g"),
   },
   {
@@ -1890,7 +1890,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(237, 280, "Millet Marvels Browntop Millet", "500 g"),
   },
   {
@@ -1899,7 +1899,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(249, 275, "Natureland Organics Organic Quinoa", "500 g"),
   },
   {
@@ -1908,7 +1908,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(353, 369, "Two Brothers Ragi Poha", "500 g"),
   },
   {
@@ -1917,7 +1917,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(81, 89, "Safe Harvest Pesticide-Free Poha", "500 g"),
   },
   {
@@ -1926,7 +1926,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(56, 60, "Amul Organic White Poha", "500 g"),
   },
   {
@@ -1935,7 +1935,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(57, 64, "JK Thick Poha (Atukulu)", "500 g"),
   },
   {
@@ -1944,7 +1944,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(104, 159, "Manna Ethnic Samak/Barnyard Millet (Udalu/Kodisama)", "500 g"),
   },
   {
@@ -1953,7 +1953,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(52, 75, "Whole Farm Premium Thin Poha (Sanna Atukulu)", "500 g"),
   },
   {
@@ -1962,7 +1962,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "2 x 500 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(258, 258, "Eat Millet Multi Millet Idli & Upma Rava", "2 x 500 g"),
   },
   {
@@ -1971,7 +1971,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "185 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(185, 185, "Millops Jowar Lahi/Popcorn", "185 g"),
   },
   {
@@ -1980,7 +1980,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(95, 95, "Whole Farm Premium Kutki/Little Millet/Samai Grains (Samalu)", "500 g"),
   },
   {
@@ -1989,7 +1989,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(77, 95, "Whole Farm Grocery Avalakki Thick Poha (Atukulu)", "1 kg"),
   },
   {
@@ -1998,7 +1998,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(117, 135, "Safe Harvest Pesticide-Free Barnyard Millet", "500 g"),
   },
   {
@@ -2007,7 +2007,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(130, 150, "Tata Sampann Unpolished Kangni/Foxtail Millet", "500 g"),
   },
   {
@@ -2016,7 +2016,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(92, 140, "Whole Farm Premium Chena/Proso Millet/Baragu Grains", "500 g"),
   },
   {
@@ -2025,7 +2025,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Poha, Daliya & Grains",
     unit: "900 g",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/126906_8-aashirvaad-atta-whole-wheat.jpg",
     offers: generateStoreOffers(180, 180, "IARA Golden Pearls Multigrain Daliya Mix", "900 g"),
   },
   {
@@ -2034,7 +2034,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/721616a.jpg",
     offers: generateStoreOffers(97, 107, "Tata Sampann Unpolished Red Rajma Kashmiri Style", "500 g"),
   },
   {
@@ -2043,7 +2043,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/527592a.jpg",
     offers: generateStoreOffers(59, 120, "Whole Farm Grocery Kabuli Chana (Medium Size) (Kabuli Senagalu)", "500 g"),
   },
   {
@@ -2052,7 +2052,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/142484a.jpg",
     offers: generateStoreOffers(63, 63, "Double Horse Nano Soya Chunks", "200 g"),
   },
   {
@@ -2061,7 +2061,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/528020a.jpg",
     offers: generateStoreOffers(45, 90, "Whole Farm Premium White Dried Peas/Safed Matar (Endu Batanilu (Tella))", "500 g"),
   },
   {
@@ -2070,7 +2070,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/527621a.jpg",
     offers: generateStoreOffers(72, 150, "Whole Farm Premium Kashmiri Red Rajma (Red Rajma)", "500 g"),
   },
   {
@@ -2079,7 +2079,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/39490a.jpg",
     offers: generateStoreOffers(89, 104, "Tata Sampann Unpolished Kabuli Chana (Big Size) (Kabuli Senagalu)", "500 g"),
   },
   {
@@ -2088,7 +2088,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "80 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/132885a.jpg",
     offers: generateStoreOffers(15, 15, "Nutrela Soya Mini Chunks", "80 g"),
   },
   {
@@ -2097,7 +2097,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/63830a.jpg",
     offers: generateStoreOffers(63, 64, "Double Horse Soya Chunks", "200 g"),
   },
   {
@@ -2106,7 +2106,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/721585a.jpg",
     offers: generateStoreOffers(59, 65, "Tata Sampann Unpolished White Dried Peas", "500 g"),
   },
   {
@@ -2115,7 +2115,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/527592a.jpg",
     offers: generateStoreOffers(105, 299, "Whole Farm Grocery Kabuli Chana (Medium Size) (Kabuli Senagalu)", "1 kg"),
   },
   {
@@ -2124,7 +2124,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 80, "Whole Farm Premium White Lobiya (Tella Bobbarlu)", "500 g"),
   },
   {
@@ -2133,7 +2133,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 55, "Nutrela Soya Granules", "200 g"),
   },
   {
@@ -2142,7 +2142,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "285 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(48, 80, "Freshcon Boiled Sweet Corn Kernels (Ready to Eat)", "285 g"),
   },
   {
@@ -2151,7 +2151,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(97, 105, "Tata Sampann Unpolished Rajma", "500 g"),
   },
   {
@@ -2160,7 +2160,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(75, 115, "Whole Farm Premium Red Lobiya", "500 g"),
   },
   {
@@ -2169,7 +2169,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(29, 70, "Whole Farm Premium Green Dried Peas (Kushi Kerao) (Batanilu)", "250 g"),
   },
   {
@@ -2178,7 +2178,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/39490a.jpg",
     offers: generateStoreOffers(79, 85, "Tata Sampann Unpolished Kabuli Chana (Medium Size) (Kabuli Senagalu)", "500 g"),
   },
   {
@@ -2187,7 +2187,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "400 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(115, 165, "Saffola Soya Chunks - Tender & Juicy", "400 g"),
   },
   {
@@ -2196,7 +2196,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(86, 135, "Whole Farm Premium Red Rajma (Red Rajma)", "500 g"),
   },
   {
@@ -2205,7 +2205,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 55, "Nutrela Soya Chunks", "200 g"),
   },
   {
@@ -2214,7 +2214,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(58, 100, "Whole Farm Premium Horse Gram/Kulthi Bean/Hurali (Ulavalu)", "500 g"),
   },
   {
@@ -2223,7 +2223,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(76, 85, "Whole Farm Premium Pulses Soyabean", "500 g"),
   },
   {
@@ -2232,7 +2232,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "100 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(62, 120, "Whole Farm Premium Dhania Dal (Dhania Dal)", "100 g"),
   },
   {
@@ -2241,7 +2241,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(92, 99, "Tata Sampann Unpolished Mix Dal", "500 g"),
   },
   {
@@ -2250,7 +2250,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(97, 107, "Tata Sampann Unpolished Organic Kala Chana", "500 g"),
   },
   {
@@ -2259,7 +2259,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(132, 152, "Tata Sampann Unpolished Organic Rajma (Red)", "500 g"),
   },
   {
@@ -2268,7 +2268,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(100, 120, "Organic Tattva - Organic Kala Chana", "500 g"),
   },
   {
@@ -2277,7 +2277,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(169, 200, "24 Mantra Organic Kabuli Chana / Chole", "500 g"),
   },
   {
@@ -2286,7 +2286,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(59, 95, "Freshcon Boiled Salad Mix Dal- Ready to Eat", "200 g"),
   },
   {
@@ -2295,7 +2295,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(50, 70, "Whole Farm Premium Rajma Chitra", "250 g"),
   },
   {
@@ -2304,7 +2304,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(79, 85, "Fortune New Unpolished Kabuli Chana (Kabuli Senagalu)", "500 g"),
   },
   {
@@ -2313,7 +2313,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(41, 80, "Whole Farm Premium Kabuli Chana (Big Size)", "250 g"),
   },
   {
@@ -2322,7 +2322,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(198, 210, "Zoff Soya Chunks", "1 kg"),
   },
   {
@@ -2331,7 +2331,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(82, 90, "Tata Sampann White Lobiya", "500 g"),
   },
   {
@@ -2340,7 +2340,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "2 x 250 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(90, 180, "Freshcon Boiled Kabuli Chana (Chick Peas) - Pack of 2", "2 x 250 g"),
   },
   {
@@ -2349,7 +2349,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(82, 120, "Whole Farm Grocery Rajma Chitra", "500 g"),
   },
   {
@@ -2358,7 +2358,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "220 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(62, 100, "Freshcon Zesty Sweet Chili Sweet Corn Kernels", "220 g"),
   },
   {
@@ -2367,7 +2367,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(145, 175, "Organic Tattva - Organic Red Rajma", "500 g"),
   },
   {
@@ -2376,7 +2376,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(119, 135, "Tata Sampann Organic Kabuli Chana Unpolished", "500 g"),
   },
   {
@@ -2385,7 +2385,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(77, 85, "Tata Sampann Unpolished Moth Dal (Matki)", "500 g"),
   },
   {
@@ -2394,7 +2394,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(148, 178, "Bharat Organics Unpolished Organic Brown / Kala Chana", "1 kg"),
   },
   {
@@ -2403,7 +2403,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(141, 150, "Organic Tattva Organic Kabuli Chana", "500 g"),
   },
   {
@@ -2412,7 +2412,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(94, 120, "Whole Farm Premium Rajma Chitra", "500 g"),
   },
   {
@@ -2421,7 +2421,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(49, 100, "Whole Farm Premium Lima Beans", "200 g"),
   },
   {
@@ -2430,7 +2430,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(109, 180, "Basic Kabuli Chana (Small Size) (Kabuli Senagalu)", "1 kg"),
   },
   {
@@ -2439,7 +2439,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(101, 117, "Natureland Organics Organic Kala Chana Whole", "500 g"),
   },
   {
@@ -2448,7 +2448,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(161, 199, "Safe Harvest Pesticide-Free Kala Chana Bengal gram", "1 kg"),
   },
   {
@@ -2457,7 +2457,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(118, 225, "Basic Rajma (Desi)", "1 kg"),
   },
   {
@@ -2466,7 +2466,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(125, 155, "Organic Tattva Organic Mix Dal", "500 g"),
   },
   {
@@ -2475,7 +2475,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "220 g",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(50, 100, "Freshcon Classic Chaat Chutney Sweet Corn Kernels", "220 g"),
   },
   {
@@ -2484,7 +2484,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(89, 100, "Amul Organic Red Rajma", "500 g"),
   },
   {
@@ -2493,7 +2493,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(80, 152, "Whole Farm Premium Dal Makhni Mix Dal (Pappu)", "500 g"),
   },
   {
@@ -2502,7 +2502,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(109, 109, "Vijayalakshmi Deer Rajma", "500 g"),
   },
   {
@@ -2511,7 +2511,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(101, 165, "Safe Harvest Pesticide-Free Kabuli Chana", "500 g"),
   },
   {
@@ -2520,7 +2520,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(111, 125, "Amul Organic Rajma Chitra", "500 g"),
   },
   {
@@ -2529,7 +2529,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(123, 143, "Safe Harvest Kashmiri Pesticide-Free Red Rajma", "500 g"),
   },
   {
@@ -2538,7 +2538,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(117, 130, "Amul Organic Kabuli Chana", "500 g"),
   },
   {
@@ -2547,7 +2547,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(156, 240, "Whole Farm Grocery Rajma Chitra", "1 kg"),
   },
   {
@@ -2556,7 +2556,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(139, 157, "Organic India, A TATA Product - Organic Kabuli Chana", "500 g"),
   },
   {
@@ -2565,7 +2565,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(91, 91, "Vijayalakshmi Deer Kabuli Chana", "500 g"),
   },
   {
@@ -2574,7 +2574,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(108, 126, "Tata Sampann Easy Cook Kabuli Chana, No Soak Required", "200 g"),
   },
   {
@@ -2583,7 +2583,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(159, 199, "Natureland Organics Organic Kabuli Chana", "500 g"),
   },
   {
@@ -2592,7 +2592,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(191, 229, "Bharat Organics Unpolished Organic Kabuli Chana", "1 kg"),
   },
   {
@@ -2601,7 +2601,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(202, 240, "Tenali Double Horse Premium Kabuli Chana", "1 kg"),
   },
   {
@@ -2610,7 +2610,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(147, 189, "Sattvik Earth Premium Kabuli Chana (Safed Chana)", "1 kg"),
   },
   {
@@ -2619,7 +2619,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(47, 50, "Fortune Soya Chunks", "200 g"),
   },
   {
@@ -2628,7 +2628,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(57, 60, "Saffola Mealmaker Soya Chunks", "200 g"),
   },
   {
@@ -2637,7 +2637,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(33, 60, "Whole Farm Premium Mixed Sprouts", "200 g"),
   },
   {
@@ -2646,7 +2646,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(56, 95, "Whole Farm Premium Matki/ Moth Dal - Sabut (Whole) (Moth pappu)", "500 g"),
   },
   {
@@ -2655,7 +2655,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(23, 40, "Whole Farm Premium Matki/ Moth Dal (Moth pappu)", "200 g"),
   },
   {
@@ -2664,7 +2664,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(83, 130, "Whole Farm Premium Pachmel Mix Dal (Pappu)", "500 g"),
   },
   {
@@ -2673,7 +2673,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(149, 180, "Organic Tattva - Organic Rajma Chitra", "500 g"),
   },
   {
@@ -2682,7 +2682,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(46, 50, "Fortune Soya Mini Chunks", "200 g"),
   },
   {
@@ -2691,7 +2691,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(93, 120, "24 Mantra Organic Kala Chana", "500 g"),
   },
   {
@@ -2700,7 +2700,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "250 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(56, 90, "Freshcon Boiled White Lobiya", "250 g"),
   },
   {
@@ -2709,7 +2709,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(63, 70, "Amul Desi Organic Kala Chana", "500 g"),
   },
   {
@@ -2718,7 +2718,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "2 x 250 g",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(90, 180, "Freshcon Boiled Rajma - Pack of 2", "2 x 250 g"),
   },
   {
@@ -2727,7 +2727,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "3 x 250 g",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(120, 240, "Freshcon Boiled White Dried Peas (White Vatana) - Pack of 3", "3 x 250 g"),
   },
   {
@@ -2736,7 +2736,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
     offers: generateStoreOffers(185, 240, "Sattvik Earth Premium Rajma Chitra", "1 kg"),
   },
   {
@@ -2745,7 +2745,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Moong & Masoor",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/31999a.jpg",
     offers: generateStoreOffers(158, 158, "24 Mantra Organic Moong Dal (Chilka) Split", "1 pc"),
   },
   {
@@ -2754,7 +2754,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Moong & Masoor",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/57903a.jpg",
     offers: generateStoreOffers(83, 83, "Tata Sampann Unpolished Yellow Moong Dal (Dhuli) Split (Pesara Pappu)", "1 pc"),
   },
   {
@@ -2763,7 +2763,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Moong & Masoor",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/39492a.jpg",
     offers: generateStoreOffers(79, 79, "Tata Sampann Unpolished Green Moong (Sabut) Whole (Pesalu)", "1 pc"),
   },
   {
@@ -2772,7 +2772,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Moong & Masoor",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/39491a.jpg",
     offers: generateStoreOffers(81, 81, "Tata Sampann Unpolished Masoor Dal (Erra Kandipappu)", "1 pc"),
   },
   {
@@ -2781,7 +2781,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Moong & Masoor",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/527615a.jpg",
     offers: generateStoreOffers(81, 81, "Whole Farm Premium Moong Dal (Dhuli) Yellow (Pesara Pappu)", "1 pc"),
   },
   {
@@ -2790,7 +2790,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Moong & Masoor",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/527590a.jpg",
     offers: generateStoreOffers(73, 73, "Whole Farm Premium Moong (Sabut) Green (Pesalu)", "1 pc"),
   },
   {
@@ -2799,7 +2799,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Moong & Masoor",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/526250a.jpg",
     offers: generateStoreOffers(62, 62, "Whole Farm Premium Masoor Dal (Erra Kandipappu)", "1 pc"),
   },
   {
@@ -2808,7 +2808,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Moong & Masoor",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/89120a.jpg",
     offers: generateStoreOffers(149, 149, "Tata Sampann Masoor Dal Unpolished (Erra Kandipappu)", "1 pc"),
   },
   {
@@ -2817,7 +2817,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Moong & Masoor",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/603644a.jpg",
     offers: generateStoreOffers(261, 261, "Whole Farm Grocery Moong Dal (Dhuli) (Pesara Pappu)", "1 pc"),
   },
   {
@@ -2826,7 +2826,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Moong & Masoor",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/34819a.jpg",
     offers: generateStoreOffers(89, 89, "Tata Sampann Unpolished Green Moong Dal (Chilka) (Pesara Pappu)", "1 pc"),
   },
   {
@@ -2835,7 +2835,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Fresh Atta",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/734829a.jpg",
     offers: generateStoreOffers(395, 395, "Nutroactive Daily Keto Low Carb Atta", "1 pc"),
   },
   {
@@ -2844,7 +2844,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Millet & Other Flours",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/703383a.jpg",
     offers: generateStoreOffers(61, 61, "Daawat Rice Flour", "1 pc"),
   },
   {
@@ -2853,7 +2853,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Millet & Other Flours",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/538338a.jpg",
     offers: generateStoreOffers(53, 53, "Whole Farm Premium Ragi Flour (Ragi Pindi)", "1 pc"),
   },
   {
@@ -2862,7 +2862,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Millet & Other Flours",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/479759a.jpg",
     offers: generateStoreOffers(69, 69, "Vijay Rice Flour (Biyyam Pindi)", "1 pc"),
   },
   {
@@ -2871,7 +2871,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Millet & Other Flours",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10958a.jpg",
     offers: generateStoreOffers(32, 32, "Weikfield Corn Flour (Starch) -Gluten Free (Mokkajonna Pindi)", "1 pc"),
   },
   {
@@ -2880,7 +2880,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Millet & Other Flours",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/527598a.jpg",
     offers: generateStoreOffers(70, 70, "Whole Farm Premium Corn Flour (Starch) (Mokkajonna Pindi)", "1 pc"),
   },
   {
@@ -2889,7 +2889,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Millet & Other Flours",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/659158a.jpg",
     offers: generateStoreOffers(90, 90, "Whole Farm Premium Whole Jowar/Sorghum Millets Grains", "1 pc"),
   },
   {
@@ -2898,7 +2898,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Millet & Other Flours",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/534988a.jpg",
     offers: generateStoreOffers(39, 39, "Double Horse Modak Flour (Modak Pindi)", "1 pc"),
   },
   {
@@ -2907,7 +2907,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Millet & Other Flours",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/531198a.jpg",
     offers: generateStoreOffers(39, 39, "Whole Farm Premium Jowar Flour (Jonna Pindi)", "1 pc"),
   },
   {
@@ -2916,7 +2916,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Millet & Other Flours",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/5751a.jpg",
     offers: generateStoreOffers(93, 93, "24 Mantra Organic Ragi Flour", "1 pc"),
   },
   {
@@ -2925,7 +2925,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Millet & Other Flours",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/751663a.jpg",
     offers: generateStoreOffers(30, 30, "The Select Aisle Corn Flour (Starch)", "1 pc"),
   },
   {
@@ -2934,7 +2934,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/540539a.jpg",
     offers: generateStoreOffers(195, 220, "Sunpure Kachi Ghani Mustard Oil (Aava Nune)", "1 ltr"),
   },
   {
@@ -2943,7 +2943,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/56193a.jpg",
     offers: generateStoreOffers(184, 240, "Freedom Refined Sunflower Oil (Vanta Nune)", "1 ltr"),
   },
   {
@@ -2952,7 +2952,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "5 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/56193a.jpg",
     offers: generateStoreOffers(925, 1175, "Freedom Refined Sunflower Oil (Vanta Nune)", "5 ltr"),
   },
   {
@@ -2961,7 +2961,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/537873a.jpg",
     offers: generateStoreOffers(175, 225, "Sunpure Physically Refined Sunflower Oil (Vanta Nune)", "1 ltr"),
   },
   {
@@ -2970,7 +2970,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/70506a.jpg",
     offers: generateStoreOffers(178, 231, "Gold Drop Sunflower Oil 1 l (Vanta Nune)", "1 ltr"),
   },
   {
@@ -2979,7 +2979,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/261679a.jpg",
     offers: generateStoreOffers(175, 220, "Freedom Refined Rice Bran Oil (Nune)", "1 ltr"),
   },
   {
@@ -2988,7 +2988,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/402144a.jpg",
     offers: generateStoreOffers(181, 230, "Freedom Groundnut Oil (Veru Senaga Nune)", "1 ltr"),
   },
   {
@@ -2997,7 +2997,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "2 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/579566a.jpg",
     offers: generateStoreOffers(363, 450, "Sunpure Heart Sunflower Oil (Vanta Nune)", "2 ltr"),
   },
   {
@@ -3006,7 +3006,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "750 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/18586a.jpg",
     offers: generateStoreOffers(129, 152, "Raag Gold Palmolein Oil", "750 g"),
   },
   {
@@ -3015,7 +3015,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(168, 195, "Healthy Heart Rice Bran Oil (Nune)", "1 ltr"),
   },
   {
@@ -3024,7 +3024,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "840 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(176, 200, "Fortune Refined Sunflower Oil", "840 g"),
   },
   {
@@ -3033,7 +3033,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "100 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(750, 750, "Gusto Foods White Truffle Infused Extra Virgin Olive Oil", "100 ml"),
   },
   {
@@ -3042,7 +3042,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(184, 221, "Vijaya Groundnut Oil (Veru Senaga Nune)", "1 ltr"),
   },
   {
@@ -3051,7 +3051,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "910 g",
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(214, 260, "Fortune Premium Kachi Ghani Pure Mustard Oil (910 g) (Aava Nune)", "910 g"),
   },
   {
@@ -3060,7 +3060,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(177, 213, "Gold Winner Refined Sunflower Oil (Vanta Nune)", "1 ltr"),
   },
   {
@@ -3069,7 +3069,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(1099, 1399, "N.t.h Extra Virgin Olive Oil", "1 ltr"),
   },
   {
@@ -3078,7 +3078,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "5 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(898, 1188, "Gold Drop Sunflower Oil 5 l (Vanta Nune)", "5 ltr"),
   },
   {
@@ -3087,7 +3087,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "2 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/402143a.jpg",
     offers: generateStoreOffers(382, 510, "Freedom Refined Sunflower Oil 2 l (Vanta Nune)", "2 ltr"),
   },
   {
@@ -3096,7 +3096,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(167, 225, "Natural 9 Refined Rice Bran Oil (రిఫైన్డ్ రైస్ బ్రాన్ ఆయిల్)", "1 ltr"),
   },
   {
@@ -3105,7 +3105,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(280, 449, "N.t.h Cold Pressed Groundnut Oil", "1 ltr"),
   },
   {
@@ -3114,7 +3114,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(402, 500, "Tata Simply Better Pure Cold Pressed Groundnut Oil / Peanut Oil (Verusenaga Nune)", "1 ltr"),
   },
   {
@@ -3123,7 +3123,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(183, 233, "Priya Fortified & Refined Rice Bran Oil (Nune)", "1 ltr"),
   },
   {
@@ -3132,7 +3132,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(188, 220, "A.S. Brand Groundnut Oil (Veru Senaga Nune)", "1 ltr"),
   },
   {
@@ -3141,7 +3141,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "930 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(176, 208, "Saffola Active Rice Bran & Soyabean Blended Cooking Oil (Vantanunne)", "930 ml"),
   },
   {
@@ -3150,7 +3150,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "2 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(362, 493, "Gold Drop Refined Sunflower Oil", "2 ltr"),
   },
   {
@@ -3159,7 +3159,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(188, 235, "Priya Double Filtered Groundnut Oil (Veru Senaga Nune)", "1 ltr"),
   },
   {
@@ -3168,7 +3168,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "650 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(137, 166, "Ruchi Gold Refined Palmolein Oil", "650 g"),
   },
   {
@@ -3177,7 +3177,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "900 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(174, 194, "Saffola Tasty + Refined Rice Bran & Corn Blended Cooking Oil (Vantanunne)", "900 ml"),
   },
   {
@@ -3186,7 +3186,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "500 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(228, 243, "Idhayam Sesame Oil /Gingelly Oil (Nuvvula Nune)", "500 ml"),
   },
   {
@@ -3195,7 +3195,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "910 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/147491_11-saffola-gold-refined-cooking-oil.jpg",
     offers: generateStoreOffers(210, 245, "Saffola Gold Sunflower & Rice Bran Refined Blended Cooking Oil (1 ltr) (Vantanunne)", "910 g"),
   },
   {
@@ -3204,7 +3204,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(289, 350, "Tata Simply Better Pure Cold Pressed Mustard Oil /Sarso Oil (Cold Pressed Aava Nune)", "1 ltr"),
   },
   {
@@ -3213,7 +3213,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(268, 275, "Oleev Active Olive & Rice Bran Multi-Source Blended Cooking Oil (Vantanunne)", "1 ltr"),
   },
   {
@@ -3222,7 +3222,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "5 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(1789, 2099, "Tata Simply Better Cold Pressed Groundnut Oil / Peanut Oil", "5 ltr"),
   },
   {
@@ -3231,7 +3231,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "5 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(1282, 1350, "Saffola Sunflower and Rice Bran Blended Cooking Oil - Free 1 l Pouch (Vantanunne)", "5 ltr"),
   },
   {
@@ -3240,7 +3240,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(399, 475, "Anveshan Cold Pressed Sunflower Oil", "1 ltr"),
   },
   {
@@ -3249,7 +3249,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "900 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(299, 335, "KLF Coconad 100 % Edible Coconut Oil (Kobbari Nune)", "900 ml"),
   },
   {
@@ -3258,7 +3258,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "500 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(299, 340, "Tata Simply Better Cold Pressed Sesame Oil", "500 ml"),
   },
   {
@@ -3267,7 +3267,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "250 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(308, 599, "Figaro Extra Virgin Olive Oil (Extra Virgin Olive nunne)", "250 ml"),
   },
   {
@@ -3276,7 +3276,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "200 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(80, 95, "KLF Tilnad Gingelly/ Sesame Oil (Nuvvula Nune)", "200 ml"),
   },
   {
@@ -3285,7 +3285,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "2.55 kg",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(669, 699, "Sundrop Superlite Advanced Sunflower Oil (Vanta Nune)", "2.55 kg"),
   },
   {
@@ -3294,7 +3294,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(173, 194, "Vijaya Refined Rice Bran Oil (Nune)", "1 ltr"),
   },
   {
@@ -3303,7 +3303,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(443, 550, "24 Mantra Organic - Cold Pressed Sunflower Oil", "1 ltr"),
   },
   {
@@ -3312,7 +3312,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(338, 490, "Gramiyaa Wood Cold Pressed Groundnut Oil", "1 ltr"),
   },
   {
@@ -3321,7 +3321,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "750 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(149, 149, "Sundrop Heart+ Rice Bran & Corn Refined Cooking Oil", "750 g"),
   },
   {
@@ -3330,7 +3330,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(384, 425, "Anveshan Cold Pressed Groundnut Oil", "1 ltr"),
   },
   {
@@ -3339,7 +3339,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(330, 450, "Kalashetty Gold Cold Pressed Safflower Oil", "1 ltr"),
   },
   {
@@ -3348,7 +3348,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "500 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(162, 162, "Patanjali Virgin Sesame Oil (Gingelly/Til Oil) (Nuvvula Nune)", "500 ml"),
   },
   {
@@ -3357,7 +3357,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(1149, 2300, "Borges Cold-Pressed Extra Virgin Olive Oil 1 l (Extra Virgin Olive nunne)", "1 ltr"),
   },
   {
@@ -3366,7 +3366,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "250 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(310, 749, "Del Monte Extra Virgin Olive Oil (Extra Virgin Olive nunne)", "250 ml"),
   },
   {
@@ -3375,7 +3375,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(289, 470, "Indic Wisdom Wood Cold Pressed Groundnut Oil / Peanut Oil (Veru Senaga Nune)", "1 ltr"),
   },
   {
@@ -3384,7 +3384,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(172, 225, "Natural 9 Refined Sunflower & Rice Bran Blended Cooking Oil (సన్ఫ్లవర్ రైస్ బ్రాన్ బ్లెండెడ్ ఆయిల్)", "1 ltr"),
   },
   {
@@ -3393,7 +3393,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "500 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(226, 240, "A.S. Brand Sesame Oil (Nuvvula Nune)", "500 ml"),
   },
   {
@@ -3402,7 +3402,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(509, 599, "Tata Simply Better Cold Pressed Sunflower Oil", "1 ltr"),
   },
   {
@@ -3411,7 +3411,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(349, 495, "Natureland Organics Organic Sunflower Oil", "1 ltr"),
   },
   {
@@ -3420,7 +3420,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1.82 kg",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/147491_11-saffola-gold-refined-cooking-oil.jpg",
     offers: generateStoreOffers(401, 505, "Saffola Gold Sunflower & Rice Bran Refined Blended Cooking Oil (Vantanunne)", "1.82 kg"),
   },
   {
@@ -3429,7 +3429,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(316, 490, "Gulab Premium Cold Pressed Groundnut Oil (Verusenaga Nune)", "1 ltr"),
   },
   {
@@ -3438,7 +3438,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(337, 495, "Natureland Organics Organic Groundnut Oil", "1 ltr"),
   },
   {
@@ -3447,7 +3447,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(323, 450, "Saffola Cold Pressed Groundnut Oil", "1 ltr"),
   },
   {
@@ -3456,7 +3456,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "100 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(206, 225, "Figaro Pure Olive Oil (Pure Olive nunne)", "100 ml"),
   },
   {
@@ -3465,7 +3465,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(213, 230, "Patanjali Mustard Oil Kachi Ghani (Cold Pressed) (Aava Nune)", "1 ltr"),
   },
   {
@@ -3474,7 +3474,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "4.25 kg",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(877, 1040, "Saffola Active Rice Bran & Soyabean Blended Cooking Oil (Vantanunne)", "4.25 kg"),
   },
   {
@@ -3483,7 +3483,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "4.35 kg",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(915, 1149, "Fortune Rice Bran Oil (Nune)", "4.35 kg"),
   },
   {
@@ -3492,7 +3492,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "5 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(1360, 1499, "Oleev Active Olive & Rice Bran Multi-Source Blended Cooking Oil (Vantanunne)", "5 ltr"),
   },
   {
@@ -3501,7 +3501,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(446, 599, "Organic India, A TATA Product - Organic Cold Pressed Sunflower Oil", "1 ltr"),
   },
   {
@@ -3510,7 +3510,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "250 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(355, 750, "Borges Cold Pressed Extra Virgin Olive Oil 250 ml", "250 ml"),
   },
   {
@@ -3519,7 +3519,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(1109, 2200, "Borges Extra Light Olive Oil for Indian Cooking", "1 ltr"),
   },
   {
@@ -3528,7 +3528,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "5 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(901, 1107, "Gold Winner Sunflower Oil (Vanta Nune)", "5 ltr"),
   },
   {
@@ -3537,7 +3537,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(610, 699, "Gulab Cold Pressed Virgin Coconut Oil (Cold Press Kobbari Nune)", "1 ltr"),
   },
   {
@@ -3546,7 +3546,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(180, 201, "Healthy Heart Sunflower Oil (Vanta Nune)", "1 ltr"),
   },
   {
@@ -3555,7 +3555,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(479, 799, "Hesthetic Cold Pressed Sesame Oil", "1 ltr"),
   },
   {
@@ -3564,7 +3564,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(231, 266, "Idhayam Mantra Groundnut Oil (Veru Senaga Nune)", "1 ltr"),
   },
   {
@@ -3573,7 +3573,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(319, 470, "Indic Wisdom Wood Cold Pressed Sunflower Oil", "1 ltr"),
   },
   {
@@ -3582,7 +3582,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(499, 800, "Shree Aanantam Wood Pressed Rice Bran Oil", "1 ltr"),
   },
   {
@@ -3591,7 +3591,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "850 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(180, 199, "Sundrop Heart Rice Bran & Sunflower Blended Cooking Oil (1 ltr) (Vantanunne)", "850 g"),
   },
   {
@@ -3609,7 +3609,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "250 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(329, 570, "Anveshan Extra Virgin Olive Oil", "250 ml"),
   },
   {
@@ -3618,7 +3618,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "500 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(635, 1350, "Borges Cold Pressed Extra Virgin Olive Oil", "500 ml"),
   },
   {
@@ -3627,7 +3627,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(229, 425, "Fortune Premio Cold Pressed Mustard Oil", "1 ltr"),
   },
   {
@@ -3636,7 +3636,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "750 g",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(148, 170, "Fortune Soya Health Refined Soyabean Oil", "750 g"),
   },
   {
@@ -3645,7 +3645,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(231, 350, "Gulab Premium Cold Pressed Mustard Oil (Cold Pressed Aava Nune)", "1 ltr"),
   },
   {
@@ -3654,7 +3654,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "5 ltr",
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(1429, 1569, "Tata Simply Better Cold Pressed Mustard Oil", "5 ltr"),
   },
   {
@@ -3663,7 +3663,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "870 g",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(197, 260, "Fortune Filtered Groundnut Oil (Veru Senaga Nune)", "870 g"),
   },
   {
@@ -3672,7 +3672,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "5 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(864, 975, "Healthy Heart Rice Bran Oil (Nune)", "5 ltr"),
   },
   {
@@ -3681,7 +3681,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(239, 350, "Indic Wisdom Cold Pressed Mustard Oil", "1 ltr"),
   },
   {
@@ -3690,7 +3690,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "250 ml",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(268, 325, "Max Care Cold Pressed Virgin Coconut Oil", "250 ml"),
   },
   {
@@ -3699,7 +3699,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "500 ml",
-    image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(210, 240, "Suvisudh Cold Pressed Yellow Mustard Oil", "500 ml"),
   },
   {
@@ -3717,7 +3717,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(459, 550, "24 Mantra Organic Cold Pressed Groundnut Oil", "1 ltr"),
   },
   {
@@ -3726,7 +3726,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Cooking Oils",
     unit: "1 ltr",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=350&auto=format&fit=crop&q=70",
+    image: "https://www.bbassets.com/media/uploads/p/l/274145_14-fortune-sunlite-refined-sunflower-oil.jpg",
     offers: generateStoreOffers(673, 950, "Anveshan Cold Pressed Coconut Oil", "1 ltr"),
   },
   {
@@ -3735,7 +3735,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruits",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/423348a.jpg",
     offers: generateStoreOffers(349, 349, "Nutraj Seedless Turkish Dried Apricots (Endu Apricots)", "1 pc"),
   },
   {
@@ -3744,7 +3744,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruits",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/536546a.jpg",
     offers: generateStoreOffers(46, 46, "Whole Farm Premium Raw Peanuts (Verusenagalu)", "1 pc"),
   },
   {
@@ -3753,7 +3753,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruits",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/52629a.jpg",
     offers: generateStoreOffers(55, 55, "Haldiram's Nagpur Masala Kaju", "1 pc"),
   },
   {
@@ -3762,7 +3762,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruits",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/527973a.jpg",
     offers: generateStoreOffers(194, 194, "Whole Farm Grocery Raw Peanuts (Verusenagalu)", "1 pc"),
   },
   {
@@ -3771,7 +3771,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruits",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/537899a.jpg",
     offers: generateStoreOffers(196, 196, "Nutraj Snack Rite Sports Mix Nuts", "1 pc"),
   },
   {
@@ -3780,7 +3780,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruits",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/555115a.jpg",
     offers: generateStoreOffers(108, 108, "Whole Farm Premium Broken Cashew (Jidipappu)", "1 pc"),
   },
   {
@@ -3789,7 +3789,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruits",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/529847a.jpg",
     offers: generateStoreOffers(128, 128, "Whole Farm Premium Cashew (Jidipappu)", "1 pc"),
   },
   {
@@ -3798,7 +3798,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruits",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/567104a.jpg",
     offers: generateStoreOffers(124, 124, "Amruth Raj Dried Coconut (If The Dried Coconut Whole - Kuridi If Dried Coconut Is Cut In Half - Endu Kobbari)", "1 pc"),
   },
   {
@@ -3807,7 +3807,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruits",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/537905a.jpg",
     offers: generateStoreOffers(294, 294, "Nutraj Snack Rite Roasted & Salted Flavoured Cashew (Flavoured Jidipappu)", "1 pc"),
   },
   {
@@ -3816,7 +3816,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruits",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/529846a.jpg",
     offers: generateStoreOffers(147, 147, "Whole Farm Premium American Almonds (100 g) (Badam)", "1 pc"),
   },
   {
@@ -3825,7 +3825,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Ghee & Vanaspati",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/11196a.jpg",
     offers: generateStoreOffers(737, 737, "Patanjali Cow Ghee (1 l) (Avu Neyyi)", "1 pc"),
   },
   {
@@ -3834,7 +3834,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Ghee & Vanaspati",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/66229a.jpg",
     offers: generateStoreOffers(174, 174, "GRB Cow Ghee (Avu Neyyi)", "1 pc"),
   },
   {
@@ -3843,7 +3843,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Ghee & Vanaspati",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/402541a.jpg",
     offers: generateStoreOffers(86, 86, "Durga Fresh and Pure Ghee (Neyyi)", "1 pc"),
   },
   {
@@ -3852,7 +3852,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Ghee & Vanaspati",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/279087a.jpg",
     offers: generateStoreOffers(350, 350, "Heritage Cow Ghee (Avu Neyyi)", "1 pc"),
   },
   {
@@ -3861,7 +3861,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Ghee & Vanaspati",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/560443a.jpg",
     offers: generateStoreOffers(755, 755, "Himalayan Natives Bilona Ghee", "1 pc"),
   },
   {
@@ -3870,7 +3870,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Ghee & Vanaspati",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/540274a.jpg",
     offers: generateStoreOffers(329, 329, "Sids Farm Buffalo Ghee (Neyyi)", "1 pc"),
   },
   {
@@ -3879,7 +3879,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Ghee & Vanaspati",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/496538a.jpg",
     offers: generateStoreOffers(10, 10, "GRB Desi Cow Ghee (Neyyi)", "1 pc"),
   },
   {
@@ -3888,7 +3888,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Ghee & Vanaspati",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/519846a.jpg",
     offers: generateStoreOffers(189, 189, "GRB Buffalo Ghee (Neyyi)", "1 pc"),
   },
   {
@@ -3897,7 +3897,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Ghee & Vanaspati",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/540275a.jpg",
     offers: generateStoreOffers(362, 362, "Sids Farm Cow Ghee (Avu Neyyi)", "1 pc"),
   },
   {
@@ -3906,7 +3906,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Ghee & Vanaspati",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/116587a.jpg",
     offers: generateStoreOffers(404, 404, "Durga Pure Ghee (Neyyi)", "1 pc"),
   },
   {
@@ -3915,7 +3915,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Spices",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530701a.jpg",
     offers: generateStoreOffers(155, 155, "Orika Whole Black Pepper / Seeds (Milagu) (Miriyalu)", "1 pc"),
   },
   {
@@ -3924,7 +3924,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Spices",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/526215a.jpg",
     offers: generateStoreOffers(37, 37, "Whole Farm Premium Cumin Seeds / Jeera Seeds (Jilakarra)", "1 pc"),
   },
   {
@@ -3933,7 +3933,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Spices",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/525536a.jpg",
     offers: generateStoreOffers(60, 60, "Whole Farm Premium Red Chilli Whole (Endu Mirapakaya)", "1 pc"),
   },
   {
@@ -3942,7 +3942,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Spices",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/528028a.jpg",
     offers: generateStoreOffers(55, 55, "Whole Farm Premium Seeded Tamarind (Imli) (Chintapandu)", "1 pc"),
   },
   {
@@ -3951,7 +3951,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Spices",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/530696a.jpg",
     offers: generateStoreOffers(366, 366, "Orika Elaichi / Green Cardamom Whole (Elakulu)", "1 pc"),
   },
   {
@@ -3960,7 +3960,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Spices",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/528030a.jpg",
     offers: generateStoreOffers(35, 35, "Whole Farm Premium Unpolished Sesame Seeds (Tella Nuvvulu)", "1 pc"),
   },
   {
@@ -3969,7 +3969,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Spices",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/528015a.jpg",
     offers: generateStoreOffers(39, 39, "Whole Farm Premium Black Small Mustard Seeds (Avalu)", "1 pc"),
   },
   {
@@ -3978,7 +3978,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Spices",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/479574a.jpg",
     offers: generateStoreOffers(183, 183, "Orika Cumin Seeds / Jeera Seeds Whole (Jilakarra)", "1 pc"),
   },
   {
@@ -3987,7 +3987,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Spices",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/527984a.jpg",
     offers: generateStoreOffers(20, 20, "Whole Farm Premium Methi Seeds (Menthulu)", "1 pc"),
   },
   {
@@ -3996,7 +3996,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dates & Seeds",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/772048a.jpg",
     offers: generateStoreOffers(348, 348, "Nutty Organics Jumbo Ajwa Dates", "1 pc"),
   },
   {
@@ -4005,7 +4005,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dates & Seeds",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/527578a.jpg",
     offers: generateStoreOffers(72, 72, "Whole Farm Premium Pumpkin Seeds (Gummadi Ginjalu)", "1 pc"),
   },
   {
@@ -4014,7 +4014,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dates & Seeds",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/526240a.jpg",
     offers: generateStoreOffers(54, 54, "Whole Farm Premium Chia Seeds (Chia ginjalu)", "1 pc"),
   },
   {
@@ -4023,7 +4023,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dates & Seeds",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/27699a.jpg",
     offers: generateStoreOffers(129, 129, "Lion Qyno Seeded Dates - Buy 1 Get 1 Free (Kharjuralu)", "1 pc"),
   },
   {
@@ -4032,7 +4032,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dates & Seeds",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/770662a.jpg",
     offers: generateStoreOffers(274, 274, "Nutty Organics Jumbo Kalmi (Safawi) Dates", "1 pc"),
   },
   {
@@ -4041,7 +4041,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dates & Seeds",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/526226a.jpg",
     offers: generateStoreOffers(33, 33, "Whole Farm Premium Flax Seeds (Avise Ginjalu)", "1 pc"),
   },
   {
@@ -4050,7 +4050,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dates & Seeds",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/519118a.jpg",
     offers: generateStoreOffers(36, 36, "Farmley Classic Delight Dates Bites - No Added Sugar (Kharjuralu)", "1 pc"),
   },
   {
@@ -4059,7 +4059,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dates & Seeds",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/526237a.jpg",
     offers: generateStoreOffers(58, 58, "Whole Farm Premium Sunflower Seeds (Poddutirugudu ginjalu)", "1 pc"),
   },
   {
@@ -4068,7 +4068,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dates & Seeds",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/656204a.jpg",
     offers: generateStoreOffers(217, 217, "Khari Foods Royal Seedless Dates / Deseeded Khajur", "1 pc"),
   },
   {
@@ -4077,7 +4077,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dates & Seeds",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/504259a.jpg",
     offers: generateStoreOffers(360, 360, "Farmley Classic Delight Date Bites - No Added Sugar (Kharjuralu)", "1 pc"),
   },
   {
@@ -4086,7 +4086,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Salt, Sugar & Jaggery",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/449050a.jpg",
     offers: generateStoreOffers(63, 63, "Parry's Jaggery Powder (Bellam Powder)", "1 pc"),
   },
   {
@@ -4095,7 +4095,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Salt, Sugar & Jaggery",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/527639a.jpg",
     offers: generateStoreOffers(68, 68, "Whole Farm Grocery Sugar (Packet) (Panchadara)", "1 pc"),
   },
   {
@@ -4104,7 +4104,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Salt, Sugar & Jaggery",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/105a.jpg",
     offers: generateStoreOffers(29, 29, "Tata Salt Vacuum® Evaporated Iodised (Uppu)", "1 pc"),
   },
   {
@@ -4113,7 +4113,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Salt, Sugar & Jaggery",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/503118a.jpg",
     offers: generateStoreOffers(19, 19, "Aashirvaad Iodized Crystal Salt for Traditional Dishes (Uppu)", "1 pc"),
   },
   {
@@ -4122,7 +4122,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Salt, Sugar & Jaggery",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/552932a.jpg",
     offers: generateStoreOffers(108, 108, "I'm Lite Sugar with Stevia (Panchadara)", "1 pc"),
   },
   {
@@ -4131,7 +4131,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Salt, Sugar & Jaggery",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/525549a.jpg",
     offers: generateStoreOffers(71, 71, "Whole Farm Premium Jaggery Powder (Bellam Powder)", "1 pc"),
   },
   {
@@ -4140,7 +4140,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Salt, Sugar & Jaggery",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/104a.jpg",
     offers: generateStoreOffers(29, 29, "Aashirvaad Iodized Natural Salt 1 kg (Uppu)", "1 pc"),
   },
   {
@@ -4149,7 +4149,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Salt, Sugar & Jaggery",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/38910a.jpg",
     offers: generateStoreOffers(75, 75, "Parry's White Label Sulphurless Sugar (Chakkera)", "1 pc"),
   },
   {
@@ -4158,7 +4158,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Salt, Sugar & Jaggery",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/539734a.jpg",
     offers: generateStoreOffers(73, 73, "Aashirvaad Himalayan Pink Salt /Sendha Namak", "1 pc"),
   },
   {
@@ -4167,7 +4167,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Salt, Sugar & Jaggery",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/74401a.jpg",
     offers: generateStoreOffers(22, 22, "Tata Salt - Iodised Crystal (Uppu)", "1 pc"),
   },
   {
@@ -4176,7 +4176,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Papad & Fryums",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/316383a.jpg",
     offers: generateStoreOffers(127, 127, "Ambika Appalam No 4 Papad", "1 pc"),
   },
   {
@@ -4185,7 +4185,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Papad & Fryums",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/481020a.jpg",
     offers: generateStoreOffers(42, 42, "DNV Appalam Papad", "1 pc"),
   },
   {
@@ -4194,7 +4194,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Papad & Fryums",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/656573a.jpg",
     offers: generateStoreOffers(39, 39, "Shareat Whole Wheat Foochka Pani Puri", "1 pc"),
   },
   {
@@ -4203,7 +4203,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Papad & Fryums",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/359086a.jpg",
     offers: generateStoreOffers(107, 107, "Ambika No 5 Appalam Papad", "1 pc"),
   },
   {
@@ -4212,7 +4212,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Papad & Fryums",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/794740a.jpg",
     offers: generateStoreOffers(180, 180, "Frigo Ready To Fry Falahari Potato Chips", "1 pc"),
   },
   {
@@ -4221,7 +4221,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Papad & Fryums",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/477193a.jpg",
     offers: generateStoreOffers(45, 45, "Veerabhadra Salto Rings Fryums", "1 pc"),
   },
   {
@@ -4230,7 +4230,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Papad & Fryums",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/477188a.jpg",
     offers: generateStoreOffers(45, 45, "Veerabhadra Maka Makka Poha", "1 pc"),
   },
   {
@@ -4239,7 +4239,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Papad & Fryums",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/15558a.jpg",
     offers: generateStoreOffers(80, 80, "Lijjat Moong Dal Papad", "1 pc"),
   },
   {
@@ -4248,7 +4248,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Papad & Fryums",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/501328a.jpg",
     offers: generateStoreOffers(34, 34, "Ramji Pani Puri Papad", "1 pc"),
   },
   {
@@ -4257,7 +4257,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Papad & Fryums",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/368453a.jpg",
     offers: generateStoreOffers(77, 77, "Ambika Appalam No.6 Papad", "1 pc"),
   },
   {
@@ -4266,7 +4266,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Gravy Mixes & Pastes",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/731279a.jpg",
     offers: generateStoreOffers(152, 152, "KILRR Chicken Gravy Masala (Curry No. 9211)", "1 pc"),
   },
   {
@@ -4275,7 +4275,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Gravy Mixes & Pastes",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/567302a.jpg",
     offers: generateStoreOffers(34, 34, "Priya Biryani Masala Paste", "1 pc"),
   },
   {
@@ -4284,7 +4284,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Gravy Mixes & Pastes",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/721325a.jpg",
     offers: generateStoreOffers(45, 45, "Tata Sampann Punjabi Style Matar Paneer Instant Gravy Masala Mix", "1 pc"),
   },
   {
@@ -4293,7 +4293,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Gravy Mixes & Pastes",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/736258a.jpg",
     offers: generateStoreOffers(126, 126, "Cookd Butter Instant Gravy Masala for Paneer & Chicken", "1 pc"),
   },
   {
@@ -4302,7 +4302,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Gravy Mixes & Pastes",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/731280a.jpg",
     offers: generateStoreOffers(152, 152, "KILRR Chicken Gravy Masala (Kaalimirch Ki Hadd Curry)", "1 pc"),
   },
   {
@@ -4311,7 +4311,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Gravy Mixes & Pastes",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/721331a.jpg",
     offers: generateStoreOffers(45, 45, "Everest Eazy Chef Paneer Butter Masala Mix", "1 pc"),
   },
   {
@@ -4320,7 +4320,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Gravy Mixes & Pastes",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/734095a.jpg",
     offers: generateStoreOffers(69, 69, "Curryit Amma Style Tomato Rasam Masala Paste (No Preservative)", "1 pc"),
   },
   {
@@ -4329,7 +4329,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Gravy Mixes & Pastes",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/554020a.jpg",
     offers: generateStoreOffers(139, 139, "Curryit Dhaba Paneer Butter Masala Premium Cooking Instant Gravy Paste", "1 pc"),
   },
   {
@@ -4338,7 +4338,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Gravy Mixes & Pastes",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/761665a.jpg",
     offers: generateStoreOffers(57, 57, "Daawat Hydrabadi Masala Biryani Paste With Raita Seasoning", "1 pc"),
   },
   {
@@ -4347,7 +4347,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Gravy Mixes & Pastes",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/567622a.jpg",
     offers: generateStoreOffers(29, 29, "Priya Non Veg Masala Curry Paste", "1 pc"),
   },
   {
@@ -4356,7 +4356,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruit Gift Packs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/640472a.jpg",
     offers: generateStoreOffers(100, 100, "Farmley Assorted Date Bites", "1 pc"),
   },
   {
@@ -4365,7 +4365,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruit Gift Packs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/531753a.jpg",
     offers: generateStoreOffers(279, 279, "Happilo Anand Dry Fruits Gift Pack", "1 pc"),
   },
   {
@@ -4374,7 +4374,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruit Gift Packs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/496308a.jpg",
     offers: generateStoreOffers(298, 298, "Open Secret Brownie, Dry Fruits & Biscuits Gift Pack", "1 pc"),
   },
   {
@@ -4383,7 +4383,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruit Gift Packs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/606852a.jpg",
     offers: generateStoreOffers(360, 360, "Farmley Dark Choco Orange Date Bites Dessert (No Added Sugar)", "1 pc"),
   },
   {
@@ -4392,7 +4392,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruit Gift Packs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/702814a.jpg",
     offers: generateStoreOffers(859, 859, "Happilo Dry Fruits Gift Pack", "1 pc"),
   },
   {
@@ -4401,7 +4401,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruit Gift Packs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/640179a.jpg",
     offers: generateStoreOffers(1799, 1799, "RawFruit Dry Fruits Gift Pack / Set", "1 pc"),
   },
   {
@@ -4410,7 +4410,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruit Gift Packs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/650241a.jpg",
     offers: generateStoreOffers(360, 360, "Farmley Apple Pie Date Bites (No Added Sugar)", "1 pc"),
   },
   {
@@ -4419,7 +4419,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruit Gift Packs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/601190a.jpg",
     offers: generateStoreOffers(268, 268, "Nutraj Nutty Date Bites", "1 pc"),
   },
   {
@@ -4428,7 +4428,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Dry Fruit Gift Packs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/678116a.jpg",
     offers: generateStoreOffers(799, 799, "RawFruit Festive Dry Fruits Gift Pack", "1 pc"),
   },
   {
@@ -4437,7 +4437,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Herbs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/641181a.jpg",
     offers: generateStoreOffers(74, 74, "Whole Farm Premium Reetha Whole", "1 pc"),
   },
   {
@@ -4446,7 +4446,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Herbs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/641177a.jpg",
     offers: generateStoreOffers(128, 128, "Whole Farm Premium Mulethi Whole", "1 pc"),
   },
   {
@@ -4455,7 +4455,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Herbs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/641422a.jpg",
     offers: generateStoreOffers(89, 89, "Whole Farm Premium Triphala Whole", "1 pc"),
   },
   {
@@ -4464,7 +4464,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Herbs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/641418a.jpg",
     offers: generateStoreOffers(143, 143, "Whole Farm Premium Saunth/ Dried Ginger Whole", "1 pc"),
   },
   {
@@ -4473,7 +4473,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Herbs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/759992a.jpg",
     offers: generateStoreOffers(116, 116, "Whole Farm Premium Harad Choti Whole", "1 pc"),
   },
   {
@@ -4482,7 +4482,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Herbs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/830232a.jpg",
     offers: generateStoreOffers(61, 61, "Whole Farm Premium Pattar/Dagad Phool Whole", "1 pc"),
   },
   {
@@ -4491,7 +4491,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Herbs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/759990a.jpg",
     offers: generateStoreOffers(57, 57, "Whole Farm Premium Arjun Chaal Whole", "1 pc"),
   },
   {
@@ -4500,7 +4500,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Herbs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/641186a.jpg",
     offers: generateStoreOffers(130, 130, "Whole Farm Premium Giloy Whole", "1 pc"),
   },
   {
@@ -4509,7 +4509,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Herbs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/774474a.jpg",
     offers: generateStoreOffers(80, 80, "Whole Farm Premium Paneer Phool Whole", "1 pc"),
   },
   {
@@ -4518,7 +4518,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Whole Herbs",
     unit: "1 pc",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=350&auto=format&fit=crop&q=70",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/641419a.jpg",
     offers: generateStoreOffers(121, 121, "Whole Farm Premium Ashwagandha Whole", "1 pc"),
   },
 ];
