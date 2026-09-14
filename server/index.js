@@ -4,6 +4,8 @@
 import http from 'http';
 import url from 'url';
 import { getLivePriceComparison, PLATFORM_CONFIGS } from './darkstoreScraper.js';
+import { loadExtractedUserLinks } from './scrapers/blinkitCatalogScraper.js';
+import { buildMasterProductRecord } from './scrapers/catalogSyncEngine.js';
 
 const PORT = process.env.PORT || 3001;
 
@@ -124,14 +126,89 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
-  // 4. Default 404
+  // 4. Paginated Master Catalog Endpoint (1 Lakh+ Quick Commerce SKUs)
+  if (pathname === '/api/catalog') {
+    const category = query.category || 'all';
+    const subCategory = query.subCategory || 'all';
+    const page = Math.max(1, parseInt(query.page) || 1);
+    const limit = Math.min(100, Math.max(1, parseInt(query.limit) || 24));
+    const pincode = query.pincode || '500016';
+    const search = (query.search || '').trim().toLowerCase();
+
+    try {
+      const userLinks = loadExtractedUserLinks();
+      let products = userLinks.map(l => buildMasterProductRecord(l, category === 'all' ? 'veggies' : category));
+
+      if (category !== 'all') {
+        products = products.filter(p => p.category === category);
+      }
+      if (subCategory !== 'all') {
+        products = products.filter(p => p.subCategory.toLowerCase() === subCategory.toLowerCase());
+      }
+      if (search) {
+        products = products.filter(p => p.name.toLowerCase().includes(search) || p.brand.toLowerCase().includes(search));
+      }
+
+      const total = products.length;
+      const startIndex = (page - 1) * limit;
+      const paginatedItems = products.slice(startIndex, startIndex + limit);
+
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({
+        success: true,
+        category,
+        subCategory,
+        pincode,
+        page,
+        limit,
+        total,
+        totalPages: Math.ceil(total / limit),
+        products: paginatedItems
+      }));
+    } catch (err) {
+      res.writeHead(500, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ success: false, error: err.message }));
+    }
+    return;
+  }
+
+  // 5. Global Full-Text Search Endpoint
+  if (pathname === '/api/search') {
+    const q = (query.q || query.query || '').trim().toLowerCase();
+    const limit = Math.min(50, parseInt(query.limit) || 20);
+
+    try {
+      const userLinks = loadExtractedUserLinks();
+      const allProducts = userLinks.map(l => buildMasterProductRecord(l, 'all'));
+      const matches = allProducts.filter(p => p.name.toLowerCase().includes(q) || p.brand.toLowerCase().includes(q)).slice(0, limit);
+
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({
+        success: true,
+        query: q,
+        totalMatches: matches.length,
+        products: matches
+      }));
+    } catch (err) {
+      res.writeHead(500, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ success: false, error: err.message }));
+    }
+    return;
+  }
+
+  // 6. Default 404
   res.writeHead(404, { 'Content-Type': 'application/json' });
-  res.end(JSON.stringify({ error: 'Endpoint not found', availableEndpoints: ['/api/health', '/api/compare', '/api/surge'] }));
+  res.end(JSON.stringify({
+    error: 'Endpoint not found',
+    availableEndpoints: ['/api/health', '/api/compare', '/api/surge', '/api/catalog', '/api/search']
+  }));
 });
 
 server.listen(PORT, () => {
   console.log(`⚡ NestBasket Darkstore Microservice running on http://localhost:${PORT}`);
   console.log(`   Health:  http://localhost:${PORT}/api/health`);
+  console.log(`   Catalog: http://localhost:${PORT}/api/catalog?category=dairy&page=1&limit=24`);
+  console.log(`   Search:  http://localhost:${PORT}/api/search?q=milk`);
   console.log(`   Compare: http://localhost:${PORT}/api/compare?query=milk&pincode=500016`);
   console.log(`   Surge:   http://localhost:${PORT}/api/surge?city=hyd&pincode=500016`);
 });

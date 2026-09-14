@@ -76,10 +76,40 @@ CREATE TABLE IF NOT EXISTS nestbasket_price_history (
 
 CREATE INDEX IF NOT EXISTS idx_nestbasket_price_history_prod ON nestbasket_price_history(product_id, recorded_at DESC);
 
--- 5. Row Level Security (RLS) Policies
+-- 5. Master Products Catalog (1 Lakh+ Quick-Commerce SKUs across all 20 Blinkit categories)
+CREATE TABLE IF NOT EXISTS nestbasket_master_products (
+    id VARCHAR(120) PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    name_hindi VARCHAR(255),
+    brand VARCHAR(120) NOT NULL,
+    category VARCHAR(60) NOT NULL,
+    sub_category VARCHAR(100) NOT NULL,
+    unit VARCHAR(60) NOT NULL,
+    image_url TEXT NOT NULL,
+    offers JSONB NOT NULL DEFAULT '{}'::jsonb,
+    direct_links JSONB NOT NULL DEFAULT '{}'::jsonb,
+    pincode VARCHAR(10) DEFAULT '500016',
+    is_essential BOOLEAN DEFAULT FALSE,
+    total_orders_count INT DEFAULT 0,
+    created_at TIMESTAMPTZ DEFAULT NOW(),
+    last_synced_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- High-performance indexes for lightning fast filtering & searching across 1 lakh+ rows
+CREATE INDEX IF NOT EXISTS idx_nb_products_cat_sub ON nestbasket_master_products(category, sub_category);
+CREATE INDEX IF NOT EXISTS idx_nb_products_brand ON nestbasket_master_products(brand);
+CREATE INDEX IF NOT EXISTS idx_nb_products_essential ON nestbasket_master_products(is_essential);
+CREATE INDEX IF NOT EXISTS idx_nb_products_pincode ON nestbasket_master_products(pincode);
+
+-- Full-text search index for real-time auto-complete and search
+CREATE INDEX IF NOT EXISTS idx_nb_products_search ON nestbasket_master_products 
+USING gin(to_tsvector('english', name || ' ' || brand || ' ' || COALESCE(name_hindi, '')));
+
+-- 6. Row Level Security (RLS) Policies
 ALTER TABLE nestbasket_users ENABLE ROW LEVEL SECURITY;
 ALTER TABLE nestbasket_baskets ENABLE ROW LEVEL SECURITY;
 ALTER TABLE nestbasket_watchlist ENABLE ROW LEVEL SECURITY;
+ALTER TABLE nestbasket_master_products ENABLE ROW LEVEL SECURITY;
 
 -- Anonymous / Service Read & Insert policies for client API
 DO $$
@@ -92,5 +122,11 @@ BEGIN
     END IF;
     IF NOT EXISTS (SELECT 1 FROM pg_policies WHERE policyname = 'Allow watchlist access') THEN
         CREATE POLICY "Allow watchlist access" ON nestbasket_watchlist FOR ALL USING (true) WITH CHECK (true);
+    END IF;
+    IF NOT EXISTS (SELECT 1 FROM pg_policies WHERE policyname = 'Allow public products read') THEN
+        CREATE POLICY "Allow public products read" ON nestbasket_master_products FOR SELECT USING (true);
+    END IF;
+    IF NOT EXISTS (SELECT 1 FROM pg_policies WHERE policyname = 'Allow backend products write') THEN
+        CREATE POLICY "Allow backend products write" ON nestbasket_master_products FOR ALL USING (true) WITH CHECK (true);
     END IF;
 END $$;
