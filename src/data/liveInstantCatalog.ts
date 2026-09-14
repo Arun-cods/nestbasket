@@ -54,7 +54,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(121, 180, "Parle Hide & Seek Fills", "200 g"),
   },
   {
@@ -99,7 +99,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 75, "Nestle Munch Choco Fills Cereal", "100 g"),
   },
   {
@@ -126,7 +126,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(140, 200, "Nestle Munch Crunchilicious Cereal", "300 g"),
   },
   {
@@ -144,7 +144,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "1.2 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(228, 550, "Kwality Corn Flakes Original", "1.2 kg"),
   },
   {
@@ -162,7 +162,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 190, "Tata Soulfull Choco Fills Ragi Bites Cereal", "250 g"),
   },
   {
@@ -189,7 +189,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(236, 599, "Kwality Multigrain Choco Flakes - No Maida", "1 kg"),
   },
   {
@@ -198,7 +198,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "375 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(159, 210, "Tata Soulfull Ragi Bites Choco 7 Grains Kids Breakfast Cereal (No Maida)", "375 g"),
   },
   {
@@ -243,7 +243,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 299, "Little Joys Millet Chocos Crunch", "250 g"),
   },
   {
@@ -252,7 +252,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 299, "Slurrp Farm Choco Crunch Breakfast Cereal for Kids", "300 g"),
   },
   {
@@ -261,7 +261,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 125, "Sundrop Choco Fills Multigrain Kids Cereal", "300 g"),
   },
   {
@@ -270,7 +270,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(162, 190, "Tata Soulfull Ragi Bites Vanilla Fills, No Maida, Breakfast Cereal", "250 g"),
   },
   {
@@ -288,7 +288,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(151, 215, "Nestle Munch Choco Fills Breakfast Cereal", "250 g"),
   },
   {
@@ -306,7 +306,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "6 x 18 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(49, 49, "Sundrop Multigrain Popz Centre Filled Kids Cereal", "6 x 18 g"),
   },
   {
@@ -315,7 +315,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "475 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(158, 195, "Tata Soulfull Corn Flakes Original (Crunchy Corn and Millets)", "475 g"),
   },
   {
@@ -324,7 +324,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(210, 220, "Organic Tattva Organic Quinoa", "500 g"),
   },
   {
@@ -333,7 +333,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "375 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(146, 275, "Kwality Fruitrings Cereal", "375 g"),
   },
   {
@@ -342,7 +342,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(156, 190, "Tata Soulfull Strawberry Fills Ragi Bites Cereal", "250 g"),
   },
   {
@@ -351,7 +351,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(132, 250, "Kwality Choco Fills Cereal", "250 g"),
   },
   {
@@ -360,7 +360,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(311, 699, "Kwality Almond & Honey Corn Flakes", "1 kg"),
   },
   {
@@ -369,7 +369,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 155, "Yummy Valley Ragi Choco Munch Kids Cereal", "200 g"),
   },
   {
@@ -387,7 +387,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "190 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(130, 149, "Tata Soulfull Ragi Bites Mango Fills Kids Cereal", "190 g"),
   },
   {
@@ -396,7 +396,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "2 x 250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(759, 798, "Little Joys Millet Chocos Fills - Pack of 2", "2 x 250 g"),
   },
   {
@@ -414,7 +414,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "114 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 60, "Tata Soulfull Chocos Variety Pack Cereal Combo", "114 g"),
   },
   {
@@ -432,7 +432,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "102 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(48, 60, "Kwality Multigrain Chocos & Cereal Combo Pack", "102 g"),
   },
   {
@@ -450,7 +450,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Breakfast Cereals",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(94, 240, "Kwality Corn Flakes", "500 g"),
   },
   {
@@ -3582,7 +3582,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(78, 99, "Avvatar Coffee Protein Wafer Bar", "40 g"),
   },
   {
@@ -3591,7 +3591,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(92, 99, "Peanut Chikki by Sweet Karam Coffee", "150 g"),
   },
   {
@@ -3600,7 +3600,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(48, 50, "Yoga Bar Chocolate Chunk Nut Multigrain Energy Bar", "35 g"),
   },
   {
@@ -3609,7 +3609,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "RiteBite Max Protein Daily Choco Almond 10 g Protein Bar", "50 g"),
   },
   {
@@ -3618,7 +3618,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "4 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(627, 734, "Green Protein Crave Protein Bar", "4 x 50 g"),
   },
   {
@@ -3627,7 +3627,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(120, 130, "The Whole Truth Double Cocoa Protein Bar", "52 g"),
   },
   {
@@ -3636,7 +3636,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(58, 60, "SuperYou Strawberry Creme Wafer Protein Bar", "40 g"),
   },
   {
@@ -3645,7 +3645,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(83, 85, "The Whole Truth Almond Choco Fudge Energy Bar", "40 g"),
   },
   {
@@ -3654,7 +3654,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(292, 310, "The Whole Truth Rich 71% Cocoa Bar", "80 g"),
   },
   {
@@ -3663,7 +3663,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(114, 120, "SuperYou 20g Nutty Chocolate Multigrain Wafer Bar", "60 g"),
   },
   {
@@ -3672,7 +3672,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 60, "Yoga Bar Dark Chocolate 10g Protein Wafer Bar", "40 g"),
   },
   {
@@ -3681,7 +3681,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "RiteBite Max Protein Daily Choco Classic 10 g Protein Bar", "50 g"),
   },
   {
@@ -3699,7 +3699,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 60, "Yoga Bar Cookies & Cream 10g Protein Wafer Bar", "40 g"),
   },
   {
@@ -3717,7 +3717,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "65 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(120, 125, "Phab 21g Protein Chocolate Brownie Protein Bar", "65 g"),
   },
   {
@@ -3726,7 +3726,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 45, "RiteBite Choco Delite 4g Protein Bar", "40 g"),
   },
   {
@@ -3735,7 +3735,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(65, 65, "Yoga Bar 10 g Dark Chocolate & Cranberry Protein Bar", "50 g"),
   },
   {
@@ -3744,7 +3744,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 60, "Yoga Bar Strawberry Pop 10g Protein Wafer Bar", "40 g"),
   },
   {
@@ -3753,7 +3753,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(39, 50, "Avolt Slims Birthday Cake 10g Protein Wafer Bar", "35 g"),
   },
   {
@@ -3762,7 +3762,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(177, 180, "RiteBite Max Protein Choco Almond 30 g Protein Bar", "100 g"),
   },
   {
@@ -3771,7 +3771,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "67 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(178, 199, "The Whole Truth 20 g Protein Bar - Double Cocoa", "67 g"),
   },
   {
@@ -3789,7 +3789,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "70 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 125, "Yoga Bar 20 g Protein Bar, Coffee Rush, No Added Sugar", "70 g"),
   },
   {
@@ -3798,7 +3798,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "5 x 1 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 200, "Eatopia Protein Choco Bites with Dates & Nuts", "5 x 1 pcs"),
   },
   {
@@ -3807,7 +3807,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 60, "Supply6 Matcha Milk Protein Wafer Bar", "40 g"),
   },
   {
@@ -3816,7 +3816,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "4 x 45 g + 2 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(248, 299, "Yoga Bar Assorted Breakfast Protein Bar Pack", "4 x 45 g + 2 x 50 g"),
   },
   {
@@ -3825,7 +3825,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(57, 70, "Phab 10g Protein Cookies & Cream Millet Wafer Bar", "40 g"),
   },
   {
@@ -3834,7 +3834,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(120, 130, "The Whole Truth Coffee Cocoa Protein Bar", "52 g"),
   },
   {
@@ -3843,7 +3843,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 45, "RiteBite Yogurt Berry Nutrition Bar", "35 g"),
   },
   {
@@ -3852,7 +3852,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(55, 60, "SuperYou Cheese Wafer Protein Bar", "40 g"),
   },
   {
@@ -3861,7 +3861,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 60, "Supply6 Rich Chocolate Protein Wafer Bar", "40 g"),
   },
   {
@@ -3870,7 +3870,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "67 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(217, 249, "The Whole Truth Protein Bar Hazelnut Cocoa", "67 g"),
   },
   {
@@ -3888,7 +3888,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "RiteBite Fruit and Nut Max Protein 10 g Protein Bar", "50 g"),
   },
   {
@@ -3906,7 +3906,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(153, 175, "The Whole Truth Almond Millet Cocoa Protein Bar", "55 g"),
   },
   {
@@ -3915,7 +3915,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(67, 70, "Phab 10g Protein Chocolate Truffle Millet Protein Wafer Bar", "40 g"),
   },
   {
@@ -3924,7 +3924,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g + 55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(123, 130, "RiteBite Max Protein Daily Choco Almond Protein Bar + RiteBite Max Protein Choco Chips Cookies Combo", "50 g + 55 g"),
   },
   {
@@ -3933,7 +3933,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(64, 80, "Stroom Exotic Mango Coconut 10g Protein Bar", "45 g"),
   },
   {
@@ -3942,7 +3942,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "10 x 20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(269, 300, "SuperYou Cookies & Cream Mini Protein Wafer Bar", "10 x 20 g"),
   },
   {
@@ -3951,7 +3951,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 60, "Supply6 Cookie & Cream Wafer Protein Bar", "40 g"),
   },
   {
@@ -3960,7 +3960,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(132, 175, "The Whole Truth Cranberry Raisin Protein Bar", "52 g"),
   },
   {
@@ -3969,7 +3969,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 60, "Yoga Bar Blueberry Pie Breakfast Protein Bar", "45 g"),
   },
   {
@@ -3978,7 +3978,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(57, 70, "Phab 10g Protein Strawberry Cake Millet Protein Wafer Bar", "40 g"),
   },
   {
@@ -3987,7 +3987,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(177, 180, "RiteBite Max Protein Choco Berry 30 g Protein Bar", "100 g"),
   },
   {
@@ -3996,7 +3996,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(442, 480, "RiteBite Max Protein Daily 10 g Protein Bar Pack Box (Assorted)", "6 x 50 g"),
   },
   {
@@ -4005,7 +4005,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "63 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(118, 135, "Stroom Cookie Crunch Delight 20g Protein Bar", "63 g"),
   },
   {
@@ -4023,7 +4023,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(58, 60, "SuperYou Coffee Protein Wafer Bar", "40 g"),
   },
   {
@@ -4032,7 +4032,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 100, "Avolt Birthday Cake 15g Protein Wafer Bar", "50 g"),
   },
   {
@@ -4041,7 +4041,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(225, 350, "EAT Anytime Hazelnuts Protein Balls", "100 g"),
   },
   {
@@ -4050,7 +4050,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "5 x 40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(249, 300, "SuperYou Assorted Wafer Protein Bar Pack", "5 x 40 g"),
   },
   {
@@ -4059,7 +4059,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(48, 50, "Yoga Bar Nuts & Seeds Multigrain Energy Protein Bar", "35 g"),
   },
   {
@@ -4068,7 +4068,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 100, "Avolt Chocolate Fondant 15g Protein Wafer Bar", "50 g"),
   },
   {
@@ -4086,7 +4086,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(240, 320, "Chase Protein Cookies & Cream Protein Bar", "2 x 50 g"),
   },
   {
@@ -4095,7 +4095,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(57, 70, "Phab 10g Protein Mocha Latte Millet Wafer Bar", "40 g"),
   },
   {
@@ -4104,7 +4104,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "RiteBite Max Protein Date & Almond 10 g Protein Bar", "45 g"),
   },
   {
@@ -4113,7 +4113,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(71, 71, "RiteBite Max Protein Strawberry Truffle Millet Wafer Protein Bar", "40 g"),
   },
   {
@@ -4122,7 +4122,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "3 x 45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(175, 240, "Stroom Centre Filled 10g Protein Bar", "3 x 45 g"),
   },
   {
@@ -4131,7 +4131,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "63 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(118, 135, "Stroom Choco Almond Bliss 20g Protein Bar", "63 g"),
   },
   {
@@ -4140,7 +4140,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(675, 780, "MuscleBlaze 20 g Protein Bar Pack (Choco Almond)", "6 x 75 g"),
   },
   {
@@ -4149,7 +4149,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(64, 80, "Stroom Cookie Crunch Delight 10g Protein Bar", "45 g"),
   },
   {
@@ -4158,7 +4158,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "5 x 67 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(876, 995, "The Whole Truth Protein Bar Pack", "5 x 67 g"),
   },
   {
@@ -4167,7 +4167,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(120, 130, "The Whole Truth Coconut Cocoa Protein Bar", "52 g"),
   },
   {
@@ -4176,7 +4176,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(194, 270, "Yoga Bar Multigrain Protein Bar Pack (Assorted)", "6 x 35 g"),
   },
   {
@@ -4185,7 +4185,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "7 x 18 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 175, "Yoga Bar Coffee Crush Mini Protein Bar Pack", "7 x 18 g"),
   },
   {
@@ -4194,7 +4194,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(120, 130, "The Whole Truth Peanut Cocoa Protein Bar", "52 g"),
   },
   {
@@ -4203,7 +4203,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "65 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(120, 125, "Phab 21g Protein Strawberry and Greek Yogurt Protein Bar", "65 g"),
   },
   {
@@ -4212,7 +4212,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 60, "Supply6 Strawberry Crème Protein Wafer Bar", "40 g"),
   },
   {
@@ -4221,7 +4221,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(240, 320, "Chase Protein Strawberry Cheesecake Protein Bar", "2 x 50 g"),
   },
   {
@@ -4230,7 +4230,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 x 7 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 200, "Naturo Assorted Berry Fusion Fruit Bar Pack", "40 x 7 g"),
   },
   {
@@ -4239,7 +4239,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(298, 349, "Yoga Bar Daily 10g Protein Bar Pack (Assorted)", "6 x 50 g"),
   },
   {
@@ -4248,7 +4248,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(384, 426, "RiteBite Max Protein Assorted Millet Wafer Protein Bar Pack", "6 x 40 g"),
   },
   {
@@ -4257,7 +4257,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "10 x 20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(249, 300, "SuperYou Mini Choco Hazelnut Protein Wafer Bar", "10 x 20 g"),
   },
   {
@@ -4266,7 +4266,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(699, 960, "Chase Protein Assorted Protein Bar", "6 x 50 g"),
   },
   {
@@ -4275,7 +4275,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(240, 320, "Chase Protein Sour Funk Protein Bar", "2 x 50 g"),
   },
   {
@@ -4284,7 +4284,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "67 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(139, 140, "RiteBite Max Protein Active Choco Slim 20 g Protein Bar", "67 g"),
   },
   {
@@ -4293,7 +4293,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "10 x 20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(269, 300, "SuperYou Mini Mango Protein Wafer Bar", "10 x 20 g"),
   },
   {
@@ -4302,7 +4302,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "244 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(383, 450, "RiteBite Max Protein Assorted 5 g Mini Protein Bar Pack Bytes", "244 g"),
   },
   {
@@ -4311,7 +4311,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(447, 480, "RiteBite Max Protein Date & Almond Protein Bar Pack", "6 x 45 g"),
   },
   {
@@ -4320,7 +4320,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(139, 140, "RiteBite Max Protein Date & Almond 20 g Protein Bar", "75 g"),
   },
   {
@@ -4329,7 +4329,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(129, 200, "Eatopia Dates & Nuts Protein Fruit Bites", "100 g"),
   },
   {
@@ -4338,7 +4338,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "10 x 20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(249, 300, "SuperYou Orange Mini Wafer Protein Bar Pack", "10 x 20 g"),
   },
   {
@@ -4347,7 +4347,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(288, 320, "Anand Fig Date Bites", "150 g"),
   },
   {
@@ -4356,7 +4356,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 80, "Ritebite Max Protein Roots Protein Bar (Cocoa Brownie)", "45 g"),
   },
   {
@@ -4365,7 +4365,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(67, 75, "Happilo Choco-Almonds Healthy Dry Fruit Sweet Bar", "35 g"),
   },
   {
@@ -4374,7 +4374,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(442, 480, "RiteBite Max Protein Choco Berry 10g Protein Bar Pack", "6 x 50 g"),
   },
   {
@@ -4383,7 +4383,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(92, 110, "Upnourish by Pluckk Cafe Mocha 15g Plant Protein Bar", "50 g"),
   },
   {
@@ -4392,7 +4392,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(70, 70, "Phab 10g Protein Choco Almond Crunch Protein Bar", "50 g"),
   },
   {
@@ -4401,7 +4401,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 80, "Ritebite Max Protein Roots Protein Bar (Orange Burst)", "45 g"),
   },
   {
@@ -4410,7 +4410,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g + 55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(123, 130, "RiteBite Max Protein Daily Choco Classic Nutrition Bar + Max Protein Choco Chips Cookies Combo", "50 g + 55 g"),
   },
   {
@@ -4419,7 +4419,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "4 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(300, 300, "Prolicious High Protein Choco Seeds & Nuts Protein Bar Combo", "4 x 50 g"),
   },
   {
@@ -4428,7 +4428,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(456, 570, "Acme Poshan Protein Bar - White Chocolate and Dry Fruits", "6 x 50 g"),
   },
   {
@@ -4437,7 +4437,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g + 60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(119, 125, "RiteBite Max Protein Korean 10 g Protein Healthy Chips (Gochujang) + Max Protein Daily Choco Almond 10 g Protein Bar Combo", "50 g + 60 g"),
   },
   {
@@ -4446,7 +4446,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "5 x 45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(360, 420, "Stroom Centre-Filled 10g Protein Bar (Assorted)", "5 x 45 g"),
   },
   {
@@ -4455,7 +4455,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "3 x 40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(150, 210, "Stroom Strawberry 10g Protein Wafer Bar", "3 x 40 g"),
   },
   {
@@ -4464,7 +4464,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 65 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(210, 250, "Calibar 20 g Almond Choco Crispy Protein Bar", "2 x 65 g"),
   },
   {
@@ -4473,7 +4473,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 63 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(240, 270, "Stroom Centre Filled 20g Protein Bar", "2 x 63 g"),
   },
   {
@@ -4482,7 +4482,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g + 40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(144, 151, "RiteBite Strawberry Truffle Millet Wafer Protein Bar + Max Protein Daily Choco Almond 10 g Protein Bar Combo", "50 g + 40 g"),
   },
   {
@@ -4491,7 +4491,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "3 x 40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(150, 210, "Stroom Chocolate 10g Protein Wafer Bar", "3 x 40 g"),
   },
   {
@@ -4500,7 +4500,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g + 60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(119, 125, "RiteBite Healthy Chips (Korean Barbeque) + Max Protein Daily Choco Almond 10 g Protein Bar Combo", "50 g + 60 g"),
   },
   {
@@ -4509,7 +4509,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(261, 290, "Anand Date Bites", "150 g"),
   },
   {
@@ -4518,7 +4518,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(70, 100, "Avolt Chocolate Ganache 15g Protein Wafer Bar", "50 g"),
   },
   {
@@ -4527,7 +4527,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "2 x 65 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(270, 270, "Nourish Hive Choco Almond Protein Bar", "2 x 65 g"),
   },
   {
@@ -4536,7 +4536,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g + 60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(111, 116, "RiteBite Healthy Chips (Korean Barbeque) + Strawberry Truffle Millet Wafer Protein Bar Combo", "40 g + 60 g"),
   },
   {
@@ -4545,7 +4545,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "40 g + 60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(111, 116, "RiteBite Max Protein Korean 10 g Protein Healthy Chips (Gochujang) + Strawberry Truffle Millet Wafer Protein Bar Combo", "40 g + 60 g"),
   },
   {
@@ -4563,7 +4563,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Energy Bars",
     unit: "6 x 40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(354, 443, "Wild Date Cranberry, Cashew & Almond Snack Bar", "6 x 40 g"),
   },
   {
@@ -4815,7 +4815,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(65, 169, "SPT Frozen Green Peas", "500 g"),
   },
   {
@@ -4824,7 +4824,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(117, 135, "Safal Frozen Green Peas", "500 g"),
   },
   {
@@ -4842,7 +4842,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(77, 85, "Safal Frozen Mixed Vegetables", "500 g"),
   },
   {
@@ -4851,7 +4851,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(167, 200, "Very Berry Fruits Fresh Frozen Strawberry", "150 g"),
   },
   {
@@ -4860,7 +4860,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 299, "SPT Frozen Green Peas", "1 kg"),
   },
   {
@@ -4869,7 +4869,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(228, 270, "Very Berry Fruits Fresh Frozen Blueberry", "200 g"),
   },
   {
@@ -4878,7 +4878,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(89, 125, "Wow! Coco Fresh Grated Coconut", "200 g"),
   },
   {
@@ -4887,7 +4887,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(247, 290, "Frugivore Frozen Blueberry", "200 g"),
   },
   {
@@ -4896,7 +4896,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(63, 120, "SPT Frozen Mixed Vegetables", "500 g"),
   },
   {
@@ -4905,7 +4905,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(192, 200, "Frugivore Strawberry", "200 g"),
   },
   {
@@ -4914,7 +4914,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(98, 115, "Malgudi Premium Grated Coconut", "200 g"),
   },
   {
@@ -4923,7 +4923,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(145, 260, "Keventer Frozen Green Peas", "1 kg"),
   },
   {
@@ -4932,7 +4932,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(207, 240, "Safal Frozen Green Peas", "1 kg"),
   },
   {
@@ -4950,7 +4950,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(308, 320, "Frugivore Frozen Mix Berries", "200 g"),
   },
   {
@@ -4959,7 +4959,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(300, 350, "Very Berry Fruits Fresh Frozen Raspberry", "150 g"),
   },
   {
@@ -4986,7 +4986,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 110, "SPT Frozen Grated Coconut", "200 g"),
   },
   {
@@ -4995,7 +4995,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(340, 550, "Gadre Edamame Frozen", "500 g"),
   },
   {
@@ -5013,7 +5013,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(150, 260, "Goeld Frozen Green Peas", "1 kg"),
   },
   {
@@ -5031,7 +5031,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "130 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(139, 159, "On1y Popcorn Cheese Seasoning Mix", "130 g"),
   },
   {
@@ -5040,7 +5040,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(169, 299, "Organic Box Rosemary", "100 g"),
   },
   {
@@ -5049,7 +5049,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(55, 58, "Snapin Oregano Pizza Seasoning", "50 g"),
   },
   {
@@ -5067,7 +5067,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(110, 119, "On1y Pizza Oregano Mix", "80 g"),
   },
   {
@@ -5076,7 +5076,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(53, 60, "Keya Pizza Oregano Spice Mix", "40 g"),
   },
   {
@@ -5085,7 +5085,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(169, 299, "Nutrilin Dried Rosemary Leaves", "100 g"),
   },
   {
@@ -5130,7 +5130,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "90 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(108, 119, "Keya Piri Piri Seasoning Sprinkler", "90 g"),
   },
   {
@@ -5139,7 +5139,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "70 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(110, 119, "Keya Pizza Oregano", "70 g"),
   },
   {
@@ -5148,7 +5148,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "27 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(114, 119, "Snapin Italian Mixed Herbs Seasoning", "27 g"),
   },
   {
@@ -5175,7 +5175,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "70 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(189, 229, "Mystiq Living Dried Rosemary Leaves for Hair Growth & Tea Infusion", "70 g"),
   },
   {
@@ -5193,7 +5193,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(104, 109, "Snapin Oregano Seasoning", "20 g"),
   },
   {
@@ -5202,7 +5202,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(127, 139, "Keya Oregano Seasoning", "50 g"),
   },
   {
@@ -5211,7 +5211,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(104, 109, "Snapin Pizza Oregano Mix Seasoning", "50 g"),
   },
   {
@@ -5238,7 +5238,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(55, 59, "Snapin Piri-Piri / Peri-Peri Mix Seasoning", "50 g"),
   },
   {
@@ -5265,7 +5265,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "48 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(115, 119, "Snapin Pasta Mix Seasoning", "48 g"),
   },
   {
@@ -5274,7 +5274,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "10 x 4 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 58, "Snapin Peri-Peri / Piri Piri Mix", "10 x 4 g"),
   },
   {
@@ -5301,7 +5301,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "23 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(123, 139, "Keya Mixed Herbs Seasoning", "23 g"),
   },
   {
@@ -5319,7 +5319,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 93, "Orika Peri Peri Masala /Seasoning", "40 g"),
   },
   {
@@ -5337,7 +5337,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(133, 140, "Urban Platter Vegan Cheddar Cheese Seasoning", "100 g"),
   },
   {
@@ -5346,7 +5346,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(123, 139, "Keya Italian Seasoning", "35 g"),
   },
   {
@@ -5355,7 +5355,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "17 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(102, 109, "Keya Oregano", "17 g"),
   },
   {
@@ -5364,7 +5364,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "14 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(81, 109, "On1y Mixed Herbs", "14 g"),
   },
   {
@@ -5373,7 +5373,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(102, 125, "Orika Oregano Pizza Italian Seasoning", "60 g"),
   },
   {
@@ -5382,7 +5382,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(219, 235, "Urban Platter Vegan Parmesan Cheese Seasoning", "100 g"),
   },
   {
@@ -5400,7 +5400,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(83, 110, "Catch Pasta & Pizza Sprinkler Seasoning", "75 g"),
   },
   {
@@ -5454,7 +5454,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(112, 119, "On1y Piri Piri Mix", "80 g"),
   },
   {
@@ -5472,7 +5472,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(82, 93, "Orika Oregano Pizza Italian Seasoning", "50 g"),
   },
   {
@@ -5508,7 +5508,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Herbs & Seasoning",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 72, "Orika Continental Style Herby Omelette Seasoning", "60 g"),
   },
   {
@@ -5535,7 +5535,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(115, 125, "Khetika Sprouted Moong Chilla Batter", "1 kg"),
   },
   {
@@ -5544,7 +5544,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(69, 69, "iD Rice Rava Idli Batter", "1 kg"),
   },
   {
@@ -5553,7 +5553,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(65, 74, "iD Ragi Millet Idly & Dosa Batter", "500 g"),
   },
   {
@@ -5562,7 +5562,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(79, 99, "Khetika Fresh Idli Dosa Batter", "1 kg"),
   },
   {
@@ -5580,7 +5580,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(95, 95, "iD Protein-Rich Idli Dosa Batter", "500 g"),
   },
   {
@@ -5589,7 +5589,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(86, 100, "iD Multigrain Idly & Dosa Batter", "500 g"),
   },
   {
@@ -5616,7 +5616,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(159, 199, "The Naturik Co Multigrain Chilla Mix", "250 g"),
   },
   {
@@ -5625,7 +5625,7 @@ export const LIVE_INSTANT_DATA: Product[] = [
     category: 'instant',
     subCategory: "Batter",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(155, 199, "The Naturik Co High Protein Ragi Chilla Mix", "250 g"),
   },
   {

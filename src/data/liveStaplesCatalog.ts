@@ -756,7 +756,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(32, 35, "Sri Lalitha Vari Nuka Premium Rice Sooji/Rava (Upma Rava)", "500 g"),
   },
   {
@@ -765,7 +765,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(53, 80, "Whole Farm Premium Sooji (Upma Rava)", "1 kg"),
   },
   {
@@ -774,7 +774,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 42, "Whole Farm Premium Sooji/Rava (Upma Rava)", "500 g"),
   },
   {
@@ -783,7 +783,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 80, "Whole Farm Premium Maida (Maida Pindi)", "1 kg"),
   },
   {
@@ -801,7 +801,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(42, 44, "Aashirvaad Double Roasted Sooji Rava (Kalcina suji)", "500 g"),
   },
   {
@@ -810,7 +810,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(29, 42, "Whole Farm Premium Maida/Refined Wheat Flour (Maida Pindi)", "500 g"),
   },
   {
@@ -819,7 +819,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(38, 39, "Aashirvaad Bansi Sooji / Rava (Ravva)", "500 g"),
   },
   {
@@ -828,7 +828,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 44, "Fortune Maida (Maida Pindi)", "500 g"),
   },
   {
@@ -837,7 +837,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 95, "Whole Farm Premium Besan (Senaga Pindi)", "500 g"),
   },
   {
@@ -855,7 +855,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(71, 75, "24 Mantra Organic Idly Rava/Sooji", "500 g"),
   },
   {
@@ -864,7 +864,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(70, 76, "Aashirvaad Bansi Rava", "1 kg"),
   },
   {
@@ -882,7 +882,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(79, 86, "Aashirvaad Double Roasted Sooji Rava", "1 kg"),
   },
   {
@@ -891,7 +891,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(85, 85, "Vijay Bombay Wheat Sooji (Upma Rava)", "1 kg"),
   },
   {
@@ -900,7 +900,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(67, 75, "Organic Tattva Organic Maida", "500 g"),
   },
   {
@@ -909,7 +909,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(63, 75, "Safe Harvest Pesticide-Free Roasted Sooji/Rava", "500 g"),
   },
   {
@@ -918,7 +918,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 230, "Organic Wisdom Gluten Free Jowar Rava Sooji", "400 g"),
   },
   {
@@ -927,7 +927,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(52, 55, "Double Horse Roasted Sooji/Rava (Kalcina suji)", "500 g"),
   },
   {
@@ -936,7 +936,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(38, 60, "Whole Farm Premium Roasted Sooji/Rava (Kalcina suji)", "500 g"),
   },
   {
@@ -945,7 +945,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(62, 75, "Natureland Organics Wheat Organic Sooji", "500 g"),
   },
   {
@@ -954,7 +954,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(72, 80, "Organic Tattva Wheat Organic Daliya", "500 g"),
   },
   {
@@ -963,7 +963,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(111, 125, "Organic Tattva Organic Besan", "500 g"),
   },
   {
@@ -972,7 +972,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(34, 52, "Whole Farm Premium Bansi Sooji/Rava (Upma Rava)", "500 g"),
   },
   {
@@ -981,7 +981,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "2 x 500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 84, "Whole Farm Premium Sooji - Pack of 2 (Upma Rava)", "2 x 500 g"),
   },
   {
@@ -990,7 +990,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(113, 140, "Safe Harvest Pesticide-Free Roasted Sooji", "1 kg"),
   },
   {
@@ -999,7 +999,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 70, "Natureland Organics Wheat Organic Daliya", "500 g"),
   },
   {
@@ -1008,7 +1008,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 125, "Natureland Organics Chana Organic Besan", "500 g"),
   },
   {
@@ -1017,7 +1017,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(83, 92, "Amul Organic Besan", "500 g"),
   },
   {
@@ -1026,7 +1026,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 230, "Organic Wisdom Gluten Free Ragi Rava (Sooji)", "400 g"),
   },
   {
@@ -1035,7 +1035,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(325, 339, "Two Brothers Besan Flour", "1 kg"),
   },
   {
@@ -1044,7 +1044,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "2 x 500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 120, "Whole Farm Premium Roasted Sooji - Pack of 2 (Kalcina suji)", "2 x 500 g"),
   },
   {
@@ -1053,7 +1053,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(39, 45, "Fortune Sooji (Upma Rava)", "500 g"),
   },
   {
@@ -1062,7 +1062,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(72, 75, "Vijay Raw Rice Sooji/Akki Tari (Upma Rava)", "1 kg"),
   },
   {
@@ -1071,7 +1071,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(121, 125, "24 Mantra Organic Besan", "500 g"),
   },
   {
@@ -1080,7 +1080,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(61, 66, "Sri Lalitha Rava Sooji", "1 kg"),
   },
   {
@@ -1089,7 +1089,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(76, 85, "Organic Tattva Organic Sooji", "500 g"),
   },
   {
@@ -1107,7 +1107,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Besan, Sooji & Maida",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 49, "Whole Farm Premium Chiroti / Barik Sooji Rava (Upma Rava)", "500 g"),
   },
   {
@@ -2124,7 +2124,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 80, "Whole Farm Premium White Lobiya (Tella Bobbarlu)", "500 g"),
   },
   {
@@ -2133,7 +2133,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 55, "Nutrela Soya Granules", "200 g"),
   },
   {
@@ -2151,7 +2151,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(97, 105, "Tata Sampann Unpolished Rajma", "500 g"),
   },
   {
@@ -2160,7 +2160,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 115, "Whole Farm Premium Red Lobiya", "500 g"),
   },
   {
@@ -2169,7 +2169,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(29, 70, "Whole Farm Premium Green Dried Peas (Kushi Kerao) (Batanilu)", "250 g"),
   },
   {
@@ -2187,7 +2187,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(115, 165, "Saffola Soya Chunks - Tender & Juicy", "400 g"),
   },
   {
@@ -2196,7 +2196,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(86, 135, "Whole Farm Premium Red Rajma (Red Rajma)", "500 g"),
   },
   {
@@ -2205,7 +2205,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 55, "Nutrela Soya Chunks", "200 g"),
   },
   {
@@ -2214,7 +2214,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(58, 100, "Whole Farm Premium Horse Gram/Kulthi Bean/Hurali (Ulavalu)", "500 g"),
   },
   {
@@ -2223,7 +2223,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(76, 85, "Whole Farm Premium Pulses Soyabean", "500 g"),
   },
   {
@@ -2232,7 +2232,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(62, 120, "Whole Farm Premium Dhania Dal (Dhania Dal)", "100 g"),
   },
   {
@@ -2241,7 +2241,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(92, 99, "Tata Sampann Unpolished Mix Dal", "500 g"),
   },
   {
@@ -2250,7 +2250,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(97, 107, "Tata Sampann Unpolished Organic Kala Chana", "500 g"),
   },
   {
@@ -2259,7 +2259,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(132, 152, "Tata Sampann Unpolished Organic Rajma (Red)", "500 g"),
   },
   {
@@ -2268,7 +2268,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(100, 120, "Organic Tattva - Organic Kala Chana", "500 g"),
   },
   {
@@ -2277,7 +2277,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(169, 200, "24 Mantra Organic Kabuli Chana / Chole", "500 g"),
   },
   {
@@ -2286,7 +2286,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 95, "Freshcon Boiled Salad Mix Dal- Ready to Eat", "200 g"),
   },
   {
@@ -2295,7 +2295,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 70, "Whole Farm Premium Rajma Chitra", "250 g"),
   },
   {
@@ -2304,7 +2304,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(79, 85, "Fortune New Unpolished Kabuli Chana (Kabuli Senagalu)", "500 g"),
   },
   {
@@ -2313,7 +2313,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(41, 80, "Whole Farm Premium Kabuli Chana (Big Size)", "250 g"),
   },
   {
@@ -2322,7 +2322,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(198, 210, "Zoff Soya Chunks", "1 kg"),
   },
   {
@@ -2331,7 +2331,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(82, 90, "Tata Sampann White Lobiya", "500 g"),
   },
   {
@@ -2340,7 +2340,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "2 x 250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 180, "Freshcon Boiled Kabuli Chana (Chick Peas) - Pack of 2", "2 x 250 g"),
   },
   {
@@ -2349,7 +2349,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(82, 120, "Whole Farm Grocery Rajma Chitra", "500 g"),
   },
   {
@@ -2367,7 +2367,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(145, 175, "Organic Tattva - Organic Red Rajma", "500 g"),
   },
   {
@@ -2376,7 +2376,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(119, 135, "Tata Sampann Organic Kabuli Chana Unpolished", "500 g"),
   },
   {
@@ -2385,7 +2385,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(77, 85, "Tata Sampann Unpolished Moth Dal (Matki)", "500 g"),
   },
   {
@@ -2394,7 +2394,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(148, 178, "Bharat Organics Unpolished Organic Brown / Kala Chana", "1 kg"),
   },
   {
@@ -2403,7 +2403,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(141, 150, "Organic Tattva Organic Kabuli Chana", "500 g"),
   },
   {
@@ -2412,7 +2412,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(94, 120, "Whole Farm Premium Rajma Chitra", "500 g"),
   },
   {
@@ -2421,7 +2421,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(49, 100, "Whole Farm Premium Lima Beans", "200 g"),
   },
   {
@@ -2430,7 +2430,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 180, "Basic Kabuli Chana (Small Size) (Kabuli Senagalu)", "1 kg"),
   },
   {
@@ -2439,7 +2439,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(101, 117, "Natureland Organics Organic Kala Chana Whole", "500 g"),
   },
   {
@@ -2448,7 +2448,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(161, 199, "Safe Harvest Pesticide-Free Kala Chana Bengal gram", "1 kg"),
   },
   {
@@ -2457,7 +2457,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(118, 225, "Basic Rajma (Desi)", "1 kg"),
   },
   {
@@ -2466,7 +2466,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(125, 155, "Organic Tattva Organic Mix Dal", "500 g"),
   },
   {
@@ -2484,7 +2484,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(89, 100, "Amul Organic Red Rajma", "500 g"),
   },
   {
@@ -2493,7 +2493,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 152, "Whole Farm Premium Dal Makhni Mix Dal (Pappu)", "500 g"),
   },
   {
@@ -2502,7 +2502,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 109, "Vijayalakshmi Deer Rajma", "500 g"),
   },
   {
@@ -2511,7 +2511,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(101, 165, "Safe Harvest Pesticide-Free Kabuli Chana", "500 g"),
   },
   {
@@ -2520,7 +2520,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(111, 125, "Amul Organic Rajma Chitra", "500 g"),
   },
   {
@@ -2529,7 +2529,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(123, 143, "Safe Harvest Kashmiri Pesticide-Free Red Rajma", "500 g"),
   },
   {
@@ -2538,7 +2538,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(117, 130, "Amul Organic Kabuli Chana", "500 g"),
   },
   {
@@ -2547,7 +2547,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(156, 240, "Whole Farm Grocery Rajma Chitra", "1 kg"),
   },
   {
@@ -2556,7 +2556,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(139, 157, "Organic India, A TATA Product - Organic Kabuli Chana", "500 g"),
   },
   {
@@ -2565,7 +2565,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(91, 91, "Vijayalakshmi Deer Kabuli Chana", "500 g"),
   },
   {
@@ -2574,7 +2574,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(108, 126, "Tata Sampann Easy Cook Kabuli Chana, No Soak Required", "200 g"),
   },
   {
@@ -2583,7 +2583,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(159, 199, "Natureland Organics Organic Kabuli Chana", "500 g"),
   },
   {
@@ -2592,7 +2592,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(191, 229, "Bharat Organics Unpolished Organic Kabuli Chana", "1 kg"),
   },
   {
@@ -2601,7 +2601,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(202, 240, "Tenali Double Horse Premium Kabuli Chana", "1 kg"),
   },
   {
@@ -2610,7 +2610,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(147, 189, "Sattvik Earth Premium Kabuli Chana (Safed Chana)", "1 kg"),
   },
   {
@@ -2619,7 +2619,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(47, 50, "Fortune Soya Chunks", "200 g"),
   },
   {
@@ -2628,7 +2628,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(57, 60, "Saffola Mealmaker Soya Chunks", "200 g"),
   },
   {
@@ -2637,7 +2637,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(33, 60, "Whole Farm Premium Mixed Sprouts", "200 g"),
   },
   {
@@ -2646,7 +2646,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 95, "Whole Farm Premium Matki/ Moth Dal - Sabut (Whole) (Moth pappu)", "500 g"),
   },
   {
@@ -2655,7 +2655,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(23, 40, "Whole Farm Premium Matki/ Moth Dal (Moth pappu)", "200 g"),
   },
   {
@@ -2664,7 +2664,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(83, 130, "Whole Farm Premium Pachmel Mix Dal (Pappu)", "500 g"),
   },
   {
@@ -2673,7 +2673,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 180, "Organic Tattva - Organic Rajma Chitra", "500 g"),
   },
   {
@@ -2682,7 +2682,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(46, 50, "Fortune Soya Mini Chunks", "200 g"),
   },
   {
@@ -2691,7 +2691,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(93, 120, "24 Mantra Organic Kala Chana", "500 g"),
   },
   {
@@ -2700,7 +2700,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 90, "Freshcon Boiled White Lobiya", "250 g"),
   },
   {
@@ -2709,7 +2709,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(63, 70, "Amul Desi Organic Kala Chana", "500 g"),
   },
   {
@@ -2718,7 +2718,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "2 x 250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 180, "Freshcon Boiled Rajma - Pack of 2", "2 x 250 g"),
   },
   {
@@ -2727,7 +2727,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "3 x 250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(120, 240, "Freshcon Boiled White Dried Peas (White Vatana) - Pack of 3", "3 x 250 g"),
   },
   {
@@ -2736,7 +2736,7 @@ export const LIVE_STAPLES_DATA: Product[] = [
     category: 'staples',
     subCategory: "Rajma, Chhole & Others",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(185, 240, "Sattvik Earth Premium Rajma Chitra", "1 kg"),
   },
   {

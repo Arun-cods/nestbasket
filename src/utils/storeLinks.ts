@@ -481,9 +481,20 @@ export function appendAffiliateTracking(rawUrl: string, platformId: PlatformId):
   }
 }
 
+export function cleanSearchQuery(productName: string): string {
+  if (!productName) return '';
+  return productName
+    .replace(/\([^)]*\)/g, ' ') // strip regional names e.g. (Narinja Pandu), (Mamidipandu)
+    .replace(/\[[^\]]*\]/g, ' ')
+    .replace(/\b(imported|packet|premium|fresh|local|grade a|combo)\b/gi, ' ')
+    .replace(/[\/\-_,]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 /**
  * EXACT WORKING DEEP-LINK GENERATOR
- * Navigates directly to the specific product item page, NOT a generic search query!
+ * Navigates directly to the specific product item page or exact item search!
  */
 export function getDirectStoreBuyUrl(
   platformId: PlatformId,
@@ -512,8 +523,9 @@ export function getDirectStoreBuyUrl(
     }
   }
 
-  // Working deep-search query URL preserving exact product title and unit weight
-  const query = `${productName}${unit ? ' ' + unit : ''}`.trim();
+  // Sanitize query to remove regional language bracket text (like "(Narinja Pandu)")
+  const cleanName = cleanSearchQuery(productName);
+  const query = cleanName || productName;
   const qEnc = encodeURIComponent(query);
 
   let targetUrl = `https://www.bigbasket.com/ps/?q=${qEnc}`;

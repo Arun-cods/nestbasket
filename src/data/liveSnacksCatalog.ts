@@ -693,7 +693,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 60, "4700BC Pineapple Salsa Nachos", "60 g"),
   },
   {
@@ -1512,7 +1512,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chips & Crisps",
     unit: "3 x 40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(95, 105, "4700BC Cheese Jalapeno, Korean Kimchi & Pineapple Salsa Nachos", "3 x 40 g"),
   },
   {
@@ -5094,7 +5094,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Rusks & Wafers",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 50, "Dukes Waffy Pineapple Wafers", "55 g"),
   },
   {
@@ -6282,7 +6282,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(106, 120, "Bikaji Khatta Meetha Tana Bana Mixture Namkeen", "400 g"),
   },
   {
@@ -6309,7 +6309,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(70, 70, "Veerabhadra Mixture Namkeen", "200 g"),
   },
   {
@@ -6336,7 +6336,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "230 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 45, "Balaji Tikha Mitha Mixture Namkeen", "230 g"),
   },
   {
@@ -6354,7 +6354,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "95 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(86, 92, "Sweet Karam Coffee Madras Mixture Namkeen Snacks", "95 g"),
   },
   {
@@ -6390,7 +6390,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(69, 90, "Swetha Telugu Foods Andhra Mixture Namkeen", "150 g"),
   },
   {
@@ -6399,7 +6399,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(69, 90, "Swetha Telugu Foods Chekodilu Traditional Mixture Namkeen", "150 g"),
   },
   {
@@ -6426,7 +6426,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(72, 80, "Karachi Bakery Khara Boondi", "200 g"),
   },
   {
@@ -6453,7 +6453,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Balaji Shing Peanuts", "200 g"),
   },
   {
@@ -6480,7 +6480,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Balaji Ratlami Sev Bhujia", "200 g"),
   },
   {
@@ -6489,7 +6489,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "450 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 90, "Balaji Wafers Farali Chevdo Falhari Mixture", "450 g"),
   },
   {
@@ -6507,7 +6507,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 60, "Bikaji Kuch Kuch All In One Mixture Namkeen", "200 g"),
   },
   {
@@ -6525,7 +6525,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Bhujia & Mixtures",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(57, 60, "Bikano Bikaneri Bhujia", "200 g"),
   },
   {
@@ -6534,7 +6534,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(132, 175, "4700BC Nutty Tuxedo Chocolate Popcorn", "80 g"),
   },
   {
@@ -6552,7 +6552,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(37, 40, "Act II Sour Cream & Cheese Popcorn - Ready to Eat", "50 g"),
   },
   {
@@ -6561,7 +6561,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "2 x 47 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(53, 60, "4700BC Cheese & Peri Peri Popcorn Jumbo Size", "2 x 47 g"),
   },
   {
@@ -6570,7 +6570,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(159, 299, "Poppacorn Gourmet Nutty Choco Delight Popcorn", "150 g"),
   },
   {
@@ -6579,7 +6579,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(50, 50, "4700BC Jumbo Cheese Popcorn", "45 g"),
   },
   {
@@ -6606,7 +6606,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(39, 50, "Act II Hot & Spicy Popcorn", "50 g"),
   },
   {
@@ -6615,7 +6615,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(50, 50, "4700BC Hawaiian Barbeque Cheese Popcorn, Gourmet", "35 g"),
   },
   {
@@ -6624,7 +6624,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(59, 70, "Act II Caramel Bliss Popcorn - Ready To Eat", "75 g"),
   },
   {
@@ -6633,7 +6633,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "37.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(10, 10, "Act II Classic Salted Popcorn - Instant", "37.5 g"),
   },
   {
@@ -6642,7 +6642,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(35, 50, "Act II Sour Cream & Wasabi Cheese Popcorn", "50 g"),
   },
   {
@@ -6651,7 +6651,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(54, 60, "4700BC Jumbo Salted Popcorn (Made in Ghee)", "45 g"),
   },
   {
@@ -6669,7 +6669,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(60, 60, "4700BC Himalayan Salt Caramel Popcorn, Gourmet", "60 g"),
   },
   {
@@ -6678,7 +6678,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(60, 60, "4700BC Gourmet Popcorn (Belgian Choco Caramel)", "60 g"),
   },
   {
@@ -6687,7 +6687,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(145, 149, "Desire Popcorn Kernels", "500 g"),
   },
   {
@@ -6696,7 +6696,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(48, 50, "4700BC Devil Popcorn - Hot N Spicy", "50 g"),
   },
   {
@@ -6705,7 +6705,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(90, 100, "4700BC Himalayan Salt Caramel Gourmet Popcorn", "125 g"),
   },
   {
@@ -6714,7 +6714,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "99 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(69, 80, "Act II Microwave Cheese Delite Popcorn", "99 g"),
   },
   {
@@ -6723,7 +6723,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "72 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(80, 90, "4700BC Cheese, Korean And Netflix Cheese & Caramel Popcorn Combo", "72 g"),
   },
   {
@@ -6732,7 +6732,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "94 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(77, 85, "4700BC Microwave Cheese Popcorn with Seasoning", "94 g"),
   },
   {
@@ -6741,7 +6741,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(57, 60, "4700BC Netflix Cheese & Caramel Popcorn, Gourmet", "50 g"),
   },
   {
@@ -6750,7 +6750,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(152, 225, "Act II Chocolate Tuxedo Gourmet Popcorn Tin", "150 g"),
   },
   {
@@ -6759,7 +6759,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "101 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(75, 90, "Act II Microwave Cheese Burst Popcorn", "101 g"),
   },
   {
@@ -6786,7 +6786,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "92 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(81, 85, "4700BC Microwave Barbeque Popcorn with Seasoning", "92 g"),
   },
   {
@@ -6795,7 +6795,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Popcorn",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(50, 50, "4700BC Sriracha Lime Cheese Popcorn, Gourmet", "35 g"),
   },
   {
@@ -7002,7 +7002,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(499, 549, "Avesha Jumbo Size Makhana", "250 g"),
   },
   {
@@ -7038,7 +7038,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 239, "Farmley Roasted & Himalayan Salted (Sendha Namak) Flavoured Makhana Roasted In Olive Oil", "77 g"),
   },
   {
@@ -7074,7 +7074,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "16 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 50, "MOM Mast Masala Roasted Flavoured Makhana", "16 g"),
   },
   {
@@ -7083,7 +7083,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(34, 35, "Slurrp Farm Choco Ragi Puffs", "20 g"),
   },
   {
@@ -7092,7 +7092,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "30 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(43, 50, "Farmley Panchmeva Dry Fruit Mix", "30 g"),
   },
   {
@@ -7101,7 +7101,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "3 x 17 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 60, "MOM Makhana Chikki Bar", "3 x 17 g"),
   },
   {
@@ -7110,7 +7110,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(47, 50, "Farmley Peri Peri Roasted Flavoured Makhana Roasted In Olive Oil", "20 g"),
   },
   {
@@ -7119,7 +7119,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(169, 225, "Chakna Makhna Flavoured Makhana (Fiery Peri Peri)", "80 g"),
   },
   {
@@ -7128,7 +7128,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 239, "Farmley Peri Peri Roasted Flavoured Makhana Roasted In Olive Oil", "77 g"),
   },
   {
@@ -7137,7 +7137,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "16 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(38, 50, "MOM Roasted Flavoured Makhana Himalayan Salt & Pepper", "16 g"),
   },
   {
@@ -7146,7 +7146,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(147, 159, "Farmley Peri Peri Flavoured Makhana", "55 g"),
   },
   {
@@ -7155,7 +7155,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(34, 35, "Slurrp Farm Mighty Munch Cheese and Herbs Puffs", "20 g"),
   },
   {
@@ -7164,7 +7164,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(147, 159, "Farmley Himalayan Salt Flavoured Makhana", "55 g"),
   },
   {
@@ -7173,7 +7173,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "16 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(38, 50, "MOM Roasted Flavoured Makhana Cheddar Cheese", "16 g"),
   },
   {
@@ -7182,7 +7182,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Flavoured Makhana (Black Salt)", "21 g"),
   },
   {
@@ -7191,7 +7191,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "30 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(98, 125, "Sattviko Ghee Rock Salt Flavoured Makhana", "30 g"),
   },
   {
@@ -7218,7 +7218,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Himalayan Salt & Pepper Flavoured Makhana", "21 g"),
   },
   {
@@ -7227,7 +7227,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "175 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(154, 199, "Open Secret Baked (Not Fried) Bhujia Namkeen - Healthy Snacks", "175 g"),
   },
   {
@@ -7236,7 +7236,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(350, 550, "Whole Farm Premium Roasted & Salted Pistachios (Pistapappu)", "200 g"),
   },
   {
@@ -7245,7 +7245,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(165, 225, "Chakna Makhna Cheese Flavoured Makhana", "80 g"),
   },
   {
@@ -7263,7 +7263,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(131, 163, "True Elements 9-In-1 Trail Mix, Seeds & Dry Fruits", "125 g"),
   },
   {
@@ -7272,7 +7272,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "450 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(548, 650, "Happilo 100% Natural Premium Whole Cashew (Jidipappu)", "450 g"),
   },
   {
@@ -7281,7 +7281,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "48 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(81, 99, "MOM Dry Roasted Cashews, Almonds & Pista Nuts Mix", "48 g"),
   },
   {
@@ -7290,7 +7290,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(269, 599, "Only Truth Premium Makhana", "200 g"),
   },
   {
@@ -7308,7 +7308,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "65 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(41, 45, "Tong Garden Mexican Style Peanuts", "65 g"),
   },
   {
@@ -7317,7 +7317,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "16 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(49, 55, "Too Yumm Roasted Makhana Peri Peri Healthy Snack", "16 g"),
   },
   {
@@ -7326,7 +7326,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "120 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 359, "Khatus 5 Suta Makhana", "120 g"),
   },
   {
@@ -7335,7 +7335,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "48 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(81, 99, "MOM California Flavoured Almonds (Roasted & Salted)", "48 g"),
   },
   {
@@ -7344,7 +7344,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 140, "MOM Mini Makhana Chikki Bar", "100 g"),
   },
   {
@@ -7353,7 +7353,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Piri Piri Paradise Flavoured Makhana", "21 g"),
   },
   {
@@ -7371,7 +7371,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 239, "Farmley Cheesy Cheddar Flavoured Makhana Roasted In Olive Oil", "77 g"),
   },
   {
@@ -7380,7 +7380,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "36 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(89, 99, "Farmley Classic Salted & Roasted Flavoured Cashew (Flavoured Jidipappu)", "36 g"),
   },
   {
@@ -7389,7 +7389,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(351, 395, "Happilo Californian Roasted & Salted Flavoured Almonds (Badam)", "200 g"),
   },
   {
@@ -7407,7 +7407,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "230 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(389, 600, "Mevo Jumbo Size Makhana", "230 g"),
   },
   {
@@ -7416,7 +7416,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Cheezy Peezy Flavoured Makhana (Standee Pouch)", "55 g"),
   },
   {
@@ -7434,7 +7434,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "2 x 100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(195, 440, "Sanwariya Bhog Makhana", "2 x 100 g"),
   },
   {
@@ -7443,7 +7443,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(96, 130, "Sattviko Pink Salt & Pepper Flavoured Makhana", "52 g"),
   },
   {
@@ -7452,7 +7452,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 205, "Lo Foods Keto Almond Cookies (No Added Sugar)", "100 g"),
   },
   {
@@ -7470,7 +7470,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(437, 450, "Cornitos Roasted Salted Cashew (Lightly Salted)", "200 g"),
   },
   {
@@ -7479,7 +7479,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(146, 159, "Farmley Black Salt Flavoured Makhana", "55 g"),
   },
   {
@@ -7488,7 +7488,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(146, 159, "Farmley Cheesy Cheddar Flavoured Makhana 55 g", "55 g"),
   },
   {
@@ -7506,7 +7506,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(451, 475, "Happilo Jumbo Californian Roasted & Salted Pistachios (Pistapappu)", "200 g"),
   },
   {
@@ -7515,7 +7515,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(351, 722, "Kwality Eat Classic Plain Makhana /Foxnuts", "250 g"),
   },
   {
@@ -7533,7 +7533,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Flavoured Makhana (Cheezy Peezy)", "21 g"),
   },
   {
@@ -7542,7 +7542,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Piri Piri Paradise Flavoured Makhana (Standee Pouch)", "55 g"),
   },
   {
@@ -7560,7 +7560,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "160 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(58, 61, "Garden Diet Chivda Namkeen", "160 g"),
   },
   {
@@ -7569,7 +7569,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(388, 510, "Cravana Raw Makhana", "200 g"),
   },
   {
@@ -7578,7 +7578,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(179, 499, "Henley Phool Makhana", "150 g"),
   },
   {
@@ -7596,7 +7596,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(131, 140, "MOM Cheddar Cheese Roasted Flavoured Makhana", "52 g"),
   },
   {
@@ -7614,7 +7614,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(131, 140, "MOM Himalayan Salt & Pepper Roasted Flavoured Makhana", "52 g"),
   },
   {
@@ -7623,7 +7623,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 549, "Makhayo Makhana", "250 g"),
   },
   {
@@ -7632,7 +7632,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Black Salt Flavoured Makhana", "55 g"),
   },
   {
@@ -7659,7 +7659,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(94, 99, "Nutty Gritties Salted & Roasted Flavoured Cashew (Flavoured Jidipappu)", "40 g"),
   },
   {
@@ -7677,7 +7677,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(130, 250, "Royal Virasat High Protein Makhana", "100 g"),
   },
   {
@@ -7686,7 +7686,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "42 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(81, 90, "Sattviko Belgian Chocolate Flavoured Makhana", "42 g"),
   },
   {
@@ -7695,7 +7695,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "42 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(72, 80, "Sattviko Gur(Jaggery) Roasted Flavoured Makhana", "42 g"),
   },
   {
@@ -7704,7 +7704,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "20 g + 80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 123, "Slurrp Farm Choco Ragi Ragi Snacks + Choco Ragi Cookies Combo", "20 g + 80 g"),
   },
   {
@@ -7713,7 +7713,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "190 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(331, 370, "Tata Sampann Classic Salted & Roasted Flavoured Almonds (Badam)", "190 g"),
   },
   {
@@ -7722,7 +7722,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "30 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 75, "Tong Garden Black Pepper Flavoured Cashew", "30 g"),
   },
   {
@@ -7731,7 +7731,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "140 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(243, 270, "Tong Garden Salted Cocktail Nut Mix", "140 g"),
   },
   {
@@ -7749,7 +7749,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(86, 99, "Nutty Gritties Daily Mix Nuts Roasted in Himalayan Pink Salt", "35 g"),
   },
   {
@@ -7758,7 +7758,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(289, 335, "Farmley Trail Mix Dry Fruits, Nuts & Seeds Superfood", "200 g"),
   },
   {
@@ -7794,7 +7794,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "6 x 35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(194, 270, "Yoga Bar Multigrain Protein Bar Pack (Assorted)", "6 x 35 g"),
   },
   {
@@ -7803,7 +7803,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(131, 140, "MOM Peri Peri Roasted Flavoured Makhana", "52 g"),
   },
   {
@@ -7821,7 +7821,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(363, 440, "Nutty Gritties Lightly Salted & Roasted Jumbo Flavoured Cashew (Flavoured Jidipappu)", "200 g"),
   },
   {
@@ -7839,7 +7839,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(49, 60, "Omay Foods Roasted Chana Jor (Beaten Chana)", "60 g"),
   },
   {
@@ -7848,7 +7848,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "160 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(92, 110, "Omay Foods Roasted Flax Seeds", "160 g"),
   },
   {
@@ -7857,7 +7857,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 239, "Farmley Rock Salt & Pepper Flavoured Makhana Fit For Fasting", "77 g"),
   },
   {
@@ -7866,7 +7866,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(85, 99, "MOM Tandoori Flavoured Cashew", "45 g"),
   },
   {
@@ -7875,7 +7875,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(144, 163, "Tong Garden Roasted Salted Seeds", "200 g"),
   },
   {
@@ -7884,7 +7884,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "190 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(329, 370, "Tata Sampann Classic Salted & Roasted Flavoured Cashew (Flavoured Jidipappu)", "190 g"),
   },
   {
@@ -7902,7 +7902,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "28 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(49, 50, "Farmley Fruit & Nut Trail Mix", "28 g"),
   },
   {
@@ -7911,7 +7911,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(146, 159, "Farmley Achari Chatka Flavoured Makhana", "55 g"),
   },
   {
@@ -7920,7 +7920,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(84, 99, "Nutty Gritties Roasted Salted Flavoured Almonds (Badam)", "40 g"),
   },
   {
@@ -7929,7 +7929,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(113, 113, "Heka Bites Himalayan Pink Salt Flavoured Makhana", "60 g"),
   },
   {
@@ -7947,7 +7947,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(140, 150, "MOM Black Salt Flavoured Makhana", "60 g"),
   },
   {
@@ -7956,7 +7956,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "180 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(138, 145, "Cornitos Party Nut Mix Snack", "180 g"),
   },
   {
@@ -7965,7 +7965,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(408, 560, "True Elements Panchmeva (Dry Fruit Mishrana)", "400 g"),
   },
   {
@@ -7974,7 +7974,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "405 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(378, 515, "MOM Panchmeva Mix", "405 g"),
   },
   {
@@ -7983,7 +7983,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(100, 150, "MOM Korean Flavoured Makhana", "60 g"),
   },
   {
@@ -7992,7 +7992,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(351, 395, "Happilo Premium Roasted Party Mix Nuts", "200 g"),
   },
   {
@@ -8001,7 +8001,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(225, 300, "Heka Bites Makhana", "150 g"),
   },
   {
@@ -8019,7 +8019,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(91, 125, "Sattviko Pink Salt & Peri Peri Flavoured Makhana Combo", "52 g"),
   },
   {
@@ -8028,7 +8028,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(369, 440, "Nutty Gritties Lightly Salted Jumbo Roasted Flavoured Almonds (Badam)", "200 g"),
   },
   {
@@ -8046,7 +8046,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(418, 485, "Nutty Gritties Roasted & Salted California Pistachios (Pistapappu)", "200 g"),
   },
   {
@@ -8073,7 +8073,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(129, 299, "Wonderland Foods Seeds & Berries Mix (Berrilu Mix)", "200 g"),
   },
   {
@@ -8082,7 +8082,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "3 x 25 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Flavoured Makhana Gift Pack", "3 x 25 g"),
   },
   {
@@ -8091,7 +8091,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(78, 129, "Wonderland Foods Peri Peri Flavoured Makhana", "40 g"),
   },
   {
@@ -8100,7 +8100,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "21 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(47, 50, "Mr. Makhana Flavoured Makhana (Sea Salt & Vinegar)", "21 g"),
   },
   {
@@ -8109,7 +8109,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(406, 499, "Wonderland Foods Roasted & Salted Pistachios (Pistapappu)", "200 g"),
   },
   {
@@ -8118,7 +8118,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "140 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(243, 270, "Tong Garden Salted Almonds", "140 g"),
   },
   {
@@ -8127,7 +8127,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(234, 399, "Wonderland Foods Cocktail Party/ Dry Fruit Mix", "200 g"),
   },
   {
@@ -8136,7 +8136,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(360, 550, "Hunger Bites Raw Makhana", "200 g"),
   },
   {
@@ -8145,7 +8145,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(252, 300, "Mr. Makhana Veda Premium Raw Makhana", "100 g"),
   },
   {
@@ -8154,7 +8154,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Pickle Tickle Flavoured Makhana", "55 g"),
   },
   {
@@ -8163,7 +8163,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(125, 150, "Too Yumm Roasted Makhana - Himalayan Salt & Pepper", "50 g"),
   },
   {
@@ -8172,7 +8172,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "180 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(290, 325, "Tong Garden Tropical Nuts & Fruits Trail Mix", "180 g"),
   },
   {
@@ -8181,7 +8181,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(313, 399, "Wonderland Foods Spicy Trail Mix - Nuts & Seed Mix", "200 g"),
   },
   {
@@ -8190,7 +8190,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(79, 129, "Wonderland Foods Tangy Masala Flavoured Makhana", "40 g"),
   },
   {
@@ -8199,7 +8199,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(269, 360, "Wonderland Foods Healthy Dry Fruits & Seeds Mix", "200 g"),
   },
   {
@@ -8217,7 +8217,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(368, 549, "Aktual Foodz Plain Makhana", "200 g"),
   },
   {
@@ -8226,7 +8226,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Sea Salt & Vinegar Flavoured Makhana", "55 g"),
   },
   {
@@ -8235,7 +8235,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(399, 599, "House Of Makhana Premium Raw Makhana", "200 g"),
   },
   {
@@ -8244,7 +8244,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(369, 599, "Makau Foods Premium Raw Makhana", "200 g"),
   },
   {
@@ -8253,7 +8253,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "180 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(319, 699, "Mr. Choice Premium Handpicked Makhana", "180 g"),
   },
   {
@@ -8262,7 +8262,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(495, 595, "Mr. Makhana Veda Premium Raw Makhana", "200 g"),
   },
   {
@@ -8271,7 +8271,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "55 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(138, 150, "Mr. Makhana Himalayan Salt & Pepper Flavoured Makhana", "55 g"),
   },
   {
@@ -8298,7 +8298,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(351, 435, "Happilo Freshly Oven Roasted & Salted Flavoured Cashew (Flavoured Jidipappu)", "200 g"),
   },
   {
@@ -8316,7 +8316,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(96, 130, "Sattviko Peri Peri Roasted Flavoured Makhana", "52 g"),
   },
   {
@@ -8325,7 +8325,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(44, 50, "Farmley Mexican Peri-Peri Mix Nuts", "35 g"),
   },
   {
@@ -8343,7 +8343,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(478, 530, "Tata Sampann Roasted & Salted Premium Pistachios (Pistapappu)", "200 g"),
   },
   {
@@ -8352,7 +8352,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(350, 699, "AURIK Plain Jumbo Makhana /Foxnuts", "250 g"),
   },
   {
@@ -8361,7 +8361,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(169, 225, "Chakna Makhna Achaari Masti Flavoured Makhana", "80 g"),
   },
   {
@@ -8370,7 +8370,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(238, 250, "Cornitos Roasted Pumpkin Seeds (Salted)", "200 g"),
   },
   {
@@ -8379,7 +8379,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "24 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(39, 42, "Nutty Gritties Premium Spicy Trail Mix", "24 g"),
   },
   {
@@ -8388,7 +8388,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(255, 300, "True Elements 7 in 1 Roasted Seeds Mix", "250 g"),
   },
   {
@@ -8397,7 +8397,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "70 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(187, 250, "Kepps Salt & Pepper Flavoured Makhana", "70 g"),
   },
   {
@@ -8415,7 +8415,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(365, 525, "Shree Daana Phool Makhana", "250 g"),
   },
   {
@@ -8424,7 +8424,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "160 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(74, 90, "Omay Foods Roasted Soyabean (Protein Rich)", "160 g"),
   },
   {
@@ -8433,7 +8433,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(168, 199, "Makhana Mantra Peri Peri Flavoured Makhana", "75 g"),
   },
   {
@@ -8442,7 +8442,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(130, 130, "Meiji Yan Yan Chocolate Dip Biscuit Sticks", "50 g"),
   },
   {
@@ -8451,7 +8451,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "42 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(72, 80, "Sattviko Caramel Roasted Flavoured Makhana", "42 g"),
   },
   {
@@ -8460,7 +8460,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "52 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(110, 140, "Sattviko Roasted Noodles Masala Flavoured Makhana", "52 g"),
   },
   {
@@ -8478,7 +8478,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "77 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 239, "Farmley Achaari Flavoured Makhana Roasted In Olive Oil", "77 g"),
   },
   {
@@ -8487,7 +8487,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(130, 130, "Meiji Yan Yan Strawberry Dip Biscuit Sticks", "50 g"),
   },
   {
@@ -8496,7 +8496,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(389, 525, "Tashi Naturals Makhana", "250 g"),
   },
   {
@@ -8505,7 +8505,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "325 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(414, 489, "Farmley Snack Trail Mix (Mexican Peri Peri)", "325 g"),
   },
   {
@@ -8514,7 +8514,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 239, "Happilo Pink Salt & Pepper Flavoured Makhana", "80 g"),
   },
   {
@@ -8532,7 +8532,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "70 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(187, 250, "Kepps Peri Peri Flavoured Makhana", "70 g"),
   },
   {
@@ -8541,7 +8541,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 90, "Popular Roasties Crunchies Flavoured Almonds (Desi Dhamaka) (Badam)", "45 g"),
   },
   {
@@ -8550,7 +8550,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "2 x 36 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(177, 198, "Farmley Roasted Black Pepper Flavoured Cashew - Pack of 2 (Flavoured Jidipappu)", "2 x 36 g"),
   },
   {
@@ -8568,7 +8568,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Makhana & More",
     unit: "2 x 135 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(300, 650, "Open Secret Nutty Tandoori Masala Nut Mix (Almonds, Peanuts & Cashews) - Pack of 2", "2 x 135 g"),
   },
   {
@@ -8631,7 +8631,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 35, "Veerabhadra Fryums", "100 g"),
   },
   {
@@ -8649,7 +8649,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 50, "DNV Sabudana Papad", "100 g"),
   },
   {
@@ -8658,7 +8658,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "Lijjat Plain Urad Dal Papad", "200 g"),
   },
   {
@@ -8694,7 +8694,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(115, 115, "Lijjat Punjabi Masala Papad", "250 g"),
   },
   {
@@ -8703,7 +8703,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(58, 80, "Ramji Tingo Fryums", "200 g"),
   },
   {
@@ -8712,7 +8712,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 75, "Veerabhadra Masala Sabudana Papad", "200 g"),
   },
   {
@@ -8721,7 +8721,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(100, 100, "Lijjat Urad Dal Papad", "250 g"),
   },
   {
@@ -8730,7 +8730,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 60, "Priya Urad Dal Plain Appalam Papad", "100 g"),
   },
   {
@@ -8739,7 +8739,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(58, 80, "Ramji Mix Fryums", "200 g"),
   },
   {
@@ -8748,7 +8748,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 75, "Veerabhadra Sabudana Papad", "200 g"),
   },
   {
@@ -8757,7 +8757,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "220 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(175, 180, "Chokhi Dhani Ready to Cook Pani Puri Chaat", "220 g"),
   },
   {
@@ -8820,7 +8820,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 45, "Veerabhadra Salto Wheat Flower Fryums", "200 g"),
   },
   {
@@ -8829,7 +8829,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Balaji Rice Flour Khichiya Papad", "200 g"),
   },
   {
@@ -8838,7 +8838,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(126, 143, "Bikaji Dil Khush Moong and Urad Dal Papad", "400 g"),
   },
   {
@@ -8847,7 +8847,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 80, "Ramji Finger Mix Fryums", "200 g"),
   },
   {
@@ -8856,7 +8856,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(66, 99, "Ramji Jeera Rice Papad", "200 g"),
   },
   {
@@ -8865,7 +8865,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(66, 119, "Shareat Sweet & Spicy Pani Puri", "200 g"),
   },
   {
@@ -8874,7 +8874,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 50, "Veerabhadra Madras Appalam Papad", "100 g"),
   },
   {
@@ -8883,7 +8883,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 75, "Veerabhadra Sago Fryums", "200 g"),
   },
   {
@@ -8892,7 +8892,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(89, 89, "Wah Luft Pani Puri Pellets", "200 g"),
   },
   {
@@ -8910,7 +8910,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(61, 65, "Priya Jeera Appalam Papad", "100 g"),
   },
   {
@@ -8919,7 +8919,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(55, 99, "Shareat Foochka Millets Pani Puri", "200 g"),
   },
   {
@@ -8937,7 +8937,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "180 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(76, 85, "DNV Punjabi Masala Papad", "180 g"),
   },
   {
@@ -8946,7 +8946,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(139, 139, "Wah Luft Pani Puri", "150 g"),
   },
   {
@@ -8982,7 +8982,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 100, "Whole Farm Premium Appalam Papad", "200 g"),
   },
   {
@@ -9000,7 +9000,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(61, 65, "Priya Pepper Appalam Papad", "100 g"),
   },
   {
@@ -9009,7 +9009,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(291, 330, "Bikaji Baat Cheet Dal Papad", "1 kg"),
   },
   {
@@ -9018,7 +9018,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 60, "Balaji Udad Papad", "200 g"),
   },
   {
@@ -9027,7 +9027,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 100, "Whole Farm Special Urad Dal Papad", "200 g"),
   },
   {
@@ -9054,7 +9054,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Balaji Wheat Flour Khichiya Papad", "200 g"),
   },
   {
@@ -9063,7 +9063,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(61, 65, "Priya Ajwain Appalam Papad", "100 g"),
   },
   {
@@ -9081,7 +9081,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(73, 110, "Ramji Sabudana Papad", "150 g"),
   },
   {
@@ -9090,7 +9090,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "180 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(87, 159, "Shareat Get Set Treat Pani Puri", "180 g"),
   },
   {
@@ -9099,7 +9099,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(70, 70, "Veerabhadra Ajwain Papad (Poha)", "200 g"),
   },
   {
@@ -9117,7 +9117,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "120 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(69, 69, "Flavours Of Calicut Kerala Papad", "120 g"),
   },
   {
@@ -9126,7 +9126,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(70, 70, "Veerabhadra Salto Rice Papad", "200 g"),
   },
   {
@@ -9153,7 +9153,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "225 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(157, 157, "Ambika No 3 Appalam Papad", "225 g"),
   },
   {
@@ -9162,7 +9162,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "50 units",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(197, 197, "Ambika Appalam No 2 Papad", "50 units"),
   },
   {
@@ -9171,7 +9171,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(124, 140, "Bikaji Baat Cheet Moong and Urad Dal Papad", "400 g"),
   },
   {
@@ -9198,7 +9198,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(58, 80, "Ramji Net Fryums", "200 g"),
   },
   {
@@ -9207,7 +9207,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 60, "Veerabhadra Punjabi Masala Papad", "100 g"),
   },
   {
@@ -9216,7 +9216,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(61, 65, "Priya Masala Appalam Papad", "100 g"),
   },
   {
@@ -9225,7 +9225,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(70, 70, "Veerabhadra Masala Rice Papad", "200 g"),
   },
   {
@@ -9243,7 +9243,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Papad & Fryums",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(68, 110, "Ramji Sago/ Sabudana Papad", "150 g"),
   },
   {
@@ -9342,7 +9342,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(360, 400, "Elevate Cocoa & Almond High protein Granola", "300 g"),
   },
   {
@@ -9351,7 +9351,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(360, 400, "Elevate Almond & Seeds High Protein Granola", "300 g"),
   },
   {
@@ -9360,7 +9360,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(360, 400, "Elevate Apple & Cinnamon High Protein Granola", "300 g"),
   },
   {
@@ -9378,7 +9378,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(255, 260, "True Elements Dark Chocolate Granola", "400 g"),
   },
   {
@@ -9387,7 +9387,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "315 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(375, 375, "Kibi Kibi Chunky Chocolate Granola", "315 g"),
   },
   {
@@ -9396,7 +9396,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Granola",
     unit: "315 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(375, 375, "Kibi Kibi Classic Fruit & Nut Granola", "315 g"),
   },
   {
@@ -9405,7 +9405,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "350 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(599, 1399, "HyperFoods Kaju Katli & Dry Kachori Gift Pack", "350 g"),
   },
   {
@@ -9414,7 +9414,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(699, 1539, "HyperFoods Sweets & Munchies Gift Pack by", "500 g"),
   },
   {
@@ -9423,7 +9423,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "375 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(468, 550, "4700BC Nutty Tuxedo Chocolate Gourmet Popcorn Tin", "375 g"),
   },
   {
@@ -9432,7 +9432,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "460 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(776, 1000, "4700BC Popcorn Gift Box of 4, Sweet & Savoury", "460 g"),
   },
   {
@@ -9441,7 +9441,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(625, 1250, "Two Brothers Bachpan Ka Bandhan Bhaiya Box Rakhi Gift Pack", "500 g"),
   },
   {
@@ -9450,7 +9450,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Munchies Gift Packs",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(750, 1500, "Two Brothers Rishton ka Bandhan Bhaiya - Bhabhi Box Rakhi Gift Pack", "500 g"),
   },
   {
@@ -9477,7 +9477,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 45, "Amul Dark Chocolate Bar", "35 g"),
   },
   {
@@ -9486,7 +9486,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "38.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(20, 20, "Nestle Munch Max Choco Coated Crunchy Wafer Bar", "38.5 g"),
   },
   {
@@ -9495,7 +9495,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(68, 75, "Snickers Peanut Brownie Chocolate Filled Bar", "45 g"),
   },
   {
@@ -9504,7 +9504,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 45, "Amul Sugar Free Dark Chocolate Bar", "35 g"),
   },
   {
@@ -9522,7 +9522,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 45, "Snickers Peanut Nougat & Caramel Chocolate Filled Bar", "40 g"),
   },
   {
@@ -9531,7 +9531,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "56 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 100, "Galaxy Smooth Milk Chocolate Bar with Goodness of Milk & Cocoa", "56 g"),
   },
   {
@@ -9567,7 +9567,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "110 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(144, 180, "Galaxy Smooth Milk Chocolate Bar", "110 g"),
   },
   {
@@ -9576,7 +9576,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "22.4 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 50, "Kinder Schoko Bons Crispy", "22.4 g"),
   },
   {
@@ -9594,7 +9594,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 50, "Kinder Joy Blue 20g", "20 g"),
   },
   {
@@ -9603,7 +9603,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(85, 100, "Galaxy Cookie Crumble Milk Chocolate Bar With Cookie Pieces", "50 g"),
   },
   {
@@ -9639,7 +9639,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "89 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(547, 575, "Loyka Dubai Kunafa Chocolate Bar", "89 g"),
   },
   {
@@ -9648,7 +9648,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "115.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 60, "Nestle Munch Max - Choco Coated Crunchy Wafer Chocolate", "115.5 g"),
   },
   {
@@ -9675,7 +9675,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 99, "Mars Nougat & Caramel Chocolate Filled Bar", "40 g"),
   },
   {
@@ -9684,7 +9684,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "42 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Nestle Milkybar Creamy Milky Treat", "42 g"),
   },
   {
@@ -9702,7 +9702,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "37.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 25, "Nestle Munch Max Nuts Double Choco Coated Wafer Bar", "37.5 g"),
   },
   {
@@ -9756,7 +9756,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 180, "Amul 99% Cacao Dark Chocolate Bar", "125 g"),
   },
   {
@@ -9774,7 +9774,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 180, "Amul 55% Cocoa Dark Chocolate Bar", "150 g"),
   },
   {
@@ -9801,7 +9801,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "19 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(23, 25, "Kinder Creamy Milky & Crunchy", "19 g"),
   },
   {
@@ -9810,7 +9810,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 599, "TABS Dark Aphrodisiac Chocolate", "20 g"),
   },
   {
@@ -9828,7 +9828,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "5 x 9 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 30, "Choki Choki XL Choco Milk Chocolate", "5 x 9 g"),
   },
   {
@@ -9864,7 +9864,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Amul Almondbar Milk Chocolate Bar", "35 g"),
   },
   {
@@ -9873,7 +9873,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "225 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(113, 120, "Choki Choki Chocomilk Shaped Chocolates", "225 g"),
   },
   {
@@ -9882,7 +9882,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 180, "Amul Sugar Free Dark Chocolate Bar", "150 g"),
   },
   {
@@ -9900,7 +9900,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "37.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 25, "Nestle Munch Brownie Max Choco Coated Wafer Chocolate", "37.5 g"),
   },
   {
@@ -9909,7 +9909,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Nestle Munch Max Crunchies Chocolate Bar", "45 g"),
   },
   {
@@ -9918,7 +9918,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(279, 310, "Karachi Bakery Dubai Kunafa Chocolate Bar", "90 g"),
   },
   {
@@ -9927,7 +9927,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "95 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(249, 295, "Chocobles Pistachio Kunafa Chocolate Bar", "95 g"),
   },
   {
@@ -9963,7 +9963,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(115, 200, "Amul India Twilight Tryst Dark Chocolate Bar (55 % Rich in Cocoa)", "125 g"),
   },
   {
@@ -9990,7 +9990,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 180, "Amul 90% Bitter Dark Chocolate Bar", "150 g"),
   },
   {
@@ -9999,7 +9999,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "56 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(119, 140, "Galaxy Fusions Dark Chocolate Bar with 70% Cocoa", "56 g"),
   },
   {
@@ -10008,7 +10008,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "30 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(62, 65, "Galaxy Smooth Milk Chocolate Bar", "30 g"),
   },
   {
@@ -10053,7 +10053,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(292, 310, "The Whole Truth Rich 71% Cocoa Bar", "80 g"),
   },
   {
@@ -10116,7 +10116,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(220, 220, "Morde Dark Compound Chocolate Bar", "400 g"),
   },
   {
@@ -10143,7 +10143,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "36 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(132, 139, "Chocobles Kunafa Chocolate Truffles", "36 g"),
   },
   {
@@ -10152,7 +10152,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 99, "Bounty Coconut Chocolate Filled Bar", "50 g"),
   },
   {
@@ -10197,7 +10197,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(68, 75, "Snickers Almond Filled Chocolate Bar", "40 g"),
   },
   {
@@ -10224,7 +10224,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "1 pack",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(150, 150, "Kinder Joy Pink (Pack of 3)", "1 pack"),
   },
   {
@@ -10251,7 +10251,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(204, 220, "Darkins Chocolates Blueberry 70% Dark Chocolate", "50 g"),
   },
   {
@@ -10260,7 +10260,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(160, 160, "Amul Belgian Smooth and Creamy Milk Chocolate Bar", "125 g"),
   },
   {
@@ -10305,7 +10305,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(309, 335, "The Whole Truth Hazelnut 47% Cocoa Bar", "80 g"),
   },
   {
@@ -10314,7 +10314,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(88, 99, "Twix Cookie Caramel Chocolate Filled Bar", "50 g"),
   },
   {
@@ -10323,7 +10323,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(186, 200, "Darkins Chocolates Citrus Blast Chocolate Pebbles", "50 g"),
   },
   {
@@ -10332,7 +10332,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 180, "Amul Smooth & Creamy Milk Chocolate Bar", "150 g"),
   },
   {
@@ -10350,7 +10350,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "1 pack",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(150, 150, "Kinder Joy Blue (Pack of 3) 60g", "1 pack"),
   },
   {
@@ -10377,7 +10377,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 699, "E.Wedel Classic 64% Cocoa Dark Chocolate Bar", "90 g"),
   },
   {
@@ -10386,7 +10386,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(265, 265, "Morde Milk Compound Chocolate Bar", "400 g"),
   },
   {
@@ -10395,7 +10395,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(204, 220, "Darkins Roasted Almonds 70% Dark Chocolate", "50 g"),
   },
   {
@@ -10422,7 +10422,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 399, "Entisi Chocolatier Harry Potter 9¾ Milk Chocolate Bar", "50 g"),
   },
   {
@@ -10431,7 +10431,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "110 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(234, 275, "Galaxy Fusions Dark Chocolate Bar with 70% Cocoa", "110 g"),
   },
   {
@@ -10449,7 +10449,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(98, 110, "Nova Nova Best Bite Chocolate Filled Waffle Cones - Dark Chocolate", "50 g"),
   },
   {
@@ -10476,7 +10476,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(115, 200, "Amul India Twilight Tryst Single Origin Milk Chocolate Bar", "125 g"),
   },
   {
@@ -10485,7 +10485,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(204, 220, "Darkins Orange 63% Dark Chocolate", "50 g"),
   },
   {
@@ -10494,7 +10494,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 120, "Didier & Frank Sweet - 50% Dark Chocolate Bar", "40 g"),
   },
   {
@@ -10503,7 +10503,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "180 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(549, 610, "Karachi Bakery Dubai Kunafa Chocolate Bar (200 g)", "180 g"),
   },
   {
@@ -10512,7 +10512,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "96 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(510, 575, "Le Pure Dubai Pistachio Kunafa Dark Chocolate Bar", "96 g"),
   },
   {
@@ -10521,7 +10521,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(599, 599, "Lindt Excellence 70% Cocoa Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10539,7 +10539,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "72 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548907040-4baa42d10919?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(64, 75, "Snickers Duo Peanut Filled Bar", "72 g"),
   },
   {
@@ -10548,7 +10548,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(292, 310, "The Whole Truth Orange 71% Cocoa Bar", "80 g"),
   },
   {
@@ -10557,7 +10557,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 399, "Toblerone Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10566,7 +10566,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(213, 225, "Chocoville Dark Compound Chocolate Bar", "500 g"),
   },
   {
@@ -10575,7 +10575,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(549, 549, "Lindt Lindor White Chocolate Bar", "100 g"),
   },
   {
@@ -10584,7 +10584,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(270, 270, "Morde White Compound Chocolate Bar", "400 g"),
   },
   {
@@ -10593,7 +10593,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "95 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(327, 349, "Milka Broken Hazelnut Milk Chocolate Bar", "95 g"),
   },
   {
@@ -10611,7 +10611,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(257, 270, "Chocoville White Compound Chocolate Bar", "500 g"),
   },
   {
@@ -10620,7 +10620,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "131 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(447, 475, "Fabelle Strawberry Cheesecake Handcrafted Centre Filled Milk Chocolate Bar", "131 g"),
   },
   {
@@ -10629,7 +10629,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "37 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(177, 199, "Maltesers Shaped Chocolate", "37 g"),
   },
   {
@@ -10638,7 +10638,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(725, 725, "Manam Chocolate Almond Praline Clusters", "200 g"),
   },
   {
@@ -10647,7 +10647,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(495, 495, "Manam Chocolate Indian Origin Tablet No. 1 Milk Chocolate Bar", "80 g"),
   },
   {
@@ -10656,7 +10656,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "33 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(129, 185, "Ritter Sport Cornflakes & Hazelnuts Chocolate Pack", "33 g"),
   },
   {
@@ -10665,7 +10665,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(197, 210, "The Cinnamon Kitchen Cacao, Almond & Berry Rocks Dark Chocolate", "50 g"),
   },
   {
@@ -10674,7 +10674,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(292, 310, "The Whole Truth Almond Raisin 47% Cocoa Bar", "80 g"),
   },
   {
@@ -10683,7 +10683,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(292, 310, "The Whole Truth Rich 55% Cocoa Bar", "80 g"),
   },
   {
@@ -10692,7 +10692,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 399, "Toblerone Fruit & Nut Milk Chocolate Bar", "100 g"),
   },
   {
@@ -10701,7 +10701,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 399, "Toblerone White Chocolate Bar", "100 g"),
   },
   {
@@ -10710,7 +10710,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(570, 600, "Le Pure Hazelnut Heart Chocolate Gift Pack", "100 g"),
   },
   {
@@ -10728,7 +10728,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(249, 299, "Didier & Frank Wicked 85% Dark Chocolate Bar", "80 g"),
   },
   {
@@ -10737,7 +10737,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(268, 285, "The Cinnamon Kitchen Sugar-Free Cacao & Berry Rocks Dark Chocolate", "50 g"),
   },
   {
@@ -10755,7 +10755,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(204, 225, "Nova Nova Best Bite Chocolate Filled Waffle Cones -Belgian, Dark & White Chocolate", "100 g"),
   },
   {
@@ -10764,7 +10764,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(599, 599, "Lindt Excellence 90% Cocoa Supreme Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10773,7 +10773,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(222, 240, "Darkins 70% Dark Chocolate Bar (Andhra Cacao)", "50 g"),
   },
   {
@@ -10782,7 +10782,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(495, 495, "Manam Chocolate Origin Tablet No. 5 Dark Chocolate Bar", "80 g"),
   },
   {
@@ -10791,7 +10791,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 699, "E.Wedel White Chocolate Bar", "80 g"),
   },
   {
@@ -10800,7 +10800,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(599, 599, "Lindt Excellence 85% Cocoa Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10809,7 +10809,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(599, 599, "Lindt Excellence Orange Intense Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10818,7 +10818,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(349, 399, "Didier & Frank 99% Ultimate Dark Chocolate Bar", "80 g"),
   },
   {
@@ -10827,7 +10827,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(549, 549, "Lindt Lindor Filled Milk Chocolate Bar", "100 g"),
   },
   {
@@ -10836,7 +10836,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "48 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(95, 99, "Loyka Choco Dates", "48 g"),
   },
   {
@@ -10854,7 +10854,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(745, 745, "Manam Chocolate Dark Chocolate & Orange Clusters", "200 g"),
   },
   {
@@ -10863,7 +10863,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 699, "E.Wedel Extra Milk Chocolate Bar with Hazelnuts", "80 g"),
   },
   {
@@ -10872,7 +10872,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 699, "E.Wedel Classic Milk Chocolate Bar", "90 g"),
   },
   {
@@ -10881,7 +10881,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(223, 259, "The Select Aisle Milk Compound Chocolate Bar", "500 g"),
   },
   {
@@ -10890,7 +10890,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(126, 140, "Karachi Bakery 35% Milk Almonds Shaped Chocolates", "50 g"),
   },
   {
@@ -10899,7 +10899,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(223, 259, "The Select Aisle White Compound Chocolate Bar", "500 g"),
   },
   {
@@ -10908,7 +10908,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(275, 275, "Lindt Extra Creamy Dark Chocolate Bar", "35 g"),
   },
   {
@@ -10917,7 +10917,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(179, 179, "Lo Foods Sugar Free Dark Chocolate Bar (Almond Delight)", "40 g"),
   },
   {
@@ -10926,7 +10926,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(319, 500, "Ritter Sport Marzipan Milk Chocolate Bar", "100 g"),
   },
   {
@@ -10944,7 +10944,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(599, 599, "Lindt Excellence Caramel Sea Salt Dark Chocolate Bar", "100 g"),
   },
   {
@@ -10953,7 +10953,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(319, 500, "Ritter Sport Milk Chocolate Bar with Cornflakes", "100 g"),
   },
   {
@@ -10962,7 +10962,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(327, 349, "Milka Cow Spot Milk Chocolate Bar", "90 g"),
   },
   {
@@ -10980,7 +10980,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(252, 265, "Chocoville Milk Compound Chocolate Bar", "500 g"),
   },
   {
@@ -10989,7 +10989,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 200, "Amul Best Wishes Dark Chocolate Bar", "150 g"),
   },
   {
@@ -10998,7 +10998,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "90 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(327, 349, "Milka Alpine Milk Chocolate Bar", "90 g"),
   },
   {
@@ -11007,7 +11007,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(319, 500, "Ritter Sport Fine Milk Chocolate Bar", "100 g"),
   },
   {
@@ -11016,7 +11016,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(275, 275, "Lindt Extra Creamy Smooth Milk Chocolate Bar", "35 g"),
   },
   {
@@ -11025,7 +11025,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 199, "Kids Protein Ball - Double Chocolate Choco Comets by Kaidoo", "80 g"),
   },
   {
@@ -11034,7 +11034,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(441, 540, "Ritter Sport Colorful Mix Milk Chocolate Bar - Almond, Cornflakes & Alpine Milk", "100 g"),
   },
   {
@@ -11043,7 +11043,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "32 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 199, "Godiva 72% Cocoa Dark Chocolate Bar", "32 g"),
   },
   {
@@ -11052,7 +11052,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(499, 499, "Kunafa Tales Kunafa Chocolate Bar", "200 g"),
   },
   {
@@ -11061,7 +11061,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(477, 795, "Choko La 55% Dark Chocolate Bar Buttons", "250 g"),
   },
   {
@@ -11070,7 +11070,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(282, 470, "Choko La 75% Signature Noir Dark Chocolate Bar", "80 g"),
   },
   {
@@ -11079,7 +11079,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "112.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(150, 150, "Sunfeast Fantastik Roast Almond Choco Treats", "112.5 g"),
   },
   {
@@ -11088,7 +11088,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "240 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(899, 999, "Foo Foods Pistachio Kunafa Chocolate Bar", "240 g"),
   },
   {
@@ -11097,7 +11097,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "120 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(349, 349, "Yalla Delights Filled & Coated Choco Dates", "120 g"),
   },
   {
@@ -11106,7 +11106,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(599, 599, "Lindt Extra Creamy Smooth Dark Chocolate Bar", "80 g"),
   },
   {
@@ -11124,7 +11124,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(340, 340, "Cho Cho Chocolate Spread Sticks", "250 g"),
   },
   {
@@ -11133,7 +11133,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(405, 675, "Choko La 54% Sugar Free Dark Chocolate Bar", "80 g"),
   },
   {
@@ -11142,7 +11142,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(995, 1149, "Oyaki Dubai Kunafa Chocolate Bar", "200 g"),
   },
   {
@@ -11151,7 +11151,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(525, 699, "GuyLian Belgian Milk Chocolate Bar (Creamy Milk)", "100 g"),
   },
   {
@@ -11169,7 +11169,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g + 50 g + 40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(250, 297, "Bounty Coconut Chocolate Filled Bar + Twix Cookie Caramel Chocolate Filled Bar + Mars Nougat & Caramel Chocolate Filled Bar Combo", "50 g + 50 g + 40 g"),
   },
   {
@@ -11178,7 +11178,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(250, 250, "Karachi Bakery 66% Dark Chocolate Bar", "100 g"),
   },
   {
@@ -11187,7 +11187,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(270, 450, "Choko La Almond Marbles Shaped Chocolates", "75 g"),
   },
   {
@@ -11196,7 +11196,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "180 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(357, 420, "Karachi Bakery Cocoa Dusted Almond Shaped Chocolates", "180 g"),
   },
   {
@@ -11205,7 +11205,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "85 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(425, 425, "Deseo Pistachio Kunafa Dark Chocolate Bar", "85 g"),
   },
   {
@@ -11223,7 +11223,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "2 x 65 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(270, 270, "Nourish Hive Choco Almond Protein Bar", "2 x 65 g"),
   },
   {
@@ -11232,7 +11232,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 50, "Kinder Joy Pink 20g", "20 g"),
   },
   {
@@ -11259,7 +11259,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 180, "Amul Fruit & Nut Dark Chocolate Bar", "150 g"),
   },
   {
@@ -11268,7 +11268,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 45, "Amul Milk Chocolate Bar", "35 g"),
   },
   {
@@ -11295,7 +11295,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "3 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(150, 150, "Kinder Joy Suprise Pack (Harry Potter/Super Mario)", "3 pcs"),
   },
   {
@@ -11304,7 +11304,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(37, 50, "Amul Velvett Milk Chocolate Bar", "35 g"),
   },
   {
@@ -11331,7 +11331,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(210, 210, "Amul Almondo Milk Chocolate Pack", "200 g"),
   },
   {
@@ -11340,7 +11340,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 180, "Amul Bitter Dark Chocolate Bar", "150 g"),
   },
   {
@@ -11349,7 +11349,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(175, 180, "Loyka Dubai Kunafa Chocolate Bar", "40 g"),
   },
   {
@@ -11358,7 +11358,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 399, "Toblerone Milk Chocolate Bar", "100 g"),
   },
   {
@@ -11376,7 +11376,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(184, 229, "The Select Aisle Dark Compound Chocolate Bar", "500 g"),
   },
   {
@@ -11385,7 +11385,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "35 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 50, "Amul Belgian Smooth and Creamy Milk Chocolate Bar", "35 g"),
   },
   {
@@ -11403,7 +11403,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "27.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "Galaxy Fusions Dark Chocolate Bar with 70% Cocoa", "27.5 g"),
   },
   {
@@ -11412,7 +11412,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 50, "Kinder Joy Super Mario 20 g", "20 g"),
   },
   {
@@ -11421,7 +11421,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(292, 310, "The Whole Truth Sea Salt 71% Cocoa Bar", "80 g"),
   },
   {
@@ -11439,7 +11439,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "65 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 50, "Nestlé Classic Fruit ‘N’ Nut with Almond & Raisins", "65 g"),
   },
   {
@@ -11466,7 +11466,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(225, 225, "Amul Dark Compound Chocolate Bar", "500 g"),
   },
   {
@@ -11475,7 +11475,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 180, "Amul Tropical Orange Dark Chocolate Bar", "150 g"),
   },
   {
@@ -11484,7 +11484,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(140, 200, "Amul Velvett Milk Chocolate Bar", "150 g"),
   },
   {
@@ -11493,7 +11493,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "130 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(509, 575, "Fabelle Intense 84% Dark Chocolate Centre Filled Bar", "130 g"),
   },
   {
@@ -11502,7 +11502,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "121 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(509, 575, "Fabelle Open Secret Milk Chocolate Bar", "121 g"),
   },
   {
@@ -11520,7 +11520,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(68, 75, "Snickers Berry Whip Chocolate Filled Bar", "40 g"),
   },
   {
@@ -11529,7 +11529,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 200, "Amul Happy Birthday Milk Chocolate Bar", "150 g"),
   },
   {
@@ -11538,7 +11538,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 699, "E.Wedel Espresso Filling Dark Chocolate Bar", "100 g"),
   },
   {
@@ -11556,7 +11556,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "51 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(84, 99, "Mars Premium Nougat & Caramel Chocolate Filled Bar", "51 g"),
   },
   {
@@ -11565,7 +11565,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(104, 109, "The Select Aisle Dark Compound Chocolate Bar", "150 g"),
   },
   {
@@ -11574,7 +11574,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(104, 109, "The Select Aisle Milk Compound Chocolate Bar", "150 g"),
   },
   {
@@ -11592,7 +11592,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(170, 170, "Amul White Compound Chocolate Bar", "500 g"),
   },
   {
@@ -11601,7 +11601,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(249, 299, "Didier & Frank Crunchy Hazelnut Dark Chocolate Bar", "80 g"),
   },
   {
@@ -11610,7 +11610,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "32 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 199, "Godiva Caramel Lion of Belgium Milk Chocolate Bar", "32 g"),
   },
   {
@@ -11628,7 +11628,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "10 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(243, 269, "Jolochip Hottest Chocolate Challenge", "10 g"),
   },
   {
@@ -11637,7 +11637,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(599, 599, "Lindt Excellence Sea Salt Dark Chocolate Bar", "100 g"),
   },
   {
@@ -11646,7 +11646,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 399, "Toblerone Crunchy Almonds Milk Chocolate Bar", "100 g"),
   },
   {
@@ -11655,7 +11655,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "43 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(117, 130, "Kinder Bueno Crispy Creamy Chocolate Bar", "43 g"),
   },
   {
@@ -11664,7 +11664,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(495, 495, "Manam Chocolate Indian Origin Tablet No. 6 - 66% Dark Chocolate Bar", "80 g"),
   },
   {
@@ -11673,7 +11673,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(125, 149, "Didier & Frank 75% Intense Dark Chocolate Bar", "40 g"),
   },
   {
@@ -11691,7 +11691,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(179, 179, "Lo Foods Sugar Free Dark Chocolate Bar (Hazelnut Heaven)", "40 g"),
   },
   {
@@ -11700,7 +11700,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(425, 525, "Le Pure Happy Rakhi Gift Milk Chocolate Bar", "75 g"),
   },
   {
@@ -11709,7 +11709,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(119, 120, "Dark Chocolate Kaju Katli GO DESi", "100 g"),
   },
   {
@@ -11718,7 +11718,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "15 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(129, 129, "Entisi Chocolatier Chocolate Frog with Surprise Wizard Card", "15 g"),
   },
   {
@@ -11727,7 +11727,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g + 40 g + 45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 225, "Snickers Almond Chocolate Filled Bar + Berry Whip Chocolate Filled Bar + Peanut Brownie Chocolate Filled Bar Combo", "40 g + 40 g + 45 g"),
   },
   {
@@ -11736,7 +11736,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(126, 140, "Karachi Bakery 35% Milk Cashews Shaped Chocolates", "50 g"),
   },
   {
@@ -11745,7 +11745,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(179, 179, "Lo Foods Sugar Free Milk Chocolate Bar (Premium and Silky)", "40 g"),
   },
   {
@@ -11754,7 +11754,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "6 x 13 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(375, 420, "Melted Joy The Dark Nectar Dark Chocolate Bar", "6 x 13 g"),
   },
   {
@@ -11763,7 +11763,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(599, 599, "Yalla Delights Filled & Coated Choco Dates", "250 g"),
   },
   {
@@ -11772,7 +11772,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "140 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(399, 610, "Velvey Pistachio & Kunafa Chocolate Bar", "140 g"),
   },
   {
@@ -11790,7 +11790,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Chocolates & Candies",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(220, 220, "Karachi Bakery 55% Dark Chocolate Bar", "100 g"),
   },
   {
@@ -14571,7 +14571,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "190.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Britannia Milk Bikis - Biscuit", "190.5 g"),
   },
   {
@@ -14625,7 +14625,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 85, "Britannia Milk Bikis Atta Biscuit", "500 g"),
   },
   {
@@ -14634,7 +14634,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "243 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(26, 40, "Sunfeast Marie Light Active Marie Biscuits", "243 g"),
   },
   {
@@ -14643,7 +14643,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(39, 40, "Parle Marie Biscuits", "250 g"),
   },
   {
@@ -14679,7 +14679,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "800 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(105, 205, "Parle Marie Biscuits", "800 g"),
   },
   {
@@ -14688,7 +14688,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "255 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Patanjali Doodh Biscuit", "255 g"),
   },
   {
@@ -14697,7 +14697,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "1000.8 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 160, "Britannia Vita Gold Marie Biscuits", "1000.8 g"),
   },
   {
@@ -14706,7 +14706,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "924 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(112, 150, "Sunfeast Marie Light Active Marie Biscuits", "924 g"),
   },
   {
@@ -14715,7 +14715,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "350 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(57, 100, "Parle Milk Shakti Biscuit", "350 g"),
   },
   {
@@ -14742,7 +14742,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(120, 150, "Bisk Farm Rich Marie Biscuits", "1 kg"),
   },
   {
@@ -14751,7 +14751,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Glucose & Marie",
     unit: "280 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Bisk Farm Rich Marie Biscuits", "280 g"),
   },
   {
@@ -14760,7 +14760,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "960 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(128, 220, "Britannia NutriChoice Digestive High - Fibre Biscuit", "960 g"),
   },
   {
@@ -14769,7 +14769,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 25, "Britannia NutriChoice Digestive High-Fibre Biscuit", "125 g"),
   },
   {
@@ -14778,7 +14778,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 65, "Britannia NutriChoice 5 Grain Digestive Biscuit", "200 g"),
   },
   {
@@ -14814,7 +14814,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "295 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(52, 55, "Britannia Nutrichoice Sugar Free Cracker", "295 g"),
   },
   {
@@ -14823,7 +14823,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(34, 35, "Britannia NutriChoice Digestive Zero Biscuit", "100 g"),
   },
   {
@@ -14841,7 +14841,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 65, "Britannia NutriChoice Ragi Cookies (Diabetic Friendly)", "150 g"),
   },
   {
@@ -14850,7 +14850,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 60, "Britannia NutriChoice Digestive High Fibre Biscuit", "250 g"),
   },
   {
@@ -14859,7 +14859,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 60, "Britannia NutriChoice 100% Millets Cookies", "100 g"),
   },
   {
@@ -14895,7 +14895,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(53, 60, "Unibic Sugar Free Oatmeal Cookies", "75 g"),
   },
   {
@@ -14922,7 +14922,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "600 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 240, "Bakemate Digestive Biscuit", "600 g"),
   },
   {
@@ -14940,7 +14940,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(157, 320, "Parle Nutricrunch Classic Digestive Cookies", "1 kg"),
   },
   {
@@ -14976,7 +14976,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(49, 55, "Open Secret Healthy Digestive Biscuit High Fibre", "100 g"),
   },
   {
@@ -14985,7 +14985,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "83.3 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(29, 30, "Britannia NutriChoice Digestive Seeds Biscuit", "83.3 g"),
   },
   {
@@ -15021,7 +15021,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 75, "Patanjali 7 Grain Digestive Biscuit", "200 g"),
   },
   {
@@ -15057,7 +15057,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(195, 195, "Jaggic Gud Atta Biscuit", "400 g"),
   },
   {
@@ -15066,7 +15066,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 50, "Parle Nutricrunch Digestive Biscuit", "200 g"),
   },
   {
@@ -15084,7 +15084,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(210, 210, "Jaggic Gud Millet Biscuit", "200 g"),
   },
   {
@@ -15093,7 +15093,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "275 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(480, 480, "Threptin Diskettes Whey Protein (Chocolate)", "275 g"),
   },
   {
@@ -15111,7 +15111,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(68, 80, "Right Shift Jaggery Ragi Cookies", "100 g"),
   },
   {
@@ -15120,7 +15120,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "210 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Patanjali Digestive Whole Wheat Marie Biscuits", "210 g"),
   },
   {
@@ -15147,7 +15147,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(43, 50, "Sunfeast Farmlite Super Millets Ragi and Jowar Cookies", "75 g"),
   },
   {
@@ -15156,7 +15156,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Healthy & Digestive",
     unit: "120 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(85, 100, "Right Shift Jaggery Atta Cookies", "120 g"),
   },
   {
@@ -15201,7 +15201,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "79 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(26, 30, "Britannia Little Hearts Classic Crunch Biscuit", "79 g"),
   },
   {
@@ -15210,7 +15210,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "176.4 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 35, "Parle Krackjack Crackers Sweet & Salty Biscuits", "176.4 g"),
   },
   {
@@ -15219,7 +15219,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "114.1 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(26, 30, "Britannia 5050 Maska Chaska Biscuit", "114.1 g"),
   },
   {
@@ -15228,7 +15228,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "4 x 70 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(88, 120, "Britannia Little Hearts Classic Crunch Biscuit", "4 x 70 g"),
   },
   {
@@ -15237,7 +15237,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "185.6 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 35, "Parle Monaco Light Salty Classic Regular Biscuit", "185.6 g"),
   },
   {
@@ -15246,7 +15246,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "152 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 25, "Britannia Nice Time Coconut Biscuit", "152 g"),
   },
   {
@@ -15255,7 +15255,7 @@ export const LIVE_SNACKS_DATA: Product[] = [
     category: 'snacks',
     subCategory: "Sweet & Salty",
     unit: "142 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(22, 25, "Sunfeast Nice Biscuit", "142 g"),
   },
 ];

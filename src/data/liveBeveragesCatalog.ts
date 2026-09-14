@@ -153,7 +153,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Soft Drinks",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(42, 60, "Appy Fizz Sparkling Drink (Apple Flavoured)", "1 ltr"),
   },
   {
@@ -207,7 +207,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Soft Drinks",
     unit: "600 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(38, 40, "Appy Fizz Sparkling Drink (Apple Flavoured)", "600 ml"),
   },
   {
@@ -234,7 +234,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Soft Drinks",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(34, 40, "Appy Fizz Sparkling Drink - Apple Flavoured (Can)", "250 ml"),
   },
   {
@@ -387,7 +387,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Soft Drinks",
     unit: "600 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 60, "Paper Boat Zero Sugar Green Apple Sparkling Drink", "600 ml"),
   },
   {
@@ -873,7 +873,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Soft Drinks",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 160, "Umami Brew Pineapple Spice Kombucha", "250 ml"),
   },
   {
@@ -1314,7 +1314,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Soft Drinks",
     unit: "225 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "Dobra Rose Apple Soda", "225 ml"),
   },
   {
@@ -1737,7 +1737,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(145, 175, "Real Activ Cranberry Juice", "1 ltr"),
   },
   {
@@ -1746,7 +1746,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(77, 152, "B Natural Mixed Fruit Juice Rich in Vitamic C & E", "1 ltr"),
   },
   {
@@ -1755,7 +1755,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "320 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1596363505729-4190a9506133?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(73, 75, "Mogu Mogu Grape Fruit Drink with Nata De Coco", "320 ml"),
   },
   {
@@ -1809,7 +1809,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "320 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(73, 75, "Mogu Mogu Strawberry Fruit Drink", "320 ml"),
   },
   {
@@ -1818,7 +1818,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(89, 160, "B Natural Cranberry Juice", "1 ltr"),
   },
   {
@@ -1827,7 +1827,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(125, 135, "Real Fruit Power Pineapple Juice", "1 ltr"),
   },
   {
@@ -1836,7 +1836,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "320 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(73, 75, "Mogu Mogu Mango Drink", "320 ml"),
   },
   {
@@ -1881,7 +1881,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 56, "Raw Pressery Alphonso Mango Drink", "200 ml"),
   },
   {
@@ -1890,7 +1890,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "300 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 70, "Poko Loko Lychee Nata Juice", "300 ml"),
   },
   {
@@ -1899,7 +1899,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(68, 75, "Raw Pressery Sugarcane Juice", "250 ml"),
   },
   {
@@ -1953,7 +1953,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "1.2 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(70, 70, "Slice Mango Drink", "1.2 ltr"),
   },
   {
@@ -2007,7 +2007,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "300 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 65, "Jade Forest Mango Lush Iced Tea", "300 ml"),
   },
   {
@@ -2016,7 +2016,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "750 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(62, 92, "Raw Pressery Aam Panna", "750 ml"),
   },
   {
@@ -2025,7 +2025,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Fruit Juices",
     unit: "600 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Slice Gold Mango Drink", "600 ml"),
   },
   {
@@ -2142,7 +2142,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "10 x 19 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/280a.jpg",
     offers: generateStoreOffers(110, 140, "Orika Jaljeera Lemonade Drink Mix", "10 x 19 g"),
   },
   {
@@ -2169,7 +2169,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(425, 425, "Monin Caramel Syrup", "250 ml"),
   },
   {
@@ -2178,7 +2178,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "10 x 19 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/280a.jpg",
     offers: generateStoreOffers(118, 140, "Orika Masala Lemonade Drink Mix", "10 x 19 g"),
   },
   {
@@ -2187,7 +2187,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "750 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(293, 325, "Rooh Afza Lite Sugar Free Sharbat", "750 ml"),
   },
   {
@@ -2196,7 +2196,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(340, 400, "Maraca Passion Fruit Syrup", "1 ltr"),
   },
   {
@@ -2205,7 +2205,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "700 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(172, 195, "Hitkary Shahi Khus Sharbat", "700 ml"),
   },
   {
@@ -2214,7 +2214,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "700 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(181, 205, "Hitkary Orange Frenzy Sharbat", "700 ml"),
   },
   {
@@ -2223,7 +2223,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "750 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(159, 199, "Multani Rose Sharbat", "750 ml"),
   },
   {
@@ -2232,7 +2232,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "355 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(565, 575, "American Garden Pancake Syrup", "355 ml"),
   },
   {
@@ -2241,7 +2241,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "470 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(395, 450, "Vistevia Gulabo Sugar-Free Rose Syrup", "470 ml"),
   },
   {
@@ -2250,7 +2250,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(349, 355, "Chaman Badam Pista Elaichi Thandai Mix", "500 g"),
   },
   {
@@ -2259,7 +2259,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "10 x 19 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/280a.jpg",
     offers: generateStoreOffers(118, 140, "Orika Portuguese Lemonade Drink Mix", "10 x 19 g"),
   },
   {
@@ -2277,7 +2277,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "500 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(170, 220, "Raj Kesar Badam Thandai Syrup", "500 ml"),
   },
   {
@@ -2286,7 +2286,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "700 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(400, 400, "Supreem Superfoods Kokum Tulsi Jeera Squash", "700 ml"),
   },
   {
@@ -2295,7 +2295,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(287, 409, "Dabur Orange Instant Energy Glucose Drink Mix", "1 kg"),
   },
   {
@@ -2304,7 +2304,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Concentrates & Syrups",
     unit: "10 x 19 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/280a.jpg",
     offers: generateStoreOffers(126, 160, "Orika Aam Papad Lemonade Drink Mix", "10 x 19 g"),
   },
   {
@@ -2484,7 +2484,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Drinks",
     unit: "500 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(251, 450, "Dabur Himalayan Apple Cider Vinegar", "500 ml"),
   },
   {
@@ -2520,7 +2520,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Drinks",
     unit: "400 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(399, 399, "WOW Life Science Apple Cider Vinegar", "400 ml"),
   },
   {
@@ -2682,7 +2682,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Energy Drinks",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(32, 32, "Prolyte Apple Liquid ORS", "200 ml"),
   },
   {
@@ -2970,7 +2970,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "350 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(100, 120, "Malee Coconut Water", "350 ml"),
   },
   {
@@ -2979,7 +2979,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "6 x 200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(136, 360, "Mojoco Tender Coconut Water - Pack of 6 (Bottle)", "6 x 200 ml"),
   },
   {
@@ -2997,7 +2997,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "165 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(43, 45, "Only Earth Tender Coconut Water", "165 ml"),
   },
   {
@@ -3006,7 +3006,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "750 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(105, 175, "Only Earth Tender Coconut Water - Not from Concentrate", "750 ml"),
   },
   {
@@ -3015,7 +3015,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "6 x 200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(276, 330, "Real Activ Coconut Water Not from Concentrate", "6 x 200 ml"),
   },
   {
@@ -3024,7 +3024,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(62, 65, "Raw Pressery Aloe Vera Coconut Water", "200 ml"),
   },
   {
@@ -3033,7 +3033,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "6 x 200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(171, 276, "B Natural Select Tender Concentrate Coconut Water", "6 x 200 ml"),
   },
   {
@@ -3051,7 +3051,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "6 x 200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(265, 282, "Alo Frut Natural Tender Coconut Water", "6 x 200 ml"),
   },
   {
@@ -3060,7 +3060,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 55, "Real Activ Coconut Water Not from Concentrate", "200 ml"),
   },
   {
@@ -3069,7 +3069,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(55, 60, "Karikku Tender Coconut Water", "200 ml"),
   },
   {
@@ -3078,7 +3078,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 170, "Mojoco Tender Coconut Water", "1 ltr"),
   },
   {
@@ -3087,7 +3087,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "1 ltr + 3 x 225 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(247, 475, "Yu 100% Natural Coconut Water - No Preservative + Lychee Juice with Chia Seeds Combo", "1 ltr + 3 x 225 ml"),
   },
   {
@@ -3096,7 +3096,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Coconut Water",
     unit: "6 x 200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(179, 360, "The Right Rituals Tender Coconut Water", "6 x 200 ml"),
   },
   {
@@ -3213,7 +3213,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "150 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(18, 20, "Smoodh Chocolate Hazelnut Flavoured Milk (Pet Bottle)", "150 ml"),
   },
   {
@@ -3222,7 +3222,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Amul Kool Badam Flavoured Milk", "180 ml"),
   },
   {
@@ -3231,7 +3231,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(22, 25, "Godrej Jersey Homogenized Heat Treated Sweet Lassi", "180 ml"),
   },
   {
@@ -3249,7 +3249,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "150 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(27, 30, "Sunfeast Dark Fantasy Vanilla Milkshake", "150 ml"),
   },
   {
@@ -3276,7 +3276,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "175 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(27, 40, "Godrej Jersey Badam Flavoured Milk", "175 ml"),
   },
   {
@@ -3285,7 +3285,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "150 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(27, 30, "Sunfeast Dark Fantasy Chocolate Milkshake", "150 ml"),
   },
   {
@@ -3303,7 +3303,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 141, "Epigamia Turbo Chocolate Protein Milkshake", "250 ml"),
   },
   {
@@ -3312,7 +3312,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "165 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(22, 25, "Heritage Mango Lassi", "165 ml"),
   },
   {
@@ -3321,7 +3321,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "5 x 65 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(100, 100, "Yakult Light Mango Probiotic Fermented Milk Drink", "5 x 65 ml"),
   },
   {
@@ -3348,7 +3348,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(29, 30, "Heritage Badam Flavoured Milk", "180 ml"),
   },
   {
@@ -3366,7 +3366,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 141, "Epigamia Turbo Vanilla-Caramel Protein Milkshake", "250 ml"),
   },
   {
@@ -3375,7 +3375,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 35, "Amul Kool Koko Chocolate Flavoured Milk", "200 ml"),
   },
   {
@@ -3384,7 +3384,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(34, 40, "Boost Chocolate Milkshake", "180 ml"),
   },
   {
@@ -3411,7 +3411,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Amul Kool Mango Milkshake", "200 ml"),
   },
   {
@@ -3420,7 +3420,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 141, "Epigamia Turbo Coffee Protein Milkshake", "250 ml"),
   },
   {
@@ -3429,7 +3429,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Amul Kool Strawberry Flavoured Milk", "200 ml"),
   },
   {
@@ -3438,7 +3438,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(111, 145, "Raw Pressery Strawberry Protein Milkshake", "250 ml"),
   },
   {
@@ -3465,7 +3465,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 141, "Epigamia Turbo Cookies & Cream Protein Milkshake", "250 ml"),
   },
   {
@@ -3483,7 +3483,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "165 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(22, 25, "Heritage Strawberry Sweet Lassi", "165 ml"),
   },
   {
@@ -3492,7 +3492,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 35, "Amul Pina Colada Mocktail Flavoured Milk", "200 ml"),
   },
   {
@@ -3510,7 +3510,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 25, "Amul Rose Lassi", "200 ml"),
   },
   {
@@ -3519,7 +3519,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(27, 30, "Aashirvaad Badam Flavoured Milk", "180 ml"),
   },
   {
@@ -3528,7 +3528,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Amul Double Chocolate Milkshake", "200 ml"),
   },
   {
@@ -3537,7 +3537,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Amul Kool Cafe Cinnamon Flavoured Milk", "200 ml"),
   },
   {
@@ -3546,7 +3546,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 25, "Amul Kool Kesar Flavoured Milk", "180 ml"),
   },
   {
@@ -3555,7 +3555,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 25, "Amul Kool Rose Flavoured Milk", "180 ml"),
   },
   {
@@ -3564,7 +3564,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(19, 20, "Britannia Winkin Cow Classic Sweet Lassi", "180 ml"),
   },
   {
@@ -3600,7 +3600,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(55, 55, "Amul Kesar Elaichi Basundi", "250 ml"),
   },
   {
@@ -3609,7 +3609,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Amul Kool Cafe Hazelnut Flavoured Milk", "200 ml"),
   },
   {
@@ -3627,7 +3627,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(65, 66, "Country Delight Protein Mango Lassi", "250 g"),
   },
   {
@@ -3636,7 +3636,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(91, 105, "Country Delight Unflavoured 25 g High Protein Cow Milk", "250 ml"),
   },
   {
@@ -3645,7 +3645,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "5 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(70, 70, "Bailley Packaged Water", "5 ltr"),
   },
   {
@@ -3654,7 +3654,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "10 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(130, 130, "Bisleri Packaged Water", "10 ltr"),
   },
   {
@@ -3663,7 +3663,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(20, 20, "Bisleri Packaged Water", "1 ltr"),
   },
   {
@@ -3672,7 +3672,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "6 x 500 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(449, 690, "Impact Water Packaged Drinking Mineral Water", "6 x 500 ml"),
   },
   {
@@ -3681,7 +3681,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 60, "Premium Ice Cubes by Freshly Frozen", "1 kg"),
   },
   {
@@ -3690,7 +3690,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "5 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "Bisleri Packaged Water", "5 ltr"),
   },
   {
@@ -3699,7 +3699,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(65, 85, "Ice Cubes by Dr. Cubes", "1 kg"),
   },
   {
@@ -3708,7 +3708,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(20, 20, "Tata Copper Plus Packaged Water with the Goodness of Copper", "1 ltr"),
   },
   {
@@ -3717,7 +3717,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(20, 20, "Kinley Packaged Water", "1 ltr"),
   },
   {
@@ -3726,7 +3726,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(20, 20, "Aquafina Packaged Water", "1 ltr"),
   },
   {
@@ -3735,7 +3735,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 99, "Perfect Ice Cubes by Dr. Cubes", "1 kg"),
   },
   {
@@ -3744,7 +3744,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 80, "Himalayan Natural Mineral Water (Mildly Alkaline)", "1 ltr"),
   },
   {
@@ -3753,7 +3753,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 60, "Bisleri Vedica Mineral Water", "1 ltr"),
   },
   {
@@ -3762,7 +3762,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "750 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(320, 320, "Evian Natural Mineral Water", "750 ml"),
   },
   {
@@ -3771,7 +3771,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(229, 250, "Evian Natural Mineral Water - 1 ltr", "1 ltr"),
   },
   {
@@ -3780,7 +3780,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "500 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 100, "Aava Sparkling Water", "500 ml"),
   },
   {
@@ -3789,7 +3789,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "500 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(150, 160, "Evian Natural Mineral Water", "500 ml"),
   },
   {
@@ -3798,7 +3798,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "330 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(195, 195, "Perrier Carbonated Sparkling Water", "330 ml"),
   },
   {
@@ -3807,7 +3807,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "750 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(279, 350, "Bisleri Vedica Mineral Water (Glass Bottle)", "750 ml"),
   },
   {
@@ -3816,7 +3816,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "330 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 90, "Evian Mineral Water", "330 ml"),
   },
   {
@@ -3825,7 +3825,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "300 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 140, "Himalayan Sparkling Water", "300 ml"),
   },
   {
@@ -3834,7 +3834,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "750 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(325, 325, "Perrier Natural Mineral Sparkling Water", "750 ml"),
   },
   {
@@ -3843,7 +3843,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "4 x 1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(240, 520, "Aava Alkaline Natural Mineral Water", "4 x 1 ltr"),
   },
   {
@@ -3852,7 +3852,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "4 x 330 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(769, 780, "Perrier Natural Mineral Sparkling Water", "4 x 330 ml"),
   },
   {
@@ -3861,7 +3861,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(83, 130, "Aava Alkaline Natural Mineral Water", "1 ltr"),
   },
   {
@@ -3870,7 +3870,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "4 x 500 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(312, 360, "Booster Alkaline Water", "4 x 500 ml"),
   },
   {
@@ -3879,7 +3879,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "4 x 500 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(381, 440, "Booster Black Alkaline Water", "4 x 500 ml"),
   },
   {
@@ -3888,7 +3888,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "330 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 200, "Evian Mineral Water Glass Bottle", "330 ml"),
   },
   {
@@ -3897,7 +3897,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(560, 700, "Aqua Mist Hydrogen Rich Alkaline Water", "1 ltr"),
   },
   {
@@ -3906,7 +3906,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "300 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/280a.jpg",
     offers: generateStoreOffers(40, 40, "Polka Pop Zero Sugar Lemon-Lime Sparkling Drink", "300 ml"),
   },
   {
@@ -3915,7 +3915,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "750 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 250, "Himalayan Still Natural Mineral Water", "750 ml"),
   },
   {
@@ -3924,7 +3924,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "300 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Polka Pop Zero Sugar Peach Sparkling Drink", "300 ml"),
   },
   {
@@ -3933,7 +3933,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(179, 179, "Maison Perrier Sparkling Water", "250 ml"),
   },
   {
@@ -3942,7 +3942,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Water & Ice Cubes",
     unit: "16 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(20, 20, "Ice Cubes (Sparkling Supercubes) by Burrf", "16 pcs"),
   },
   {
@@ -6417,7 +6417,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Green & Flavoured Tea",
     unit: "16 tabs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(270, 300, "Lipton Metabolism Boost Green Apple Green Tea (Effervescent Tablets)", "16 tabs"),
   },
   {
@@ -6660,7 +6660,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "150 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(18, 20, "Smoodh Toffee Caramel Flavoured Milk (Pet Bottle)", "150 ml"),
   },
   {
@@ -6678,7 +6678,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "10 x 80 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 100, "Smoodh Hazelnut Chocolate Flavoured Milk", "10 x 80 ml"),
   },
   {
@@ -6687,7 +6687,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Amul Kool Badam Milkshake", "200 ml"),
   },
   {
@@ -6696,7 +6696,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Amul Kool Classic Latte Flavoured Milk", "200 ml"),
   },
   {
@@ -6705,7 +6705,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 40, "Godrej Jersey Thick Chocolate Milkshake", "180 ml"),
   },
   {
@@ -6723,7 +6723,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "165 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(22, 25, "Heritage Sweet Lassi", "165 ml"),
   },
   {
@@ -6732,7 +6732,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(119, 131, "Yoga Bar 26 g Protein Milkshake (Double Chocolate)", "250 ml"),
   },
   {
@@ -6759,7 +6759,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "160 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 45, "Sunfeast Breakfast Smoothie (No Added Sugar)", "160 ml"),
   },
   {
@@ -6768,7 +6768,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(111, 145, "Raw Pressery Cold Coffee Protein Milkshake", "250 ml"),
   },
   {
@@ -6777,7 +6777,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(22, 22, "Amul Sugar Free Sweet Lassi", "180 ml"),
   },
   {
@@ -6786,7 +6786,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(50, 50, "Amul Velvett Chocolate Milkshake", "180 g"),
   },
   {
@@ -6795,7 +6795,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 180, "Amul Mango Lassi", "1 ltr"),
   },
   {
@@ -6822,7 +6822,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Cream Bell Maxxum Double Chocolate Milkshake", "180 ml"),
   },
   {
@@ -6831,7 +6831,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "185 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(36, 40, "Britannia Winkin Cow Strawberry Thick Milkshake", "185 ml"),
   },
   {
@@ -6858,7 +6858,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(262, 290, "MTR Badam Drink Mix", "500 g"),
   },
   {
@@ -6867,7 +6867,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "4 x 250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 250, "Maiva Oat Milk", "4 x 250 ml"),
   },
   {
@@ -6885,7 +6885,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 125, "Epigamia High Protein Milk", "250 ml"),
   },
   {
@@ -6903,7 +6903,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "280 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(133, 140, "Not Rocket Science 26g Chocolate Protein Daily Nutrition Supplement Shake", "280 ml"),
   },
   {
@@ -6912,7 +6912,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(119, 131, "Yoga Bar 26 g Protein Milkshake - Cold Coffee", "250 ml"),
   },
   {
@@ -6930,7 +6930,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "185 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(36, 40, "Britannia Winkin Cow Chocolate Thick Milkshake", "185 ml"),
   },
   {
@@ -6939,7 +6939,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(24, 25, "Britannia Winkin Cow Mango Lassi", "180 ml"),
   },
   {
@@ -6948,7 +6948,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 45, "Heritage Strawberry Milkshake", "180 ml"),
   },
   {
@@ -6966,7 +6966,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(101, 129, "Country Delight 25 g High Protein Chocolate Milk", "250 ml"),
   },
   {
@@ -6984,7 +6984,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "280 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(133, 140, "Not Rocket Science 26 g Iced Coffee Protein Shake", "280 ml"),
   },
   {
@@ -6993,7 +6993,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "280 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(133, 140, "Not Rocket Science 26g Vanilla Bean Protein Shake", "280 ml"),
   },
   {
@@ -7002,7 +7002,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(119, 131, "Yoga Bar Mango Rizz Protein Milkshake", "250 ml"),
   },
   {
@@ -7020,7 +7020,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(29, 30, "Heritage Pista Flavoured Milk", "180 ml"),
   },
   {
@@ -7029,7 +7029,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "2 x 175 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(128, 159, "Aachi Badam Drink Mix", "2 x 175 g"),
   },
   {
@@ -7038,7 +7038,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 110, "Nuvie Chocolate Protein Milkshake", "250 ml"),
   },
   {
@@ -7047,7 +7047,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(36, 40, "Britannia Winkin Cow Vanilla Thick Milkshake", "180 ml"),
   },
   {
@@ -7065,7 +7065,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(101, 129, "Country Delight 25 g High Protein Vanilla Milk", "250 ml"),
   },
   {
@@ -7074,7 +7074,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(73, 85, "Phab 10g Double Chocolate Protein Milkshake", "200 ml"),
   },
   {
@@ -7083,7 +7083,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 40, "Godrej Jersey Thick Strawberry Milkshake", "180 ml"),
   },
   {
@@ -7101,7 +7101,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 110, "Nuvie 20 g Protein Cold Coffee (Iced Latte)", "250 ml"),
   },
   {
@@ -7110,7 +7110,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 35, "Amul Kadai Doodh Flavoured Milk", "200 ml"),
   },
   {
@@ -7119,7 +7119,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 110, "Nuvie Vanilla Protein Milkshake", "250 ml"),
   },
   {
@@ -7128,7 +7128,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Amul Kool Premium Kesar Flavoured Milk", "180 ml"),
   },
   {
@@ -7137,7 +7137,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(107, 125, "Phab 18g Protein Milkshake - Classic Chocolate (No Added Sugar)", "200 ml"),
   },
   {
@@ -7146,7 +7146,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 40, "Godrej Jersey Thick Vanilla Milkshake", "180 ml"),
   },
   {
@@ -7155,7 +7155,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Cream Bell Kesar Badam Milkshake", "180 ml"),
   },
   {
@@ -7164,7 +7164,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 45, "Heritage Chocolate Milkshake", "180 ml"),
   },
   {
@@ -7182,7 +7182,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "165 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(43, 49, "Only Earth Vanilla Shake Oat Beverage", "165 ml"),
   },
   {
@@ -7191,7 +7191,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(107, 125, "Phab 18g Protein Cold Coffee Protein Milkshake (No Added Sugar)", "200 ml"),
   },
   {
@@ -7200,7 +7200,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Amul Kool Royal Elaichi Flavoured Milk", "180 ml"),
   },
   {
@@ -7209,7 +7209,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "160 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(66, 75, "Complan Powerplay Chocolate Protein Milkshake", "160 ml"),
   },
   {
@@ -7218,7 +7218,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "160 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(66, 75, "Complan Powerplay Vanilla Protein Milkshake", "160 ml"),
   },
   {
@@ -7236,7 +7236,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "165 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(37, 45, "Only Earth Strawberry Shake Oat Beverage", "165 ml"),
   },
   {
@@ -7245,7 +7245,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "1 ltr",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 200, "Amul Basundi", "1 ltr"),
   },
   {
@@ -7254,7 +7254,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 45, "Heritage Vanilla Milkshake", "180 ml"),
   },
   {
@@ -7263,7 +7263,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "6 x 250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(475, 480, "XLR8 More Than Milk Ultra Filtered Skimmed Milk", "6 x 250 ml"),
   },
   {
@@ -7272,7 +7272,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "3 x 280 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(399, 420, "Not Rocket Science Assorted Flavoured Protein Milkshake", "3 x 280 ml"),
   },
   {
@@ -7281,7 +7281,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "240 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(119, 149, "Nestle Milo Original Milk Drink", "240 ml"),
   },
   {
@@ -7290,7 +7290,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "240 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(119, 149, "Nestle Milo Kaw Milk Drink", "240 ml"),
   },
   {
@@ -7299,7 +7299,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "10 x 80 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 100, "Smoodh Toffee Caramel Flavoured Milk", "10 x 80 ml"),
   },
   {
@@ -7308,7 +7308,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(43, 45, "Nestle Milo RTD Malt Drink with Millets", "180 ml"),
   },
   {
@@ -7335,7 +7335,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(60, 60, "Amul Protein Blueberry Shake (20 g protein)", "200 ml"),
   },
   {
@@ -7353,7 +7353,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Sids Farm Sweet Lassi", "200 ml"),
   },
   {
@@ -7371,7 +7371,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(29, 30, "Heritage Strawberry Flavoured Milk", "180 ml"),
   },
   {
@@ -7380,7 +7380,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 25, "Amul Kool Elaichi Flavoured Milk", "180 ml"),
   },
   {
@@ -7389,7 +7389,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(107, 125, "Phab 18g Protein Milkshake - Strawberries & Cream (No Added Sugar)", "200 ml"),
   },
   {
@@ -7398,7 +7398,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "180 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Cream Bell Vanilla Milkshake", "180 ml"),
   },
   {
@@ -7407,7 +7407,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Lassi, Shakes & More",
     unit: "200 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 90, "Epigamia High Protein Lassi", "200 ml"),
   },
   {
@@ -7686,7 +7686,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Cold Coffee & Ice Tea",
     unit: "300 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(169, 180, "Bombucha Apple Spice Kombucha", "300 ml"),
   },
   {
@@ -7920,7 +7920,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Cold Coffee & Ice Tea",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 160, "Umami Brew Apple Cinnamon Kombucha", "250 ml"),
   },
   {
@@ -8919,7 +8919,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(249, 299, "Naturgized Orthodox Black Tea", "100 g"),
   },
   {
@@ -8937,7 +8937,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "25 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(238, 250, "Organic India, A TATA Product - Tulsi Classic Organic Herbal Infusion Bags", "25 pcs"),
   },
   {
@@ -8946,7 +8946,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "25 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/280a.jpg",
     offers: generateStoreOffers(238, 250, "Organic India, A TATA Product - Tulsi Honey Lemon Herbal Infusion Bags", "25 pcs"),
   },
   {
@@ -8991,7 +8991,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "30 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 349, "Tencha Chamomile Flower Herbal Tea", "30 g"),
   },
   {
@@ -9009,7 +9009,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "16 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(235, 299, "Teahues Chamomile Blossom Herbal Infusion Bags", "16 pcs"),
   },
   {
@@ -9027,7 +9027,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(279, 279, "Blendart Pure Chamomile Herbal Infusion Bags", "50 g"),
   },
   {
@@ -9036,7 +9036,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(299, 349, "Tencha Hibiscus Flower Herbal Tea", "50 g"),
   },
   {
@@ -9045,7 +9045,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(370, 449, "Wellwith Sea Buckthorn Herbal Infusion", "50 g"),
   },
   {
@@ -9054,7 +9054,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(650, 650, "Curio Lifestyle Himalayan Chamomile Herbal Infusion", "60 g"),
   },
   {
@@ -9063,7 +9063,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "25 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(247, 260, "Organic India, A TATA Product - Tulsi Sweet Rose Organic Herbal Infusion Bags", "25 pcs"),
   },
   {
@@ -9072,7 +9072,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "25 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(220, 250, "Organic India, A TATA Product - Tulsi Detox Kahwa", "25 pcs"),
   },
   {
@@ -9081,7 +9081,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "25 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(151, 290, "Kalprishi Blue Pea Herbal Infusion", "25 g"),
   },
   {
@@ -9090,7 +9090,7 @@ export const LIVE_BEVERAGES_DATA: Product[] = [
     category: 'beverages',
     subCategory: "Herbal Infusion",
     unit: "30 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(220, 399, "Chayam Tea Pure Chamomile Herbal Infusion", "30 g"),
   },
   {

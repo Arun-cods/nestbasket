@@ -82,7 +82,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(26, 31, "Gongura Leaves (Gongura)", "250 g"),
   },
   {
@@ -91,7 +91,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(18, 21, "Ponnagani Leaves (Ponnaganti aakulu)", "250 g"),
   },
   {
@@ -100,7 +100,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(24, 29, "Red Amaranthus Leaves (without roots) (Thotakura)", "200 g"),
   },
   {
@@ -109,7 +109,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(19, 24, "Green Amaranthus Leaves (Tandulsa) (Thotakura)", "250 g"),
   },
   {
@@ -127,7 +127,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(23, 28, "Drumstick Leaves (Moringa Leaves)", "100 g"),
   },
   {
@@ -136,7 +136,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(28, 34, "Dill Leaves (Shepu) (Soyakoora)", "100 g"),
   },
   {
@@ -145,7 +145,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(47, 56, "Italian Basil Leaves (Basil Aakulu)", "50 g"),
   },
   {
@@ -154,7 +154,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "25 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 34, "Parsley", "25 g"),
   },
   {
@@ -172,7 +172,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "10 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(15, 18, "Holy Tulsi (Tulasi Aakulu)", "10 g"),
   },
   {
@@ -181,7 +181,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(32, 39, "Green Lettuce", "100 g"),
   },
   {
@@ -190,7 +190,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(41, 49, "Iceberg Lettuce", "250 g"),
   },
   {
@@ -199,7 +199,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "10 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(24, 29, "Fresh Rosemary", "10 g"),
   },
   {
@@ -208,7 +208,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(42, 48, "Celery", "100 g"),
   },
   {
@@ -217,7 +217,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Leafies & Herbs",
     unit: "25 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 44, "Giloy Stick (Tippateega)", "25 g"),
   },
   {
@@ -334,7 +334,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(38, 44, "Orange Carrot", "500 g"),
   },
   {
@@ -343,7 +343,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 32, "French Beans", "250 g"),
   },
   {
@@ -352,7 +352,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/483726a.jpg",
     offers: generateStoreOffers(33, 38, "Cauliflower", "300 g"),
   },
   {
@@ -361,7 +361,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(22, 26, "Cabbage", "400 g"),
   },
   {
@@ -370,7 +370,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 31, "Beetroot", "500 g"),
   },
   {
@@ -379,7 +379,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3898a.jpg",
     offers: generateStoreOffers(15, 19, "Green Brinjal (Vankaya)", "250 g"),
   },
   {
@@ -388,7 +388,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3898a.jpg",
     offers: generateStoreOffers(14, 17, "Small-Purple Brinjal (Gutti Vankaya)", "250 g"),
   },
   {
@@ -397,7 +397,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3898a.jpg",
     offers: generateStoreOffers(20, 25, "Long Purple Brinjal (Vankaya)", "250 g"),
   },
   {
@@ -406,7 +406,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3898a.jpg",
     offers: generateStoreOffers(45, 54, "Brinjal - Bharta (Vankaya)", "500 g"),
   },
   {
@@ -415,7 +415,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "2 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 31, "Drumstick (Munakkada)", "2 pcs"),
   },
   {
@@ -424,7 +424,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(26, 33, "Ridge Gourd (Beerakaya)", "500 g"),
   },
   {
@@ -433,7 +433,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(21, 24, "Bitter Gourd (Kakarakaya)", "250 g"),
   },
   {
@@ -442,7 +442,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(21, 25, "Ivy Gourd (Dondakaaya)", "250 g"),
   },
   {
@@ -451,7 +451,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(23, 27, "Broad Beans Local (Chikudukayalu)", "250 g"),
   },
   {
@@ -460,7 +460,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(16, 19, "Cluster Beans (Goru Chikkudu)", "250 g"),
   },
   {
@@ -469,7 +469,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(16, 20, "Cowpea Beans (Bobbarlu)", "250 g"),
   },
   {
@@ -496,7 +496,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(15, 19, "Arvi (Chamadumpalu)", "250 g"),
   },
   {
@@ -505,7 +505,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "1.5 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 70, "Ash Gourd (Budida Gummadikaya)", "1.5 kg"),
   },
   {
@@ -514,7 +514,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(32, 38, "Ash Gourd Portion (Budida Gummadikaya)", "250 g"),
   },
   {
@@ -523,7 +523,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 30, "Snake Gourd (Potlakaya)", "500 g"),
   },
   {
@@ -532,7 +532,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(41, 48, "Sponge Gourd", "500 g"),
   },
   {
@@ -541,7 +541,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 32, "Pointed Gourd (Potols)", "250 g"),
   },
   {
@@ -550,7 +550,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(65, 83, "Spine Gourd (Aakakarakaya)", "250 g"),
   },
   {
@@ -559,7 +559,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(104, 133, "Colocasia Stem (Chama Kadda)", "500 g"),
   },
   {
@@ -568,7 +568,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1617112848923-cc2234396a8d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(28, 34, "Raw Papaya (Pacchi Boppayi)", "400 g"),
   },
   {
@@ -595,7 +595,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/458109a.jpg",
     offers: generateStoreOffers(19, 22, "Green Capsicum (Mirapakaya)", "250 g"),
   },
   {
@@ -613,7 +613,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(19, 22, "Radish (Mullangi)", "250 g"),
   },
   {
@@ -622,7 +622,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(22, 27, "Knol Khol", "500 g"),
   },
   {
@@ -631,7 +631,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Vegetables",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(61, 76, "Raw Turmeric (Pasupu)", "250 g"),
   },
   {
@@ -676,7 +676,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(43, 53, "Brown Coconut (Kobbarikaya)", "1 pc"),
   },
   {
@@ -694,7 +694,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(89, 109, "Chowghat Orange Dwarf Coconut (300+ ml) (Kobbarikaya)", "1 pc"),
   },
   {
@@ -703,7 +703,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "700 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1617112848923-cc2234396a8d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(90, 109, "Papaya (Boppayi)", "700 g"),
   },
   {
@@ -712,7 +712,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "350 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 117, "Pomegranate - 2 pieces (350-450 g) (Danimma Pandu)", "350 g"),
   },
   {
@@ -721,7 +721,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1536511135899-7f32a76f62b7?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(103, 131, "Thai Guava (Jamakaya)", "400 g"),
   },
   {
@@ -730,7 +730,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1596363505729-4190a9506133?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(104, 120, "Red-Globe Grapes (Eruppu Draksha)", "200 g"),
   },
   {
@@ -739,7 +739,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(107, 125, "Mini Orange (Imported) (Narinja Pandu)", "200 g"),
   },
   {
@@ -748,7 +748,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(97, 113, "Premium Mini Orange", "200 g"),
   },
   {
@@ -757,7 +757,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "350 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(113, 142, "Valencia Navel Orange (Imported) (Narinja Pandu)", "350 g"),
   },
   {
@@ -766,7 +766,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "500 - 700 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(34, 39, "Sweet Lime (Battayi Pandu)", "500 - 700 g"),
   },
   {
@@ -784,7 +784,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Fresh Fruits",
     unit: "2 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/280a.jpg",
     offers: generateStoreOffers(86, 101, "Lemon - Gondhoraj", "2 pcs"),
   },
   {
@@ -802,7 +802,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Mangoes & Melons",
     unit: "2 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1589984662646-e7b2e4962f18?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 93, "Kiran Watermelon", "2 kg"),
   },
   {
@@ -811,7 +811,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Mangoes & Melons",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1589984662646-e7b2e4962f18?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 64, "Muskmelon (Kharbuja)", "500 g"),
   },
   {
@@ -820,7 +820,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Mangoes & Melons",
     unit: "700 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1589984662646-e7b2e4962f18?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(55, 65, "Sun Melon", "700 g"),
   },
   {
@@ -829,7 +829,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Mangoes & Melons",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(51, 64, "Raw Mango (Mamidikaya)", "500 g"),
   },
   {
@@ -838,7 +838,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Mangoes & Melons",
     unit: "700 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(120, 150, "Totapuri Raw Mango (Mamidipandu)", "700 g"),
   },
   {
@@ -847,7 +847,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Seasonal",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596363505729-4190a9506133?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(85, 107, "Grapefruit", "200 g"),
   },
   {
@@ -856,7 +856,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Seasonal",
     unit: "200 - 250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(43, 52, "Yellow Zucchini", "200 - 250 g"),
   },
   {
@@ -865,7 +865,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1527325678964-54921661f888?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(66, 76, "Dragon Fruit - Red Flesh", "250 g"),
   },
   {
@@ -874,7 +874,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1527325678964-54921661f888?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 135, "Dragon Fruit", "300 g"),
   },
   {
@@ -883,7 +883,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1527325678964-54921661f888?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(112, 129, "Dragon Fruit Red Flesh", "500 g"),
   },
   {
@@ -892,7 +892,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(215, 251, "Blueberry - Imported", "125 g"),
   },
   {
@@ -901,7 +901,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "180 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(63, 74, "Button Mushroom (Puttagodugu)", "180 g"),
   },
   {
@@ -910,7 +910,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(107, 127, "Milky Mushroom (Puttagodugu)", "200 g"),
   },
   {
@@ -919,7 +919,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(208, 239, "Shiitake Mushroom (Puttagodugu)", "125 g"),
   },
   {
@@ -928,7 +928,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/483726a.jpg",
     offers: generateStoreOffers(61, 73, "Broccoli", "200 g"),
   },
   {
@@ -937,7 +937,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "3 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/458109a.jpg",
     offers: generateStoreOffers(107, 136, "Assorted Capsicum - (Red, Yellow, Green) (Bangalore Mirapakaya)", "3 pcs"),
   },
   {
@@ -946,7 +946,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/458109a.jpg",
     offers: generateStoreOffers(35, 42, "Yellow Bell Pepper (Bangalore Mirapakaya)", "125 g"),
   },
   {
@@ -955,7 +955,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/458109a.jpg",
     offers: generateStoreOffers(37, 45, "Red Bell Pepper (Bangalore Mirapakaya)", "125 g"),
   },
   {
@@ -964,7 +964,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(61, 73, "Baby Corn - Packet", "200 g"),
   },
   {
@@ -982,7 +982,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Exotics",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(83, 107, "Bok Choy", "200 g"),
   },
   {
@@ -1009,7 +1009,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(74, 94, "Peeled Pomegranate - Snack Pack", "80 g"),
   },
   {
@@ -1018,7 +1018,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(77, 94, "Pineapple Cut (Anasa Pandu Mukkalu)", "200 g"),
   },
   {
@@ -1027,7 +1027,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 55, "Pumpkin Yellow (Cut) (Gummadikaya)", "200 g"),
   },
   {
@@ -1036,7 +1036,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 52, "Drumstick Cut (Munakkada)", "125 g"),
   },
   {
@@ -1045,7 +1045,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3810a.jpg",
     offers: generateStoreOffers(46, 53, "Carrot - Cut", "250 g"),
   },
   {
@@ -1090,7 +1090,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/483726a.jpg",
     offers: generateStoreOffers(71, 87, "Cauliflower Florets", "200 g"),
   },
   {
@@ -1099,7 +1099,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/483726a.jpg",
     offers: generateStoreOffers(89, 104, "Broccoli Florets", "100 g"),
   },
   {
@@ -1117,7 +1117,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 44, "Matki Sprouts (Molakalu)", "200 g"),
   },
   {
@@ -1126,7 +1126,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(48, 55, "Green Moong Sprouts (Molakalu)", "150 g"),
   },
   {
@@ -1135,7 +1135,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(48, 59, "Mixed Sprouts (Molakalu)", "200 g"),
   },
   {
@@ -1144,7 +1144,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(48, 55, "Brown Chana Sprouts (Molakalu)", "150 g"),
   },
   {
@@ -1153,7 +1153,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(42, 49, "Soaked Chole (Nanapettina Chole)", "200 g"),
   },
   {
@@ -1162,7 +1162,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "175 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(44, 54, "Sugarcane Cubes (Cherukugada)", "175 g"),
   },
   {
@@ -1171,7 +1171,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(104, 130, "Delight Fruit Chaat Box", "200 g"),
   },
   {
@@ -1180,7 +1180,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(120, 140, "Wellness Fruit Chaat Box", "200 g"),
   },
   {
@@ -1198,7 +1198,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(56, 68, "French Beans Cut (Chikudukayalu)", "250 g"),
   },
   {
@@ -1207,7 +1207,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(64, 75, "Coconut Chunks", "100 g"),
   },
   {
@@ -1216,7 +1216,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Freshly Cut & Sprouts",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(72, 82, "Premium Grated Coconut", "100 g"),
   },
   {
@@ -1225,7 +1225,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(65, 169, "SPT Frozen Green Peas", "500 g"),
   },
   {
@@ -1234,7 +1234,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(117, 135, "Safal Frozen Green Peas", "500 g"),
   },
   {
@@ -1252,7 +1252,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(77, 85, "Safal Frozen Mixed Vegetables", "500 g"),
   },
   {
@@ -1261,7 +1261,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 299, "SPT Frozen Green Peas Value Pack", "1 kg"),
   },
   {
@@ -1270,7 +1270,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(63, 120, "SPT Frozen Mixed Vegetables", "500 g"),
   },
   {
@@ -1279,7 +1279,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(145, 260, "Keventer Frozen Green Peas", "1 kg"),
   },
   {
@@ -1288,7 +1288,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1585994192701-f1a505c8574a?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(207, 240, "Safal Frozen Green Peas Large", "1 kg"),
   },
   {
@@ -1324,7 +1324,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 110, "SPT Frozen Grated Coconut", "200 g"),
   },
   {
@@ -1333,7 +1333,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(98, 115, "Malgudi Premium Grated Coconut", "200 g"),
   },
   {
@@ -1342,7 +1342,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(89, 125, "Wow! Coco Fresh Grated Coconut", "200 g"),
   },
   {
@@ -1351,7 +1351,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(340, 550, "Gadre Edamame Frozen", "500 g"),
   },
   {
@@ -1360,7 +1360,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(167, 200, "Very Berry Fruits Fresh Frozen Strawberry", "150 g"),
   },
   {
@@ -1369,7 +1369,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(228, 270, "Very Berry Fruits Fresh Frozen Blueberry", "200 g"),
   },
   {
@@ -1378,7 +1378,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(300, 350, "Very Berry Fruits Fresh Frozen Raspberry", "150 g"),
   },
   {
@@ -1387,7 +1387,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(247, 290, "Frugivore Frozen Blueberry", "200 g"),
   },
   {
@@ -1396,7 +1396,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Frozen Veg",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(308, 320, "Frugivore Frozen Mix Berries", "200 g"),
   },
   {
@@ -1405,7 +1405,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Combo & Recipes",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(74, 90, "Pulao Mix", "250 g"),
   },
   {
@@ -1423,7 +1423,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(25, 28, "Pooja Flower Mix (Pooja Puvullu/Puvvulu/Puvulu/Puvvullu)", "100 g"),
   },
   {
@@ -1432,7 +1432,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(67, 149, "FlowerAura Red Rose Single Flower in Red Paper", "1 pc"),
   },
   {
@@ -1441,7 +1441,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(39, 45, "Yellow Chrysanthemum Flowers (Chamanti Puvvu)", "100 g"),
   },
   {
@@ -1450,7 +1450,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "5 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(15, 18, "Betel Leaves (Tamalapakulu)", "5 pcs"),
   },
   {
@@ -1459,7 +1459,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(49, 63, "White Chrysanthemum Flowers (Chamanti Puvvu)", "100 g"),
   },
   {
@@ -1468,7 +1468,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "15 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(21, 25, "Bel Patra (Bilva Patram)", "15 g"),
   },
   {
@@ -1477,7 +1477,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(179, 325, "FlowerAura 3 Red Roses Bouquet In Premium Paper", "1 pc"),
   },
   {
@@ -1495,7 +1495,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "10 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(21, 24, "Mango Leaves (Mamidaakulu)", "10 pcs"),
   },
   {
@@ -1504,7 +1504,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(29, 35, "Mango Leaves String (Mamidaakula Toranam)", "1 pc"),
   },
   {
@@ -1513,7 +1513,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(55, 66, "Jasmine Flowers (Malli puvvu)", "50 g"),
   },
   {
@@ -1522,7 +1522,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pack",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(15, 18, "Doob Grass / Durva Grass (Garike)", "1 pack"),
   },
   {
@@ -1531,7 +1531,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(499, 699, "FlowerAura 10 Pink Roses Bouquet", "1 pc"),
   },
   {
@@ -1540,7 +1540,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(349, 599, "FlowerAura - 3 Purple Orchids Bouquet", "1 pc"),
   },
   {
@@ -1549,7 +1549,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(499, 699, "FlowerAura 10 Red Roses Bouquet", "1 pc"),
   },
   {
@@ -1558,7 +1558,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pack",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/450396a.jpg",
     offers: generateStoreOffers(15, 17, "Neem Leaves (Vepa Aakulu)", "1 pack"),
   },
   {
@@ -1567,7 +1567,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 45, "Yellow Marigold Flower String (Puvvula Maala)", "1 pc"),
   },
   {
@@ -1576,7 +1576,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 399, "FlowerAura - 2 White Orchids Bouquet", "1 pc"),
   },
   {
@@ -1585,7 +1585,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(78, 92, "Mix Marigold Garland", "1 pc"),
   },
   {
@@ -1594,7 +1594,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pack",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(129, 149, "Assorted Fruits for Pooja (Panch Phal)", "1 pack"),
   },
   {
@@ -1603,7 +1603,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(239, 399, "Ugaoo Peace Lily Plant with Ibiza Pot", "1 pc"),
   },
   {
@@ -1612,7 +1612,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(389, 499, "Ugaoo Lady Valentine Aglaonema Plant", "1 pc"),
   },
   {
@@ -1621,7 +1621,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(339, 449, "Ugaoo Sansevieria Golden Snake Plant", "1 pc"),
   },
   {
@@ -1630,7 +1630,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(189, 399, "Ugaoo Jade Plant with Ibiza Pot", "1 pc"),
   },
   {
@@ -1639,7 +1639,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(209, 449, "Ugaoo Variegated Money Plant", "1 pc"),
   },
   {
@@ -1648,7 +1648,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(132, 349, "Nurturing Green 3-Stem Bamboo Plant", "1 pc"),
   },
   {
@@ -1657,7 +1657,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Flowers & Leaves",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(499, 749, "Ugaoo ZZ Plant with Self Watering Pot", "1 pc"),
   },
   {
@@ -1711,7 +1711,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(51, 61, "Organically Grown Ridge Gourd", "500 g"),
   },
   {
@@ -1720,7 +1720,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 34, "Organically Grown Bitter Gourd (Kakarakaya)", "250 g"),
   },
   {
@@ -1738,7 +1738,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/483726a.jpg",
     offers: generateStoreOffers(62, 73, "Organically Grown Cauliflower", "300 g"),
   },
   {
@@ -1747,7 +1747,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(36, 43, "Organically Grown Beetroot", "250 g"),
   },
   {
@@ -1756,7 +1756,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(47, 56, "Organically Grown Cabbage", "400 g"),
   },
   {
@@ -1774,7 +1774,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(29, 33, "Organically Grown Ivy Gourd (Dondakaaya)", "250 g"),
   },
   {
@@ -1783,7 +1783,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1589984662646-e7b2e4962f18?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 67, "Organically Grown Muskmelon", "400 g"),
   },
   {
@@ -1792,7 +1792,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "700 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(97, 112, "Organically Grown Pineapple (Anasa Pandu)", "700 g"),
   },
   {
@@ -1801,7 +1801,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(38, 45, "Organically Grown Sweet Diced Pumpkin by Bhoomi Farms", "200 g"),
   },
   {
@@ -1810,7 +1810,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 36, "Organically Grown Chow Chow", "250 g"),
   },
   {
@@ -1819,7 +1819,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(42, 54, "Organically Grown Ring Beans (Chikudukayalu)", "250 g"),
   },
   {
@@ -1828,7 +1828,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "1 pc",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(32, 37, "Organically Grown American Corn Cob", "1 pc"),
   },
   {
@@ -1855,7 +1855,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 43, "Organically Grown Drumstick", "250 g"),
   },
   {
@@ -1864,7 +1864,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1617112848923-cc2234396a8d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(42, 50, "Organically Grown Raw Papaya", "400 g"),
   },
   {
@@ -1873,7 +1873,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(43, 53, "Organically Grown Sweet Lime", "500 g"),
   },
   {
@@ -1891,7 +1891,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(33, 39, "Organically Grown Cluster Beans", "250 g"),
   },
   {
@@ -1900,7 +1900,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "350 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(143, 171, "Organically Grown Pomegranate (Danimma Pandu)", "350 g"),
   },
   {
@@ -1909,7 +1909,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "125 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(48, 61, "Organically Grown Drumstick by Bhoomi Farms", "125 g"),
   },
   {
@@ -1927,7 +1927,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Trusted Organic",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3898a.jpg",
     offers: generateStoreOffers(29, 35, "Organically Grown Nagpur Brinjal", "250 g"),
   },
   {
@@ -1954,7 +1954,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "210 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(88, 107, "Everyday Apple", "210 g"),
   },
   {
@@ -1963,7 +1963,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(143, 170, "Royal Gala Apple (Italy / Poland)", "300 g"),
   },
   {
@@ -1972,7 +1972,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(124, 156, "Daily Apple", "500 g"),
   },
   {
@@ -1981,7 +1981,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 187, "Pink Lady Apple - USA", "300 g"),
   },
   {
@@ -1990,7 +1990,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(155, 201, "Pear Beauty - South Africa (Nashpati)", "250 g"),
   },
   {
@@ -1999,7 +1999,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "340 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(175, 224, "Washington Red Delicious Apple", "340 g"),
   },
   {
@@ -2008,7 +2008,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "450 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(158, 194, "Indian Royal Gala Apple", "450 g"),
   },
   {
@@ -2017,7 +2017,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(116, 147, "Packham Pear - South Africa (Nashpati)", "300 g"),
   },
   {
@@ -2026,7 +2026,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(101, 125, "Royal Gala Apple - Kashmir", "250 g"),
   },
   {
@@ -2035,7 +2035,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(124, 158, "Premium Shimla Apple", "300 g"),
   },
   {
@@ -2044,7 +2044,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(162, 192, "Shimla Apple", "500 g"),
   },
   {
@@ -2053,7 +2053,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "450 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(95, 123, "Pear Nashpati", "450 g"),
   },
   {
@@ -2062,7 +2062,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "225 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(132, 161, "Red Delicious Apple - Imported", "225 g"),
   },
   {
@@ -2071,7 +2071,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(151, 181, "Mr. Apple New Zealand Royal Gala", "300 g"),
   },
   {
@@ -2080,7 +2080,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(132, 170, "Granny Smith Apple - USA", "300 g"),
   },
   {
@@ -2089,7 +2089,7 @@ export const LIVE_VEGETABLES_DATA: Product[] = [
     category: 'veggies',
     subCategory: "Apples & Pears",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(141, 179, "Pear Bartlett (Babugosha) (Nashpati)", "500 g"),
   },
 ];

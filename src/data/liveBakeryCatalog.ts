@@ -225,7 +225,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Bread & Pav",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(10, 10, "Modern Pineapple Sweet Fill Bread Roll", "50 g"),
   },
   {
@@ -1359,7 +1359,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(61, 100, "Awsum Better Bakes Orange Pistachio Slice Cake", "60 g"),
   },
   {
@@ -1368,7 +1368,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "48.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(20, 20, "Britannia Treat Croissant with Cocoa Crème", "48.5 g"),
   },
   {
@@ -1377,7 +1377,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "120 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(63, 90, "Britannia Cake Fudge it Chocolate Brownie", "120 g"),
   },
   {
@@ -1386,7 +1386,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Britannia Choco Chill Slice Cake", "100 g"),
   },
   {
@@ -1395,7 +1395,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 299, "Awsum Coffee Cheesecake", "100 g"),
   },
   {
@@ -1404,7 +1404,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(29, 30, "Britannia Gobbles Fruit Slice Cake", "100 g"),
   },
   {
@@ -1413,7 +1413,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "33 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(15, 15, "Bauli Spyroll Soft Swiss Roll", "33 g"),
   },
   {
@@ -1422,7 +1422,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "242 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(91, 180, "Sunfeast Dark Fantasy Yumfills Choco Pie", "242 g"),
   },
   {
@@ -1431,7 +1431,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/280a.jpg",
     offers: generateStoreOffers(199, 299, "Awsum Zesty Lemon Cheesecake", "100 g"),
   },
   {
@@ -1440,7 +1440,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "33 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(15, 15, "Britannia Gobbles Pineapple Plunge Slice Cake", "33 g"),
   },
   {
@@ -1449,7 +1449,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "336 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(139, 180, "Lotte Choco Pie - 12 units", "336 g"),
   },
   {
@@ -1458,7 +1458,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(31, 35, "Parle Happy Happy Slice Cake (Vanilla)", "100 g"),
   },
   {
@@ -1467,7 +1467,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 299, "Awsum Blueberry Cheesecake", "100 g"),
   },
   {
@@ -1476,7 +1476,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "170 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(70, 75, "Elite Choco Brownie", "170 g"),
   },
   {
@@ -1485,7 +1485,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 60, "Britannia Treat Dubai Kunafa Croissant", "45 g"),
   },
   {
@@ -1503,7 +1503,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(200, 299, "Awsum New York Style Cheesecake", "100 g"),
   },
   {
@@ -1512,7 +1512,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "168 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(88, 99, "Lotte Choco Pie", "168 g"),
   },
   {
@@ -1530,7 +1530,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "140 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(68, 75, "Unibic Royal Vanilla Pound Cake", "140 g"),
   },
   {
@@ -1539,7 +1539,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "6 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 210, "Wholy Belgian Chocolate Fudge Cake", "6 pcs"),
   },
   {
@@ -1548,7 +1548,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(48, 50, "Karachi Bakery Vanilla Muffins", "75 g"),
   },
   {
@@ -1557,7 +1557,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(22, 25, "Bauli Moonfils Vanilla Crème Soft Croissant", "45 g"),
   },
   {
@@ -1566,7 +1566,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "48.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(20, 20, "Britannia Treat Croissant - Vanilla Creme Filling", "48.5 g"),
   },
   {
@@ -1575,7 +1575,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "6 pcs",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 210, "Wholy Hazelnut Fudge Cake", "6 pcs"),
   },
   {
@@ -1593,7 +1593,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "90 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 35, "Parle Happy Happy Slice Cake (Chocolate)", "90 g"),
   },
   {
@@ -1602,7 +1602,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(100, 100, "Bingo Churros with Chocolate Dip", "60 g"),
   },
   {
@@ -1611,7 +1611,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 50, "Awsum Chocolate Cream Roll", "45 g"),
   },
   {
@@ -1620,7 +1620,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "120 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(67, 120, "Britannia Fudge it Veg Brownie Cake", "120 g"),
   },
   {
@@ -1629,7 +1629,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(22, 25, "Bauli Moonfils Chocolate Crème Croissant", "45 g"),
   },
   {
@@ -1647,7 +1647,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 50, "Awsum Vanilla Cream Roll", "45 g"),
   },
   {
@@ -1656,7 +1656,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(10, 10, "Modern Choco Cream Bun", "50 g"),
   },
   {
@@ -1674,7 +1674,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(10, 10, "Modern Strawberry Cream Bun", "50 g"),
   },
   {
@@ -1683,7 +1683,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "45 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 50, "Awsum Strawberry Cream Roll", "45 g"),
   },
   {
@@ -1692,7 +1692,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "122 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Britannia Vanilla Choco Marble Slice Cake", "122 g"),
   },
   {
@@ -1719,7 +1719,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(61, 100, "Awsum Lemon Blueberry Slice Cake", "60 g"),
   },
   {
@@ -1728,7 +1728,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "140 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(65, 70, "Britannia English Slice Cake", "140 g"),
   },
   {
@@ -1737,7 +1737,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "59 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Britannia Treat Croissant - Triple Choco", "59 g"),
   },
   {
@@ -1746,7 +1746,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "140 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(67, 70, "Britannia Nut & Raisin Romance Slice Cake", "140 g"),
   },
   {
@@ -1755,7 +1755,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "40 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(28, 35, "Awsum Better Bake Mawa Teacake", "40 g"),
   },
   {
@@ -1764,7 +1764,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "50.5 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(20, 20, "Britannia Treat Croissant - Mixed Fruit Creme Filling", "50.5 g"),
   },
   {
@@ -1773,7 +1773,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "110 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Winkies Marble Slice Cake", "110 g"),
   },
   {
@@ -1791,7 +1791,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "60 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/3810a.jpg",
     offers: generateStoreOffers(61, 100, "Awsum Carrot Walnut Slice Cake", "60 g"),
   },
   {
@@ -1800,7 +1800,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(23, 25, "Winkies Love Bite French Vanilla Filled Cake", "50 g"),
   },
   {
@@ -1809,7 +1809,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "33 g + 100 g + 100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/10043a.jpg",
+    image: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(69, 75, "Britannia Choco Chill Slice Cake + Slice Cake + Gobbles Pineapple Plunge Cake Combo", "33 g + 100 g + 100 g"),
   },
   {
@@ -1818,7 +1818,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(31, 35, "Parle Happy Happy Slice Cake (Tutti Fruity)", "100 g"),
   },
   {
@@ -1827,7 +1827,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "110 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(30, 30, "Winkies Red Velvet Marble Slice Cake", "110 g"),
   },
   {
@@ -1845,7 +1845,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Cakes & Rolls",
     unit: "165 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(96, 100, "Winkies Chocolate Swiss Roll", "165 g"),
   },
   {
@@ -1863,7 +1863,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(36, 36, "Weikfield Pure Multi-Purpose Baking Soda", "100 g"),
   },
   {
@@ -1872,7 +1872,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(39, 40, "Puramate Culinary Vanilla Essence", "30 ml"),
   },
   {
@@ -1881,7 +1881,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(44, 45, "Weikfield Vanilla Flavor Custard Powder", "100 g"),
   },
   {
@@ -1899,7 +1899,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(40, 40, "Weikfield Double Action Baking Powder", "100 g"),
   },
   {
@@ -1917,7 +1917,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(95, 98, "Weikfield Unsweetened Cocoa Powder", "50 g"),
   },
   {
@@ -1926,7 +1926,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 65, "The Select Aisle Dark Choco Chips", "50 g"),
   },
   {
@@ -1935,7 +1935,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(71, 75, "24 Mantra Organic Idly Rava/Sooji", "500 g"),
   },
   {
@@ -1944,7 +1944,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(61, 65, "Puramate Dark Compound Choco Chips", "50 g"),
   },
   {
@@ -1953,7 +1953,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(67, 75, "Organic Tattva Organic Maida", "500 g"),
   },
   {
@@ -1962,7 +1962,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(23, 25, "Puramate Baking Soda", "50 g"),
   },
   {
@@ -1971,7 +1971,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(39, 40, "Puramate Red Liquid Food Colour", "30 ml"),
   },
   {
@@ -1980,7 +1980,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "5 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(285, 325, "Sri Lalitha Idli Rava - Small Cut (Ravva)", "5 kg"),
   },
   {
@@ -1998,7 +1998,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "400 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(220, 220, "Morde Dark Compound Chocolate Bar", "400 g"),
   },
   {
@@ -2007,7 +2007,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(74, 80, "The Select Aisle Milk Choco Chips", "50 g"),
   },
   {
@@ -2016,7 +2016,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(39, 40, "Puramate Liquid Yellow Food Colour", "30 ml"),
   },
   {
@@ -2025,7 +2025,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "25 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(48, 49, "The Select Aisle Instant Dry Yeast", "25 g"),
   },
   {
@@ -2034,7 +2034,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(43, 45, "Puramate Monosodium Glutamate /Ajinomoto", "50 g"),
   },
   {
@@ -2043,7 +2043,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(176, 179, "The Select Aisle Dark Choco Chips", "150 g"),
   },
   {
@@ -2070,7 +2070,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(184, 229, "The Select Aisle Dark Compound Chocolate Bar", "500 g"),
   },
   {
@@ -2079,7 +2079,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(51, 69, "The Select Aisle Mini Marshmallow - Vegan", "20 g"),
   },
   {
@@ -2088,7 +2088,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(229, 229, "The Select Aisle Natural Vanilla Extract", "30 ml"),
   },
   {
@@ -2097,7 +2097,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 45, "Amruth Raj Tutti Fruity", "150 g"),
   },
   {
@@ -2106,7 +2106,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(39, 40, "Puramate Food Colour (Green)", "30 ml"),
   },
   {
@@ -2115,7 +2115,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(42, 45, "Puramate Tooty Fruity Mix Sprinkles", "100 g"),
   },
   {
@@ -2124,7 +2124,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "10 x 30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(330, 600, "Puramio Liquid Food Colour", "10 x 30 ml"),
   },
   {
@@ -2133,7 +2133,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 199, "Desire Citric Acid Crystals", "200 g"),
   },
   {
@@ -2142,7 +2142,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "80 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(149, 199, "Didier & Frank Pure Cocoa Powder", "80 g"),
   },
   {
@@ -2160,7 +2160,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "25 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(48, 50, "Puramate Instant Dry Yeast", "25 g"),
   },
   {
@@ -2178,7 +2178,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 200, "Ossoro French Vanilla Essence", "30 ml"),
   },
   {
@@ -2196,7 +2196,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(76, 80, "Puramate Milk Compound Choco Chips", "50 g"),
   },
   {
@@ -2205,7 +2205,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 85, "Puramate Twin Compound Choco Chips", "50 g"),
   },
   {
@@ -2214,7 +2214,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(115, 120, "Puramate Vanilla Whipping Cream Powder", "100 g"),
   },
   {
@@ -2223,7 +2223,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "90 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(58, 60, "Weikfield Strawberry Jelly Crystal Dessert Mix", "90 g"),
   },
   {
@@ -2232,7 +2232,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 35, "The Select Aisle Baking Soda", "100 g"),
   },
   {
@@ -2250,7 +2250,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(32, 49, "The Select Aisle Vanilla Flavour Essence", "30 ml"),
   },
   {
@@ -2268,7 +2268,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(46, 49, "Weikfield Mango Flavor Custard Powder", "75 g"),
   },
   {
@@ -2277,7 +2277,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(238, 250, "Urban Platter Rose Petal Gulkand", "300 g"),
   },
   {
@@ -2295,7 +2295,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(194, 199, "The Select Aisle Milk Choco Chips", "150 g"),
   },
   {
@@ -2304,7 +2304,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(72, 75, "Dabur Keora Water Essence", "250 ml"),
   },
   {
@@ -2313,7 +2313,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "28 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 59, "Harveys Kewra Essence", "28 ml"),
   },
   {
@@ -2322,7 +2322,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(28, 42, "Kwality Custard Powder", "100 g"),
   },
   {
@@ -2331,7 +2331,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(699, 799, "Forest Found Unsweetened Dark Cocoa Powder", "500 g"),
   },
   {
@@ -2340,7 +2340,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "28 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 59, "Harveys Biryani Essence", "28 ml"),
   },
   {
@@ -2349,7 +2349,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "28 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 59, "Harveys Vanilla Flavor Essence", "28 ml"),
   },
   {
@@ -2358,7 +2358,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "25 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(142, 150, "Puramate Agar Agar Powder", "25 g"),
   },
   {
@@ -2367,7 +2367,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(77, 80, "Puramate Rainbow Sprinkles", "50 g"),
   },
   {
@@ -2376,7 +2376,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(79, 85, "The Select Aisle Twin Choco Chips", "50 g"),
   },
   {
@@ -2385,7 +2385,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(85, 90, "Puramate Cocoa Powder", "50 g"),
   },
   {
@@ -2439,7 +2439,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "200 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(225, 400, "Nature Vit Instant Dry Yeast", "200 g"),
   },
   {
@@ -2457,7 +2457,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 85, "Puramate White Compound Choco Chips", "50 g"),
   },
   {
@@ -2466,7 +2466,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(180, 199, "The Select Aisle Cake Décor Sprinkles - Love Combo", "100 g"),
   },
   {
@@ -2475,7 +2475,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "300 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(99, 99, "The Select Aisle Icing Sugar", "300 g"),
   },
   {
@@ -2484,7 +2484,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "85 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(85, 99, "The Select Aisle Rainbow Sprinkles", "85 g"),
   },
   {
@@ -2493,7 +2493,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 109, "The Select Aisle Sky Blue Gel Food Colour", "30 ml"),
   },
   {
@@ -2511,7 +2511,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/23379a.jpg",
     offers: generateStoreOffers(32, 33, "Puramate Corn Starch", "100 g"),
   },
   {
@@ -2529,7 +2529,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(129, 129, "The Select Aisle Instant Dry Yeast", "75 g"),
   },
   {
@@ -2538,7 +2538,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(225, 225, "Amul Dark Compound Chocolate Bar", "500 g"),
   },
   {
@@ -2547,7 +2547,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "250 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(194, 200, "Urban Platter Unsweetened Coconut Cream", "250 ml"),
   },
   {
@@ -2556,7 +2556,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 59, "The Select Aisle Gelatin", "20 g"),
   },
   {
@@ -2574,7 +2574,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "70 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(141, 149, "The Select Aisle Dutch Processed Cocoa Powder", "70 g"),
   },
   {
@@ -2583,7 +2583,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "500 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(228, 228, "Amul Lite Milk Fat Spread", "500 g"),
   },
   {
@@ -2592,7 +2592,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "28 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(59, 59, "Harveys Saffron Essence", "28 ml"),
   },
   {
@@ -2601,7 +2601,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(199, 199, "The Select Aisle Carnival Cake Décor Sprinkles Combo", "100 g"),
   },
   {
@@ -2619,7 +2619,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "90 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(31, 46, "Pillsbury Vanilla Custard Powder Smooth & Creamy", "90 g"),
   },
   {
@@ -2646,7 +2646,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "75 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(46, 49, "Weikfield Smooth & Creamy Strawberry Custard Powder", "75 g"),
   },
   {
@@ -2664,7 +2664,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "150 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(302, 330, "Weikfield Unsweetened Cocoa Powder", "150 g"),
   },
   {
@@ -2673,7 +2673,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(76, 80, "Puramate Chocolate Sprinkles", "50 g"),
   },
   {
@@ -2682,7 +2682,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(95, 99, "The Select Aisle Sugar Ball Sprinkles", "100 g"),
   },
   {
@@ -2691,7 +2691,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 109, "The Select Aisle Red Gel Food Colour", "30 ml"),
   },
   {
@@ -2700,7 +2700,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(42, 45, "Puramate Vanilla Custard Powder", "100 g"),
   },
   {
@@ -2709,7 +2709,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(45, 45, "The Select Aisle Tutti Frutti Dessert Sprinkles", "100 g"),
   },
   {
@@ -2718,7 +2718,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(109, 109, "The Select Aisle Yellow Gel Food Colour", "30 ml"),
   },
   {
@@ -2727,7 +2727,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "28 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(54, 59, "Harveys Red Food Colour", "28 ml"),
   },
   {
@@ -2736,7 +2736,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(77, 80, "Puramate Coloured Balls Sprinkles", "50 g"),
   },
   {
@@ -2745,7 +2745,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(28, 35, "The Select Aisle Vanilla Custard Mix", "100 g"),
   },
   {
@@ -2754,7 +2754,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "Harveys Dark Compound Choco Chips", "50 g"),
   },
   {
@@ -2763,7 +2763,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "Harveys Milk Compound Choco Chips", "50 g"),
   },
   {
@@ -2772,7 +2772,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "Harveys White Compound Choco Chips", "50 g"),
   },
   {
@@ -2790,7 +2790,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "Harveys Vermicelli Chocolate Sprinkles", "50 g"),
   },
   {
@@ -2799,7 +2799,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "Harveys & Sons Rainbow Sprinkles", "50 g"),
   },
   {
@@ -2817,7 +2817,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "50 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(80, 80, "Harveys Colour Ball Sprinkles", "50 g"),
   },
   {
@@ -2826,7 +2826,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "250 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(438, 795, "Choko La 35% Choco Chips", "250 g"),
   },
   {
@@ -2835,7 +2835,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "30 ml",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(39, 40, "Puramate Liquid Orange Food Colour", "30 ml"),
   },
   {
@@ -2844,7 +2844,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(34, 35, "Puramate Baking Powder", "100 g"),
   },
   {
@@ -2853,7 +2853,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(75, 75, "The Select Aisle Food Grade Citric Acid Powder", "100 g"),
   },
   {
@@ -2862,7 +2862,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "20 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(129, 129, "The Select Aisle Agar Agar Powder (Veg Gelatin)", "20 g"),
   },
   {
@@ -2871,7 +2871,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "1 kg",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(250, 500, "Nature Vit Baking Soda", "1 kg"),
   },
   {
@@ -2880,7 +2880,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(29, 30, "Puramate Icing Sugar", "100 g"),
   },
   {
@@ -2889,7 +2889,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "100 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(35, 35, "The Select Aisle Double Acting Baking Powder", "100 g"),
   },
   {
@@ -2898,7 +2898,7 @@ export const LIVE_BAKERY_DATA: Product[] = [
     category: 'dairy',
     subCategory: "Baking Ingredients",
     unit: "90 g",
-    image: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/images/products/sliding_image/366032a.jpg",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=400&q=80",
     offers: generateStoreOffers(58, 60, "Weikfield Mango Jelly Mix", "90 g"),
   },
   {

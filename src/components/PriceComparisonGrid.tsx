@@ -27,31 +27,31 @@ interface PriceComparisonGridProps {
 }
 
 const CATEGORY_FALLBACKS: Record<string, string> = {
-  paan: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-1.png',
-  dairy: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-2.png',
-  veggies: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-3.png',
-  cold_drinks: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-4.png',
-  snacks: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-5.png',
-  instant: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-6.png',
-  sweet_tooth: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-7.png',
-  bakery: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-8.png',
-  tea_coffee: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-9.png',
-  atta_rice_dal: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-10.png',
-  masala_oil: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-11.png',
-  sauces: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-12.png',
-  meat_fish: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-13.png',
-  organic_healthy: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-14.png',
-  baby_care: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-15.png',
-  pharma_wellness: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-16.png',
-  cleaning: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-17.png',
-  home_office: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-18.png',
-  personal_care: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-19.png',
-  pet_care: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-20.png',
-  beverages: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-4.png',
-  staples: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-10.png',
-  household: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-17.png',
-  personal: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-11/Slice-19.png',
-  all: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=2700/layout-engine/2022-05/Group-33704.jpg',
+  paan: 'https://images.unsplash.com/photo-1541544741938-0af808871cc0?auto=format&fit=crop&w=400&q=80',
+  dairy: 'https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=400&q=80',
+  veggies: 'https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=400&q=80',
+  cold_drinks: 'https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80',
+  snacks: 'https://images.unsplash.com/photo-1566478989037-eec170784d0b?auto=format&fit=crop&w=400&q=80',
+  instant: 'https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=400&q=80',
+  sweet_tooth: 'https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=400&q=80',
+  bakery: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80',
+  tea_coffee: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=400&q=80',
+  atta_rice_dal: 'https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80',
+  masala_oil: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80',
+  sauces: 'https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=400&q=80',
+  meat_fish: 'https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=400&q=80',
+  organic_healthy: 'https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=400&q=80',
+  baby_care: 'https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=400&q=80',
+  pharma_wellness: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=400&q=80',
+  cleaning: 'https://images.unsplash.com/photo-1585421514738-01798e348b17?auto=format&fit=crop&w=400&q=80',
+  home_office: 'https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=400&q=80',
+  personal_care: 'https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=400&q=80',
+  pet_care: 'https://images.unsplash.com/photo-1548767797-d8c844163c4c?auto=format&fit=crop&w=400&q=80',
+  beverages: 'https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=400&q=80',
+  staples: 'https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80',
+  household: 'https://images.unsplash.com/photo-1585421514738-01798e348b17?auto=format&fit=crop&w=400&q=80',
+  personal: 'https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=400&q=80',
+  all: 'https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=600&q=80',
 };
 
 const SUBCATEGORIES_BY_CATEGORY: Record<string, string[]> = {
@@ -886,43 +886,44 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
                         return (
                           <a
                             key={platformId}
-                            href={offer.affiliateUrl || getDirectStoreBuyUrl(platformId, product.name)}
+                            href={offer.affiliateUrl || getDirectStoreBuyUrl(platformId, product.name, undefined, product.unit)}
                             target="_blank"
                             rel="noopener noreferrer"
                             onClick={() => onTrackAffiliateClick(platformId, product)}
                             title={`Click to buy directly on ${platform.name}`}
-                            className={`flex items-center justify-between p-2 rounded-xl text-xs transition-colors hover:ring-2 hover:ring-emerald-400/30 cursor-pointer ${
+                            className={`flex items-center justify-between py-1.5 px-2 rounded-xl text-xs transition-colors hover:ring-2 hover:ring-emerald-400/30 cursor-pointer overflow-hidden ${
                               isLowest
                                 ? 'bg-emerald-50 border border-emerald-300 font-bold text-emerald-950 shadow-xs'
                                 : 'bg-slate-50 border border-slate-100 text-slate-700 hover:bg-slate-100'
                             }`}
                           >
-                            <div className="flex items-center gap-2">
-                              <span>{platform.logo}</span>
-                              <span className="font-semibold">{platform.name}</span>
+                            <div className="flex items-center gap-1.5 min-w-0 flex-1 mr-1">
+                              <span className="text-xs shrink-0">{platform.logo}</span>
+                              <span className="font-semibold text-[11px] sm:text-xs truncate">
+                                {platformId === 'instamart' ? 'Instamart' : platformId === 'flipkart' ? 'Flipkart' : platformId === 'amazon' ? 'Amazon' : platform.name}
+                              </span>
                               {isLowest && (
-                                <span className="bg-emerald-600 text-white text-[9px] font-black px-1.5 py-0.5 rounded uppercase tracking-wider">
-                                  Cheapest
+                                <span className="shrink-0 bg-emerald-600 text-white text-[8px] font-black px-1 py-0.5 rounded uppercase tracking-wider leading-none">
+                                  Best
                                 </span>
                               )}
                             </div>
 
-                            <div className="flex items-center gap-3">
+                            <div className="flex items-center gap-1 sm:gap-1.5 shrink-0 text-right">
                               {offer.inStock ? (
                                 <>
-                                  <span className="text-slate-400 text-[11px] line-through">
-                                    ₹{offer.mrp}
-                                  </span>
-                                  <span className={`text-sm font-black ${isLowest ? 'text-emerald-700' : 'text-slate-900'}`}>
+                                  {offer.mrp > offer.price && (
+                                    <span className="text-slate-400 text-[10px] sm:text-[11px] line-through shrink-0">
+                                      ₹{offer.mrp}
+                                    </span>
+                                  )}
+                                  <span className={`text-xs sm:text-sm font-black whitespace-nowrap shrink-0 ${isLowest ? 'text-emerald-700' : 'text-slate-900'}`}>
                                     ₹{offer.price}
                                   </span>
-                                  <span className="text-[10px] text-slate-500 hidden sm:inline">
-                                    {offer.deliveryTimeMin}m
-                                  </span>
-                                  <ExternalLink className="w-3 h-3 text-slate-400 opacity-60" />
+                                  <ExternalLink className="w-2.5 h-2.5 sm:w-3 sm:h-3 text-slate-400 opacity-60 shrink-0" />
                                 </>
                               ) : (
-                                <span className="text-slate-400 text-[11px] italic">Out of Stock</span>
+                                <span className="text-slate-400 text-[10px] italic shrink-0">Out of Stock</span>
                               )}
                             </div>
                           </a>
