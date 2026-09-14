@@ -848,28 +848,6 @@ export function queryMasterCatalog(options: {
       }
     }
 
-    // 2. Scan generated blueprints
-    const scanKeys = category === 'all'
-      ? ['dairy', 'veggies', 'cold_drinks', 'snacks', 'instant', 'sweet_tooth', 'bakery', 'tea_coffee', 'atta_rice_dal', 'masala_oil', 'sauces', 'paan', 'cleaning', 'personal_care', 'pet_care']
-      : [category];
-
-    for (const cat of scanKeys) {
-      for (let i = 0; i < 150 && matchedProducts.length < 250; i++) {
-        const p = generateDeterministicSku(i, cat, cityMultiplier);
-        if (onlyEssentials && !p.isDailyEssential) continue;
-        const name = p.name.toLowerCase();
-        const brand = (p.brand || '').toLowerCase();
-        const hindi = (p.nameHindi || '').toLowerCase();
-
-        if (name.includes(q) || brand.includes(q) || hindi.includes(q)) {
-          if (!seenIds.has(p.id)) {
-            seenIds.add(p.id);
-            matchedProducts.push(p);
-          }
-        }
-      }
-    }
-
     matchedProducts.sort((a, b) => {
       const scoreA = getRelevanceScore(a);
       const scoreB = getRelevanceScore(b);
@@ -899,7 +877,7 @@ export function queryMasterCatalog(options: {
     return { items, totalCount, page: safePage, pageSize, totalPages };
   }
 
-  // Browse mode: filter static matches
+  // Browse mode: filter authentic products directly
   const staticMatches = COMPREHENSIVE_GROCERY_DATA.filter((p) => {
     if (!matchesCategory(p, category)) return false;
     if (subCategory && subCategory !== 'all' && !matchesSubCategory(p, subCategory)) return false;
@@ -907,34 +885,12 @@ export function queryMasterCatalog(options: {
     return true;
   });
 
-  const staticCount = staticMatches.length;
-  const effectiveTotalCount = (subCategory && subCategory !== 'all')
-    ? (staticCount > 0 ? staticCount : 60)
-    : Math.max(maxCategorySkus, staticCount);
-
-  const totalPages = Math.max(1, Math.ceil(effectiveTotalCount / pageSize));
+  const totalCount = staticMatches.length;
+  const totalPages = Math.max(1, Math.ceil(totalCount / pageSize));
   const safePage = Math.min(Math.max(1, page), totalPages);
   const startIndex = (safePage - 1) * pageSize;
 
-  const items: Product[] = [];
-
-  if (startIndex < staticCount) {
-    const pageStatic = staticMatches.slice(startIndex, startIndex + pageSize);
-    items.push(...pageStatic);
-  }
-
-  // Generate remainder from deterministic generator
-  let genIndex = Math.max(0, startIndex - staticCount);
-  while (items.length < pageSize && genIndex < effectiveTotalCount) {
-    const p = generateDeterministicSku(genIndex, category, cityMultiplier);
-    if (subCategory && subCategory !== 'all') {
-      p.subCategory = subCategory;
-    }
-    if (!onlyEssentials || p.isDailyEssential) {
-      items.push(p);
-    }
-    genIndex++;
-  }
+  const items: Product[] = staticMatches.slice(startIndex, startIndex + pageSize);
 
   // Sort items
   const getSavings = (prod: Product) => {
@@ -955,7 +911,7 @@ export function queryMasterCatalog(options: {
 
   return {
     items,
-    totalCount: effectiveTotalCount,
+    totalCount,
     page: safePage,
     pageSize,
     totalPages,
