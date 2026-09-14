@@ -37,6 +37,9 @@ export const PLATFORM_COMMISSION_RATES: Record<PlatformId, number> = {
   amazon: 0.055,     // 5.5%
 };
 
+// Verified EarnKaro Publisher ID for Gopagani Arun
+export const EARNKARO_PUBLISHER_ID = '1806075';
+
 // Store-specific partner referral parameters for Gopagani Arun
 const STORE_AFFILIATE_PARAMS: Record<PlatformId, Record<string, string>> = {
   zepto: {
@@ -44,32 +47,44 @@ const STORE_AFFILIATE_PARAMS: Record<PlatformId, Record<string, string>> = {
     utm_medium: 'affiliate',
     utm_campaign: 'quick_commerce',
     partner_id: 'NB_ARUN_ZEPTO',
+    earnkaro_uid: EARNKARO_PUBLISHER_ID,
+    r: EARNKARO_PUBLISHER_ID,
   },
   blinkit: {
     utm_source: 'nestbasket',
     utm_medium: 'affiliate',
     utm_campaign: 'price_comparison',
     ref: 'NB_ARUN_BLINKIT',
+    earnkaro_uid: EARNKARO_PUBLISHER_ID,
+    r: EARNKARO_PUBLISHER_ID,
   },
   instamart: {
     utm_source: 'nestbasket',
     utm_medium: 'referral',
     utm_campaign: 'smart_basket',
     partner: 'nestbasket_arun',
+    earnkaro_uid: EARNKARO_PUBLISHER_ID,
+    r: EARNKARO_PUBLISHER_ID,
   },
   bigbasket: {
     utm_source: 'nestbasket',
     utm_medium: 'affiliate',
     utm_campaign: 'bbnow_deals',
     affid: 'NB_ARUN_BB',
+    earnkaro_uid: EARNKARO_PUBLISHER_ID,
+    r: EARNKARO_PUBLISHER_ID,
   },
   flipkart: {
     affid: 'nestbasket0',
     affExtParam1: 'arun_nestbasket',
+    earnkaro_uid: EARNKARO_PUBLISHER_ID,
+    r: EARNKARO_PUBLISHER_ID,
   },
   amazon: {
     tag: 'nestbasket0e-21',
     ascsubtag: 'nb_arun_grocery',
+    earnkaro_uid: EARNKARO_PUBLISHER_ID,
+    r: EARNKARO_PUBLISHER_ID,
   },
 };
 

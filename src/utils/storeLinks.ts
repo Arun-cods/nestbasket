@@ -465,8 +465,24 @@ export function findVerifiedProductKey(name: string): string | null {
   return null;
 }
 
+export const EARNKARO_USER_ID = '1806075';
+
+export function appendAffiliateTracking(rawUrl: string, platformId: PlatformId): string {
+  try {
+    const url = new URL(rawUrl);
+    url.searchParams.set('r', EARNKARO_USER_ID);
+    url.searchParams.set('earnkaro_uid', EARNKARO_USER_ID);
+    url.searchParams.set('utm_source', 'nestbasket');
+    url.searchParams.set('ref_founder', 'gopagani_arun');
+    return url.toString();
+  } catch (e) {
+    const sep = rawUrl.includes('?') ? '&' : '?';
+    return `${rawUrl}${sep}r=${EARNKARO_USER_ID}&earnkaro_uid=${EARNKARO_USER_ID}&utm_source=nestbasket&ref_founder=gopagani_arun`;
+  }
+}
+
 /**
- * Returns a 100% DIRECT product purchase URL for the specified platform.
+ * EXACT WORKING DEEP-LINK GENERATOR
  * Navigates directly to the specific product item page, NOT a generic search query!
  */
 export function getDirectStoreBuyUrl(
@@ -484,7 +500,7 @@ export function getDirectStoreBuyUrl(
     !existingOfferUrl.includes('/c/NestBasket') &&
     !existingOfferUrl.includes('affid=NestBasket')
   ) {
-    return existingOfferUrl;
+    return appendAffiliateTracking(existingOfferUrl, platformId);
   }
 
   // Check against our verified direct quick-commerce SKU directory
@@ -492,7 +508,7 @@ export function getDirectStoreBuyUrl(
   if (matchedKey && VERIFIED_DIRECT_STORE_LINKS[matchedKey]) {
     const verifiedUrl = VERIFIED_DIRECT_STORE_LINKS[matchedKey][platformId];
     if (verifiedUrl) {
-      return verifiedUrl;
+      return appendAffiliateTracking(verifiedUrl, platformId);
     }
   }
 
@@ -500,26 +516,30 @@ export function getDirectStoreBuyUrl(
   const query = `${productName}${unit ? ' ' + unit : ''}`.trim();
   const qEnc = encodeURIComponent(query);
 
+  let targetUrl = `https://www.bigbasket.com/ps/?q=${qEnc}`;
   switch (platformId) {
     case 'zepto':
-      return `https://www.zeptonow.com/search?q=${qEnc}`;
-
+      targetUrl = `https://www.zeptonow.com/search?q=${qEnc}`;
+      break;
     case 'blinkit':
-      return `https://blinkit.com/s/?q=${qEnc}`;
-
+      targetUrl = `https://blinkit.com/s/?q=${qEnc}`;
+      break;
     case 'bigbasket':
-      return `https://www.bigbasket.com/ps/?q=${qEnc}`;
-
+      targetUrl = `https://www.bigbasket.com/ps/?q=${qEnc}`;
+      break;
     case 'amazon':
-      return `https://www.amazon.in/s?k=${qEnc}&i=nowstore`;
-
+      targetUrl = `https://www.amazon.in/s?k=${qEnc}&i=nowstore`;
+      break;
     case 'instamart':
-      return `https://www.swiggy.com/instamart/search?query=${qEnc}`;
-
+      targetUrl = `https://www.swiggy.com/instamart/search?query=${qEnc}`;
+      break;
     case 'flipkart':
-      return `https://www.flipkart.com/search?q=${qEnc}&marketplace=GROCERY`;
-
+      targetUrl = `https://www.flipkart.com/search?q=${qEnc}&marketplace=GROCERY`;
+      break;
     default:
-      return `https://www.bigbasket.com/ps/?q=${qEnc}`;
+      targetUrl = `https://www.bigbasket.com/ps/?q=${qEnc}`;
+      break;
   }
+
+  return appendAffiliateTracking(targetUrl, platformId);
 }
