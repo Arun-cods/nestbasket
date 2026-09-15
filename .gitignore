@@ -21,3 +21,6 @@ dist-ssr/
 Thumbs.db
 .vscode/
 .idea/
+
+# Chrome Extension — contains private token, keep local only
+nestbasket-extension/

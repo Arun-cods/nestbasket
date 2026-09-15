@@ -1,11 +1,11 @@
 // src/hooks/useLivePrices.ts
-// Reads REAL live prices from Firebase Realtime Database
-// Chrome Extension writes real prices there → Website reads them for ALL users
+// Reads REAL prices from prices.json in the GitHub repo
+// Chrome Extension writes prices there → Website reads via raw.githubusercontent.com
 
 import { useState, useEffect, useCallback } from 'react';
 
-// Your Firebase Realtime Database URL
-const FIREBASE_URL = 'https://nestbasket-prices-default-rtdb.asia-south1.firebasedatabase.app';
+// Reads from GitHub repo — free, no database needed!
+const PRICES_URL = 'https://raw.githubusercontent.com/Arun-cods/nestbasket/main/prices.json';
 
 export interface LiveStorePrice {
   name: string;
@@ -23,9 +23,10 @@ export interface AllLivePrices {
   zepto?: Record<string, LiveStorePrice>;
   bigbasket?: Record<string, LiveStorePrice>;
   instamart?: Record<string, LiveStorePrice>;
+  lastUpdated?: string;
+  totalProducts?: number;
 }
 
-// Convert product name to the same key format used by the extension
 function toKey(name: string): string {
   return (name || '')
     .toLowerCase()
@@ -35,7 +36,6 @@ function toKey(name: string): string {
     .substring(0, 100);
 }
 
-// In-memory cache — avoids re-fetching on every render
 let memCache: AllLivePrices | null = null;
 let cacheTime = 0;
 const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
@@ -47,72 +47,47 @@ export function useLivePrices() {
   const [hasLiveData, setHasLiveData] = useState(false);
 
   const fetchAllPrices = useCallback(async () => {
-    // Return from in-memory cache if fresh
     if (memCache && Date.now() - cacheTime < CACHE_TTL) {
       setAllPrices(memCache);
       return;
     }
-
     setLoading(true);
     try {
-      // Fetch all store prices from Firebase in one request
-      const res = await fetch(`${FIREBASE_URL}/prices.json`, {
-        signal: AbortSignal.timeout(8000),
-      });
-
-      if (!res.ok) throw new Error(`Firebase ${res.status}`);
-
+      // Cache-bust every minute so prices stay fresh
+      const url = `${PRICES_URL}?t=${Math.floor(Date.now() / 60000)}`;
+      const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data: AllLivePrices = await res.json();
 
-      if (data && typeof data === 'object') {
-        // Check if any real prices exist
-        const total = Object.values(data)
-          .filter(v => typeof v === 'object' && v !== null)
-          .reduce((sum, store) => sum + Object.keys(store as object).length, 0);
-
-        if (total > 0) {
-          memCache = data;
-          cacheTime = Date.now();
-          setAllPrices(data);
-          setLastSync(new Date());
-          setHasLiveData(true);
-        }
+      if (data && (data.totalProducts || 0) > 0) {
+        memCache = data;
+        cacheTime = Date.now();
+        setAllPrices(data);
+        setLastSync(new Date(data.lastUpdated || Date.now()));
+        setHasLiveData(true);
       }
     } catch (_) {
-      // Firebase not yet populated — graceful fallback to static prices
+      // Not yet populated — silently use static prices
     } finally {
       setLoading(false);
     }
   }, []);
 
-  // Fetch on mount + every 5 minutes auto-refresh
   useEffect(() => {
     fetchAllPrices();
     const interval = setInterval(fetchAllPrices, CACHE_TTL);
     return () => clearInterval(interval);
   }, [fetchAllPrices]);
 
-  // Merge live prices for a specific product from all stores
   const getLivePricesForProduct = useCallback((productName: string) => {
     const key = toKey(productName);
     const result: Record<string, LiveStorePrice | undefined> = {};
-
     (['blinkit', 'zepto', 'bigbasket', 'instamart'] as const).forEach(store => {
       const storeData = allPrices[store];
-      if (storeData && storeData[key]) {
-        result[store] = storeData[key];
-      }
+      if (storeData?.[key]) result[store] = storeData[key];
     });
-
     return result;
   }, [allPrices]);
 
-  return {
-    allPrices,
-    getLivePricesForProduct,
-    loading,
-    lastSync,
-    hasLiveData,
-    refresh: fetchAllPrices,
-  };
+  return { allPrices, getLivePricesForProduct, loading, lastSync, hasLiveData, refresh: fetchAllPrices };
 }
