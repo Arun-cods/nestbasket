@@ -1,14 +1,15 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { 
   Search, Sparkles, ShoppingBag, ExternalLink, ArrowUpDown, Check, Tag, 
   ChevronDown, Database, Zap, ArrowLeft, ArrowRight, Layers, SlidersHorizontal, RefreshCw,
-  Plus, Minus, LayoutGrid, List, MoveHorizontal, Bell
+  Plus, Minus, LayoutGrid, List, MoveHorizontal, Bell, Wifi
 } from 'lucide-react';
 import { Product, PlatformId } from '../types';
 import { PLATFORMS } from '../data/mockGroceryData';
 import { MASTER_CATALOG_CATEGORIES } from '../data/comprehensiveCatalog';
 import { queryMasterCatalog, CATEGORY_TOTALS } from '../data/masterCatalogEngine';
 import { getDirectStoreBuyUrl } from '../utils/storeLinks';
+import { useLivePrices } from '../hooks/useLivePrices';
 
 interface PriceComparisonGridProps {
   products: Product[];
@@ -329,6 +330,10 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
   type LayoutMode = '1' | '2' | '3' | '4' | 'scroll';
   const [layoutMode, setLayoutMode] = useState<LayoutMode>('2');
 
+  // 🔴 LIVE PRICES from Firebase (written by NestBasket Chrome Extension)
+  const { getLivePricesForProduct, lastSync, extensionInstalled } = useLivePrices();
+
+
   React.useEffect(() => {
     if (externalCategory !== undefined && externalCategory !== selectedCategory) {
       setSelectedCategory(externalCategory);
@@ -417,6 +422,32 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
       return true;
     });
   }, [catalogResponse.items, selectedWeightFilter]);
+
+  // Merge live prices from Firebase into product offers
+  const productsWithLivePrices = useMemo(() => {
+    return displayedProducts.map(product => {
+      const livePrices = getLivePricesForProduct(product.name);
+      const hasAnyLive = Object.values(livePrices).some(p => p && p.price > 0);
+      if (!hasAnyLive) return product;
+
+      const mergedOffers = { ...product.offers };
+
+      (['blinkit', 'zepto', 'bigbasket', 'instamart'] as const).forEach(store => {
+        const liveOffer = livePrices[store];
+        if (liveOffer && liveOffer.price > 0) {
+          mergedOffers[store] = {
+            ...mergedOffers[store],
+            price: liveOffer.price,
+            mrp: liveOffer.mrp || mergedOffers[store]?.mrp,
+            inStock: true,
+            affiliateUrl: liveOffer.url || mergedOffers[store]?.affiliateUrl,
+          };
+        }
+      });
+
+      return { ...product, offers: mergedOffers, _hasLivePrice: true };
+    });
+  }, [displayedProducts, getLivePricesForProduct]);
 
   const totalCategorySkus = catalogResponse.totalCount;
   const totalPages = catalogResponse.totalPages;
@@ -775,7 +806,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
           ? 'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4 lg:gap-6 w-full max-w-full'
           : 'grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-2 sm:gap-3.5 lg:gap-4 w-full max-w-full'
       }>
-        {displayedProducts.map((product) => {
+        {productsWithLivePrices.map((product: any) => {
           const stats = getProductStats(product);
           const isAddedToCart = cartProductIds.has(product.id);
           const itemQuantity = cartQuantities ? (cartQuantities[product.id] || 0) : (isAddedToCart ? 1 : 0);

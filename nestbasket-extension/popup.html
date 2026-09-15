@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NestBasket Price Tracker</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      width: 320px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #f8fafc;
+      color: #1e293b;
+    }
+    .header {
+      background: linear-gradient(135deg, #059669, #10b981);
+      padding: 16px 20px;
+      color: white;
+    }
+    .header h1 { font-size: 16px; font-weight: 800; }
+    .header p { font-size: 12px; opacity: 0.85; margin-top: 2px; }
+    .status-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      padding: 16px;
+    }
+    .stat-card {
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 12px;
+      text-align: center;
+    }
+    .stat-card .num { font-size: 24px; font-weight: 900; color: #059669; }
+    .stat-card .label { font-size: 11px; color: #64748b; margin-top: 2px; }
+    .stores {
+      padding: 0 16px 16px;
+    }
+    .store-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 14px;
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 10px;
+      margin-bottom: 8px;
+      font-size: 13px;
+    }
+    .store-row .name { font-weight: 600; }
+    .store-row .badge {
+      font-size: 10px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 20px;
+    }
+    .badge.live { background: #dcfce7; color: #15803d; }
+    .badge.waiting { background: #fef9c3; color: #854d0e; }
+    .badge.visit { background: #e0f2fe; color: #0369a1; }
+    .instructions {
+      margin: 0 16px 16px;
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      border-radius: 12px;
+      padding: 12px;
+      font-size: 12px;
+      color: #1e40af;
+      line-height: 1.6;
+    }
+    .instructions strong { display: block; margin-bottom: 4px; font-size: 13px; }
+    .last-sync {
+      text-align: center;
+      font-size: 11px;
+      color: #94a3b8;
+      padding-bottom: 14px;
+    }
+    .pulse {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      background: #10b981;
+      border-radius: 50%;
+      animation: pulse 1.5s infinite;
+      margin-right: 4px;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(0.8); }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🛒 NestBasket Price Tracker</h1>
+    <p>Collecting real prices for you automatically</p>
+  </div>
+
+  <div class="status-grid">
+    <div class="stat-card">
+      <div class="num" id="syncCount">0</div>
+      <div class="label">Products Synced</div>
+    </div>
+    <div class="stat-card">
+      <div class="num" id="storeCount">0</div>
+      <div class="label">Stores Active</div>
+    </div>
+  </div>
+
+  <div class="stores">
+    <div class="store-row">
+      <span>🟢</span>
+      <span class="name">Blinkit</span>
+      <span class="badge live" id="blinkit-status">Tracking</span>
+    </div>
+    <div class="store-row">
+      <span>🟣</span>
+      <span class="name">Zepto</span>
+      <span class="badge visit" id="zepto-status">Visit site</span>
+    </div>
+    <div class="store-row">
+      <span>🔴</span>
+      <span class="name">BigBasket</span>
+      <span class="badge visit" id="bigbasket-status">Visit site</span>
+    </div>
+    <div class="store-row">
+      <span>🟠</span>
+      <span class="name">Instamart</span>
+      <span class="badge visit" id="instamart-status">Visit site</span>
+    </div>
+  </div>
+
+  <div class="instructions">
+    <strong>📋 How to get prices from all stores:</strong>
+    1. Open <b>blinkit.com</b> → prices auto-collected<br/>
+    2. Open <b>zeptonow.com</b> → prices auto-collected<br/>
+    3. Open <b>bigbasket.com</b> → prices auto-collected<br/>
+    4. Open <b>swiggy.com/instamart</b> → prices auto-collected<br/>
+    <br/>
+    Just open the website normally. Extension does the rest! ✅
+  </div>
+
+  <div class="last-sync">
+    <span class="pulse"></span>
+    <span id="lastSyncText">Waiting for first sync...</span>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

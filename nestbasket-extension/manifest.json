@@ -1,0 +1,53 @@
+{
+  "manifest_version": 3,
+  "name": "NestBasket Price Tracker",
+  "version": "1.0.0",
+  "description": "Automatically collects real prices from Blinkit, Zepto, BigBasket, Instamart and sends to NestBasket.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://blinkit.com/*",
+    "https://www.zeptonow.com/*",
+    "https://api.zeptonow.com/*",
+    "https://www.bigbasket.com/*",
+    "https://www.swiggy.com/*",
+    "https://*.firebaseio.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://blinkit.com/*"],
+      "js": ["content_blinkit.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.zeptonow.com/*"],
+      "js": ["content_zepto.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.bigbasket.com/*"],
+      "js": ["content_bigbasket.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.swiggy.com/*"],
+      "js": ["content_swiggy.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "NestBasket Price Tracker"
+  }
+}
