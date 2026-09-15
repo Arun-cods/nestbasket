@@ -1,12 +1,11 @@
 // src/hooks/useLivePrices.ts
-// Reads REAL prices from prices.json stored in the GitHub repo
-// Chrome Extension writes real prices there → Website reads for free via raw.githubusercontent.com
+// Reads REAL live prices from Firebase Realtime Database
+// Chrome Extension writes real prices there → Website reads them for ALL users
 
 import { useState, useEffect, useCallback } from 'react';
 
-// Reads directly from the GitHub repo — completely free, no Firebase needed!
-const PRICES_URL =
-  'https://raw.githubusercontent.com/Arun-cods/nestbasket/main/prices.json';
+// Your Firebase Realtime Database URL
+const FIREBASE_URL = 'https://nestbasket-prices-default-rtdb.asia-south1.firebasedatabase.app';
 
 export interface LiveStorePrice {
   name: string;
@@ -24,11 +23,9 @@ export interface AllLivePrices {
   zepto?: Record<string, LiveStorePrice>;
   bigbasket?: Record<string, LiveStorePrice>;
   instamart?: Record<string, LiveStorePrice>;
-  lastUpdated?: string;
-  totalProducts?: number;
 }
 
-// Convert product name to storage key (same as extension background.js)
+// Convert product name to the same key format used by the extension
 function toKey(name: string): string {
   return (name || '')
     .toLowerCase()
@@ -50,6 +47,7 @@ export function useLivePrices() {
   const [hasLiveData, setHasLiveData] = useState(false);
 
   const fetchAllPrices = useCallback(async () => {
+    // Return from in-memory cache if fresh
     if (memCache && Date.now() - cacheTime < CACHE_TTL) {
       setAllPrices(memCache);
       return;
@@ -57,40 +55,44 @@ export function useLivePrices() {
 
     setLoading(true);
     try {
-      // Add cache-busting to avoid stale GitHub CDN cache
-      const url = `${PRICES_URL}?t=${Math.floor(Date.now() / 60000)}`;
-      const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
+      // Fetch all store prices from Firebase in one request
+      const res = await fetch(`${FIREBASE_URL}/prices.json`, {
+        signal: AbortSignal.timeout(8000),
+      });
 
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      if (!res.ok) throw new Error(`Firebase ${res.status}`);
 
       const data: AllLivePrices = await res.json();
 
-      // Check if any real data exists (not just empty objects)
-      const totalProducts = data?.totalProducts || 0;
-      const dataIsReal = totalProducts > 0;
+      if (data && typeof data === 'object') {
+        // Check if any real prices exist
+        const total = Object.values(data)
+          .filter(v => typeof v === 'object' && v !== null)
+          .reduce((sum, store) => sum + Object.keys(store as object).length, 0);
 
-      if (dataIsReal) {
-        memCache = data;
-        cacheTime = Date.now();
-        setAllPrices(data);
-        setLastSync(new Date(data.lastUpdated || Date.now()));
-        setHasLiveData(true);
+        if (total > 0) {
+          memCache = data;
+          cacheTime = Date.now();
+          setAllPrices(data);
+          setLastSync(new Date());
+          setHasLiveData(true);
+        }
       }
     } catch (_) {
-      // prices.json not yet populated — graceful no-op, keep using static prices
+      // Firebase not yet populated — graceful fallback to static prices
     } finally {
       setLoading(false);
     }
   }, []);
 
-  // Fetch on mount and every 5 minutes
+  // Fetch on mount + every 5 minutes auto-refresh
   useEffect(() => {
     fetchAllPrices();
     const interval = setInterval(fetchAllPrices, CACHE_TTL);
     return () => clearInterval(interval);
   }, [fetchAllPrices]);
 
-  // Get live prices for a specific product from all stores
+  // Merge live prices for a specific product from all stores
   const getLivePricesForProduct = useCallback((productName: string) => {
     const key = toKey(productName);
     const result: Record<string, LiveStorePrice | undefined> = {};

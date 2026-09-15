@@ -6,7 +6,7 @@
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
-      width: 320px;
+      width: 300px;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
       background: #f8fafc;
       color: #1e293b;
@@ -18,97 +18,27 @@
     }
     .header h1 { font-size: 15px; font-weight: 800; }
     .header p { font-size: 11px; opacity: 0.85; margin-top: 2px; }
-
-    /* Token setup section */
-    .token-section {
-      margin: 14px;
-      background: white;
-      border: 1.5px solid #e2e8f0;
-      border-radius: 12px;
-      overflow: hidden;
-    }
-    .token-header {
-      background: #fef9c3;
-      border-bottom: 1px solid #fde68a;
-      padding: 10px 14px;
-      font-size: 12px;
-      font-weight: 700;
-      color: #92400e;
-    }
-    .token-body { padding: 12px 14px; }
-    .token-body input {
-      width: 100%;
-      padding: 8px 10px;
-      border: 1.5px solid #e2e8f0;
-      border-radius: 8px;
-      font-size: 12px;
-      margin-bottom: 8px;
-      font-family: monospace;
-    }
-    .token-body input:focus { outline: none; border-color: #10b981; }
-    .token-body button {
-      width: 100%;
-      padding: 8px;
-      background: #059669;
-      color: white;
-      border: none;
-      border-radius: 8px;
-      font-size: 12px;
-      font-weight: 700;
-      cursor: pointer;
-    }
-    .token-body button:hover { background: #047857; }
-    .token-set { padding: 10px 14px; display: flex; align-items: center; gap-8px; }
-    .token-ok {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 12px;
-      color: #059669;
-      font-weight: 700;
-      padding: 10px 14px;
-    }
-
-    /* Stats */
-    .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding: 0 14px 14px; }
+    .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding: 14px; }
     .stat {
-      background: white;
-      border: 1px solid #e2e8f0;
-      border-radius: 10px;
-      padding: 10px;
-      text-align: center;
+      background: white; border: 1px solid #e2e8f0;
+      border-radius: 10px; padding: 10px; text-align: center;
     }
     .stat .num { font-size: 22px; font-weight: 900; color: #059669; }
     .stat .lbl { font-size: 11px; color: #64748b; }
-
-    /* Stores */
     .stores { padding: 0 14px 14px; }
     .store-row {
       display: flex; align-items: center; justify-content: space-between;
-      padding: 9px 12px;
-      background: white;
-      border: 1px solid #e2e8f0;
-      border-radius: 9px;
-      margin-bottom: 7px;
-      font-size: 12px;
+      padding: 9px 12px; background: white; border: 1px solid #e2e8f0;
+      border-radius: 9px; margin-bottom: 7px; font-size: 12px;
     }
     .store-row .name { font-weight: 600; flex: 1; margin-left: 8px; }
-    .badge {
-      font-size: 10px; font-weight: 700;
-      padding: 2px 7px; border-radius: 20px;
-    }
+    .badge { font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 20px; }
     .badge.live { background: #dcfce7; color: #15803d; }
     .badge.visit { background: #e0f2fe; color: #0369a1; }
-
     .tip {
-      margin: 0 14px 14px;
-      padding: 10px 12px;
-      background: #eff6ff;
-      border: 1px solid #bfdbfe;
-      border-radius: 10px;
-      font-size: 11px;
-      color: #1d4ed8;
-      line-height: 1.6;
+      margin: 0 14px 14px; padding: 10px 12px;
+      background: #eff6ff; border: 1px solid #bfdbfe;
+      border-radius: 10px; font-size: 11px; color: #1d4ed8; line-height: 1.6;
     }
     .tip strong { display: block; margin-bottom: 3px; font-size: 12px; }
     .footer { text-align: center; font-size: 10px; color: #94a3b8; padding-bottom: 12px; }
@@ -119,20 +49,10 @@
 <body>
   <div class="header">
     <h1>🛒 NestBasket Price Tracker</h1>
-    <p id="headerSub">Collecting real prices automatically</p>
+    <p>✅ Connected to Firebase — collecting real prices!</p>
   </div>
 
-  <!-- Token Setup -->
-  <div class="token-section" id="tokenSection">
-    <div class="token-header">⚙️ One-time setup — Enter GitHub Token</div>
-    <div class="token-body">
-      <input type="password" id="tokenInput" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" />
-      <button id="saveToken">Save Token & Start Tracking</button>
-    </div>
-  </div>
-
-  <!-- Stats (shown after token is set) -->
-  <div class="stats" id="statsSection" style="display:none">
+  <div class="stats">
     <div class="stat">
       <div class="num" id="syncCount">0</div>
       <div class="lbl">Products Synced</div>
@@ -143,30 +63,30 @@
     </div>
   </div>
 
-  <div class="stores" id="storesSection" style="display:none">
+  <div class="stores">
     <div class="store-row">
       <span>🟢</span><span class="name">Blinkit</span>
-      <span class="badge visit" id="st-blinkit">Visit site</span>
+      <span class="badge visit" id="st-blinkit">Open site</span>
     </div>
     <div class="store-row">
       <span>🟣</span><span class="name">Zepto</span>
-      <span class="badge visit" id="st-zepto">Visit site</span>
+      <span class="badge visit" id="st-zepto">Open site</span>
     </div>
     <div class="store-row">
       <span>🔴</span><span class="name">BigBasket</span>
-      <span class="badge visit" id="st-bigbasket">Visit site</span>
+      <span class="badge visit" id="st-bigbasket">Open site</span>
     </div>
     <div class="store-row">
       <span>🟠</span><span class="name">Instamart</span>
-      <span class="badge visit" id="st-instamart">Visit site</span>
+      <span class="badge visit" id="st-instamart">Open site</span>
     </div>
   </div>
 
-  <div class="tip" id="tipSection" style="display:none">
-    <strong>📋 To get prices from a store:</strong>
-    Just open that store's website in Chrome.<br/>
-    Extension reads prices automatically in background.<br/>
-    NestBasket updates within 1 minute! ✅
+  <div class="tip">
+    <strong>📋 To collect prices:</strong>
+    Open each store website in Chrome normally.<br/>
+    Extension auto-reads prices in background.<br/>
+    NestBasket shows real prices instantly! ✅
   </div>
 
   <div class="footer">
