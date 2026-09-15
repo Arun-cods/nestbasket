@@ -330,8 +330,8 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
   type LayoutMode = '1' | '2' | '3' | '4' | 'scroll';
   const [layoutMode, setLayoutMode] = useState<LayoutMode>('2');
 
-  // 🔴 LIVE PRICES from Firebase (written by NestBasket Chrome Extension)
-  const { getLivePricesForProduct, lastSync, extensionInstalled } = useLivePrices();
+  // 🔴 LIVE PRICES from GitHub prices.json (written by NestBasket Chrome Extension)
+  const { getLivePricesForProduct, lastSync, hasLiveData } = useLivePrices();
 
 
   React.useEffect(() => {

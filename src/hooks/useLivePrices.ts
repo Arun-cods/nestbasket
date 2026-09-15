@@ -1,15 +1,12 @@
 // src/hooks/useLivePrices.ts
-// Reads REAL prices saved by the NestBasket Chrome Extension from Firebase
-// Extension runs in user's browser → bypasses Cloudflare → saves real prices to Firebase
-// This hook reads from Firebase and merges into product cards
+// Reads REAL prices from prices.json stored in the GitHub repo
+// Chrome Extension writes real prices there → Website reads for free via raw.githubusercontent.com
 
 import { useState, useEffect, useCallback } from 'react';
 
-// ═══════════════════════════════════════════════════════════════
-// Firebase Realtime Database URL (same as in background.js)
-// ═══════════════════════════════════════════════════════════════
-const FIREBASE_URL = 'https://nestbasket-prices-default-rtdb.firebaseio.com';
-// ═══════════════════════════════════════════════════════════════
+// Reads directly from the GitHub repo — completely free, no Firebase needed!
+const PRICES_URL =
+  'https://raw.githubusercontent.com/Arun-cods/nestbasket/main/prices.json';
 
 export interface LiveStorePrice {
   name: string;
@@ -22,16 +19,16 @@ export interface LiveStorePrice {
   updatedAt: number;
 }
 
-// All live prices from Firebase: { blinkit: { product_key: {...} }, zepto: {...}, ... }
 export interface AllLivePrices {
   blinkit?: Record<string, LiveStorePrice>;
   zepto?: Record<string, LiveStorePrice>;
   bigbasket?: Record<string, LiveStorePrice>;
   instamart?: Record<string, LiveStorePrice>;
-  lastFetched?: number;
+  lastUpdated?: string;
+  totalProducts?: number;
 }
 
-// Convert product name to Firebase key (same logic as background.js)
+// Convert product name to storage key (same as extension background.js)
 function toKey(name: string): string {
   return (name || '')
     .toLowerCase()
@@ -41,7 +38,7 @@ function toKey(name: string): string {
     .substring(0, 100);
 }
 
-// In-memory cache so we don't re-fetch on every render
+// In-memory cache — avoids re-fetching on every render
 let memCache: AllLivePrices | null = null;
 let cacheTime = 0;
 const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
@@ -50,10 +47,9 @@ export function useLivePrices() {
   const [allPrices, setAllPrices] = useState<AllLivePrices>(memCache || {});
   const [loading, setLoading] = useState(false);
   const [lastSync, setLastSync] = useState<Date | null>(null);
-  const [extensionInstalled, setExtensionInstalled] = useState<boolean | null>(null);
+  const [hasLiveData, setHasLiveData] = useState(false);
 
   const fetchAllPrices = useCallback(async () => {
-    // Use cache if fresh
     if (memCache && Date.now() - cacheTime < CACHE_TTL) {
       setAllPrices(memCache);
       return;
@@ -61,24 +57,27 @@ export function useLivePrices() {
 
     setLoading(true);
     try {
-      // Fetch all stores at once using Firebase shallow read
-      const res = await fetch(`${FIREBASE_URL}/prices.json`, {
-        signal: AbortSignal.timeout(8000),
-      });
+      // Add cache-busting to avoid stale GitHub CDN cache
+      const url = `${PRICES_URL}?t=${Math.floor(Date.now() / 60000)}`;
+      const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
 
-      if (!res.ok) throw new Error(`Firebase ${res.status}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
       const data: AllLivePrices = await res.json();
-      if (data) {
+
+      // Check if any real data exists (not just empty objects)
+      const totalProducts = data?.totalProducts || 0;
+      const dataIsReal = totalProducts > 0;
+
+      if (dataIsReal) {
         memCache = data;
         cacheTime = Date.now();
         setAllPrices(data);
-        setLastSync(new Date());
-        setExtensionInstalled(true);
+        setLastSync(new Date(data.lastUpdated || Date.now()));
+        setHasLiveData(true);
       }
     } catch (_) {
-      // Firebase not set up yet or no data — graceful no-op
-      setExtensionInstalled(false);
+      // prices.json not yet populated — graceful no-op, keep using static prices
     } finally {
       setLoading(false);
     }
@@ -91,14 +90,14 @@ export function useLivePrices() {
     return () => clearInterval(interval);
   }, [fetchAllPrices]);
 
-  // Get merged live prices for a specific product across all stores
+  // Get live prices for a specific product from all stores
   const getLivePricesForProduct = useCallback((productName: string) => {
     const key = toKey(productName);
     const result: Record<string, LiveStorePrice | undefined> = {};
 
     (['blinkit', 'zepto', 'bigbasket', 'instamart'] as const).forEach(store => {
       const storeData = allPrices[store];
-      if (storeData) {
+      if (storeData && storeData[key]) {
         result[store] = storeData[key];
       }
     });
@@ -106,19 +105,12 @@ export function useLivePrices() {
     return result;
   }, [allPrices]);
 
-  // Check if a product has any live price
-  const hasLivePrice = useCallback((productName: string) => {
-    const prices = getLivePricesForProduct(productName);
-    return Object.values(prices).some(p => p && p.price > 0);
-  }, [getLivePricesForProduct]);
-
   return {
     allPrices,
     getLivePricesForProduct,
-    hasLivePrice,
     loading,
     lastSync,
-    extensionInstalled,
+    hasLiveData,
     refresh: fetchAllPrices,
   };
 }
