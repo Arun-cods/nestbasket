@@ -511,6 +511,13 @@ export function getDirectStoreBuyUrl(
     !existingOfferUrl.includes('/c/NestBasket') &&
     !existingOfferUrl.includes('affid=NestBasket')
   ) {
+    if (platformId === 'flipkart' && existingOfferUrl.includes('marketplace=GROCERY')) {
+      const cleaned = existingOfferUrl
+        .replace('&marketplace=GROCERY', '')
+        .replace('marketplace=GROCERY&', '')
+        .replace('marketplace=GROCERY', '');
+      return appendAffiliateTracking(cleaned, platformId);
+    }
     return appendAffiliateTracking(existingOfferUrl, platformId);
   }
 
@@ -546,7 +553,7 @@ export function getDirectStoreBuyUrl(
       targetUrl = `https://www.swiggy.com/instamart/search?query=${qEnc}`;
       break;
     case 'flipkart':
-      targetUrl = `https://www.flipkart.com/search?q=${qEnc}&marketplace=GROCERY`;
+      targetUrl = `https://www.flipkart.com/search?q=${qEnc}`;
       break;
     default:
       targetUrl = `https://www.bigbasket.com/ps/?q=${qEnc}`;
