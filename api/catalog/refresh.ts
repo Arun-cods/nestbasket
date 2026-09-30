@@ -8,8 +8,10 @@ const stores = ['blinkit','zepto','bigbasket'] as const;
 
 export default async function handler(req: any, res: any) {
   if (req.method !== 'GET' && req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' });
-  const secret = process.env.CATALOG_REFRESH_SECRET;
-  if (secret && req.headers.authorization !== 'Bearer ' + secret) return res.status(401).json({ error: 'Unauthorized' });
+  const catalogSecret = process.env.CATALOG_REFRESH_SECRET;
+  const cronSecret = process.env.CRON_SECRET;
+  const auth = req.headers.authorization;
+  if ((catalogSecret || cronSecret) && auth !== 'Bearer ' + catalogSecret && auth !== 'Bearer ' + cronSecret) return res.status(401).json({ error: 'Unauthorized' });
   if (!process.env.DATABASE_URL) return res.status(503).json({ error: 'DATABASE_URL is not configured' });
 
   const summary: Record<string, unknown> = {};
