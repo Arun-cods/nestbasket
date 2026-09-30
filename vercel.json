@@ -1,4 +1,7 @@
 {
+  "crons": [
+    { "path": "/api/cron/catalog-refresh", "schedule": "*/15 * * * *" }
+  ],
   "rewrites": [
     {
       "source": "/(.*)",
