@@ -1,4 +1,4 @@
-﻿import { PlatformId } from '../types';
+import { PlatformId } from '../types';
 
 // Deterministic hash to generate stable, authentic-looking SKU identifiers for dynamic products
 function hashString(str: string): number {
@@ -384,6 +384,14 @@ export const VERIFIED_DIRECT_STORE_LINKS: Record<string, Record<PlatformId, stri
     instamart: 'https://www.swiggy.com/instamart/item/parle-g-original-gluco-biscuits-250-g',
     flipkart: 'https://www.flipkart.com/parle-g-biscuits/p/itma0a1b2c3d4e9b',
   },
+  'coloured-roachtip-pad': {
+    blinkit: 'https://blinkit.com/prn/coloured-roachtip-pad-original-gangster/prid/704284',
+    zepto: 'https://www.zeptonow.com/search?q=Coloured+Roach+Tip+Pad',
+    bigbasket: 'https://www.bigbasket.com/ps/?q=Coloured+Roach+Tip+Pad',
+    instamart: 'https://www.swiggy.com/instamart/search?query=Coloured+Roach+Tip+Pad',
+    amazon: 'https://www.amazon.in/s?k=Coloured+Roach+Tip+Pad&i=nowstore',
+    flipkart: 'https://www.flipkart.com/search?q=Coloured+Roach+Tip+Pad',
+  },
 };
 
 /**
@@ -391,6 +399,8 @@ export const VERIFIED_DIRECT_STORE_LINKS: Record<string, Record<PlatformId, stri
  */
 export function findVerifiedProductKey(name: string): string | null {
   const norm = (name || '').toLowerCase();
+  
+  if (norm.includes('roachtip') || norm.includes('roach tip') || norm.includes('original gangster')) return 'coloured-roachtip-pad';
   
   if (norm.includes('taaza') || (norm.includes('amul') && norm.includes('toned milk'))) return 'amul-taaza-milk';
   if (norm.includes('amul gold') || (norm.includes('gold') && norm.includes('milk'))) return 'amul-gold-milk';
@@ -480,33 +490,79 @@ export function getDirectStoreBuyUrl(
     }
   }
 
-  // Fallback direct product URL generation for any dynamic catalog item
-  const slug = slugify(productName) || 'item';
-  const hash = hashString(productName);
-  const idNum = 10000 + (hash % 90000);
-  const hexPart = hash.toString(16).padStart(8, '0');
+  // Canonical Search Fallback:
+  // As established in the architecture, never fabricate synthetic product IDs (which trigger 404 errors).
+  // When an exact verified SKU is not yet recorded, open the store's targeted query pre-filled with the exact product name!
+  const query = encodeURIComponent(productName.trim());
 
   switch (platformId) {
-    case 'zepto':
-      return `https://www.zeptonow.com/pn/${slug}/pvid/${hexPart}-8e10-410d-8380-60ea8d11c039`;
-
     case 'blinkit':
-      return `https://blinkit.com/prn/${slug}/prid/${idNum}`;
+      return `https://blinkit.com/s/?q=${query}`;
 
-    case 'bigbasket':
-      return `https://www.bigbasket.com/pd/${1200000 + (hash % 800000)}/${slug}/`;
-
-    case 'amazon':
-      // Return direct Amazon product detail page
-      return `https://www.amazon.in/dp/B0${hexPart.slice(0, 8).toUpperCase()}`;
+    case 'zepto':
+      return `https://www.zeptonow.com/search?q=${query}`;
 
     case 'instamart':
-      return `https://www.swiggy.com/instamart/item/${slug}`;
+      return `https://www.swiggy.com/instamart/search?query=${query}`;
+
+    case 'bigbasket':
+      return `https://www.bigbasket.com/ps/?q=${query}`;
+
+    case 'amazon':
+      return `https://www.amazon.in/s?k=${query}&i=nowstore`;
 
     case 'flipkart':
-      return `https://www.flipkart.com/${slug}/p/itm${hexPart.slice(0, 10)}`;
+      return `https://www.flipkart.com/search?q=${query}`;
 
     default:
-      return `https://www.bigbasket.com/pd/${idNum}/${slug}/`;
+      return `https://blinkit.com/s/?q=${query}`;
+  }
+}
+
+/**
+ * Returns true if an exact verified direct product page link exists (not a search query)
+ */
+export function isStoreOfferVerified(
+  platformId: PlatformId,
+  productName: string,
+  existingOfferUrl?: string
+): boolean {
+  if (
+    existingOfferUrl &&
+    existingOfferUrl.startsWith('https://') &&
+    !existingOfferUrl.includes('/search') &&
+    !existingOfferUrl.includes('/s/?q=') &&
+    !existingOfferUrl.includes('/ps/?q=')
+  ) {
+    return true;
+  }
+  const matchedKey = findVerifiedProductKey(productName);
+  if (matchedKey && VERIFIED_DIRECT_STORE_LINKS[matchedKey]) {
+    const url = VERIFIED_DIRECT_STORE_LINKS[matchedKey][platformId];
+    return Boolean(url && !url.includes('/search') && !url.includes('/s/?q=') && !url.includes('/ps/?q='));
+  }
+  return false;
+}
+
+/**
+ * Returns mobile native app intent URI for Android/iOS users
+ */
+export function getNativeAppIntentUrl(platformId: PlatformId, productName: string): string {
+  const query = encodeURIComponent(productName.trim());
+  switch (platformId) {
+    case 'blinkit':
+      return `intent://blinkit.com/s/?q=${query}#Intent;scheme=https;package=com.grofers.customerapp;end`;
+    case 'zepto':
+      return `intent://www.zeptonow.com/search?q=${query}#Intent;scheme=https;package=com.selldone.zepto;end`;
+    case 'instamart':
+      return `swiggy://instamart/search?query=${query}`;
+    case 'bigbasket':
+      return `intent://www.bigbasket.com/ps/?q=${query}#Intent;scheme=https;package=com.bigbasket.mobileapp;end`;
+    case 'amazon':
+      return `https://www.amazon.in/s?k=${query}&i=nowstore`;
+    case 'flipkart':
+      return `intent://www.flipkart.com/search?q=${query}#Intent;scheme=https;package=com.flipkart.android;end`;
+    default:
+      return `https://blinkit.com/s/?q=${query}`;
   }
 }

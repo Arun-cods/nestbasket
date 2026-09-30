@@ -8,7 +8,7 @@ import { Product, PlatformId } from '../types';
 import { PLATFORMS } from '../data/mockGroceryData';
 import { MASTER_CATALOG_CATEGORIES } from '../data/comprehensiveCatalog';
 import { queryMasterCatalog, CATEGORY_TOTALS } from '../data/masterCatalogEngine';
-import { getDirectStoreBuyUrl } from '../utils/storeLinks';
+import { getDirectStoreBuyUrl, isStoreOfferVerified } from '../utils/storeLinks';
 
 interface PriceComparisonGridProps {
   products: Product[];
@@ -462,7 +462,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
                 <div className={mobileLayout === 'double' ? 'p-3 sm:p-5' : 'p-4 sm:p-5'}>
                   <div className={mobileLayout === 'double' ? 'flex flex-col sm:flex-row gap-2 sm:gap-4 items-start' : 'flex gap-4 items-start'}>
                     <img
-                      src={product.imageUrl}
+                      src={product.canonicalImageUrl || product.imageUrl}
                       alt={product.name}
                       className={
                         mobileLayout === 'double'
@@ -506,6 +506,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
                         const platform = PLATFORMS[platformId];
                         const offer = product.offers[platformId];
                         const isLowest = stats && stats.lowestOffer.platform === platformId && offer.inStock;
+                        const isVerified = isStoreOfferVerified(platformId, product.name, offer?.affiliateUrl);
 
                         if (!offer) return null;
 
@@ -516,7 +517,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
                             target="_blank"
                             rel="noopener noreferrer"
                             onClick={() => onTrackAffiliateClick(platformId, product)}
-                            title={`Click to buy directly on ${platform.name}`}
+                            title={isVerified ? `Verified direct link to ${platform.name}` : `Search and buy on ${platform.name}`}
                             className={`flex items-center justify-between p-2 rounded-xl text-xs transition-colors hover:ring-2 hover:ring-emerald-400/30 cursor-pointer ${
                               isLowest
                                 ? 'bg-emerald-50 border border-emerald-300 font-bold text-emerald-950 shadow-xs'
@@ -526,6 +527,12 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
                             <div className="flex items-center gap-2">
                               <span>{platform.logo}</span>
                               <span className="font-semibold">{platform.name}</span>
+                              {isVerified && (
+                                <span className="text-[9px] font-bold text-emerald-700 bg-emerald-100/80 px-1.5 py-0.5 rounded border border-emerald-300 flex items-center gap-0.5" title="100% Verified Direct SKU Link">
+                                  <Check className="w-2.5 h-2.5 text-emerald-600 stroke-[3]" />
+                                  <span>Direct</span>
+                                </span>
+                              )}
                               {isLowest && (
                                 <span className="bg-emerald-600 text-white text-[9px] font-black px-1.5 py-0.5 rounded uppercase tracking-wider">
                                   Cheapest

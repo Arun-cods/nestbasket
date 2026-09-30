@@ -14,6 +14,8 @@ export interface PlatformMetadata {
   avgDeliveryMin: number;
 }
 
+export type VerificationStatus = 'VERIFIED' | 'SEARCH_FALLBACK' | 'NOT_AVAILABLE';
+
 export interface StoreOffer {
   platform: PlatformId;
   price: number;
@@ -23,6 +25,10 @@ export interface StoreOffer {
   surgeFee: number;
   handlingFee: number;
   affiliateUrl: string;
+  externalProductId?: string | null;
+  externalSlug?: string | null;
+  verified?: boolean;
+  verificationStatus?: VerificationStatus;
 }
 
 export interface Product {
@@ -33,6 +39,10 @@ export interface Product {
   category: 'dairy' | 'veggies' | 'staples' | 'snacks' | 'household' | 'festive' | string;
   unit: string;
   imageUrl: string;
+  canonicalImageUrl?: string;
+  barcode?: string;
+  quantityValue?: number;
+  quantityUnit?: string;
   price?: number;
   mrp?: number;
   trending?: boolean;
