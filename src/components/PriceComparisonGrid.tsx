@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { 
   Search, Sparkles, ShoppingBag, ExternalLink, ArrowUpDown, Check, Tag, 
   ChevronDown, Database, Zap, ArrowLeft, ArrowRight, Layers, SlidersHorizontal, RefreshCw,
@@ -9,6 +9,8 @@ import { PLATFORMS } from '../data/mockGroceryData';
 import { MASTER_CATALOG_CATEGORIES } from '../data/comprehensiveCatalog';
 import { queryMasterCatalog, CATEGORY_TOTALS } from '../data/masterCatalogEngine';
 import { getDirectStoreBuyUrl, isStoreOfferVerified } from '../utils/storeLinks';
+import { searchPersistedCatalog } from '../lib/catalog/liveSearch';
+import { verifiedRowsToProducts } from '../lib/catalog/toProduct';
 
 interface PriceComparisonGridProps {
   products: Product[];
@@ -43,6 +45,9 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
   const [onlyEssentials, setOnlyEssentials] = useState<boolean>(false);
   const [sortBy, setSortBy] = useState<'savings' | 'price-asc' | 'price-desc'>('savings');
   const [mobileLayout, setMobileLayout] = useState<'single' | 'double' | 'scroll'>('scroll');
+  const [liveProducts, setLiveProducts] = useState<Product[]>([]);
+  const [liveSearchLoading, setLiveSearchLoading] = useState(false);
+  const [liveSearchError, setLiveSearchError] = useState<string | null>(null);
 
   React.useEffect(() => {
     if (externalCategory !== undefined && externalCategory !== selectedCategory) {
@@ -68,6 +73,32 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
     'Butter 100g', 'Sunflower Oil', 'Eggs 12s', 'Maggi 70g', 'Surf Excel 1kg'
   ];
 
+  useEffect(() => {
+    let cancelled = false;
+    const query = searchQuery.trim();
+    if (!query) {
+      setLiveProducts([]);
+      setLiveSearchError(null);
+      return;
+    }
+    setLiveSearchLoading(true);
+    setLiveSearchError(null);
+    const timer = window.setTimeout(async () => {
+      try {
+        const rows = await searchPersistedCatalog(query);
+        if (!cancelled) setLiveProducts(verifiedRowsToProducts(rows));
+      } catch (error) {
+        if (!cancelled) {
+          setLiveProducts([]);
+          setLiveSearchError(error instanceof Error ? error.message : 'Verified catalog search failed');
+        }
+      } finally {
+        if (!cancelled) setLiveSearchLoading(false);
+      }
+    }, 300);
+    return () => { cancelled = true; window.clearTimeout(timer); };
+  }, [searchQuery]);
+
   // Query the Master Catalog Engine across all 24,580 SKUs
   const catalogResponse = useMemo(() => {
     const effectivePage = displayMode === 'infinite' ? 1 : currentPage;
@@ -85,8 +116,9 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
   }, [selectedCategory, searchQuery, displayMode, cumulativePageSize, itemsPerPage, currentPage, sortBy, onlyEssentials, cityMultiplier]);
 
   const displayedProducts = useMemo(() => {
-    if (selectedWeightFilter === 'all') return catalogResponse.items;
-    return catalogResponse.items.filter((p) => {
+    const source = searchQuery.trim() ? liveProducts : catalogResponse.items;
+    if (selectedWeightFilter === 'all') return source;
+    return source.filter((p) => {
       const u = (p.unit || '').toLowerCase();
       if (selectedWeightFilter === 'half-kg') {
         return /\b500\s*(g|gm|gram|ml)\b|0\.5\s*kg/i.test(u);
@@ -102,14 +134,14 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
       }
       return true;
     });
-  }, [catalogResponse.items, selectedWeightFilter]);
+  }, [catalogResponse.items, selectedWeightFilter, liveProducts, searchQuery]);
 
-  const totalCategorySkus = catalogResponse.totalCount;
+  const totalCategorySkus = searchQuery.trim() ? liveProducts.length : catalogResponse.totalCount;
   const totalPages = catalogResponse.totalPages;
 
   // Calculate cheapest store and max savings for a product
   const getProductStats = (product: Product) => {
-    const validOffers = Object.values(product.offers).filter((o) => o.inStock);
+    const validOffers = Object.values(product.offers).filter((o) => o.inStock && isStoreOfferVerified(o.platform, product.name, o.productUrl || o.affiliateUrl) && o.price != null);
     if (validOffers.length === 0) return null;
 
     const lowestOffer = validOffers.reduce((min, o) => (o.price < min.price ? o : min), validOffers[0]);
@@ -156,14 +188,14 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
           <div className="min-w-0">
             <div className="flex flex-wrap items-center gap-2">
               <span className="font-extrabold text-white text-xs sm:text-base">
-                24,580 Catalog Products
+                Verified Catalog Results
               </span>
               <span className="px-2 py-0.5 rounded-full text-[10px] font-black bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
-                100% LIVE
+                VERIFIED DATA
               </span>
             </div>
             <div className="text-slate-400 text-[11px] sm:text-xs mt-0.5 break-words">
-              Zepto (9,840) • Blinkit (11,450) • Swiggy Instamart (12,100) • Flipkart Minutes (10,500) • BigBasket (24,000) • Amazon Fresh (18,500)
+              Search results below come only from stored product IDs, direct URLs, prices, stock and timestamps.
             </div>
           </div>
         </div>
@@ -724,7 +756,15 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
 
       </div>
 
-      {displayedProducts.length === 0 && (
+      {searchQuery.trim() && liveSearchLoading && (
+        <div className="text-center py-8 text-sm font-semibold text-slate-500">Checking verified catalog data…</div>
+      )}
+      {searchQuery.trim() && liveSearchError && (
+        <div className="text-center py-8 bg-amber-50 rounded-3xl border border-amber-200 mt-6 text-sm font-semibold text-amber-800">
+          Verified catalog is not connected yet. Configure DATABASE_URL and an approved store feed.
+        </div>
+      )}
+      {displayedProducts.length === 0 && !liveSearchLoading && (
         <div className="text-center py-16 bg-white rounded-3xl border border-slate-200 mt-6">
           <p className="text-slate-500 font-semibold text-sm">No grocery items found for "{searchQuery}".</p>
           <button
