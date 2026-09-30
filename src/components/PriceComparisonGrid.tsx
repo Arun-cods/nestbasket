@@ -497,8 +497,8 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
                   {/* Multi-Store Price Comparison Matrix (Full details - Never Hidden) */}
                   <div className="mt-4 pt-4 border-t border-slate-100">
                     <div className="text-[11px] font-bold text-slate-400 uppercase tracking-wider mb-2 flex items-center justify-between">
-                      <span>Live Darkstore Rates</span>
-                      <span className="text-slate-400 font-mono text-[10px]">Real-Time Sync</span>
+                      <span>Store Offers</span>
+                      <span className="text-slate-400 font-mono text-[10px]">Verified where available</span>
                     </div>
 
                     <div className="space-y-1.5">
@@ -506,18 +506,18 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
                         const platform = PLATFORMS[platformId];
                         const offer = product.offers[platformId];
                         const isLowest = stats && stats.lowestOffer.platform === platformId && offer.inStock;
-                        const isVerified = isStoreOfferVerified(platformId, product.name, offer?.affiliateUrl);
+                        const isVerified = isStoreOfferVerified(platformId, product.name, offer?.productUrl || offer?.affiliateUrl);
 
                         if (!offer) return null;
 
                         return (
                           <a
                             key={platformId}
-                            href={offer.affiliateUrl || getDirectStoreBuyUrl(platformId, product.name)}
+                            href={isVerified ? (offer.productUrl || offer.affiliateUrl) : getDirectStoreBuyUrl(platformId, product.name)}
                             target="_blank"
                             rel="noopener noreferrer"
                             onClick={() => onTrackAffiliateClick(platformId, product)}
-                            title={isVerified ? `Verified direct link to ${platform.name}` : `Search and buy on ${platform.name}`}
+                            title={isVerified ? `Verified product listing on ${platform.name}` : `Search ${product.name} on ${platform.name}`}
                             className={`flex items-center justify-between p-2 rounded-xl text-xs transition-colors hover:ring-2 hover:ring-emerald-400/30 cursor-pointer ${
                               isLowest
                                 ? 'bg-emerald-50 border border-emerald-300 font-bold text-emerald-950 shadow-xs'
@@ -541,7 +541,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
                             </div>
 
                             <div className="flex items-center gap-3">
-                              {offer.inStock ? (
+                              {isVerified && offer.inStock && offer.price != null && offer.mrp != null ? (
                                 <>
                                   <span className="text-slate-400 text-[11px] line-through">
                                     ₹{offer.mrp}
@@ -550,7 +550,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
                                     ₹{offer.price}
                                   </span>
                                   <span className="text-[10px] text-slate-500 hidden sm:inline">
-                                    {offer.deliveryTimeMin}m
+                                    {offer.deliveryTimeMin ?? '—'}m
                                   </span>
                                   <ExternalLink className="w-3 h-3 text-slate-400 opacity-60" />
                                 </>
