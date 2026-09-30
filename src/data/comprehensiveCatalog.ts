@@ -1,91 +1,30 @@
 import { Product, PlatformId } from '../types';
 import { getDirectStoreBuyUrl } from '../utils/storeLinks';
 
-// Helper to create realistic multi-platform pricing with exact Indian darkstore pricing nuances & direct buy links
-export const generateStoreOffers = (basePrice: number, mrp: number, productName: string = ''): Record<PlatformId, any> => {
-  // Deterministic seed based on product name to keep prices authentic and stable
-  let hash = 0;
-  for (let i = 0; i < (productName || '').length; i++) {
-    hash = (hash << 5) - hash + productName.charCodeAt(i);
-    hash |= 0;
-  }
-  const factor = (Math.abs(hash) % 100) / 1000; // 0.000 to 0.099
-
-  // Zepto: Aggressive competitive discount, lightning fast delivery
-  const zeptoPrice = Math.max(Math.min(basePrice, mrp), Math.round(basePrice * (0.95 + factor * 0.04)));
-  // Blinkit: Near MRP or standard darkstore rate, occasional surge in peak slots
-  const blinkitPrice = Math.min(mrp, Math.max(basePrice, Math.round(basePrice * (0.99 + factor * 0.03))));
-  // Instamart: Standard quick-commerce price
-  const instamartPrice = Math.min(mrp, Math.max(zeptoPrice, Math.round(basePrice * (0.97 + factor * 0.04))));
-  // BigBasket (BB Now): Lowest basket price on essentials
-  const bbPrice = Math.max(Math.round(basePrice * 0.89), Math.round(basePrice * (0.91 + factor * 0.03)));
-  // Amazon Fresh: Wholesale competitive pricing
-  const amazonPrice = Math.max(Math.round(basePrice * 0.89), Math.round(basePrice * (0.92 + factor * 0.04)));
-  // Flipkart Minutes: Discounted introductory rates
-  const flipkartPrice = Math.max(Math.round(basePrice * 0.90), Math.round(basePrice * (0.93 + factor * 0.04)));
-
-  return {
-    zepto: {
-      platform: 'zepto',
-      price: zeptoPrice,
-      mrp,
-      inStock: true,
-      deliveryTimeMin: 7 + (Math.abs(hash) % 4),
-      surgeFee: 0,
-      handlingFee: 4,
-      affiliateUrl: getDirectStoreBuyUrl('zepto', productName),
+// Local catalog records are display-only until a store adapter supplies a real ID, URL, price and stock.
+// Never synthesize store prices, stock or product IDs.
+export const generateStoreOffers = (_basePrice: number, _mrp: number, _productName: string = ''): Record<PlatformId, any> => {
+  const platforms: PlatformId[] = ['zepto', 'blinkit', 'instamart', 'bigbasket', 'amazon', 'flipkart'];
+  return Object.fromEntries(platforms.map((platform) => [
+    platform,
+    {
+      platform,
+      price: null,
+      mrp: null,
+      inStock: false,
+      deliveryTimeMin: null,
+      surgeFee: null,
+      handlingFee: null,
+      affiliateUrl: '',
+      productUrl: null,
+      externalProductId: null,
+      externalSlug: null,
+      verified: false,
+      verificationStatus: 'UNVERIFIED',
+      lastVerifiedAt: null,
+      storeImageUrl: null,
     },
-    blinkit: {
-      platform: 'blinkit',
-      price: blinkitPrice,
-      mrp,
-      inStock: true,
-      deliveryTimeMin: 10 + (Math.abs(hash) % 4),
-      surgeFee: (Math.abs(hash) % 6 === 0) ? 15 : 0,
-      handlingFee: 5,
-      affiliateUrl: getDirectStoreBuyUrl('blinkit', productName),
-    },
-    instamart: {
-      platform: 'instamart',
-      price: instamartPrice,
-      mrp,
-      inStock: true,
-      deliveryTimeMin: 12 + (Math.abs(hash) % 5),
-      surgeFee: 0,
-      handlingFee: 6,
-      affiliateUrl: getDirectStoreBuyUrl('instamart', productName),
-    },
-    bigbasket: {
-      platform: 'bigbasket',
-      price: bbPrice,
-      mrp,
-      inStock: true,
-      deliveryTimeMin: 18 + (Math.abs(hash) % 6),
-      surgeFee: 0,
-      handlingFee: 3,
-      affiliateUrl: getDirectStoreBuyUrl('bigbasket', productName),
-    },
-    amazon: {
-      platform: 'amazon',
-      price: amazonPrice,
-      mrp,
-      inStock: true,
-      deliveryTimeMin: 25 + (Math.abs(hash) % 15),
-      surgeFee: 0,
-      handlingFee: 0,
-      affiliateUrl: getDirectStoreBuyUrl('amazon', productName),
-    },
-    flipkart: {
-      platform: 'flipkart',
-      price: flipkartPrice,
-      mrp,
-      inStock: true,
-      deliveryTimeMin: 9 + (Math.abs(hash) % 4),
-      surgeFee: 0,
-      handlingFee: 4,
-      affiliateUrl: getDirectStoreBuyUrl('flipkart', productName),
-    },
-  };
+  ]));
 };
 
 export const MASTER_CATALOG_CATEGORIES = [
