@@ -116,7 +116,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
   }, [selectedCategory, searchQuery, displayMode, cumulativePageSize, itemsPerPage, currentPage, sortBy, onlyEssentials, cityMultiplier]);
 
   const displayedProducts = useMemo(() => {
-    const source = searchQuery.trim() ? liveProducts : catalogResponse.items;
+    const source = liveProducts;
     if (selectedWeightFilter === 'all') return source;
     return source.filter((p) => {
       const u = (p.unit || '').toLowerCase();
@@ -136,8 +136,8 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
     });
   }, [catalogResponse.items, selectedWeightFilter, liveProducts, searchQuery]);
 
-  const totalCategorySkus = searchQuery.trim() ? liveProducts.length : catalogResponse.totalCount;
-  const totalPages = catalogResponse.totalPages;
+  const totalCategorySkus = liveProducts.length;
+  const totalPages = Math.max(1, Math.ceil(liveProducts.length / itemsPerPage));
 
   // Calculate cheapest store and max savings for a product
   const getProductStats = (product: Product) => {
