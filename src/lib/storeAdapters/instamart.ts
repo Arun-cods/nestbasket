@@ -41,7 +41,7 @@ export async function searchInstamart(
       id: 1,
       method: 'initialize',
       params: {
-        protocolVersion: '2025-03-26',
+        protocolVersion: '2025-06-18',
         capabilities: {},
         clientInfo: {
           name: 'NestBasket',
@@ -106,7 +106,17 @@ export async function searchInstamart(
   const raw = await toolResponse.text();
 
   try {
-    const parsed = JSON.parse(raw);
+    // Streamable HTTP may return JSON or Server-Sent Events.
+    const jsonPayload = raw.trim().startsWith('{')
+      ? raw.trim()
+      : raw
+          .split(/\\r?\\n/)
+          .filter((line) => line.startsWith('data:'))
+          .map((line) => line.slice(5).trim())
+          .filter(Boolean)
+          .at(-1) ?? '';
+
+    const parsed = JSON.parse(jsonPayload);
     if (parsed?.error) {
       return {
         success: false,
