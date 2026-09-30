@@ -14,7 +14,8 @@ export function ingestVerifiedProducts(store: NestBasketStore, rows: unknown[]):
     const url = p.productUrl;
     const price = Number(p.price);
     if (!id) { rejectedReasons.push('missing external product/variant ID'); continue; }
-    if (typeof url !== 'string' || !url.startsWith('https://')) { rejectedReasons.push('missing direct HTTPS product URL'); continue; }
+    if (typeof url !== 'string' || !url.startsWith('https://') || /(?:\/search\b|[?&](?:q|query)=)/i.test(url)) { rejectedReasons.push('missing direct HTTPS product URL'); continue; }
+    if (p.imageUrl != null && (typeof p.imageUrl !== 'string' || !p.imageUrl.startsWith('https://'))) { rejectedReasons.push('invalid product image URL'); continue; }
     if (!p.name) { rejectedReasons.push('missing product name'); continue; }
     if (!Number.isFinite(price) || price < 0) { rejectedReasons.push('invalid price'); continue; }
     products.push({
