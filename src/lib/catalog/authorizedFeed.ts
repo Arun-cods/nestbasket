@@ -41,7 +41,7 @@ export async function searchAuthorizedFeed(
   query: string,
 ): Promise<VerifiedStoreProduct[]> {
   const url = new URL(config.endpoint);
-  url.searchParams.set('q', query);
+  if (query.trim()) url.searchParams.set('q', query.trim());
 
   const headers: Record<string, string> = { Accept: 'application/json' };
   if (config.authorizationHeader) headers.Authorization = config.authorizationHeader;
