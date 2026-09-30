@@ -195,7 +195,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
               </span>
             </div>
             <div className="text-slate-400 text-[11px] sm:text-xs mt-0.5 break-words">
-              Search results below come only from stored product IDs, direct URLs, prices, stock and timestamps.
+              Search results are shown only when a connected source has verified the product ID, direct URL, current price, stock and timestamp.
             </div>
           </div>
         </div>
@@ -221,7 +221,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
               type="text"
               value={searchQuery}
               onChange={(e) => handleSearchChange(e.target.value)}
-              placeholder="Search across 24,580 items: Nutella, Atta, Amul Gold, Tomatoes, Surf Excel..."
+              placeholder="Search the verified catalog: Nutella, Atta, Amul Gold, Tomatoes, Surf Excel..."
               className="w-full pl-10 pr-4 py-3 bg-slate-50 border border-slate-200 rounded-2xl text-xs sm:text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500/20 focus:border-emerald-500 transition-all placeholder:text-slate-400 text-slate-900 font-medium"
             />
             {searchQuery && (
@@ -283,7 +283,7 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
           ))}
         </div>
 
-        {/* Category Pills with Live 24,580 SKU Counts */}
+        {/* Verified Catalog Categories */}
         <div className="flex items-center gap-2 overflow-x-auto pt-2 border-t border-slate-100 pb-1 scrollbar-none w-full max-w-full min-w-0">
           {MASTER_CATALOG_CATEGORIES.map((cat) => (
             <button
@@ -297,11 +297,6 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
             >
               <span>{cat.icon}</span>
               <span>{cat.label}</span>
-              <span className={`text-[10px] px-1.5 py-0.5 rounded-full font-bold ${
-                selectedCategory === cat.id ? 'bg-emerald-800 text-emerald-100' : 'bg-slate-200 text-slate-600'
-              }`}>
-                {cat.totalSkus}
-              </span>
             </button>
           ))}
         </div>
