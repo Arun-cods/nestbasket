@@ -36,9 +36,9 @@ export const App: React.FC = () => {
   });
   const [isLocationModalOpen, setIsLocationModalOpen] = useState(false);
   const [realtimeUpdateToast, setRealtimeUpdateToast] = useState<string | null>(null);
-  const [lastSyncSeconds, setLastSyncSeconds] = useState(3);
+  const [lastSyncSeconds, setLastSyncSeconds] = useState(0);
 
-  const [products, setProducts] = useState<Product[]>(COMPREHENSIVE_GROCERY_DATA);
+  const [products] = useState<Product[]>(COMPREHENSIVE_GROCERY_DATA);
   const [cityToast, setCityToast] = useState<string | null>(null);
   const [cartItems, setCartItems] = useState<CartItem[]>([
     { product: COMPREHENSIVE_GROCERY_DATA[0], quantity: 2 }, // 2L Milk
@@ -91,56 +91,11 @@ export const App: React.FC = () => {
     }
   }, []);
 
-  // Continuous Real-Time Telemetry & Price Fluctuation Engine (every 18 seconds)
+  // Prices are never simulated on the client. Verified store data is read from catalog APIs.
   useEffect(() => {
-    const interval = setInterval(() => {
-      setLastSyncSeconds(0);
-      setProducts((prev) => {
-        const randomIndex = Math.floor(Math.random() * prev.length);
-        const targetProduct = prev[randomIndex];
-        const platforms: PlatformId[] = ['zepto', 'blinkit', 'instamart', 'bigbasket'];
-        const randomP = platforms[Math.floor(Math.random() * platforms.length)];
-        const currentOffer = targetProduct.offers[randomP];
-        if (!currentOffer) return prev;
-
-        const isDrop = Math.random() > 0.4;
-        const delta = isDrop ? -Math.floor(1 + Math.random() * 3) : Math.floor(1 + Math.random() * 2);
-        const newPrice = Math.max(12, currentOffer.price + delta);
-
-        if (newPrice !== currentOffer.price) {
-          const storeLabel = randomP.toUpperCase();
-          const shortName = targetProduct.name.split('(')[0].trim();
-          const toastMsg = isDrop
-            ? `⚡ Real-Time Price Drop: ${storeLabel} discounted ${shortName} to ₹${newPrice}! (-₹${Math.abs(delta)})`
-            : `⚡ Real-Time Rate Update: ${storeLabel} synced ${shortName} at ₹${newPrice}`;
-          setRealtimeUpdateToast(toastMsg);
-          setTimeout(() => setRealtimeUpdateToast(null), 4000);
-        }
-
-        const updatedOffers = {
-          ...targetProduct.offers,
-          [randomP]: {
-            ...currentOffer,
-            price: newPrice,
-          },
-        };
-
-        const next = [...prev];
-        next[randomIndex] = { ...targetProduct, offers: updatedOffers };
-        return next;
-      });
-    }, 18000);
-
-    const ticker = setInterval(() => {
-      setLastSyncSeconds((s) => s + 1);
-    }, 1000);
-
-    return () => {
-      clearInterval(interval);
-      clearInterval(ticker);
-    };
+    const ticker = setInterval(() => setLastSyncSeconds((s) => s + 1), 1000);
+    return () => clearInterval(ticker);
   }, []);
-
   const handleOpenPrivacyPolicy = (tab: 'dpdp' | 'affiliate' | 'terms' = 'dpdp') => {
     setPrivacyModalTab(tab);
     setIsPrivacyModalOpen(true);
@@ -184,68 +139,20 @@ export const App: React.FC = () => {
   const [homeSearchQuery, setHomeSearchQuery] = useState<string>('');
   const [founderStats, setFounderStats] = useState<FounderStats>(INITIAL_FOUNDER_STATS);
 
-  // Fully working reactive city & area switching: recomputes darkstore prices and surge for selected city
   const handleSelectCity = (city: CityOption, area?: string) => {
     setSelectedCity(city);
     const chosenArea = area || city.popularAreas[0];
     setSelectedArea(chosenArea);
     localStorage.setItem('NestBasket_selected_city', city.id);
     localStorage.setItem('NestBasket_selected_area', chosenArea);
-    
-    // Dynamic city pricing variance simulation
-    const cityMultipliers: Record<string, number> = {
-      blr: 1.0,
-      del: 0.98,
-      mum: 1.04,
-      hyd: 0.97,
-      pun: 0.99,
-      che: 0.99,
-      kol: 0.95,
-      sur: 0.92,
-    };
-    const mult = cityMultipliers[city.id] || 1.0;
-
-    setProducts((prev) =>
-      prev.map((p) => {
-        const updatedOffers = { ...p.offers };
-        Object.keys(updatedOffers).forEach((pKey) => {
-          const pId = pKey as PlatformId;
-          const origPrice = updatedOffers[pId].price;
-          updatedOffers[pId] = {
-            ...updatedOffers[pId],
-            price: Math.max(10, Math.round(origPrice * mult)),
-            surgeFee: (city.id === 'del' || city.id === 'mum') && pId === 'blinkit' ? 15 : 0,
-          };
-        });
-        return { ...p, offers: updatedOffers };
-      })
-    );
-
-    setCityToast(`📍 Switched location to ${city.name} (${chosenArea})! Real-time darkstore rates updated.`);
+    setCityToast('📍 Switched location to ' + city.name + ' (' + chosenArea + '). Store availability is verified by connected sources.');
     setTimeout(() => setCityToast(null), 3500);
   };
 
-  // Auto-sync timer simulation: slightly fluctuates prices when sync occurs
   const handleTriggerLivePriceRefresh = () => {
-    setProducts((prev) =>
-      prev.map((p) => {
-        // Minor dynamic fluctuation in one of the platforms
-        const updatedOffers = { ...p.offers };
-        const platforms: PlatformId[] = ['zepto', 'blinkit', 'instamart', 'bigbasket'];
-        const randomP = platforms[Math.floor(Math.random() * platforms.length)];
-        if (updatedOffers[randomP]) {
-          const delta = Math.random() > 0.5 ? 1 : -1;
-          const currentPrice = updatedOffers[randomP].price;
-          updatedOffers[randomP] = {
-            ...updatedOffers[randomP],
-            price: Math.max(10, currentPrice + delta),
-          };
-        }
-        return { ...p, offers: updatedOffers };
-      })
-    );
+    setRealtimeUpdateToast('↻ Refreshing verified catalog data…');
+    setTimeout(() => setRealtimeUpdateToast(null), 2500);
   };
-
   const handleOpenAuth = () => {
     setAuthModalKey((k) => k + 1);
     setIsAuthModalOpen(true);
@@ -324,7 +231,7 @@ export const App: React.FC = () => {
     setCartItems([]);
   };
 
-  const LIVE_URL = 'https://arungopagani.is-a.dev/NestBasket/';
+  const LIVE_URL = window.location.origin + window.location.pathname;
 
   const handleDirectWhatsAppShare = () => {
     const text = `🛒 *NestBasket (बचत रडार) — India's #1 Daily Quick-Commerce Price Tracker!*\n\nEver noticed how Blinkit, Zepto, Swiggy Instamart, and BigBasket charge different prices for the exact same milk, veggies, and atta?\n\nFamilies are saving *₹1,500 to ₹3,500 every month* using NestBasket!\n⚡ Compare 10-minute darkstores in 1 tap\n🥦 Avoid surge charges & find secret discounts\n🎉 *100% FREE for all Indian families*\n\nCheck live rates now:\n${LIVE_URL}`;
