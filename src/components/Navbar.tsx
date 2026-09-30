@@ -49,7 +49,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <div>
               <div className="flex items-center gap-1.5">
                 <span className="font-extrabold text-xl text-slate-900 tracking-tight">
-                  Bachat<span className="text-emerald-600">Radar</span>
+                  Nest<span className="text-emerald-600">Basket</span>
                 </span>
                 <span className="hidden sm:inline-block px-2 py-0.5 text-[10px] font-bold bg-emerald-100 text-emerald-800 rounded-full border border-emerald-300">
                   LIVE INDIA
@@ -65,7 +65,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           <button
             type="button"
             onClick={onOpenLocationModal}
-            className="flex items-center bg-slate-100 hover:bg-emerald-50 transition-all rounded-xl px-2.5 sm:px-3 py-1.5 border border-slate-200 hover:border-emerald-300 text-xs sm:text-sm group cursor-pointer shadow-xs min-w-0 max-w-[130px] sm:max-w-none"
+            className="flex items-center bg-slate-100 hover:bg-emerald-50 transition-all rounded-xl px-2.5 sm:px-3 py-1.5 border border-slate-200 hover:border-emerald-300 text-xs sm:text-sm group cursor-pointer"
             title="Click to detect live GPS location, change area, or check darkstore availability"
           >
             <MapPin className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-emerald-600 mr-1.5 sm:mr-2 shrink-0 group-hover:scale-110 transition-transform" />
@@ -87,7 +87,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             {/* Help Desk Problem Reporting Button - hidden on mobile since it's on bottom bar */}
             <button
               onClick={onOpenHelp}
-              className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold bg-amber-50 hover:bg-amber-100 text-amber-950 transition-all border border-amber-300/80 shadow-xs cursor-pointer"
+              className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold bg-amber-50 hover:bg-amber-100 text-amber-950 transition-all border border-amber-300/80 shadow-sm cursor-pointer"
               title="Report an issue or get help from Founder Desk"
             >
               <HelpCircle className="w-3.5 h-3.5 text-amber-600" />
@@ -97,8 +97,8 @@ export const Navbar: React.FC<NavbarProps> = ({
             {/* Social Share Button - hidden on mobile since it's on bottom bar */}
             <button
               onClick={onOpenShare}
-              className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white transition-all shadow-sm shadow-emerald-600/20 cursor-pointer"
-              title="Share BachatRadar with friends & family"
+              className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white transition-all shadow-sm cursor-pointer"
+              title="Share NestBasket with friends & family"
             >
               <Share2 className="w-3.5 h-3.5" />
               <span className="hidden sm:inline">Share</span>
@@ -109,7 +109,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               <div className="relative">
                 <button
                   onClick={() => setShowUserMenu(!showUserMenu)}
-                  className="flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3 py-1.5 rounded-xl bg-emerald-50 border border-emerald-300 text-emerald-900 text-xs font-bold hover:bg-emerald-100 transition-colors shadow-sm cursor-pointer"
+                  className="flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3 py-1.5 rounded-xl bg-emerald-50 border border-emerald-300 text-emerald-900 text-xs font-bold hover:bg-emerald-100 transition-all cursor-pointer"
                 >
                   <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse shrink-0" />
                   <div className="text-left">
@@ -149,7 +149,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                           setShowUserMenu(false);
                           onToggleFounderMode();
                         }}
-                        className="w-full py-2 px-2.5 rounded-xl bg-slate-900 border border-purple-800 text-amber-400 font-bold text-xs flex items-center justify-between hover:bg-slate-800 transition-colors shadow-sm"
+                        className="w-full py-2 px-2.5 rounded-xl bg-slate-900 border border-purple-800 text-amber-400 font-bold text-xs flex items-center justify-between hover:bg-slate-800 transition-all cursor-pointer"
                       >
                         <div className="flex items-center gap-1.5">
                           <span>👑</span>
@@ -185,7 +185,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                       >
                         <div className="flex items-center gap-2">
                           <Share2 className="w-3.5 h-3.5 text-emerald-600" />
-                          <span>Share BachatRadar</span>
+                          <span>Share NestBasket</span>
                         </div>
                         <span className="text-[10px] text-slate-400">→</span>
                       </button>
@@ -218,7 +218,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             ) : (
               <button
                 onClick={onOpenAuth}
-                className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-bold bg-slate-900 hover:bg-slate-800 text-white transition-all shadow-sm"
+                className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-bold bg-slate-900 hover:bg-slate-800 text-white transition-all shadow-sm cursor-pointer"
               >
                 <User className="w-3.5 h-3.5 text-emerald-400" />
                 <span>Login</span>
@@ -228,7 +228,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             {/* Smart Basket Button */}
             <button
               onClick={onOpenCart}
-              className="relative flex items-center gap-2 px-3.5 py-1.5 rounded-xl text-xs sm:text-sm font-bold bg-emerald-600 hover:bg-emerald-700 text-white transition-all shadow-md shadow-emerald-600/20"
+              className="relative flex items-center gap-2 px-3.5 py-1.5 rounded-xl text-xs sm:text-sm font-bold bg-emerald-600 hover:bg-emerald-700 text-white transition-all shadow-md shadow-emerald-600/20 cursor-pointer"
             >
               <ShoppingBag className="w-4 h-4" />
               <span className="hidden sm:inline">Cart</span>

@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
 );
 
 try {
-  localStorage.removeItem('bachatradar_google_accounts');
+  localStorage.removeItem('nestbasket_google_accounts');
 } catch (e) {}
 
 // Force update Service Worker to ensure fresh build is loaded
@@ -18,7 +18,7 @@ if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
     navigator.serviceWorker.register('./sw.js').then((registration) => {
       registration.update();
-      console.log('BachatRadar Service Worker updated:', registration.scope);
+      console.log('NestBasket Service Worker updated:', registration.scope);
     }).catch((err) => {
       console.warn('SW registration warning:', err);
     });

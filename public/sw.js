@@ -1,5 +1,5 @@
-// BachatRadar Service Worker - Cache-Buster & Network-First
-const CACHE_NAME = 'bachatradar-v8-fresh';
+// NestBasket Service Worker - Cache-Buster & Network-First
+const CACHE_NAME = 'nestbasket-v8-fresh';
 
 self.addEventListener('install', (event) => {
   // Immediately take over from older service workers
