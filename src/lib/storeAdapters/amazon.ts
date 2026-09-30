@@ -1,27 +1,35 @@
 import { VerifiedStoreProduct } from '../catalog/productIdentity';
 
-export interface AmazonSearchConfig {
-  accessKey: string;
-  secretKey: string;
-  partnerTag: string;
-  region?: string;
-  host?: string;
+export interface AmazonCreatorsConfig {
+  credentialId: string;
+  credentialSecret: string;
+  version: string;
   marketplace?: string;
+  endpoint?: string;
 }
 
-export interface AmazonSearchAdapter {
+export interface AmazonCreatorsAdapter {
   search(query: string): Promise<VerifiedStoreProduct[]>;
 }
 
 /**
- * PA-API request signing is intentionally isolated from the browser.
- * Put the signing implementation/server credentials in the Vercel function.
- * Never expose accessKey/secretKey to the React bundle.
+ * Amazon's current supported catalog integration is Creators API.
+ * Credentials and OAuth token exchange must stay server-side.
  */
-export function createAmazonAdapter(_config: AmazonSearchConfig): AmazonSearchAdapter {
+export function createAmazonCreatorsAdapter(
+  config: AmazonCreatorsConfig,
+): AmazonCreatorsAdapter {
+  if (!config.credentialId || !config.credentialSecret || !config.version) {
+    throw new Error('Amazon Creators API credentials are required');
+  }
+
   return {
     async search(_query: string): Promise<VerifiedStoreProduct[]> {
-      throw new Error('Amazon PA-API signer/server route is required before live requests are enabled');
+      // The exact request/signing/auth flow belongs in the Vercel server
+      // integration. Never expose the credential secret to the browser.
+      throw new Error(
+        'Amazon Creators API server operation must be enabled with approved credentials',
+      );
     },
   };
 }
