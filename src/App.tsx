@@ -10,7 +10,6 @@ import { SocialShareModal } from './components/SocialShareModal';
 import { FounderAdminHub } from './components/FounderAdminHub';
 import { AuthModal } from './components/AuthModal';
 import { FounderPinModal } from './components/FounderPinModal';
-import { DailyFlashDeals } from './components/DailyFlashDeals';
 import { HowItWorks } from './components/HowItWorks';
 import { PrivacyPolicyModal } from './components/PrivacyPolicyModal';
 import { DpdpConsentBanner } from './components/DpdpConsentBanner';
@@ -40,11 +39,8 @@ export const App: React.FC = () => {
 
   const [products] = useState<Product[]>(COMPREHENSIVE_GROCERY_DATA);
   const [cityToast, setCityToast] = useState<string | null>(null);
-  const [cartItems, setCartItems] = useState<CartItem[]>([
-    { product: COMPREHENSIVE_GROCERY_DATA[0], quantity: 2 }, // 2L Milk
-    { product: COMPREHENSIVE_GROCERY_DATA[13], quantity: 1 }, // 1kg Tomatoes
-    { product: COMPREHENSIVE_GROCERY_DATA[23], quantity: 1 }, // 10kg Atta
-  ]);
+  // Never preload unverified/static products into the shopper cart.
+  const [cartItems, setCartItems] = useState<CartItem[]>([]);
   const [isCartOpen, setIsCartOpen] = useState<boolean>(false);
   const [isShareModalOpen, setIsShareModalOpen] = useState<boolean>(false);
   const [isFounderMode, setIsFounderMode] = useState<boolean>(false);
@@ -397,13 +393,6 @@ export const App: React.FC = () => {
         <SurgeFeeRadar city={selectedCity} />
 
         {/* Daily Flash Deals & Steepest Arbitrage Drops */}
-        <DailyFlashDeals
-          products={products}
-          onAddToCart={handleAddToCart}
-          onUpdateQuantity={handleUpdateQuantity}
-          onTrackAffiliate={handleTrackAffiliateClick}
-          cartQuantities={cartQuantities}
-        />
 
         {/* The Daily Indian Thali & Breakfast Index */}
         <DailyThaliIndex />
