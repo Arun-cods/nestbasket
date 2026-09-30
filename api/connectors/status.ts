@@ -1,0 +1,16 @@
+import { connectorStatus } from '../../src/lib/catalog/connectorStatus';
+
+export default function handler(req: any, res: any) {
+  if (req.method !== 'GET') return res.status(405).json({ error: 'Method not allowed' });
+
+  return res.status(200).json({
+    generatedAt: new Date().toISOString(),
+    stores: connectorStatus,
+    policy: {
+      verifiedOnly: true,
+      fakeIdsAllowed: false,
+      fakePricesAllowed: false,
+      guessedProductUrlsAllowed: false,
+    },
+  });
+}
