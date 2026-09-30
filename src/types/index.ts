@@ -14,7 +14,7 @@ export interface PlatformMetadata {
   avgDeliveryMin: number;
 }
 
-export type VerificationStatus = 'VERIFIED' | 'SEARCH_FALLBACK' | 'NOT_AVAILABLE';
+export type VerificationStatus = 'VERIFIED' | 'UNVERIFIED' | 'NOT_FOUND' | 'OUT_OF_STOCK' | 'LOCATION_REQUIRED' | 'BROKEN';
 
 export interface StoreOffer {
   platform: PlatformId;
@@ -25,10 +25,13 @@ export interface StoreOffer {
   surgeFee: number;
   handlingFee: number;
   affiliateUrl: string;
+  productUrl?: string | null;
   externalProductId?: string | null;
   externalSlug?: string | null;
   verified?: boolean;
   verificationStatus?: VerificationStatus;
+  lastVerifiedAt?: string | null;
+  storeImageUrl?: string | null;
 }
 
 export interface Product {
