@@ -1,4 +1,4 @@
-# BachatRadar Robots Exclusion Standard
+﻿# NestBasket Robots Exclusion Standard
 User-agent: *
 Allow: /
 
@@ -19,4 +19,4 @@ User-agent: WhatsApp
 Allow: /
 
 # Sitemap Index for Google Search Console
-Sitemap: https://arungopagani.is-a.dev/bachatradar/sitemap.xml
+Sitemap: https://arungopagani.is-a.dev/NestBasket/sitemap.xml

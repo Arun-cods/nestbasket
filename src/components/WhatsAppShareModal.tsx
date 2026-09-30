@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+﻿import React, { useState } from 'react';
 import { X, Copy, Check, Share2, MessageCircle, Send } from 'lucide-react';
 import { CityOption } from '../types';
 
@@ -36,7 +36,7 @@ Don't overpay for daily groceries today! Here is the live comparison across Blin
 ⚡ *Live Surge Alert:* Blinkit currently has +₹15 surge fee active!
 
 👉 Compare live rates before you order today:
-https://bachatradar.in?ref=wa_${city.id}`;
+https://NestBasket.in?ref=wa_${city.id}`;
 
   const handleCopy = () => {
     navigator.clipboard.writeText(shareText);

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+﻿import React, { useState, useEffect } from 'react';
 import {
   X,
   HelpCircle,
@@ -33,7 +33,7 @@ export const INITIAL_CUSTOMER_ISSUES: CustomerProblemTicket[] = [
     category: 'Price Mismatch',
     storeAffected: 'Zepto',
     subject: 'Amul Taaza 500ml price difference',
-    description: 'BachatRadar listed Zepto price as ₹27, but on Zepto app checkout it was ₹28. Please sync live darkstore prices.',
+    description: 'NestBasket listed Zepto price as ₹27, but on Zepto app checkout it was ₹28. Please sync live darkstore prices.',
     status: 'OPEN',
     priority: 'HIGH',
     ownerNotes: 'Checking Zepto Nallagandla darkstore API endpoint.',
@@ -142,13 +142,13 @@ export const HelpSupportModal: React.FC<HelpSupportModalProps> = ({
     };
 
     try {
-      const stored = localStorage.getItem('bachatradar_customer_issues');
+      const stored = localStorage.getItem('NestBasket_customer_issues');
       const existing: CustomerProblemTicket[] = stored ? JSON.parse(stored) : INITIAL_CUSTOMER_ISSUES;
       const updated = [newTicket, ...existing];
-      localStorage.setItem('bachatradar_customer_issues', JSON.stringify(updated));
+      localStorage.setItem('NestBasket_customer_issues', JSON.stringify(updated));
 
       // Dispatch global event so Owner section updates in real time
-      window.dispatchEvent(new CustomEvent('bachatradar_new_problem', { detail: newTicket }));
+      window.dispatchEvent(new CustomEvent('NestBasket_new_problem', { detail: newTicket }));
     } catch (err) {
       console.warn('Failed to save issue locally:', err);
     }
@@ -412,7 +412,7 @@ export const HelpSupportModal: React.FC<HelpSupportModalProps> = ({
 
               <div className="text-[11px] text-slate-400 text-center flex items-center justify-center gap-1.5">
                 <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
-                <span>Reviewed directly by Gopagani Arun (Founder & CEO, BachatRadar)</span>
+                <span>Reviewed directly by Gopagani Arun (Founder & CEO, NestBasket)</span>
               </div>
             </form>
           )}

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+﻿import React, { useState, useEffect } from 'react';
 import { Navbar } from './components/Navbar';
 import { AppSplash } from './components/AppSplash';
 import { SavingsTicker } from './components/SavingsTicker';
@@ -24,7 +24,7 @@ import { Sparkles, ArrowRight, MapPin, Search, ShoppingBag, Share2, HelpCircle, 
 
 export const App: React.FC = () => {
   const [selectedCity, setSelectedCity] = useState<CityOption>(() => {
-    const saved = localStorage.getItem('bachatradar_selected_city');
+    const saved = localStorage.getItem('NestBasket_selected_city');
     if (saved) {
       const found = CITIES.find((c) => c.id === saved);
       if (found) return found;
@@ -32,7 +32,7 @@ export const App: React.FC = () => {
     return CITIES[0]; // Hyderabad by default!
   });
   const [selectedArea, setSelectedArea] = useState<string>(() => {
-    return localStorage.getItem('bachatradar_selected_area') || CITIES[0].popularAreas[0];
+    return localStorage.getItem('NestBasket_selected_area') || CITIES[0].popularAreas[0];
   });
   const [isLocationModalOpen, setIsLocationModalOpen] = useState(false);
   const [realtimeUpdateToast, setRealtimeUpdateToast] = useState<string | null>(null);
@@ -56,7 +56,7 @@ export const App: React.FC = () => {
 
   // Auto-detect live GPS location on first visit if not explicitly set
   useEffect(() => {
-    const savedCityId = localStorage.getItem('bachatradar_selected_city');
+    const savedCityId = localStorage.getItem('NestBasket_selected_city');
     if (!savedCityId && navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
         (pos) => {
@@ -80,8 +80,8 @@ export const App: React.FC = () => {
           setSelectedCity(closest);
           const area = closest.popularAreas[0];
           setSelectedArea(area);
-          localStorage.setItem('bachatradar_selected_city', closest.id);
-          localStorage.setItem('bachatradar_selected_area', area);
+          localStorage.setItem('NestBasket_selected_city', closest.id);
+          localStorage.setItem('NestBasket_selected_area', area);
           setCityToast(`📍 Live Location Auto-Detected: ${closest.name} (${area})`);
           setTimeout(() => setCityToast(null), 4000);
         },
@@ -148,7 +148,7 @@ export const App: React.FC = () => {
   
   // User profile state: remembers logged-in shoppers & founders
   const [currentUser, setCurrentUser] = useState<UserProfile | null>(() => {
-    const saved = localStorage.getItem('bachatradar_user');
+    const saved = localStorage.getItem('NestBasket_user');
     if (saved) {
       try {
         const parsed = JSON.parse(saved);
@@ -170,7 +170,7 @@ export const App: React.FC = () => {
               society: 'Founder & CEO Office (Ameerpet)',
               isFounder: true,
             };
-            localStorage.setItem('bachatradar_user', JSON.stringify(founderProfile));
+            localStorage.setItem('NestBasket_user', JSON.stringify(founderProfile));
             return founderProfile;
           }
           return parsed;
@@ -189,8 +189,8 @@ export const App: React.FC = () => {
     setSelectedCity(city);
     const chosenArea = area || city.popularAreas[0];
     setSelectedArea(chosenArea);
-    localStorage.setItem('bachatradar_selected_city', city.id);
-    localStorage.setItem('bachatradar_selected_area', chosenArea);
+    localStorage.setItem('NestBasket_selected_city', city.id);
+    localStorage.setItem('NestBasket_selected_area', chosenArea);
     
     // Dynamic city pricing variance simulation
     const cityMultipliers: Record<string, number> = {
@@ -258,14 +258,14 @@ export const App: React.FC = () => {
 
   const handleLoginSuccess = (user: UserProfile) => {
     setCurrentUser(user);
-    localStorage.setItem('bachatradar_user', JSON.stringify(user));
+    localStorage.setItem('NestBasket_user', JSON.stringify(user));
     setIsAuthModalOpen(false);
     setAuthModalKey((k) => k + 1);
   };
 
   const handleLogout = () => {
     setCurrentUser(null);
-    localStorage.removeItem('bachatradar_user');
+    localStorage.removeItem('NestBasket_user');
     setIsAuthModalOpen(false);
     setAuthModalKey((k) => k + 1);
   };
@@ -298,7 +298,7 @@ export const App: React.FC = () => {
         lifetimeSavingsRupees: currentUser.lifetimeSavingsRupees + 45,
       };
       setCurrentUser(updatedUser);
-      localStorage.setItem('bachatradar_user', JSON.stringify(updatedUser));
+      localStorage.setItem('NestBasket_user', JSON.stringify(updatedUser));
     }
   };
 
@@ -324,17 +324,17 @@ export const App: React.FC = () => {
     setCartItems([]);
   };
 
-  const LIVE_URL = 'https://arungopagani.is-a.dev/bachatradar/';
+  const LIVE_URL = 'https://arungopagani.is-a.dev/NestBasket/';
 
   const handleDirectWhatsAppShare = () => {
-    const text = `🛒 *BachatRadar (बचत रडार) — India's #1 Daily Quick-Commerce Price Tracker!*\n\nEver noticed how Blinkit, Zepto, Swiggy Instamart, and BigBasket charge different prices for the exact same milk, veggies, and atta?\n\nFamilies are saving *₹1,500 to ₹3,500 every month* using BachatRadar!\n⚡ Compare 10-minute darkstores in 1 tap\n🥦 Avoid surge charges & find secret discounts\n🎉 *100% FREE for all Indian families*\n\nCheck live rates now:\n${LIVE_URL}`;
+    const text = `🛒 *NestBasket (बचत रडार) — India's #1 Daily Quick-Commerce Price Tracker!*\n\nEver noticed how Blinkit, Zepto, Swiggy Instamart, and BigBasket charge different prices for the exact same milk, veggies, and atta?\n\nFamilies are saving *₹1,500 to ₹3,500 every month* using NestBasket!\n⚡ Compare 10-minute darkstores in 1 tap\n🥦 Avoid surge charges & find secret discounts\n🎉 *100% FREE for all Indian families*\n\nCheck live rates now:\n${LIVE_URL}`;
     window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, '_blank');
   };
 
   const handleShareApp = () => {
     if (typeof navigator !== 'undefined' && navigator.share) {
       navigator.share({
-        title: 'BachatRadar — Quick-Commerce Price Tracker',
+        title: 'NestBasket — Quick-Commerce Price Tracker',
         text: 'Compare live rates across Blinkit, Zepto, Swiggy Instamart & BigBasket! Save ₹1,500+ monthly:',
         url: LIVE_URL,
       }).catch(() => {
@@ -369,7 +369,7 @@ export const App: React.FC = () => {
       <AppSplash
         currentUser={currentUser}
         onComplete={() => {
-          const savedUser = localStorage.getItem('bachatradar_user');
+          const savedUser = localStorage.getItem('NestBasket_user');
           if (!savedUser && !currentUser) {
             handleOpenAuth();
           }
@@ -530,7 +530,7 @@ export const App: React.FC = () => {
                 <div className="w-8 h-8 rounded-lg bg-emerald-500 flex items-center justify-center text-slate-950 font-black">
                   ₹
                 </div>
-                <span className="font-extrabold text-lg text-white">BachatRadar India</span>
+                <span className="font-extrabold text-lg text-white">NestBasket India</span>
               </div>
               <p className="text-xs text-slate-400 mt-1 max-w-sm">
                 India's 1st independent daily quick-commerce price aggregator & basket arbitrage engine. Auto-synchronized daily at 06:00 AM IST.
@@ -546,7 +546,7 @@ export const App: React.FC = () => {
               </button>
               <span>•</span>
               <button onClick={handleShareApp} className="hover:text-emerald-400 font-bold transition-colors cursor-pointer">
-                Share BachatRadar
+                Share NestBasket
               </button>
               <span>•</span>
               <button
@@ -576,7 +576,7 @@ export const App: React.FC = () => {
 
           <div className="mt-8 pt-8 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500">
             <div>
-              © 2026 BachatRadar Technologies Pvt. Ltd. Founded & 100% Owned by <span className="text-slate-300 font-bold">Gopagani Arun</span> (Founder & CEO). All store names and logos are trademarks of their respective owners.
+              © 2026 NestBasket Technologies Pvt. Ltd. Founded & 100% Owned by <span className="text-slate-300 font-bold">Gopagani Arun</span> (Founder & CEO). All store names and logos are trademarks of their respective owners.
             </div>
             <div className="mt-2 sm:mt-0 font-medium text-emerald-400">
               Proudly Made for Indian Households 🇮🇳

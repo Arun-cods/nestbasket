@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+﻿import React, { useState, useEffect } from 'react';
 import { ShieldCheck, CheckCircle2, ChevronRight, X } from 'lucide-react';
 
 interface DpdpConsentBannerProps {
@@ -10,7 +10,7 @@ export const DpdpConsentBanner: React.FC<DpdpConsentBannerProps> = ({ onOpenPriv
 
   useEffect(() => {
     try {
-      const saved = localStorage.getItem('bachatradar_dpdp_consent');
+      const saved = localStorage.getItem('NestBasket_dpdp_consent');
       if (!saved) {
         // Show after small delay so it doesn't pop up abruptly
         const timer = setTimeout(() => setIsVisible(true), 800);
@@ -26,7 +26,7 @@ export const DpdpConsentBanner: React.FC<DpdpConsentBannerProps> = ({ onOpenPriv
       status: 'PERMISSION_GRANTED',
       dpdpActVersion: '2023',
     };
-    localStorage.setItem('bachatradar_dpdp_consent', JSON.stringify(consentPayload));
+    localStorage.setItem('NestBasket_dpdp_consent', JSON.stringify(consentPayload));
     setIsVisible(false);
   };
 
@@ -63,7 +63,7 @@ export const DpdpConsentBanner: React.FC<DpdpConsentBannerProps> = ({ onOpenPriv
         </div>
 
         <p className="text-xs text-slate-300 leading-relaxed">
-          BachatRadar collects minimal phone and darkstore location data solely to discover real-time grocery prices, and participates in merchant affiliate programs at <strong>zero extra markup to you</strong>. Do you agree and grant permission to use this service?
+          NestBasket collects minimal phone and darkstore location data solely to discover real-time grocery prices, and participates in merchant affiliate programs at <strong>zero extra markup to you</strong>. Do you agree and grant permission to use this service?
         </p>
 
         <div className="flex items-center gap-2 pt-1">

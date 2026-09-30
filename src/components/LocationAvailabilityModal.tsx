@@ -35,7 +35,7 @@ export const LocationAvailabilityModal: React.FC<LocationAvailabilityModalProps>
   const [isDetectingGps, setIsDetectingGps] = useState(false);
   const [gpsMessage, setGpsMessage] = useState<string | null>(null);
   const [selectedArea, setSelectedArea] = useState<string>(() => {
-    return localStorage.getItem('bachatradar_selected_area') || selectedCity.popularAreas[0] || 'Ameerpet (Founder Hub)';
+    return localStorage.getItem('NestBasket_selected_area') || selectedCity.popularAreas[0] || 'Ameerpet (Founder Hub)';
   });
 
   if (!isOpen) return null;
@@ -85,8 +85,8 @@ export const LocationAvailabilityModal: React.FC<LocationAvailabilityModalProps>
         setSelectedArea(detectedArea);
         onSelectCity(closestCity, detectedArea);
 
-        localStorage.setItem('bachatradar_selected_city', closestCity.id);
-        localStorage.setItem('bachatradar_selected_area', detectedArea);
+        localStorage.setItem('NestBasket_selected_city', closestCity.id);
+        localStorage.setItem('NestBasket_selected_area', detectedArea);
 
         setGpsMessage(
           `✓ Live GPS Detected: ${closestCity.name}, ${closestCity.state} (~${Math.round(minDistance)} km away). Nearest Hub: ${detectedArea}`
@@ -106,8 +106,8 @@ export const LocationAvailabilityModal: React.FC<LocationAvailabilityModalProps>
     const chosenArea = area || city.popularAreas[0];
     setSelectedArea(chosenArea);
     onSelectCity(city, chosenArea);
-    localStorage.setItem('bachatradar_selected_city', city.id);
-    localStorage.setItem('bachatradar_selected_area', chosenArea);
+    localStorage.setItem('NestBasket_selected_city', city.id);
+    localStorage.setItem('NestBasket_selected_area', chosenArea);
     setGpsMessage(`✓ Location switched to ${city.name} (${chosenArea})!`);
     setTimeout(() => {
       onClose();

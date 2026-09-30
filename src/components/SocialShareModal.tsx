@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+﻿import React, { useState } from 'react';
 import {
   X,
   Share2,
@@ -22,7 +22,7 @@ export const SocialShareModal: React.FC<SocialShareModalProps> = ({ isOpen, onCl
   if (!isOpen) return null;
 
   // Guaranteed 24/7 globally-hosted production URL accessible on any phone anywhere:
-  const LIVE_URL = 'https://arungopagani.is-a.dev/bachatradar/';
+  const LIVE_URL = 'https://arungopagani.is-a.dev/NestBasket/';
 
   const currentHostname = typeof window !== 'undefined' ? window.location.hostname : '';
   const isLocalDev = !currentHostname || currentHostname === 'localhost' || currentHostname === '127.0.0.1' || currentHostname.startsWith('10.') || currentHostname.startsWith('192.168.');
@@ -32,11 +32,11 @@ export const SocialShareModal: React.FC<SocialShareModalProps> = ({ isOpen, onCl
   const localNetworkUrl = 'http://10.133.8.198:3000/';
 
   // Viral WhatsApp message
-  const whatsAppMessage = `🛒 *BachatRadar (बचत रडार) — India's #1 Daily Quick-Commerce Price Tracker!*
+  const whatsAppMessage = `🛒 *NestBasket (बचत रडार) — India's #1 Daily Quick-Commerce Price Tracker!*
 
 Ever noticed how Blinkit, Zepto, Swiggy Instamart, and BigBasket charge totally different prices for the exact same milk, vegetables, and atta?
 
-Families are saving *₹1,500 to ₹3,500 every month* using BachatRadar!
+Families are saving *₹1,500 to ₹3,500 every month* using NestBasket!
 ⚡ Compare 10-minute darkstores in 1 tap
 🥦 Avoid surge charges & find secret discounts
 🎉 *100% FREE for all Indian families*
@@ -44,7 +44,7 @@ Families are saving *₹1,500 to ₹3,500 every month* using BachatRadar!
 Check live prices now:
 ${siteUrl}`;
 
-  const twitterText = `Tired of overpaying on grocery apps? Compare Blinkit, Zepto, Swiggy Instamart & BigBasket in 1 tap on BachatRadar! Save ₹2,000+ monthly. 100% Free: ${siteUrl} #QuickCommerce #BachatRadar`;
+  const twitterText = `Tired of overpaying on grocery apps? Compare Blinkit, Zepto, Swiggy Instamart & BigBasket in 1 tap on NestBasket! Save ₹2,000+ monthly. 100% Free: ${siteUrl} #QuickCommerce #NestBasket`;
 
   const handleCopyLink = () => {
     navigator.clipboard.writeText(siteUrl);
@@ -104,7 +104,7 @@ ${siteUrl}`;
             </div>
             <div>
               <h3 className="text-lg font-black text-white">
-                Share BachatRadar
+                Share NestBasket
               </h3>
               <p className="text-xs text-slate-400 mt-0.5">
                 Help friends & family save ₹1,500 – ₹3,500 on daily groceries

@@ -1,4 +1,4 @@
-import { PlatformId } from '../types';
+﻿import { PlatformId } from '../types';
 
 // Deterministic hash to generate stable, authentic-looking SKU identifiers for dynamic products
 function hashString(str: string): number {
@@ -461,9 +461,9 @@ export function getDirectStoreBuyUrl(
     existingOfferUrl &&
     existingOfferUrl.startsWith('https://') &&
     !existingOfferUrl.includes('.onelink.me') &&
-    !existingOfferUrl.includes('/r/BachatRadar') &&
-    !existingOfferUrl.includes('/c/BachatRadar') &&
-    !existingOfferUrl.includes('affid=BachatRadar') &&
+    !existingOfferUrl.includes('/r/NestBasket') &&
+    !existingOfferUrl.includes('/c/NestBasket') &&
+    !existingOfferUrl.includes('affid=NestBasket') &&
     !existingOfferUrl.includes('/search?') &&
     !existingOfferUrl.includes('/s/?q=') &&
     !existingOfferUrl.includes('/ps/?q=')

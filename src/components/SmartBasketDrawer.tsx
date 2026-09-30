@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+﻿import React, { useState } from 'react';
 import { X, Trash2, Plus, Minus, ArrowRight, Sparkles, CheckCircle2, ShoppingBag, ShieldCheck, Zap, ExternalLink } from 'lucide-react';
 import { CartItem, PlatformId } from '../types';
 import { PLATFORMS } from '../data/mockGroceryData';
@@ -164,7 +164,7 @@ export const SmartBasketDrawer: React.FC<SmartBasketDrawerProps> = ({
                     }`}
                   >
                     <Sparkles className="w-3.5 h-3.5" />
-                    <span>Split Arbitrage (Max Bachat)</span>
+                    <span>Split Arbitrage (Max nestbasket)</span>
                   </button>
                   <button
                     onClick={() => setStrategy('single-cheapest')}

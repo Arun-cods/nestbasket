@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { Search, Split, ShoppingBag, ShieldCheck, CheckCircle2, TrendingDown } from 'lucide-react';
 
 export const HowItWorks: React.FC = () => {
@@ -27,7 +27,7 @@ export const HowItWorks: React.FC = () => {
     <section className="mb-12 bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 shadow-sm">
       <div className="text-center max-w-xl mx-auto mb-8">
         <span className="text-[11px] font-extrabold text-emerald-700 bg-emerald-100 px-3 py-1 rounded-full uppercase tracking-wider">
-          The BachatRadar Formula
+          The NestBasket Formula
         </span>
         <h2 className="text-xl sm:text-2xl font-black text-slate-900 mt-2">
           How Indian Households Save ₹3,000+ Every Month

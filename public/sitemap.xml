@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
@@ -6,7 +6,7 @@
   
   <!-- Homepage -->
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.00</priority>
@@ -14,43 +14,43 @@
 
   <!-- City Locations -->
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#hyderabad</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#hyderabad</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#bengaluru</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#bengaluru</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#delhi-ncr</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#delhi-ncr</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#mumbai</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#mumbai</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#pune</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#pune</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#chennai</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#chennai</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#suryapet</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#suryapet</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
@@ -58,31 +58,31 @@
 
   <!-- Product Categories -->
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#dairy-breakfast</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#dairy-breakfast</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#atta-rice-dal</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#atta-rice-dal</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#edible-oils-ghee</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#edible-oils-ghee</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#fruits-vegetables</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#fruits-vegetables</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#snacks-beverages</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#snacks-beverages</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.80</priority>
@@ -90,13 +90,13 @@
 
   <!-- Store Arbitrage Feeds -->
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#blinkit-vs-zepto</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#blinkit-vs-zepto</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://arungopagani.is-a.dev/bachatradar/#instamart-vs-bigbasket</loc>
+    <loc>https://arungopagani.is-a.dev/NestBasket/#instamart-vs-bigbasket</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.85</priority>

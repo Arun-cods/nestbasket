@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+﻿import React, { useState, useEffect, useRef } from 'react';
 
 interface AppSplashProps {
   currentUser?: any;
@@ -94,13 +94,13 @@ export const AppSplash: React.FC<AppSplashProps> = ({
 
         {/* Brand Name */}
         <h1 className="text-3xl sm:text-4xl font-black tracking-tight text-white flex items-center justify-center gap-1.5">
-          <span>Nest</span>
+          <span>nestbasket</span>
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-teal-300">
-            Basket
+            Radar
           </span>
         </h1>
         <p className="text-emerald-400 text-xs font-bold mt-1 tracking-wider uppercase">
-          खरीदारी की टोकरी • 100% Free Public Utility
+          बचत रडार • 100% Free Public Utility
         </p>
         <p className="text-slate-400 text-xs mt-2 font-medium px-4">
           India's Real-Time Quick-Commerce Price Comparison Engine
