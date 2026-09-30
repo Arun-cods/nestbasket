@@ -75,7 +75,7 @@ export const AppSplash: React.FC<AppSplashProps> = ({
       {/* Top Brand Header */}
       <div className="w-full flex justify-between items-center max-w-sm mx-auto pt-2">
         <span className="text-[11px] font-bold text-slate-500 uppercase tracking-wider">
-          BachatRadar OS 2.0
+          NestBasket OS 2.0
         </span>
         <span className="text-[11px] font-mono font-bold text-emerald-400 bg-emerald-950/60 px-2 py-0.5 rounded-full border border-emerald-800/50">
           Live Sync
@@ -94,13 +94,13 @@ export const AppSplash: React.FC<AppSplashProps> = ({
 
         {/* Brand Name */}
         <h1 className="text-3xl sm:text-4xl font-black tracking-tight text-white flex items-center justify-center gap-1.5">
-          <span>Bachat</span>
+          <span>Nest</span>
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-teal-300">
-            Radar
+            Basket
           </span>
         </h1>
         <p className="text-emerald-400 text-xs font-bold mt-1 tracking-wider uppercase">
-          बचत रडार • 100% Free Public Utility
+          खरीदारी की टोकरी • 100% Free Public Utility
         </p>
         <p className="text-slate-400 text-xs mt-2 font-medium px-4">
           India's Real-Time Quick-Commerce Price Comparison Engine
