@@ -505,8 +505,8 @@ export const PriceComparisonGrid: React.FC<PriceComparisonGridProps> = ({
                       {(Object.keys(PLATFORMS) as PlatformId[]).map((platformId) => {
                         const platform = PLATFORMS[platformId];
                         const offer = product.offers[platformId];
-                        const isLowest = stats && stats.lowestOffer.platform === platformId && offer.inStock;
                         const isVerified = isStoreOfferVerified(platformId, product.name, offer?.productUrl || offer?.affiliateUrl);
+                        const isLowest = Boolean(stats && stats.lowestOffer.platform === platformId && offer.inStock && isVerified && offer.price != null);
 
                         if (!offer) return null;
 
