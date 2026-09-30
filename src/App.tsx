@@ -2,10 +2,8 @@
 import { Navbar } from './components/Navbar';
 import { AppSplash } from './components/AppSplash';
 import { SavingsTicker } from './components/SavingsTicker';
-import { SurgeFeeRadar } from './components/SurgeFeeRadar';
 import { PriceComparisonGrid } from './components/PriceComparisonGrid';
 import { SmartBasketDrawer } from './components/SmartBasketDrawer';
-import { DailyThaliIndex } from './components/DailyThaliIndex';
 import { SocialShareModal } from './components/SocialShareModal';
 import { FounderAdminHub } from './components/FounderAdminHub';
 import { AuthModal } from './components/AuthModal';
@@ -357,15 +355,15 @@ export const App: React.FC = () => {
           </div>
         </section>
 
-        {/* Live Darkstore Telemetry & Real-Time Sync Bar */}
+        {/* Verified Catalog Status Bar */}
         <div className="mb-6 p-3 sm:p-3.5 rounded-2xl bg-gradient-to-r from-emerald-950/80 via-slate-900 to-teal-950/80 border border-emerald-500/40 text-white flex flex-col sm:flex-row items-center justify-between gap-2.5 shadow-md">
           <div className="flex items-center gap-2.5 text-xs">
             <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse shrink-0" />
             <div className="leading-tight">
-              <span className="font-extrabold text-white">LIVE TELEMETRY:</span>{' '}
-              <span className="text-emerald-300">Real-Time Darkstore Rates Synced ({selectedCity.name} • {selectedArea})</span>
+              <span className="font-extrabold text-white">CATALOG STATUS:</span>{' '}
+              <span className="text-emerald-300">Verified store data only ({selectedCity.name} • {selectedArea})</span>
               <span className="text-[10px] text-slate-400 block sm:inline sm:ml-2">
-                Blinkit, Zepto, Swiggy Instamart, BigBasket • Synced {lastSyncSeconds}s ago
+                No store price is shown unless its product ID, direct URL, price, stock and timestamp are verified.
               </span>
             </div>
           </div>
@@ -384,18 +382,10 @@ export const App: React.FC = () => {
               className="px-2.5 py-1 rounded-lg bg-emerald-500 hover:bg-emerald-600 text-slate-950 text-[11px] font-black transition-colors flex items-center gap-1 cursor-pointer shadow-sm active:scale-95"
             >
               <RefreshCw className="w-3 h-3" />
-              <span>⚡ Sync Live Rates</span>
+              <span>↻ Refresh Catalog</span>
             </button>
           </div>
         </div>
-
-        {/* Live Surge & Platform Fee Radar */}
-        <SurgeFeeRadar city={selectedCity} />
-
-        {/* Daily Flash Deals & Steepest Arbitrage Drops */}
-
-        {/* The Daily Indian Thali & Breakfast Index */}
-        <DailyThaliIndex />
 
         {/* Real-time Multi-Store Price Grid across 24,580 SKUs */}
         <PriceComparisonGrid
