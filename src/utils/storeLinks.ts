@@ -461,108 +461,48 @@ export function findVerifiedProductKey(name: string): string | null {
  * Returns a 100% DIRECT product purchase URL for the specified platform.
  * Navigates directly to the specific product item page, NOT a generic search query!
  */
-export function getDirectStoreBuyUrl(
-  platformId: PlatformId,
-  productName: string,
-  existingOfferUrl?: string
-): string {
-  // If a valid, non-placeholder direct URL already exists on the offer, use it directly!
-  if (
-    existingOfferUrl &&
-    existingOfferUrl.startsWith('https://') &&
-    !existingOfferUrl.includes('.onelink.me') &&
-    !existingOfferUrl.includes('/r/NestBasket') &&
-    !existingOfferUrl.includes('/c/NestBasket') &&
-    !existingOfferUrl.includes('affid=NestBasket') &&
-    !existingOfferUrl.includes('/search?') &&
-    !existingOfferUrl.includes('/s/?q=') &&
-    !existingOfferUrl.includes('/ps/?q=')
-  ) {
-    return existingOfferUrl;
-  }
+export function getDirectStoreBuyUrl(platformId: PlatformId, productName: string, existingOfferUrl?: string): string {
+  const direct = existingOfferUrl && isVerifiedDirectUrl(existingOfferUrl) ? existingOfferUrl : null;
+  if (direct) return direct;
 
-  // Check against our verified direct quick-commerce SKU directory
-  const matchedKey = findVerifiedProductKey(productName);
-  if (matchedKey && VERIFIED_DIRECT_STORE_LINKS[matchedKey]) {
-    const verifiedUrl = VERIFIED_DIRECT_STORE_LINKS[matchedKey][platformId];
-    if (verifiedUrl) {
-      return verifiedUrl;
-    }
-  }
-
-  // Canonical Search Fallback:
-  // As established in the architecture, never fabricate synthetic product IDs (which trigger 404 errors).
-  // When an exact verified SKU is not yet recorded, open the store's targeted query pre-filled with the exact product name!
-  const query = encodeURIComponent(productName.trim());
-
-  switch (platformId) {
-    case 'blinkit':
-      return `https://blinkit.com/s/?q=${query}`;
-
-    case 'zepto':
-      return `https://www.zeptonow.com/search?q=${query}`;
-
-    case 'instamart':
-      return `https://www.swiggy.com/instamart/search?query=${query}`;
-
-    case 'bigbasket':
-      return `https://www.bigbasket.com/ps/?q=${query}`;
-
-    case 'amazon':
-      return `https://www.amazon.in/s?k=${query}&i=nowstore`;
-
-    case 'flipkart':
-      return `https://www.flipkart.com/search?q=${query}`;
-
-    default:
-      return `https://blinkit.com/s/?q=${query}`;
-  }
-}
-
-/**
- * Returns true if an exact verified direct product page link exists (not a search query)
- */
-export function isStoreOfferVerified(
-  platformId: PlatformId,
-  productName: string,
-  existingOfferUrl?: string
-): boolean {
-  if (
-    existingOfferUrl &&
-    existingOfferUrl.startsWith('https://') &&
-    !existingOfferUrl.includes('/search') &&
-    !existingOfferUrl.includes('/s/?q=') &&
-    !existingOfferUrl.includes('/ps/?q=')
-  ) {
-    return true;
-  }
   const matchedKey = findVerifiedProductKey(productName);
   if (matchedKey && VERIFIED_DIRECT_STORE_LINKS[matchedKey]) {
     const url = VERIFIED_DIRECT_STORE_LINKS[matchedKey][platformId];
-    return Boolean(url && !url.includes('/search') && !url.includes('/s/?q=') && !url.includes('/ps/?q='));
+    if (url && isVerifiedDirectUrl(url)) return url;
   }
-  return false;
+
+  return getStoreSearchUrl(platformId, productName);
 }
 
-/**
- * Returns mobile native app intent URI for Android/iOS users
- */
-export function getNativeAppIntentUrl(platformId: PlatformId, productName: string): string {
+export function getStoreSearchUrl(platformId: PlatformId, productName: string): string {
   const query = encodeURIComponent(productName.trim());
   switch (platformId) {
-    case 'blinkit':
-      return `intent://blinkit.com/s/?q=${query}#Intent;scheme=https;package=com.grofers.customerapp;end`;
-    case 'zepto':
-      return `intent://www.zeptonow.com/search?q=${query}#Intent;scheme=https;package=com.selldone.zepto;end`;
-    case 'instamart':
-      return `swiggy://instamart/search?query=${query}`;
-    case 'bigbasket':
-      return `intent://www.bigbasket.com/ps/?q=${query}#Intent;scheme=https;package=com.bigbasket.mobileapp;end`;
-    case 'amazon':
-      return `https://www.amazon.in/s?k=${query}&i=nowstore`;
-    case 'flipkart':
-      return `intent://www.flipkart.com/search?q=${query}#Intent;scheme=https;package=com.flipkart.android;end`;
-    default:
-      return `https://blinkit.com/s/?q=${query}`;
+    case 'blinkit': return `https://blinkit.com/s/?q=${query}`;
+    case 'zepto': return `https://www.zeptonow.com/search?q=${query}`;
+    case 'instamart': return `https://www.swiggy.com/instamart/search?query=${query}`;
+    case 'bigbasket': return `https://www.bigbasket.com/ps/?q=${query}`;
+    case 'amazon': return `https://www.amazon.in/s?k=${query}`;
+    case 'flipkart': return `https://www.flipkart.com/search?q=${query}`;
   }
+}
+
+export function isVerifiedDirectUrl(url?: string | null): boolean {
+  if (!url || !url.startsWith('https://')) return false;
+  return !['/search', '/s/?q=', '/ps/?q=', 'search?query='].some(x => url.includes(x));
+}
+
+export function isStoreOfferVerified(platformId: PlatformId, productName: string, existingOfferUrl?: string): boolean {
+  return Boolean(
+    existingOfferUrl && isVerifiedDirectUrl(existingOfferUrl)
+  ) || Boolean(
+    (() => {
+      const key = findVerifiedProductKey(productName);
+      const url = key ? VERIFIED_DIRECT_STORE_LINKS[key]?.[platformId] : undefined;
+      return isVerifiedDirectUrl(url);
+    })()
+  );
+}
+
+export function getNativeAppIntentUrl(platformId: PlatformId, productName: string): string {
+  return getStoreSearchUrl(platformId, productName);
 }
