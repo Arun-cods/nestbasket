@@ -30,7 +30,7 @@ export const generateStoreOffers = (
       lastVerifiedAt: null,
       storeImageUrl: null,
     },
-  ]));
+  ])) as Record<PlatformId, any>;
 };
 
 export const MASTER_CATALOG_CATEGORIES = [
