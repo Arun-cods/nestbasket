@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   DollarSign, Users, Building, Check, Sliders, RefreshCw, 
   Terminal, ShieldCheck, Download, Plus, Trash2, Zap, Play, CheckCircle2, CreditCard, Send, Smartphone, Landmark, ArrowUpRight,
@@ -24,7 +24,7 @@ export const FounderAdminHub: React.FC<FounderAdminHubProps> = ({
   onClose,
   onTriggerScrape
 }) => {
-  const [activeTab, setActiveTab] = useState<'payouts' | 'metrics' | 'members' | 'problems' | 'billing' | 'security' | 'scrapers' | 'acquisition'>('payouts');
+  const [activeTab, setActiveTab] = useState<'ecosystem' | 'payouts' | 'metrics' | 'members' | 'problems' | 'billing' | 'security' | 'scrapers' | 'acquisition'>('ecosystem');
   const [commissionRate, setCommissionRate] = useState<number>(stats.affiliateCommissionRate || 4.5);
   const [isScrapingRunning, setIsScrapingRunning] = useState<boolean>(false);
   const [smsGatewayKey, setSmsGatewayKey] = useState(() => localStorage.getItem('NestBasket_sms_key') || '');
@@ -34,6 +34,28 @@ export const FounderAdminHub: React.FC<FounderAdminHubProps> = ({
   const [testSmsLoading, setTestSmsLoading] = useState(false);
   const [testSmsStatus, setTestSmsStatus] = useState<string | null>(null);
   const [testSmsTargetPhone, setTestSmsTargetPhone] = useState('9014218406');
+  const [festVaultPingLoading, setFestVaultPingLoading] = useState(false);
+  const [festVaultPingStatus, setFestVaultPingStatus] = useState<string | null>(null);
+
+  const handlePingFestVault = async () => {
+    setFestVaultPingLoading(true);
+    setFestVaultPingStatus(null);
+    try {
+      const start = Date.now();
+      const res = await fetch('https://fest-vault.onrender.com/ping');
+      const data = await res.json();
+      const latency = Date.now() - start;
+      if (data && data.success) {
+        setFestVaultPingStatus(`🟢 Online & Awake! Latency: ${latency}ms | Server: ${data.service}`);
+      } else {
+        setFestVaultPingStatus(`⚠️ Status: ${JSON.stringify(data)}`);
+      }
+    } catch (e: any) {
+      setFestVaultPingStatus(`⚠️ Server waking up / response error: ${e.message}`);
+    } finally {
+      setFestVaultPingLoading(false);
+    }
+  };
 
   // Customer Problems & Help Desk State (All customer reported issues go directly to Owner desk)
   const [customerIssues, setCustomerIssues] = useState<CustomerProblemTicket[]>(() => {
@@ -651,6 +673,18 @@ export const FounderAdminHub: React.FC<FounderAdminHubProps> = ({
         {/* Navigation Tabs */}
         <div className="flex border-b border-slate-800 px-6 gap-4 sm:gap-6 text-xs sm:text-sm font-bold overflow-x-auto">
           <button
+            onClick={() => setActiveTab('ecosystem')}
+            className={`py-4 border-b-2 transition-all flex items-center gap-2 shrink-0 ${
+              activeTab === 'ecosystem'
+                ? 'border-amber-400 text-amber-300'
+                : 'border-transparent text-slate-400 hover:text-slate-200'
+            }`}
+          >
+            <Globe className="w-4 h-4 text-amber-400" />
+            <span>🏢 Software Company &amp; Host Portals</span>
+          </button>
+
+          <button
             onClick={() => setActiveTab('payouts')}
             className={`py-4 border-b-2 transition-all flex items-center gap-2 shrink-0 ${
               activeTab === 'payouts'
@@ -803,7 +837,279 @@ export const FounderAdminHub: React.FC<FounderAdminHubProps> = ({
           </div>
         ) : (
           <>
-        {/* TAB 1: BANK & SETTLEMENTS (100% REAL ACCOUNTING ΓÇó ZERO FAKE NUMBERS) */}
+        {/* TAB 0: SOFTWARE COMPANY ECOSYSTEM & UNIFIED HOST PORTALS */}
+        {activeTab === 'ecosystem' && (
+          <div className="p-6 space-y-6">
+            {/* Master Enterprise Header */}
+            <div className="p-6 rounded-3xl bg-gradient-to-r from-amber-950/60 via-slate-900 to-indigo-950/60 border-2 border-amber-500/40 text-white space-y-3 shadow-xl">
+              <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+                <div>
+                  <div className="flex items-center gap-2">
+                    <span className="px-2.5 py-0.5 rounded-full text-[10px] font-black bg-amber-400 text-slate-950 tracking-wider uppercase">
+                      Gopagani Tech Enterprises • Parent Company
+                    </span>
+                    <span className="text-xs text-amber-400/90 font-mono">
+                      Founder &amp; Sole Owner: GOPAGANI ARUN
+                    </span>
+                  </div>
+                  <h2 className="text-2xl font-black text-white mt-1 flex items-center gap-2">
+                    <span>🏢 Central Software Company &amp; Master Host Portals</span>
+                  </h2>
+                  <p className="text-xs text-slate-300 mt-1 max-w-2xl">
+                    All your live web applications, production deployments, Android apps, and confidential owner host portals unified under one executive command center.
+                  </p>
+                </div>
+                <div className="flex items-center gap-3">
+                  <a
+                    href="https://arungopagani.is-a.dev/portal.html"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-4 py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-400 hover:to-amber-500 text-slate-950 text-xs font-black flex items-center gap-2 shadow-lg shadow-amber-500/20 transition-all"
+                  >
+                    <ExternalLink className="w-4 h-4" />
+                    <span>Open Standalone Master Portal</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* Company Quick Metrics */}
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-3 border-t border-slate-800">
+                <div className="bg-slate-950/60 p-3 rounded-xl border border-slate-800">
+                  <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider">Live Applications</span>
+                  <p className="text-lg font-black text-amber-400">4 Platforms</p>
+                </div>
+                <div className="bg-slate-950/60 p-3 rounded-xl border border-slate-800">
+                  <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider">Host &amp; Owner Consoles</span>
+                  <p className="text-lg font-black text-emerald-400">100% Unified</p>
+                </div>
+                <div className="bg-slate-950/60 p-3 rounded-xl border border-slate-800">
+                  <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider">Play Store Status</span>
+                  <p className="text-lg font-black text-sky-400">Clean &amp; Compliant</p>
+                </div>
+                <div className="bg-slate-950/60 p-3 rounded-xl border border-slate-800">
+                  <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider">Global Infrastructure</span>
+                  <p className="text-lg font-black text-purple-400">Render + Vercel + GitHub</p>
+                </div>
+              </div>
+            </div>
+
+            {/* Apps & Host Portals Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+              
+              {/* APP 1: FestVault */}
+              <div className="bg-slate-900 border-2 border-amber-500/30 hover:border-amber-500/60 rounded-3xl p-6 flex flex-col justify-between space-y-4 shadow-xl transition-all">
+                <div className="space-y-3">
+                  <div className="flex items-center justify-between">
+                    <span className="px-2.5 py-0.5 rounded-full text-[10px] font-black bg-amber-400/20 text-amber-300 border border-amber-400/30 uppercase">
+                      Celebration &amp; Cloud Archive
+                    </span>
+                    <span className="flex items-center gap-1.5 text-xs text-emerald-400 font-bold">
+                      <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                      Production Live
+                    </span>
+                  </div>
+                  <h3 className="text-xl font-black text-white flex items-center gap-2">
+                    <span>🔒 FestVault Cloud</span>
+                  </h3>
+                  <p className="text-xs text-slate-300 leading-relaxed">
+                    256-bit encrypted celebration photo archive &amp; guest gallery. Features instant OTP login, guest passcode access, individual downloads, and zero visible host traces on public screens for Google Play Store compliance.
+                  </p>
+                  <div className="p-3 bg-slate-950 rounded-xl border border-slate-800 space-y-1.5 text-xs">
+                    <div className="flex justify-between text-slate-400">
+                      <span>Public Web App:</span>
+                      <a href="https://fest-vault.onrender.com" target="_blank" rel="noopener noreferrer" className="text-amber-400 hover:underline">
+                        fest-vault.onrender.com
+                      </a>
+                    </div>
+                    <div className="flex justify-between text-slate-400">
+                      <span>Host Passkey:</span>
+                      <span className="font-mono text-emerald-400 font-bold">ARUN@@GOUD@@9014</span>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="space-y-2 pt-2 border-t border-slate-800">
+                  <div className="flex gap-2">
+                    <a
+                      href="https://fest-vault.onrender.com/owner"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 py-3 px-4 rounded-xl bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-400 hover:to-amber-500 text-slate-950 font-black text-xs flex items-center justify-center gap-2 shadow-md shadow-amber-500/20 transition-all"
+                    >
+                      <ShieldCheck className="w-4 h-4" />
+                      <span>Launch FestVault Host Portal ↗</span>
+                    </a>
+                    <button
+                      type="button"
+                      onClick={handlePingFestVault}
+                      disabled={festVaultPingLoading}
+                      title="Keep server awake & test ping"
+                      className="px-3.5 py-3 rounded-xl bg-slate-800 hover:bg-slate-700 text-amber-400 font-bold text-xs flex items-center gap-1.5 transition-all border border-slate-700 disabled:opacity-50"
+                    >
+                      <Activity className={`w-4 h-4 ${festVaultPingLoading ? 'animate-spin' : ''}`} />
+                      <span>Ping / Awake</span>
+                    </button>
+                  </div>
+                  {festVaultPingStatus && (
+                    <p className="text-[11px] font-mono text-emerald-400 bg-slate-950 p-2 rounded-lg border border-slate-800">
+                      {festVaultPingStatus}
+                    </p>
+                  )}
+                </div>
+              </div>
+
+              {/* APP 2: NestBasket */}
+              <div className="bg-slate-900 border-2 border-emerald-500/30 hover:border-emerald-500/60 rounded-3xl p-6 flex flex-col justify-between space-y-4 shadow-xl transition-all">
+                <div className="space-y-3">
+                  <div className="flex items-center justify-between">
+                    <span className="px-2.5 py-0.5 rounded-full text-[10px] font-black bg-emerald-400/20 text-emerald-300 border border-emerald-400/30 uppercase">
+                      Quick-Commerce Arbitrage
+                    </span>
+                    <span className="flex items-center gap-1.5 text-xs text-emerald-400 font-bold">
+                      <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                      Active Platform
+                    </span>
+                  </div>
+                  <h3 className="text-xl font-black text-white flex items-center gap-2">
+                    <span>🛒 NestBasket</span>
+                  </h3>
+                  <p className="text-xs text-slate-300 leading-relaxed">
+                    India's premier real-time multi-store price comparison and cart arbitrage engine. Compares live rates across Blinkit, Zepto, Swiggy Instamart, BigBasket Now, and Flipkart Minutes saving shoppers ₹1,500 - ₹3,500/month.
+                  </p>
+                  <div className="p-3 bg-slate-950 rounded-xl border border-slate-800 space-y-1.5 text-xs">
+                    <div className="flex justify-between text-slate-400">
+                      <span>Public Platform:</span>
+                      <a href="https://arungopagani.is-a.dev/nestbasket/" target="_blank" rel="noopener noreferrer" className="text-emerald-400 hover:underline">
+                        arungopagani.is-a.dev/nestbasket/
+                      </a>
+                    </div>
+                    <div className="flex justify-between text-slate-400">
+                      <span>Founder Access:</span>
+                      <span className="font-mono text-emerald-400 font-bold">Biometric Face + PIN 9544</span>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="space-y-2 pt-2 border-t border-slate-800">
+                  <button
+                    type="button"
+                    onClick={() => setActiveTab('payouts')}
+                    className="w-full py-3 px-4 rounded-xl bg-gradient-to-r from-emerald-500 to-teal-600 hover:from-emerald-400 hover:to-teal-500 text-slate-950 font-black text-xs flex items-center justify-center gap-2 shadow-md shadow-emerald-500/20 transition-all"
+                  >
+                    <CheckCircle2 className="w-4 h-4" />
+                    <span>Manage NestBasket Founder Hub</span>
+                  </button>
+                </div>
+              </div>
+
+              {/* APP 3: CartShare */}
+              <div className="bg-slate-900 border border-slate-800 hover:border-purple-500/40 rounded-3xl p-6 flex flex-col justify-between space-y-4 shadow-xl transition-all">
+                <div className="space-y-3">
+                  <div className="flex items-center justify-between">
+                    <span className="px-2.5 py-0.5 rounded-full text-[10px] font-black bg-purple-400/20 text-purple-300 border border-purple-400/30 uppercase">
+                      Collaborative Commerce
+                    </span>
+                    <span className="flex items-center gap-1.5 text-xs text-sky-400 font-bold">
+                      Ready for Deploy
+                    </span>
+                  </div>
+                  <h3 className="text-xl font-black text-white flex items-center gap-2">
+                    <span>🛍️ CartShare</span>
+                  </h3>
+                  <p className="text-xs text-slate-300 leading-relaxed">
+                    Collaborative group buying, shared grocery carts, and bill splitting for roommates, families, and office teams. Real-time cart synchronization.
+                  </p>
+                  <div className="p-3 bg-slate-950 rounded-xl border border-slate-800 space-y-1.5 text-xs">
+                    <div className="flex justify-between text-slate-400">
+                      <span>Local Workspace:</span>
+                      <span className="font-mono text-slate-300">scratch/CartShare</span>
+                    </div>
+                    <div className="flex justify-between text-slate-400">
+                      <span>Integration:</span>
+                      <span className="text-purple-400">NestBasket Companion Engine</span>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="pt-2 border-t border-slate-800">
+                  <a
+                    href="https://arungopagani.is-a.dev/portal.html"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="w-full py-3 px-4 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold text-xs flex items-center justify-center gap-2 transition-all border border-slate-700"
+                  >
+                    <Sliders className="w-4 h-4 text-purple-400" />
+                    <span>View CartShare Master Controls</span>
+                  </a>
+                </div>
+              </div>
+
+              {/* APP 4: Software Company HQ & Portfolio */}
+              <div className="bg-slate-900 border border-slate-800 hover:border-sky-500/40 rounded-3xl p-6 flex flex-col justify-between space-y-4 shadow-xl transition-all">
+                <div className="space-y-3">
+                  <div className="flex items-center justify-between">
+                    <span className="px-2.5 py-0.5 rounded-full text-[10px] font-black bg-sky-400/20 text-sky-300 border border-sky-400/30 uppercase">
+                      Corporate HQ &amp; Founder
+                    </span>
+                    <span className="flex items-center gap-1.5 text-xs text-emerald-400 font-bold">
+                      <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                      Live Global
+                    </span>
+                  </div>
+                  <h3 className="text-xl font-black text-white flex items-center gap-2">
+                    <span>🌐 Gopagani Tech HQ (arungopagani.is-a.dev)</span>
+                  </h3>
+                  <p className="text-xs text-slate-300 leading-relaxed">
+                    Official software company website, enterprise product portfolio, and master founder gateway. Houses company engineering roadmap and investor relations.
+                  </p>
+                  <div className="p-3 bg-slate-950 rounded-xl border border-slate-800 space-y-1.5 text-xs">
+                    <div className="flex justify-between text-slate-400">
+                      <span>Custom Domain:</span>
+                      <a href="https://arungopagani.is-a.dev" target="_blank" rel="noopener noreferrer" className="text-sky-400 hover:underline">
+                        arungopagani.is-a.dev
+                      </a>
+                    </div>
+                    <div className="flex justify-between text-slate-400">
+                      <span>GitHub:</span>
+                      <a href="https://github.com/Arun-cods" target="_blank" rel="noopener noreferrer" className="text-slate-300 hover:underline">
+                        github.com/Arun-cods
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="pt-2 border-t border-slate-800">
+                  <a
+                    href="https://arungopagani.is-a.dev"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="w-full py-3 px-4 rounded-xl bg-slate-800 hover:bg-slate-700 text-sky-400 font-bold text-xs flex items-center justify-center gap-2 transition-all border border-slate-700"
+                  >
+                    <ExternalLink className="w-4 h-4" />
+                    <span>Open Company HQ Site ↗</span>
+                  </a>
+                </div>
+              </div>
+
+            </div>
+
+            {/* Master Infrastructure & Security Matrix */}
+            <div className="p-5 rounded-2xl bg-slate-950 border border-slate-800 space-y-3">
+              <div className="flex items-center justify-between">
+                <span className="text-xs font-black text-slate-300 uppercase tracking-wider flex items-center gap-2">
+                  <Server className="w-4 h-4 text-emerald-400" />
+                  <span>Master Infrastructure &amp; 24/7 Awake Safeguard</span>
+                </span>
+                <span className="text-[11px] text-slate-500 font-mono">Render Free-Tier Auto-Awake Ready</span>
+              </div>
+              <p className="text-xs text-slate-400 leading-relaxed">
+                Render free services spin down after 15 minutes of inactivity. Use the ping button above or configure an external cron ping to <code className="text-amber-400 font-mono">https://fest-vault.onrender.com/ping</code> every 5-10 minutes to guarantee zero spin-down latency for your guests and Play Store users.
+              </p>
+            </div>
+          </div>
+        )}
+
+        {/* TAB 1: BANK & SETTLEMENTS (100% REAL ACCOUNTING • ZERO FAKE NUMBERS) */}
         {activeTab === 'payouts' && (
           <div className="p-6 space-y-6">
             
