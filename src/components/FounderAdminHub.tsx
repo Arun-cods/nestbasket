@@ -923,7 +923,7 @@ export const FounderAdminHub: React.FC<FounderAdminHubProps> = ({
                     </div>
                     <div className="flex justify-between text-slate-400">
                       <span>Host Passkey:</span>
-                      <span className="font-mono text-emerald-400 font-bold">ARUN@@GOUD@@9014</span>
+                      <span className="font-mono text-emerald-400 font-bold">•••••••••••••••• (Encrypted)</span>
                     </div>
                   </div>
                 </div>
@@ -985,7 +985,7 @@ export const FounderAdminHub: React.FC<FounderAdminHubProps> = ({
                     </div>
                     <div className="flex justify-between text-slate-400">
                       <span>Founder Access:</span>
-                      <span className="font-mono text-emerald-400 font-bold">Biometric Face + PIN 9544</span>
+                      <span className="font-mono text-emerald-400 font-bold">Biometric Face Authentication</span>
                     </div>
                   </div>
                 </div>
